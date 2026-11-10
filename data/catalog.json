@@ -110,7 +110,8 @@
         "2026-11-10-03",
         "2026-11-10-04",
         "2026-11-10-05",
-        "2026-11-10-06"
+        "2026-11-10-06",
+        "2026-11-10-08"
       ],
       "observationIds": [
         "o-l3-aprender-first",
@@ -120,7 +121,8 @@
         "o-l5-leemos",
         "o-l5-aprender",
         "o-l6-short-answer",
-        "o-l6-question-purpose"
+        "o-l6-question-purpose",
+        "o-l8-logo-request"
       ]
     },
     {
@@ -170,7 +172,8 @@
         "2026-11-10-01",
         "2026-11-10-03",
         "2026-11-10-04",
-        "2026-11-10-05"
+        "2026-11-10-05",
+        "2026-11-10-08"
       ],
       "observationIds": [
         "o-independent",
@@ -178,7 +181,9 @@
         "o-l4-because",
         "o-l4-porque-choice",
         "o-l5-reason",
-        "o-l5-leemos"
+        "o-l5-leemos",
+        "o-l8-ready-logo",
+        "o-l8-ready-feature"
       ]
     },
     {
@@ -340,18 +345,20 @@
       "id": "v-funcion",
       "spanish": "la función",
       "english": "the function / feature",
-      "status": "introduced",
-      "note": "In software, the best English equivalent depends on context.",
+      "status": "used_with_correction",
+      "note": "Software feature meaning previously discussed; later wrote English function in a Spanish sentence, corrected to función.",
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
       "sessionIds": [
         "2026-11-10-01",
-        "2026-11-10-03"
+        "2026-11-10-03",
+        "2026-11-10-08"
       ],
       "observationIds": [
         "o-probar",
         "o-l3-object-gender",
-        "o-l3-probarla"
+        "o-l3-probarla",
+        "o-l8-feature-negative"
       ]
     },
     {
@@ -379,10 +386,16 @@
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
       "sessionIds": [
-        "2026-11-10-01"
+        "2026-11-10-01",
+        "2026-11-10-08"
       ],
       "observationIds": [
-        "o-location"
+        "o-location",
+        "o-l8-ready-logo",
+        "o-l8-ready-feature",
+        "o-l8-ready-question",
+        "o-l8-yes-ready",
+        "o-l8-feature-negative"
       ]
     },
     {
@@ -475,14 +488,19 @@
       "id": "v-listo",
       "spanish": "está listo",
       "english": "it's ready",
-      "status": "introduced",
-      "note": "For reporting completion.",
+      "status": "used_successfully",
+      "note": "Correct masculine readiness chunk used after reminders; está accent supplied, with separate gender errors in other contexts.",
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
       "sessionIds": [
-        "2026-11-10-01"
+        "2026-11-10-01",
+        "2026-11-10-08"
       ],
-      "observationIds": []
+      "observationIds": [
+        "o-l8-ready-logo",
+        "o-l8-ready-question",
+        "o-l8-yes-ready"
+      ]
     },
     {
       "id": "v-puedes-revisar",
@@ -661,7 +679,8 @@
       "sessionIds": [
         "2026-11-10-01",
         "2026-11-10-03",
-        "2026-11-10-07"
+        "2026-11-10-07",
+        "2026-11-10-08"
       ],
       "observationIds": [
         "o-object-pronouns",
@@ -671,7 +690,8 @@
         "o-l3-negation-fronted",
         "o-l7-lo-fragment",
         "o-l7-can-positive",
-        "o-l7-can-negative"
+        "o-l7-can-negative",
+        "o-l8-usarlo"
       ]
     },
     {
@@ -806,12 +826,14 @@
       "note": "Correctly selected for the explicitly stated referent la función.",
       "observationIds": [
         "o-l3-object-gender",
-        "o-l3-probarla"
+        "o-l3-probarla",
+        "o-l8-ready-feature"
       ],
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
       "sessionIds": [
-        "2026-11-10-03"
+        "2026-11-10-03",
+        "2026-11-10-08"
       ]
     },
     {
@@ -1086,13 +1108,15 @@
         "o-l6-necesitamos-review",
         "o-l6-necesitamos-publish",
         "o-l7-need-negative",
-        "o-l7-need-fronted"
+        "o-l7-need-fronted",
+        "o-l8-logo-request"
       ],
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
       "sessionIds": [
         "2026-11-10-06",
-        "2026-11-10-07"
+        "2026-11-10-07",
+        "2026-11-10-08"
       ]
     },
     {
@@ -1104,12 +1128,124 @@
       "observationIds": [
         "o-l7-can-no-object",
         "o-l7-can-positive",
-        "o-l7-can-negative"
+        "o-l7-can-negative",
+        "o-l8-usarlo"
       ],
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
       "sessionIds": [
-        "2026-11-10-07"
+        "2026-11-10-07",
+        "2026-11-10-08"
+      ]
+    },
+    {
+      "id": "v-crear",
+      "spanish": "crear",
+      "english": "to create",
+      "status": "used_successfully",
+      "note": "Supplied correctly in a real Spanish work request.",
+      "observationIds": [
+        "o-l8-logo-request"
+      ],
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-08"
+      ]
+    },
+    {
+      "id": "v-logo",
+      "spanish": "el logo",
+      "english": "the logo",
+      "status": "used_successfully",
+      "note": "Used in a work request and readiness question; noun is masculine.",
+      "observationIds": [
+        "o-l8-logo-request",
+        "o-l8-ready-question"
+      ],
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-08"
+      ]
+    },
+    {
+      "id": "v-oso",
+      "spanish": "el oso",
+      "english": "the bear",
+      "status": "used_successfully",
+      "note": "Supplied correctly in the logo request.",
+      "observationIds": [
+        "o-l8-logo-request"
+      ],
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-08"
+      ]
+    },
+    {
+      "id": "v-usar",
+      "spanish": "usar",
+      "english": "to use",
+      "status": "used_successfully",
+      "note": "Introduced with the actual logo and correctly used with attached pronouns.",
+      "observationIds": [
+        "o-l8-usarlo",
+        "o-l8-ready-feature"
+      ],
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-08"
+      ]
+    },
+    {
+      "id": "v-usarlo",
+      "spanish": "usarlo",
+      "english": "to use it (masculine object)",
+      "status": "used_successfully",
+      "note": "Correctly used for el logo after a model.",
+      "observationIds": [
+        "o-l8-usarlo",
+        "o-l8-ready-logo"
+      ],
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-08"
+      ]
+    },
+    {
+      "id": "v-usarla",
+      "spanish": "usarla",
+      "english": "to use it (feminine object)",
+      "status": "used_successfully",
+      "note": "Correctly selected for the stated referent la función.",
+      "observationIds": [
+        "o-l8-ready-feature"
+      ],
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-08"
+      ]
+    },
+    {
+      "id": "v-lista",
+      "spanish": "lista",
+      "english": "ready (feminine singular)",
+      "status": "used_with_correction",
+      "note": "Initially correct after a model, then replaced with listo incorrectly for la función; corrected again.",
+      "observationIds": [
+        "o-l8-ready-feature",
+        "o-l8-ready-question",
+        "o-l8-feature-negative"
+      ],
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-08"
       ]
     }
   ],
@@ -1159,7 +1295,9 @@
         "o-l4-porque-choice",
         "o-l5-reason",
         "o-l5-leemos",
-        "o-l6-comprendemos"
+        "o-l6-comprendemos",
+        "o-l8-ready-logo",
+        "o-l8-ready-feature"
       ],
       "nextReview": "Use a new work-related reason, then revisit after a gap.",
       "lastPractised": "2026-11-10",
@@ -1168,7 +1306,8 @@
         "2026-11-10-03",
         "2026-11-10-04",
         "2026-11-10-05",
-        "2026-11-10-06"
+        "2026-11-10-06",
+        "2026-11-10-08"
       ]
     },
     {
@@ -1217,14 +1356,16 @@
         "o-l7-can-no-object",
         "o-l7-lo-fragment",
         "o-l7-can-positive",
-        "o-l7-can-negative"
+        "o-l7-can-negative",
+        "o-l8-feature-negative"
       ],
-      "nextReview": "No was correctly used with necesitamos, omitted in one podemos retry, then correctly restored with a changed infinitive. Recheck without a negation reminder.",
+      "nextReview": "Correctly placed no between an explicit noun subject and está in La función no está lista; adjective correction was separate. Recheck polarity in a new sentence.",
       "lastPractised": "2026-11-10",
       "sessionIds": [
         "2026-11-10-01",
         "2026-11-10-03",
-        "2026-11-10-07"
+        "2026-11-10-07",
+        "2026-11-10-08"
       ]
     },
     {
@@ -1289,7 +1430,13 @@
         "o-l6-que-leer",
         "o-l6-question-purpose",
         "o-l6-necesitamos-review",
-        "o-l7-need-fronted"
+        "o-l7-need-fronted",
+        "o-l8-logo-request",
+        "o-l8-ready-logo",
+        "o-l8-ready-feature",
+        "o-l8-ready-question",
+        "o-l8-yes-ready",
+        "o-l8-feature-negative"
       ],
       "nextReview": "Observe naturally; avoid repetitive spelling drills.",
       "lastPractised": "2026-11-10",
@@ -1299,7 +1446,8 @@
         "2026-11-10-04",
         "2026-11-10-05",
         "2026-11-10-06",
-        "2026-11-10-07"
+        "2026-11-10-07",
+        "2026-11-10-08"
       ]
     },
     {
@@ -1355,7 +1503,8 @@
         "o-l7-can-no-object",
         "o-l7-lo-fragment",
         "o-l7-can-positive",
-        "o-l7-can-negative"
+        "o-l7-can-negative",
+        "o-l8-usarlo"
       ],
       "nextReview": "Both attached and before-conjugated-verb positions used successfully in a prompted negative transformation. Test choice of position without instructions after a gap.",
       "lastPractised": "2026-11-10",
@@ -1363,7 +1512,8 @@
         "2026-11-10-01",
         "2026-11-10-03",
         "2026-11-10-06",
-        "2026-11-10-07"
+        "2026-11-10-07",
+        "2026-11-10-08"
       ]
     },
     {
@@ -1391,12 +1541,14 @@
       "explanation": "Lo represents the object in publicarlo or revisarlo. In the examples no es correcto and es importante, English subject it is left unstated in Spanish. This does not establish a general rule to omit every subject.",
       "observationIds": [
         "o-l3-it-misplaced",
-        "o-l3-reason-success"
+        "o-l3-reason-success",
+        "o-l8-ready-logo"
       ],
       "nextReview": "Used the distinction correctly in an immediate new translation. Recheck after a gap with a different familiar verb and reason.",
       "lastPractised": "2026-11-10",
       "sessionIds": [
-        "2026-11-10-03"
+        "2026-11-10-03",
+        "2026-11-10-08"
       ]
     },
     {
@@ -1407,12 +1559,14 @@
       "explanation": "El documento can be replaced by lo as an object; la función by la. Modelled revisarlo/revisarla, then the learner produced Queremos probarla with la función as the stated referent.",
       "observationIds": [
         "o-l3-object-gender",
-        "o-l3-probarla"
+        "o-l3-probarla",
+        "o-l8-ready-feature"
       ],
       "nextReview": "Immediate selection succeeded with an explicit referent and verb hint. Recheck without hints after a gap.",
       "lastPractised": "2026-11-10",
       "sessionIds": [
-        "2026-11-10-03"
+        "2026-11-10-03",
+        "2026-11-10-08"
       ]
     },
     {
@@ -1445,14 +1599,16 @@
         "o-l4-porque-choice",
         "o-l5-purpose",
         "o-l5-leo",
-        "o-l6-question-purpose"
+        "o-l6-question-purpose",
+        "o-l8-logo-request"
       ],
       "nextReview": "Reused para after a model and chose para/porque correctly with cues. Test independent production after a gap.",
       "lastPractised": "2026-11-10",
       "sessionIds": [
         "2026-11-10-04",
         "2026-11-10-05",
-        "2026-11-10-06"
+        "2026-11-10-06",
+        "2026-11-10-08"
       ]
     },
     {
@@ -1518,13 +1674,15 @@
         "o-l6-necesitamos-review",
         "o-l6-necesitamos-publish",
         "o-l7-need-negative",
-        "o-l7-need-fronted"
+        "o-l7-need-fronted",
+        "o-l8-logo-request"
       ],
       "nextReview": "Both negative pronoun positions were correct with a transformation prompt. Revisit after a gap.",
       "lastPractised": "2026-11-10",
       "sessionIds": [
         "2026-11-10-06",
-        "2026-11-10-07"
+        "2026-11-10-07",
+        "2026-11-10-08"
       ]
     },
     {
@@ -1537,12 +1695,66 @@
         "o-l7-can-no-object",
         "o-l7-lo-fragment",
         "o-l7-can-positive",
-        "o-l7-can-negative"
+        "o-l7-can-negative",
+        "o-l8-usarlo"
       ],
       "nextReview": "Test affirmative versus negative meaning and keep the requested object without a recent placement instruction.",
       "lastPractised": "2026-11-10",
       "sessionIds": [
-        "2026-11-10-07"
+        "2026-11-10-07",
+        "2026-11-10-08"
+      ]
+    },
+    {
+      "id": "g-estar-readiness",
+      "pattern": "está listo / está lista",
+      "meaning": "It is ready; report readiness with está.",
+      "status": "used_with_correction",
+      "explanation": "Used está listo as a readiness chunk and supplied está after one esto error. This is readiness usage, not a complete explanation of ser versus estar.",
+      "observationIds": [
+        "o-l8-ready-logo",
+        "o-l8-ready-feature",
+        "o-l8-ready-question",
+        "o-l8-yes-ready",
+        "o-l8-feature-negative"
+      ],
+      "nextReview": "Recall the complete readiness chunk without confusing está and esto.",
+      "lastPractised": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-08"
+      ]
+    },
+    {
+      "id": "g-listo-lista",
+      "pattern": "el logo → listo; la función → lista",
+      "meaning": "Match this adjective's singular ending to the noun's grammatical gender.",
+      "status": "used_with_correction",
+      "explanation": "Listo with masculine el logo; lista with feminine la función. Initially selected both correctly after models but later mismatched them in a question and negative sentence.",
+      "observationIds": [
+        "o-l8-ready-feature",
+        "o-l8-ready-question",
+        "o-l8-yes-ready",
+        "o-l8-feature-negative"
+      ],
+      "nextReview": "Practise the minimal noun/adjective pair, then revisit it after a gap. Agreement is not yet stable.",
+      "lastPractised": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-08"
+      ]
+    },
+    {
+      "id": "g-yes-no-question",
+      "pattern": "statement word order with yes/no question intonation and ¿...?",
+      "meaning": "Ask whether something is ready.",
+      "status": "used_with_correction",
+      "explanation": "¿La función está lista? was modelled; the learner's logo question kept appropriate word order but needed verb, gender and spelling corrections. Spanish can retain statement order in this kind of yes/no question; other orders are also possible.",
+      "observationIds": [
+        "o-l8-ready-question"
+      ],
+      "nextReview": "Ask a new short readiness question after a gap.",
+      "lastPractised": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-08"
       ]
     }
   ],
@@ -1892,6 +2104,68 @@
       "lastAttempt": "2026-11-10",
       "lastAttemptSessionId": "2026-11-10-07",
       "lastAttemptVariant": "Can test it; can't test it with partial response and retry; can't publish it.",
+      "lastOutcome": "used_successfully",
+      "nextReview": "after_a_gap"
+    },
+    {
+      "id": "u-ready-agreement",
+      "title": "Ready: listo or lista?",
+      "grammarIds": [
+        "g-estar-readiness",
+        "g-listo-lista",
+        "g-negation",
+        "g-yes-no-question"
+      ],
+      "vocabularyIds": [
+        "v-logo",
+        "v-funcion",
+        "v-listo",
+        "v-lista",
+        "v-estar"
+      ],
+      "prompt": "Say: The feature isn't ready.",
+      "modelAnswer": "La función no está lista.",
+      "hint": "Match the ending to la función and keep no before está.",
+      "feedbackFocus": "Stable está chunk and noun/adjective agreement; assess negation separately.",
+      "seconds": 45,
+      "optional": true,
+      "selection": "enabled",
+      "attemptCount": 5,
+      "lastAttempt": "2026-11-10",
+      "lastAttemptSessionId": "2026-11-10-08",
+      "lastAttemptVariant": "Ready logo/feature statements, logo question and answer, then negative feature statement.",
+      "lastOutcome": "used_with_correction",
+      "nextReview": "next_suitable_session"
+    },
+    {
+      "id": "u-usar-logo",
+      "title": "Use it in context",
+      "grammarIds": [
+        "g-podemos-infinitive",
+        "g-object-pronouns",
+        "g-object-gender",
+        "g-porque",
+        "g-estar-readiness",
+        "g-listo-lista"
+      ],
+      "vocabularyIds": [
+        "v-usar",
+        "v-usarlo",
+        "v-usarla",
+        "v-logo",
+        "v-funcion"
+      ],
+      "prompt": "Say: We can use it because it's ready; it refers to la función.",
+      "modelAnswer": "Podemos usarla porque está lista.",
+      "hint": "Use la for the feminine object.",
+      "feedbackFocus": "Keep the object pronoun and readiness adjective matched to the referent.",
+      "seconds": 45,
+      "optional": true,
+      "selection": "enabled",
+      "attemptCount": 3,
+      "lastAttempt": "2026-11-10",
+      "lastAttemptSessionId": "2026-11-10-08",
+      "lastAttemptVariant": "We can use it; add ready reason for the logo; change referent to la función.",
       "lastOutcome": "used_successfully",
       "nextReview": "after_a_gap"
     }

@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-10-08",
+  "date": "2026-11-10",
+  "source": "Bear-logo wording and six practice exchanges saved together",
+  "lessonTheme": "Using a logo, readiness, gender agreement and yes/no questions",
+  "duration": {
+    "requestedMinutes": null,
+    "measuredMinutes": null
+  },
+  "summary": "Used Spanish during the bear-logo creation task; corrected prender to aprender in that context. Reused usarlo and usarla correctly. Recalled está listo, introduced lista for feminine nouns, and practised yes/no questions. Readiness gender became inconsistent after initially correct use. In the final negative feature sentence, no was correctly placed but listo needed lista.",
+  "observations": [
+    {
+      "id": "o-l8-logo-request",
+      "kind": "work_related_language",
+      "learnerText": "Necesitamos crear un Logo Para prender. Un oso espanol",
+      "correctedText": "Necesitamos crear un logo para aprender español, con un oso.",
+      "grammarIds": [
+        "g-necesitamos-infinitive",
+        "g-para-purpose",
+        "g-spelling"
+      ],
+      "outcome": "Productive use of necesitamos crear and bear/logo vocabulary during a real creation task. Supplied aprender for the intended learning meaning and standard spelling. This entry records language only; no image asset is published by this update."
+    },
+    {
+      "id": "o-l8-usarlo",
+      "kind": "prompted_attempt",
+      "learnerText": "Podemos usarlo",
+      "correctedText": null,
+      "grammarIds": [
+        "g-podemos-infinitive",
+        "g-object-pronouns"
+      ],
+      "outcome": "Correctly replaced el logo with attached lo after a model using usar."
+    },
+    {
+      "id": "o-l8-ready-logo",
+      "kind": "prompted_attempt",
+      "learnerText": "Podemos usarlo porque esta listo",
+      "correctedText": "Podemos usarlo porque está listo.",
+      "grammarIds": [
+        "g-estar-readiness",
+        "g-porque",
+        "g-object-vs-subject-it",
+        "g-spelling"
+      ],
+      "outcome": "Correct sentence structure and masculine listo; supplied accent on está. Tutor then introduced feminine lista."
+    },
+    {
+      "id": "o-l8-ready-feature",
+      "kind": "prompted_transformation",
+      "learnerText": "Podemos usarla porque esta lista",
+      "correctedText": "Podemos usarla porque está lista.",
+      "grammarIds": [
+        "g-estar-readiness",
+        "g-listo-lista",
+        "g-object-gender",
+        "g-porque",
+        "g-spelling"
+      ],
+      "outcome": "Correct la and lista for explicitly stated la función after a model; supplied accent. Tutor then explained yes/no questions can retain statement word order with questioning intonation and punctuation."
+    },
+    {
+      "id": "o-l8-ready-question",
+      "kind": "prompted_attempt",
+      "learnerText": "El Logo esto lista?",
+      "correctedText": "¿El logo está listo?",
+      "grammarIds": [
+        "g-estar-readiness",
+        "g-listo-lista",
+        "g-yes-no-question",
+        "g-spelling"
+      ],
+      "outcome": "Question word order was appropriate. Corrected esto to está, feminine lista to masculine listo for el logo, and standard punctuation/capitalization. Reinforced the paired chunks el logo está listo / la función está lista."
+    },
+    {
+      "id": "o-l8-yes-ready",
+      "kind": "prompted_answer",
+      "learnerText": "Si esta listo",
+      "correctedText": "Sí, está listo.",
+      "grammarIds": [
+        "g-estar-readiness",
+        "g-listo-lista",
+        "g-spelling"
+      ],
+      "outcome": "Correct words and masculine agreement for the logo. Supplied accents and punctuation."
+    },
+    {
+      "id": "o-l8-feature-negative",
+      "kind": "prompted_attempt",
+      "learnerText": "La function No esta listo",
+      "correctedText": "La función no está lista.",
+      "grammarIds": [
+        "g-estar-readiness",
+        "g-listo-lista",
+        "g-negation",
+        "g-spelling"
+      ],
+      "outcome": "Correct no placement after the noun subject and before está. Supplied Spanish función, lowercase no, accent on está, and feminine lista. Gender agreement still needs focused review despite earlier correct modelled use."
+    }
+  ],
+  "nextSteps": [
+    "Contrast el logo está listo with la función está lista in short sentences",
+    "Keep no before the conjugated verb after a named noun subject",
+    "Distinguish está from esto in the practised readiness chunk",
+    "Revisit readiness gender after a gap before assuming retention"
+  ],
+  "skippedUnitIds": [],
+  "assessmentNote": "Correct structure and pronoun selection are distinguished from supplied spelling, inconsistent adjective agreement and an earlier model."
+}
