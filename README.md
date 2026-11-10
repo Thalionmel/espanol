@@ -25,7 +25,9 @@ Successfully combined an object pronoun with a reason in **Quiero revisarlo porq
 
 Correctly selected feminine object **la** in **Queremos probarla**, with **la función** as the stated referent and a reminder of **probar**.
 
-Next short unit: **un poco de + noun**, followed by later recall of **hablo**, object gender, pronoun placement, negation and reasons.
+Successfully reused **un poco de** in **Queremos aprender un poco de español** after a model; spelling and capitalization corrections remained. **Aprender** was correct in the second attempt.
+
+Next short unit: **por qué** (why) versus **porque** (because), followed by later recall of **un poco de**, **hablo**, object gender, pronoun placement, negation and reasons.
 Review software vocabulary such as **probar**, **revisar**, **los logros**, and **ejecutar las pruebas**.
 Location with **estar** still needs independent recall. **Hablo** was recalled without a hint; the surrounding phrase needed **un poco de español** and spelling corrections.
 

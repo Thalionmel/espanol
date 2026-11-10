@@ -16,7 +16,8 @@
       ],
       "observationIds": [
         "o-independent",
-        "o-l3-reason-success"
+        "o-l3-reason-success",
+        "o-l3-aprender-first"
       ]
     },
     {
@@ -35,7 +36,8 @@
         "o-work-transfer",
         "o-l3-queremos",
         "o-l3-negation",
-        "o-l3-negation-fronted"
+        "o-l3-negation-fronted",
+        "o-l3-aprender-plural"
       ]
     },
     {
@@ -67,21 +69,27 @@
       ],
       "observationIds": [
         "o-quiero",
-        "o-l3-hablo-recall"
+        "o-l3-hablo-recall",
+        "o-l3-aprender-first",
+        "o-l3-aprender-plural"
       ]
     },
     {
       "id": "v-aprender",
       "spanish": "aprender",
       "english": "to learn",
-      "status": "introduced",
-      "note": "Used in teaching examples; independent production not observed.",
+      "status": "used_successfully",
+      "note": "Initially wrote aprendar; then correctly produced aprender in a plural transformation after the model. Independent delayed recall pending.",
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
       "sessionIds": [
-        "2026-11-10-01"
+        "2026-11-10-01",
+        "2026-11-10-03"
       ],
-      "observationIds": []
+      "observationIds": [
+        "o-l3-aprender-first",
+        "o-l3-aprender-plural"
+      ]
     },
     {
       "id": "v-revisar",
@@ -765,10 +773,12 @@
       "id": "v-un-poco-de",
       "spanish": "un poco de español",
       "english": "a little Spanish",
-      "status": "used_with_correction",
-      "note": "Learner omitted de; full phrase supplied.",
+      "status": "used_successfully",
+      "note": "Initially omitted de; later included it correctly in Queremos aprender un poco de español after a model. Minor spelling corrections remained.",
       "observationIds": [
-        "o-l3-hablo-recall"
+        "o-l3-hablo-recall",
+        "o-l3-aprender-first",
+        "o-l3-aprender-plural"
       ],
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
@@ -818,7 +828,9 @@
         "o-quiero",
         "o-independent",
         "o-l3-spacing",
-        "o-l3-reason-success"
+        "o-l3-reason-success",
+        "o-l3-aprender-first",
+        "o-l3-aprender-plural"
       ],
       "nextReview": "Combine with different familiar verbs without a model.",
       "lastPractised": "2026-11-10",
@@ -857,7 +869,8 @@
         "o-l3-queremos",
         "o-l3-negation",
         "o-l3-negation-fronted",
-        "o-l3-probarla"
+        "o-l3-probarla",
+        "o-l3-aprender-plural"
       ],
       "nextReview": "Recalled queremos correctly in Queremos revisarlo after an earlier quieremos correction. Recheck after a gap before inferring retention.",
       "lastPractised": "2026-11-10",
@@ -931,7 +944,9 @@
         "o-authorized",
         "o-l3-rule-question",
         "o-l3-negation",
-        "o-l3-hablo-recall"
+        "o-l3-hablo-recall",
+        "o-l3-aprender-first",
+        "o-l3-aprender-plural"
       ],
       "nextReview": "Observe naturally; avoid repetitive spelling drills.",
       "lastPractised": "2026-11-10",
@@ -1045,12 +1060,14 @@
       "id": "g-un-poco-de",
       "pattern": "un poco de + noun",
       "meaning": "A little of something; a little Spanish.",
-      "status": "used_with_correction",
+      "status": "used_successfully",
       "explanation": "Use un poco de español for a little Spanish. The learner recalled hablo but omitted de in the noun phrase.",
       "observationIds": [
-        "o-l3-hablo-recall"
+        "o-l3-hablo-recall",
+        "o-l3-aprender-first",
+        "o-l3-aprender-plural"
       ],
-      "nextReview": "Use un poco de español in a new sentence before testing later recall.",
+      "nextReview": "Used de correctly in Queremos aprender un poco de español after a model; spelling corrections remained. Test un poco de with a new noun or after a gap.",
       "lastPractised": "2026-11-10",
       "sessionIds": [
         "2026-11-10-03"
@@ -1208,6 +1225,33 @@
       "selection": "enabled",
       "attemptCount": 0,
       "lastAttempt": null,
+      "nextReview": "after_a_gap"
+    },
+    {
+      "id": "u-un-poco-de",
+      "title": "Learn a little Spanish",
+      "grammarIds": [
+        "g-quiero-infinitive",
+        "g-querer-person",
+        "g-un-poco-de"
+      ],
+      "vocabularyIds": [
+        "v-queremos",
+        "v-aprender",
+        "v-un-poco-de"
+      ],
+      "prompt": "Say: We want to learn a little Spanish.",
+      "modelAnswer": "Queremos aprender un poco de español.",
+      "hint": "A little Spanish = un poco de español.",
+      "feedbackFocus": "queremos + aprender, retaining de; lowercase poco and ñ in español",
+      "seconds": 45,
+      "optional": true,
+      "selection": "enabled",
+      "attemptCount": 2,
+      "lastAttempt": "2026-11-10",
+      "lastAttemptSessionId": "2026-11-10-03",
+      "lastAttemptVariant": "I want to learn a little Spanish; then change I to we.",
+      "lastOutcome": "used_with_correction",
       "nextReview": "after_a_gap"
     }
   ]

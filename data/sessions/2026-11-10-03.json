@@ -8,7 +8,7 @@
     "requestedMinutes": null,
     "measuredMinutes": null
   },
-  "summary": "Initially separated lo from revisar; the attached spelling revisarlo was corrected. Asked whether placement is a rule or an option. Explained the alternatives with querer + infinitive. Then correctly produced Queremos revisarlo without being given queremos in the immediate prompt. Subsequently used no with queremos correctly, with one corrected spelling slip, and successfully transformed the negative sentence to No lo queremos publicar. Initially used object lo in a subject position when adding a reason; after explanation correctly produced Quiero revisarlo porque es importante. Correctly used feminine object la in Queremos probarla with a verb reminder. Recalled hablo unaided but needed un poco de and spelling corrections; un poquitito was supplied.",
+  "summary": "Initially separated lo from revisar; the attached spelling revisarlo was corrected. Asked whether placement is a rule or an option. Explained the alternatives with querer + infinitive. Then correctly produced Queremos revisarlo without being given queremos in the immediate prompt. Subsequently used no with queremos correctly, with one corrected spelling slip, and successfully transformed the negative sentence to No lo queremos publicar. Initially used object lo in a subject position when adding a reason; after explanation correctly produced Quiero revisarlo porque es importante. Correctly used feminine object la in Queremos probarla with a verb reminder. Recalled hablo unaided but needed un poco de and spelling corrections; un poquitito was supplied. Practised quiero/queremos aprender un poco de español: after correction, the plural version had correct grammar including de, with capitalization and ñ corrections still needed.",
   "observations": [
     {
       "id": "o-l3-spacing",
@@ -136,13 +136,38 @@
         "g-spelling"
       ],
       "outcome": "Recalled hablo correctly without a form hint. Supplied de in un poco de español, ñ spelling, and the natural phrasing más bien un poquitito. The full phrase needed correction; productive diminutive formation was not taught."
+    },
+    {
+      "id": "o-l3-aprender-first",
+      "kind": "prompted_attempt",
+      "learnerText": "Quero aprendar un Poco espanol",
+      "correctedText": "Quiero aprender un poco de español.",
+      "grammarIds": [
+        "g-quiero-infinitive",
+        "g-un-poco-de",
+        "g-spelling"
+      ],
+      "outcome": "Intended sentence was clear. Supplied quiero, aprender, lowercase poco, de and ñ. Reinforced two chunks: quiero aprender and un poco de español."
+    },
+    {
+      "id": "o-l3-aprender-plural",
+      "kind": "prompted_transformation",
+      "learnerText": "Queremos aprender un Poco de espanol",
+      "correctedText": "Queremos aprender un poco de español.",
+      "grammarIds": [
+        "g-querer-person",
+        "g-quiero-infinitive",
+        "g-un-poco-de",
+        "g-spelling"
+      ],
+      "outcome": "Correctly changed I to we, produced aprender and included de after the preceding model. Remaining corrections were lowercase poco and ñ in español; grammar was correct. This is successful immediate reuse, not delayed retention."
     }
   ],
   "nextSteps": [
-    "Practise un poco de with a familiar noun",
-    "Revisit feminine object la and probar after a gap",
-    "Recheck object versus subject it, negation and placement without hints",
-    "Retain por qué recall in the review queue"
+    "Review the question por qué versus the reason porque in a small unit",
+    "Recheck un poco de and aprender after a gap",
+    "Recheck gender, pronoun placement and negation without hints",
+    "Retain hablo recall in the review queue"
   ],
   "skippedUnitIds": [],
   "assessmentNote": "One successful immediate response after instruction. No mastery claim or delayed retention test."
