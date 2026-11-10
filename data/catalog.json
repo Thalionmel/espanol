@@ -22,7 +22,7 @@
       "spanish": "queremos",
       "english": "we want",
       "status": "used_successfully",
-      "note": "Earlier quieremos was corrected. Later recalled queremos correctly in Queremos revisarlo without an immediate form hint; delayed recall not tested.",
+      "note": "Recalled queremos correctly, then made one quermos spelling slip and subsequently wrote queremos correctly again in a prompted transformation.",
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
       "sessionIds": [
@@ -31,7 +31,9 @@
       ],
       "observationIds": [
         "o-work-transfer",
-        "o-l3-queremos"
+        "o-l3-queremos",
+        "o-l3-negation",
+        "o-l3-negation-fronted"
       ]
     },
     {
@@ -129,15 +131,18 @@
       "id": "v-no",
       "spanish": "no",
       "english": "not / no",
-      "status": "used_with_correction",
-      "note": "Correction from ne es to no es; independent recall pending.",
+      "status": "used_successfully",
+      "note": "Used no correctly in negative sentences with queremos. Immediate practice succeeded; delayed independent recall pending.",
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
       "sessionIds": [
-        "2026-11-10-01"
+        "2026-11-10-01",
+        "2026-11-10-03"
       ],
       "observationIds": [
-        "o-negation"
+        "o-negation",
+        "o-l3-negation",
+        "o-l3-negation-fronted"
       ]
     },
     {
@@ -234,15 +239,18 @@
       "id": "v-publicar",
       "spanish": "publicar",
       "english": "to publish / release",
-      "status": "introduced",
-      "note": "Used for releasing a feature; deployment wording depends on context.",
+      "status": "used_successfully",
+      "note": "Used the bare infinitive correctly in No lo queremos publicar after a placement instruction.",
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
       "sessionIds": [
-        "2026-11-10-01"
+        "2026-11-10-01",
+        "2026-11-10-03"
       ],
       "observationIds": [
-        "o-work-transfer"
+        "o-work-transfer",
+        "o-l3-negation",
+        "o-l3-negation-fronted"
       ]
     },
     {
@@ -466,10 +474,13 @@
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
       "sessionIds": [
-        "2026-11-10-01"
+        "2026-11-10-01",
+        "2026-11-10-03"
       ],
       "observationIds": [
-        "o-permission"
+        "o-permission",
+        "o-l3-negation",
+        "o-l3-negation-fronted"
       ]
     },
     {
@@ -567,7 +578,7 @@
       "spanish": "lo",
       "english": "it (masculine singular object pronoun)",
       "note": "Introduced by breaking publicarlo into publicar + lo; gender distinctions not yet taught.",
-      "status": "introduced",
+      "status": "used_successfully",
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
       "sessionIds": [
@@ -577,7 +588,9 @@
       "observationIds": [
         "o-object-pronouns",
         "o-l3-spacing",
-        "o-l3-queremos"
+        "o-l3-queremos",
+        "o-l3-negation",
+        "o-l3-negation-fronted"
       ]
     },
     {
@@ -745,7 +758,9 @@
       "explanation": "Quiero is first-person singular; queremos is first-person plural. The plural is not quieremos.",
       "observationIds": [
         "o-work-transfer",
-        "o-l3-queremos"
+        "o-l3-queremos",
+        "o-l3-negation",
+        "o-l3-negation-fronted"
       ],
       "nextReview": "Recalled queremos correctly in Queremos revisarlo after an earlier quieremos correction. Recheck after a gap before inferring retention.",
       "lastPractised": "2026-11-10",
@@ -758,15 +773,18 @@
       "id": "g-negation",
       "pattern": "no + conjugated verb",
       "meaning": "Negate a statement.",
-      "status": "used_with_correction",
+      "status": "used_successfully",
       "explanation": "No es correcto means It isn't correct.",
       "observationIds": [
-        "o-negation"
+        "o-negation",
+        "o-l3-negation",
+        "o-l3-negation-fronted"
       ],
-      "nextReview": "Elicit no es importante or no es correcto without supplying no.",
+      "nextReview": "Used no correctly with queremos in both pronoun positions after a negation hint. Recheck independently after a gap.",
       "lastPractised": "2026-11-10",
       "sessionIds": [
-        "2026-11-10-01"
+        "2026-11-10-01",
+        "2026-11-10-03"
       ]
     },
     {
@@ -811,7 +829,8 @@
         "o-independent",
         "o-permission",
         "o-authorized",
-        "o-l3-rule-question"
+        "o-l3-rule-question",
+        "o-l3-negation"
       ],
       "nextReview": "Observe naturally; avoid repetitive spelling drills.",
       "lastPractised": "2026-11-10",
@@ -860,9 +879,11 @@
         "o-object-pronouns",
         "o-l3-spacing",
         "o-l3-options",
-        "o-l3-queremos"
+        "o-l3-queremos",
+        "o-l3-negation",
+        "o-l3-negation-fronted"
       ],
-      "nextReview": "Attached form used correctly immediately after correction. Test recall after a gap and practise the before-conjugated-verb variant separately.",
+      "nextReview": "Both attached and before-conjugated-verb positions used successfully in a prompted negative transformation. Test choice of position without instructions after a gap.",
       "lastPractised": "2026-11-10",
       "sessionIds": [
         "2026-11-10-01",
@@ -930,9 +951,11 @@
       "seconds": 45,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 0,
-      "lastAttempt": null,
-      "nextReview": "next_suitable_session"
+      "attemptCount": 1,
+      "lastAttempt": "2026-11-10",
+      "nextReview": "after_a_gap",
+      "lastAttemptSessionId": "2026-11-10-03",
+      "lastAttemptVariant": "We don't want to publish it; then move lo before queremos."
     },
     {
       "id": "u-probar",

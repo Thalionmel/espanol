@@ -19,9 +19,9 @@ The learner reports speaking a little Spanish. No formal level assessment has be
 Successfully used **Quiero + infinitive + porque + reason**, including:
 **Quiero revisar esto porque es importante.**
 
-Successfully recalled **Queremos revisarlo** (We want to review it) after a correction to pronoun attachment. The alternative **Lo quiero revisar** was explained, with independent practice still pending.
+Successfully recalled **Queremos revisarlo** (We want to review it) after a correction to pronoun attachment. Also used **No queremos publicarlo** and **No lo queremos publicar** correctly for negation and pronoun placement, with one corrected spelling slip and an explicit placement instruction. Delayed independent recall remains untested.
 
-Next short unit: **no + verb**, followed by a later recall check of **queremos**.
+Next short unit: combine negation with a reason using **porque**, followed by later recall checks of **queremos** and pronoun placement.
 Review software vocabulary such as **probar**, **revisar**, **los logros**, and **ejecutar las pruebas**.
 Location with **estar** and first-person **hablo** have been explained but still need independent recall.
 

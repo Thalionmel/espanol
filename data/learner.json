@@ -40,12 +40,12 @@
     "g-object-pronouns"
   ],
   "nextUnitIds": [
-    "u-negation",
+    "u-goal-reason",
     "u-probar",
     "u-hablo",
-    "u-goal-reason",
     "u-permission",
-    "u-queremos"
+    "u-queremos",
+    "u-negation"
   ],
   "reviewPolicy": {
     "mode": "During suitable conversations; no reminders or background scheduling",

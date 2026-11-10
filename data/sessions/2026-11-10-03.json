@@ -8,7 +8,7 @@
     "requestedMinutes": null,
     "measuredMinutes": null
   },
-  "summary": "Initially separated lo from revisar; the attached spelling revisarlo was corrected. Asked whether placement is a rule or an option. Explained the alternatives with querer + infinitive. Then correctly produced Queremos revisarlo without being given queremos in the immediate prompt.",
+  "summary": "Initially separated lo from revisar; the attached spelling revisarlo was corrected. Asked whether placement is a rule or an option. Explained the alternatives with querer + infinitive. Then correctly produced Queremos revisarlo without being given queremos in the immediate prompt. Subsequently used no with queremos correctly, with one corrected spelling slip, and successfully transformed the negative sentence to No lo queremos publicar.",
   "observations": [
     {
       "id": "o-l3-spacing",
@@ -51,12 +51,36 @@
         "g-object-pronouns"
       ],
       "outcome": "Correct response to We want to review it. Recalled queremos without a form hint in the immediate prompt and attached lo correctly after the preceding explanation. Demonstrates successful immediate use; delayed retention and the before-conjugated-verb variant remain untested."
+    },
+    {
+      "id": "o-l3-negation",
+      "kind": "prompted_attempt",
+      "learnerText": "No quermos publicarlo",
+      "correctedText": "No queremos publicarlo.",
+      "grammarIds": [
+        "g-negation",
+        "g-querer-person",
+        "g-object-pronouns",
+        "g-spelling"
+      ],
+      "outcome": "Correct negation position and attached lo. Queremos had a missing e (quermos); supplied the spelling correction without assuming loss of the previously recalled form."
+    },
+    {
+      "id": "o-l3-negation-fronted",
+      "kind": "prompted_transformation",
+      "learnerText": "no lo queremos publicar",
+      "correctedText": null,
+      "grammarIds": [
+        "g-negation",
+        "g-querer-person",
+        "g-object-pronouns"
+      ],
+      "outcome": "Correctly moved lo before queremos while keeping no at the beginning and using the bare infinitive publicar. This followed an explicit placement instruction; independent selection and delayed retention remain untested."
     }
   ],
   "nextSteps": [
-    "Combine no + queremos + infinitive with attached lo",
-    "Recall queremos again after a gap",
-    "Practise the before-conjugated-verb variant separately",
+    "Combine negation with a reason using porque",
+    "Recall both object-pronoun positions after a gap without a placement instruction",
     "Retain hablo and por qué recall in the review queue"
   ],
   "skippedUnitIds": [],
