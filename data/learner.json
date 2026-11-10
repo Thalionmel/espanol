@@ -62,10 +62,11 @@
     "g-leer-present",
     "g-regular-er-we",
     "g-que-question",
-    "g-necesitamos-infinitive"
+    "g-necesitamos-infinitive",
+    "g-podemos-infinitive"
   ],
   "nextUnitIds": [
-    "u-necesitamos",
+    "u-podemos-negative",
     "u-para-vs-porque",
     "u-hablo",
     "u-permission",
@@ -76,7 +77,8 @@
     "u-un-poco-de",
     "u-leer-present",
     "u-que-question",
-    "u-regular-er-we"
+    "u-regular-er-we",
+    "u-necesitamos"
   ],
   "reviewPolicy": {
     "mode": "During suitable conversations; no reminders or background scheduling",
@@ -92,7 +94,7 @@
     ],
     "intervalsAreFlexible": true
   },
-  "latestSessionId": "2026-11-10-06",
+  "latestSessionId": "2026-11-10-07",
   "disclosureAuthorization": {
     "publicLearningRecord": true,
     "ongoingUpdatesAuthorized": true,

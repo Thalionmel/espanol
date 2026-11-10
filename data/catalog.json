@@ -191,12 +191,16 @@
       "lastSeen": "2026-11-10",
       "sessionIds": [
         "2026-11-10-01",
-        "2026-11-10-03"
+        "2026-11-10-03",
+        "2026-11-10-07"
       ],
       "observationIds": [
         "o-negation",
         "o-l3-negation",
-        "o-l3-negation-fronted"
+        "o-l3-negation-fronted",
+        "o-l7-need-negative",
+        "o-l7-can-positive",
+        "o-l7-can-negative"
       ]
     },
     {
@@ -241,11 +245,14 @@
       "lastSeen": "2026-11-10",
       "sessionIds": [
         "2026-11-10-01",
-        "2026-11-10-03"
+        "2026-11-10-03",
+        "2026-11-10-07"
       ],
       "observationIds": [
         "o-probar",
-        "o-l3-probarla"
+        "o-l3-probarla",
+        "o-l7-can-no-object",
+        "o-l7-can-positive"
       ]
     },
     {
@@ -303,12 +310,15 @@
       "lastSeen": "2026-11-10",
       "sessionIds": [
         "2026-11-10-01",
-        "2026-11-10-03"
+        "2026-11-10-03",
+        "2026-11-10-07"
       ],
       "observationIds": [
         "o-work-transfer",
         "o-l3-negation",
-        "o-l3-negation-fronted"
+        "o-l3-negation-fronted",
+        "o-l7-need-fronted",
+        "o-l7-can-negative"
       ]
     },
     {
@@ -539,13 +549,15 @@
       "sessionIds": [
         "2026-11-10-01",
         "2026-11-10-03",
-        "2026-11-10-06"
+        "2026-11-10-06",
+        "2026-11-10-07"
       ],
       "observationIds": [
         "o-permission",
         "o-l3-negation",
         "o-l3-negation-fronted",
-        "o-l6-necesitamos-publish"
+        "o-l6-necesitamos-publish",
+        "o-l7-need-negative"
       ]
     },
     {
@@ -648,14 +660,18 @@
       "lastSeen": "2026-11-10",
       "sessionIds": [
         "2026-11-10-01",
-        "2026-11-10-03"
+        "2026-11-10-03",
+        "2026-11-10-07"
       ],
       "observationIds": [
         "o-object-pronouns",
         "o-l3-spacing",
         "o-l3-queremos",
         "o-l3-negation",
-        "o-l3-negation-fronted"
+        "o-l3-negation-fronted",
+        "o-l7-lo-fragment",
+        "o-l7-can-positive",
+        "o-l7-can-negative"
       ]
     },
     {
@@ -1068,12 +1084,32 @@
       "note": "Correctly used after introduction; one following verb/object needed correction, then Necesitamos publicarlo was complete.",
       "observationIds": [
         "o-l6-necesitamos-review",
-        "o-l6-necesitamos-publish"
+        "o-l6-necesitamos-publish",
+        "o-l7-need-negative",
+        "o-l7-need-fronted"
       ],
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
       "sessionIds": [
-        "2026-11-10-06"
+        "2026-11-10-06",
+        "2026-11-10-07"
+      ]
+    },
+    {
+      "id": "v-podemos",
+      "spanish": "podemos",
+      "english": "we can",
+      "status": "used_successfully",
+      "note": "Correct verb form throughout practice; object or negation initially missing in some responses, followed by correct No lo podemos publicar.",
+      "observationIds": [
+        "o-l7-can-no-object",
+        "o-l7-can-positive",
+        "o-l7-can-negative"
+      ],
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-07"
       ]
     }
   ],
@@ -1175,13 +1211,20 @@
         "o-negation",
         "o-l3-negation",
         "o-l3-negation-fronted",
-        "o-l3-it-misplaced"
+        "o-l3-it-misplaced",
+        "o-l7-need-negative",
+        "o-l7-need-fronted",
+        "o-l7-can-no-object",
+        "o-l7-lo-fragment",
+        "o-l7-can-positive",
+        "o-l7-can-negative"
       ],
-      "nextReview": "Used no correctly with queremos in both pronoun positions after a negation hint. Recheck independently after a gap.",
+      "nextReview": "No was correctly used with necesitamos, omitted in one podemos retry, then correctly restored with a changed infinitive. Recheck without a negation reminder.",
       "lastPractised": "2026-11-10",
       "sessionIds": [
         "2026-11-10-01",
-        "2026-11-10-03"
+        "2026-11-10-03",
+        "2026-11-10-07"
       ]
     },
     {
@@ -1245,7 +1288,8 @@
         "o-l6-comprendemos",
         "o-l6-que-leer",
         "o-l6-question-purpose",
-        "o-l6-necesitamos-review"
+        "o-l6-necesitamos-review",
+        "o-l7-need-fronted"
       ],
       "nextReview": "Observe naturally; avoid repetitive spelling drills.",
       "lastPractised": "2026-11-10",
@@ -1254,7 +1298,8 @@
         "2026-11-10-03",
         "2026-11-10-04",
         "2026-11-10-05",
-        "2026-11-10-06"
+        "2026-11-10-06",
+        "2026-11-10-07"
       ]
     },
     {
@@ -1292,7 +1337,7 @@
       "pattern": "object pronoun + conjugated verb; infinitive + attached pronoun",
       "meaning": "Introductory object-pronoun placement.",
       "status": "used_successfully",
-      "explanation": "Te autorizo places te before a conjugated verb. Publicarlo attaches lo after the infinitive. Reviso el documento illustrates a full noun object after the verb. This is not a complete placement rule; other constructions remain to be taught. With querer + infinitive, both Quiero revisarlo and Lo quiero revisar are possible. If lo follows the infinitive it must attach directly; this is not a blanket rule for all verb combinations.",
+      "explanation": "Te autorizo places te before a conjugated verb. Publicarlo attaches lo after the infinitive. Reviso el documento illustrates a full noun object after the verb. This is not a complete placement rule; other constructions remain to be taught. With querer + infinitive, both Quiero revisarlo and Lo quiero revisar are possible. If lo follows the infinitive it must attach directly; this is not a blanket rule for all verb combinations. In practised expressions with queremos, necesitamos and podemos, both attached and before-conjugated positions are supported; this does not generalize to every verb combination.",
       "observationIds": [
         "o-object-pronouns",
         "o-l3-spacing",
@@ -1304,14 +1349,21 @@
         "o-l3-reason-success",
         "o-l3-probarla",
         "o-l6-necesitamos-review",
-        "o-l6-necesitamos-publish"
+        "o-l6-necesitamos-publish",
+        "o-l7-need-negative",
+        "o-l7-need-fronted",
+        "o-l7-can-no-object",
+        "o-l7-lo-fragment",
+        "o-l7-can-positive",
+        "o-l7-can-negative"
       ],
       "nextReview": "Both attached and before-conjugated-verb positions used successfully in a prompted negative transformation. Test choice of position without instructions after a gap.",
       "lastPractised": "2026-11-10",
       "sessionIds": [
         "2026-11-10-01",
         "2026-11-10-03",
-        "2026-11-10-06"
+        "2026-11-10-06",
+        "2026-11-10-07"
       ]
     },
     {
@@ -1464,12 +1516,33 @@
       "explanation": "Necesitamos leer = We need to read. After a review-it correction, the learner produced Necesitamos publicarlo correctly.",
       "observationIds": [
         "o-l6-necesitamos-review",
-        "o-l6-necesitamos-publish"
+        "o-l6-necesitamos-publish",
+        "o-l7-need-negative",
+        "o-l7-need-fronted"
       ],
-      "nextReview": "Combine with familiar negation, then revisit after a gap.",
+      "nextReview": "Both negative pronoun positions were correct with a transformation prompt. Revisit after a gap.",
       "lastPractised": "2026-11-10",
       "sessionIds": [
-        "2026-11-10-06"
+        "2026-11-10-06",
+        "2026-11-10-07"
+      ]
+    },
+    {
+      "id": "g-podemos-infinitive",
+      "pattern": "podemos + infinitive; no podemos + infinitive",
+      "meaning": "We can / we cannot do something.",
+      "status": "used_successfully",
+      "explanation": "Podemos leer = We can read. Practised both object-pronoun positions; an affirmative response needed no to match can't before a correct final transfer.",
+      "observationIds": [
+        "o-l7-can-no-object",
+        "o-l7-lo-fragment",
+        "o-l7-can-positive",
+        "o-l7-can-negative"
+      ],
+      "nextReview": "Test affirmative versus negative meaning and keep the requested object without a recent placement instruction.",
+      "lastPractised": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-07"
       ]
     }
   ],
@@ -1783,12 +1856,44 @@
       "seconds": 45,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 2,
+      "attemptCount": 4,
       "lastAttempt": "2026-11-10",
-      "lastAttemptSessionId": "2026-11-10-06",
-      "lastAttemptVariant": "We need to review it, then We need to publish it.",
+      "lastAttemptSessionId": "2026-11-10-07",
+      "lastAttemptVariant": "We don't need to publish it, then move lo before necesitamos.",
       "lastOutcome": "used_successfully",
-      "nextReview": "next_suitable_session"
+      "nextReview": "after_a_gap"
+    },
+    {
+      "id": "u-podemos-negative",
+      "title": "Can or can't, keeping it",
+      "grammarIds": [
+        "g-podemos-infinitive",
+        "g-negation",
+        "g-object-pronouns"
+      ],
+      "vocabularyIds": [
+        "v-podemos",
+        "v-no",
+        "v-lo",
+        "v-publicar",
+        "v-probar"
+      ],
+      "prompt": "Say: We can't publish it.",
+      "modelAnswer": "No lo podemos publicar.",
+      "acceptedAnswers": [
+        "No podemos publicarlo."
+      ],
+      "hint": "Keep no for can't and retain the requested object.",
+      "feedbackFocus": "Match polarity and meaning; accept both supported pronoun positions.",
+      "seconds": 45,
+      "optional": true,
+      "selection": "enabled",
+      "attemptCount": 4,
+      "lastAttempt": "2026-11-10",
+      "lastAttemptSessionId": "2026-11-10-07",
+      "lastAttemptVariant": "Can test it; can't test it with partial response and retry; can't publish it.",
+      "lastOutcome": "used_successfully",
+      "nextReview": "after_a_gap"
     }
   ]
 }

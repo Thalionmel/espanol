@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-10-07",
+  "date": "2026-11-10",
+  "source": "Six learning exchanges recorded as one batch",
+  "lessonTheme": "Need, can, negation and object-pronoun positions",
+  "duration": {
+    "requestedMinutes": null,
+    "measuredMinutes": null
+  },
+  "summary": "Correctly negated necesitamos and moved lo before it. Introduced podemos. Initially omitted the object or supplied a fragment, then gave a grammatical affirmative sentence for a negative target. Finally correctly produced No lo podemos publicar.",
+  "observations": [
+    {
+      "id": "o-l7-need-negative",
+      "kind": "prompted_attempt",
+      "learnerText": "No necesitamos publicarlo",
+      "correctedText": null,
+      "grammarIds": [
+        "g-necesitamos-infinitive",
+        "g-negation",
+        "g-object-pronouns"
+      ],
+      "outcome": "Correct negative sentence with attached object pronoun."
+    },
+    {
+      "id": "o-l7-need-fronted",
+      "kind": "prompted_transformation",
+      "learnerText": "No Lo necesitamos publicar",
+      "correctedText": "No lo necesitamos publicar.",
+      "grammarIds": [
+        "g-necesitamos-infinitive",
+        "g-negation",
+        "g-object-pronouns",
+        "g-spelling"
+      ],
+      "outcome": "Correct pronoun placement after explicit instructions; supplied lowercase lo. Tutor then introduced Podemos leer."
+    },
+    {
+      "id": "o-l7-can-no-object",
+      "kind": "prompted_attempt",
+      "learnerText": "Podemos probar",
+      "correctedText": "Podemos probarlo.",
+      "grammarIds": [
+        "g-podemos-infinitive",
+        "g-object-pronouns"
+      ],
+      "outcome": "Grammatical We can test/try, but omitted the requested object it. Supplied probarlo; did not treat the shorter expression as ungrammatical."
+    },
+    {
+      "id": "o-l7-lo-fragment",
+      "kind": "partial_response",
+      "learnerText": "Lo",
+      "correctedText": null,
+      "grammarIds": [
+        "g-podemos-infinitive",
+        "g-negation",
+        "g-object-pronouns"
+      ],
+      "outcome": "Identified the object pronoun rather than providing the requested complete negative sentence. Tutor scaffolded No podemos ___ with probar + lo."
+    },
+    {
+      "id": "o-l7-can-positive",
+      "kind": "prompted_retry",
+      "learnerText": "Lo podemos probar",
+      "correctedText": "No lo podemos probar.",
+      "grammarIds": [
+        "g-podemos-infinitive",
+        "g-negation",
+        "g-object-pronouns"
+      ],
+      "outcome": "Correct alternative pronoun position, but the sentence was affirmative when the target was We can't test it. Explained putting no first."
+    },
+    {
+      "id": "o-l7-can-negative",
+      "kind": "prompted_transfer",
+      "learnerText": "No lo podemos publicar",
+      "correctedText": null,
+      "grammarIds": [
+        "g-podemos-infinitive",
+        "g-negation",
+        "g-object-pronouns"
+      ],
+      "outcome": "Correct negative sentence with a changed familiar infinitive after explicit feedback on negation. Successful immediate transfer; long-gap retention not assessed."
+    }
+  ],
+  "nextSteps": [
+    "Preserve the requested affirmative/negative meaning and object in new sentences",
+    "Recheck quiero/queremos and the recent modal forms after a gap",
+    "Continue short practice without per-sentence repository updates"
+  ],
+  "skippedUnitIds": [],
+  "assessmentNote": "Correct final transfer is distinguished from initial object omission, a partial response, and a valid affirmative sentence that did not match its target."
+}

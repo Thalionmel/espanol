@@ -12,6 +12,7 @@ A shared Spanish learning record for conversation-based teaching and future trai
 - [Why, reasons and purpose practice](data/sessions/2026-11-10-04.json)
 - [Reading and regular -er verb practice](data/sessions/2026-11-10-05.json)
 - [Recall, what questions and needing to act](data/sessions/2026-11-10-06.json)
+- [Need, can and negation practice](data/sessions/2026-11-10-07.json)
 - [Data format and update rules](docs/data-format.md)
 - [Instructions for future assistants](AGENTS.md)
 
@@ -40,7 +41,9 @@ Practised **qué** versus **por qué** with correct word order, while standard s
 
 Correctly used **Necesitamos publicarlo** after a correction to **revisar + lo**.
 
-Next: combine negation with **necesitamos**, then revisit question meanings, verb endings and pronoun placement after a gap.
+Correctly used **No necesitamos publicarlo** and transformed it to **No lo necesitamos publicar**. Introduced **podemos**; after object and negative-meaning feedback, correctly produced **No lo podemos publicar**.
+
+Next: consolidate want/need/can in short sentences, preserving the requested meaning and object, then revisit questions, verb endings and pronoun placement after a gap.
 Review software vocabulary such as **probar**, **revisar**, **los logros**, and **ejecutar las pruebas**.
 Location with **estar** still needs independent recall. **Hablo** was recalled without a hint; the surrounding phrase needed **un poco de español** and spelling corrections.
 
