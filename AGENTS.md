@@ -14,6 +14,7 @@ A five-minute lesson is appropriate when requested.
 ## Recording learning
 
 The user requested ongoing storage of vocabulary, grammar, lessons and practice for future training programs.
+On 2026-11-10 Peter explicitly authorized ongoing public updates of Spanish learning records in Thalionmel/espanol without asking each time. This covers vocabulary, grammar, corrections and practice evidence within the language-learning scope, and can be revoked by the user.
 Maintain those records as part of the learning conversation, within the user's explicit disclosure authorization.
 When ongoing public learning-record updates are explicitly authorized, routine updates within that scope need no separate approval.
 Initial-publication approval alone does not authorize adding future personal learning evidence publicly.

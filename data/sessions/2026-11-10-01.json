@@ -94,13 +94,35 @@
       "description": "Asked whether probar means testing software rather than trying something out.",
       "grammarIds": [],
       "outcome": "Explained that probar covers both; introduced hacer pruebas and ejecutar las pruebas. No independent production of these expressions yet."
+    },
+    {
+      "id": "o-permission",
+      "kind": "prompted_attempt",
+      "learnerText": "Si, puedes publicarlo",
+      "correctedText": "Sí, puedes publicarlo.",
+      "grammarIds": [
+        "g-poder-permission",
+        "g-spelling"
+      ],
+      "outcome": "Used the supplied permission phrase correctly after asking how to say you may. The accent in sí was corrected; delayed independent recall has not been assessed."
+    },
+    {
+      "id": "o-authorized",
+      "kind": "mixed_language_attempt",
+      "learnerText": "You autorisado",
+      "correctedText": "Estás autorizado.",
+      "grammarIds": [
+        "g-spelling"
+      ],
+      "outcome": "Tutor supplied the Spanish phrase for You're authorized, with z in autorizado. Independent recall of this phrase has not been assessed."
     }
   ],
   "nextSteps": [
     "Recall queremos without a model",
     "Practise no before a conjugated verb",
     "Use probar in a software-testing sentence",
-    "Revisit quiero ... porque ... after a gap"
+    "Revisit quiero ... porque ... after a gap",
+    "Recall puedes for you can / you may; review sí (yes) versus si (if) only when introducing that contrast."
   ],
   "skippedUnitIds": [],
   "assessmentNote": "No formal proficiency assessment or measured retention test has been completed."

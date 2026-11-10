@@ -43,7 +43,8 @@
     "u-negation",
     "u-probar",
     "u-hablo",
-    "u-goal-reason"
+    "u-goal-reason",
+    "u-permission"
   ],
   "reviewPolicy": {
     "mode": "During suitable conversations; no reminders or background scheduling",
@@ -59,5 +60,26 @@
     ],
     "intervalsAreFlexible": true
   },
-  "latestSessionId": "2026-11-10-01"
+  "latestSessionId": "2026-11-10-01",
+  "disclosureAuthorization": {
+    "publicLearningRecord": true,
+    "ongoingUpdatesAuthorized": true,
+    "authorizedOn": "2026-11-10",
+    "repository": "Thalionmel/espanol",
+    "scope": [
+      "Spanish vocabulary",
+      "grammar",
+      "corrections",
+      "practice results",
+      "lesson evidence",
+      "learning preferences"
+    ],
+    "exclusions": [
+      "unrelated work content",
+      "personal circumstances",
+      "full chat transcripts"
+    ],
+    "source": "Explicit learner reply to the question asking permission for ongoing public updates without asking each time.",
+    "revocable": true
+  }
 }

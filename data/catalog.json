@@ -433,6 +433,66 @@
         "2026-11-10-01"
       ],
       "observationIds": []
+    },
+    {
+      "id": "v-puedes",
+      "spanish": "puedes",
+      "english": "you can / you may",
+      "status": "used_successfully",
+      "note": "Used in a modelled permission sentence; independent recall is pending.",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-01"
+      ],
+      "observationIds": [
+        "o-permission"
+      ]
+    },
+    {
+      "id": "v-publicarlo",
+      "spanish": "publicarlo",
+      "english": "to publish it",
+      "status": "used_successfully",
+      "note": "Used in the supplied phrase puedes publicarlo; attached lo has not been taught separately.",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-01"
+      ],
+      "observationIds": [
+        "o-permission"
+      ]
+    },
+    {
+      "id": "v-si",
+      "spanish": "sí",
+      "english": "yes",
+      "status": "used_with_correction",
+      "note": "Typed Si; tutor supplied the accent for affirmative sí. No separate lesson on si (if) yet.",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-01"
+      ],
+      "observationIds": [
+        "o-permission"
+      ]
+    },
+    {
+      "id": "v-estas-autorizado",
+      "spanish": "Estás autorizado.",
+      "english": "You're authorized.",
+      "status": "used_with_correction",
+      "note": "Spanish phrase supplied after a mixed-language attempt; autorizado uses z. Independent production pending.",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-01"
+      ],
+      "observationIds": [
+        "o-authorized"
+      ]
     }
   ],
   "grammar": [
@@ -530,16 +590,33 @@
     },
     {
       "id": "g-spelling",
-      "pattern": "español / porque",
+      "pattern": "español / porque / sí / autorizado",
       "meaning": "Spelling encountered during practice.",
       "status": "used_with_correction",
-      "explanation": "Use ñ in español; porque includes r. Check keyboard constraints before treating accent input as a language difficulty.",
+      "explanation": "Use ñ in español; porque includes r. Check keyboard constraints before treating accent input as a language difficulty. Affirmative sí has an accent. Autorizado is spelled with z.",
       "observationIds": [
         "o-quiero",
         "o-porque",
-        "o-independent"
+        "o-independent",
+        "o-permission",
+        "o-authorized"
       ],
       "nextReview": "Observe naturally; avoid repetitive spelling drills.",
+      "lastPractised": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-01"
+      ]
+    },
+    {
+      "id": "g-poder-permission",
+      "pattern": "puedes + infinitive",
+      "meaning": "You can / you may do something.",
+      "status": "used_successfully",
+      "explanation": "Sí, puedes publicarlo means Yes, you may publish it. Full poder conjugation has not been taught.",
+      "observationIds": [
+        "o-permission"
+      ],
+      "nextReview": "Recall puedes in a practical permission sentence without a model.",
       "lastPractised": "2026-11-10",
       "sessionIds": [
         "2026-11-10-01"
@@ -663,6 +740,29 @@
       "attemptCount": 0,
       "lastAttempt": null,
       "nextReview": "next_suitable_session"
+    },
+    {
+      "id": "u-permission",
+      "title": "Give permission",
+      "grammarIds": [
+        "g-poder-permission",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-si",
+        "v-puedes",
+        "v-publicarlo"
+      ],
+      "prompt": "Say: Yes, you may publish it.",
+      "modelAnswer": "Sí, puedes publicarlo.",
+      "hint": "You may = puedes.",
+      "feedbackFocus": "puedes + infinitive; affirmative sí has an accent",
+      "seconds": 45,
+      "optional": true,
+      "selection": "enabled",
+      "attemptCount": 0,
+      "lastAttempt": null,
+      "nextReview": "after_a_gap"
     }
   ]
 }
