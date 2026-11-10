@@ -17,6 +17,7 @@ A shared Spanish learning record for conversation-based teaching and future trai
 - [Readiness: not yet and ready now](data/sessions/2026-11-10-09.json)
 - [Questions, readiness recall and time meaning](data/sessions/2026-11-10-10.json)
 - [Purpose, reasons and not-yet recall](data/sessions/2026-11-10-11.json)
+- [Readiness retry, but contrasts and review requests](data/sessions/2026-11-10-12.json)
 - [Data format and update rules](docs/data-format.md)
 - [Instructions for future assistants](AGENTS.md)
 
@@ -55,7 +56,9 @@ Next round: after **Yo no sé** and a question model, produced three structurall
 
 Later recalled **Leemos para aprender español**, **Leemos porque queremos aprender español**, and **Queremos probarla** without Spanish form hints. Not-yet recall initially produced **Lo no está listo ya**: subject **lo** and time meaning were corrected. Then **todavía** placement was valid, but **la función ... listo** needed feminine **lista**. Correctly transferred **Todavía no podemos usarla**, then switched to **Podemos usarla ya**.
 
-Next: recheck feminine readiness and unstated subject with **todavía no**, then revisit location and earlier practical phrases. Successful same-day recall and immediate transfers do not establish delayed retention.
+In the next round, correctly recalled **La función todavía no está lista** and used feminine **lista** in four readiness contexts. Introduced **pero** (“but”), with two correct contrasts. Recalled **Necesitamos revisarla porque es importante**. The practical request **Podes revisar esta** was corrected to **¿Puedes revisar esto?**, then immediately repeated correctly. **Esta función** was modelled; independent use before a noun is untested. The repeated review request did not answer the intervening test-this-function prompt, so its correct meaning was acknowledged separately.
+
+Next: recall **puedes** and standalone **esto**, distinguish **revisar/probar**, then revisit location and earlier phrases. Successful same-day recall and immediate repetitions do not establish delayed retention.
 Review software vocabulary such as **probar**, **revisar**, **los logros**, and **ejecutar las pruebas**.
 Location with **estar** still needs independent recall. **Hablo** was recalled without a hint; the surrounding phrase needed **un poco de español** and spelling corrections.
 

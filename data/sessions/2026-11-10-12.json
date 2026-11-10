@@ -1,0 +1,176 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-10-12",
+  "date": "2026-11-10",
+  "source": "Seven learning exchanges saved as one batch",
+  "lessonTheme": "Readiness recall, pero contrasts and practical requests",
+  "duration": {
+    "requestedMinutes": null,
+    "measuredMinutes": null
+  },
+  "summary": "Correctly retried feminine not-yet readiness and used lista in four readiness contexts. Introduced pero and correctly used it twice. Recalled Necesitamos revisarla porque es importante without a form hint. Corrected Podes revisar esta to ¿Puedes revisar esto?; immediately repeated the corrected review request, while the tutor had asked a different test-this-function target. No successful independent esta función production recorded.",
+  "observations": [
+    {
+      "id": "o-l12-feature-retry",
+      "kind": "prompted_production",
+      "learnerText": "La funcion todavia No esta lista",
+      "correctedText": "La función todavía no está lista.",
+      "grammarIds": [
+        "g-readiness-time",
+        "g-estar-readiness",
+        "g-listo-lista",
+        "g-negation",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-funcion",
+        "v-todavia-no",
+        "v-estar",
+        "v-lista"
+      ],
+      "outcome": "Correct retry after several intervening exchanges: time meaning, verb, feminine agreement and negation all correct. Accents/capitalization supplied. Same-day recall only."
+    },
+    {
+      "id": "o-l12-test-reason",
+      "kind": "prompted_production",
+      "learnerText": "Queremos probarla porque esta lista",
+      "correctedText": "Queremos probarla porque está lista.",
+      "grammarIds": [
+        "g-querer-person",
+        "g-quiero-infinitive",
+        "g-object-pronouns",
+        "g-object-gender",
+        "g-porque",
+        "g-estar-readiness",
+        "g-listo-lista",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-queremos",
+        "v-probar",
+        "v-probarla",
+        "v-porque",
+        "v-lista"
+      ],
+      "outcome": "Correct reason sentence with feminine la/lista for stated función referent; está accent supplied. Tutor then introduced pero = but."
+    },
+    {
+      "id": "o-l12-but-not-yet",
+      "kind": "prompted_production",
+      "learnerText": "Queremos usarla pero todavia No esta lista",
+      "correctedText": "Queremos usarla, pero todavía no está lista.",
+      "grammarIds": [
+        "g-pero",
+        "g-querer-person",
+        "g-quiero-infinitive",
+        "g-object-pronouns",
+        "g-object-gender",
+        "g-readiness-time",
+        "g-estar-readiness",
+        "g-listo-lista",
+        "g-negation",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-queremos",
+        "v-usarla",
+        "v-pero",
+        "v-todavia-no",
+        "v-lista"
+      ],
+      "outcome": "Correct first use of pero after its translation, retaining feminine object and readiness agreement. Standard spelling/punctuation supplied."
+    },
+    {
+      "id": "o-l12-ready-but-no-publish",
+      "kind": "prompted_production",
+      "learnerText": "Esta lista, Pero No queremos publicarla",
+      "correctedText": "Está lista, pero no queremos publicarla.",
+      "grammarIds": [
+        "g-pero",
+        "g-estar-readiness",
+        "g-listo-lista",
+        "g-negation",
+        "g-querer-person",
+        "g-quiero-infinitive",
+        "g-object-pronouns",
+        "g-object-gender",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-lista",
+        "v-pero",
+        "v-no",
+        "v-queremos",
+        "v-publicar",
+        "v-la"
+      ],
+      "outcome": "Correct contrast, negation and feminine publicarla/lista with unstated subject. Capitalization and está accent supplied."
+    },
+    {
+      "id": "o-l12-need-review-reason",
+      "kind": "prompted_production",
+      "learnerText": "Necesitamos revisarla porque es importante",
+      "correctedText": null,
+      "grammarIds": [
+        "g-necesitamos-infinitive",
+        "g-object-pronouns",
+        "g-object-gender",
+        "g-porque",
+        "g-object-vs-subject-it"
+      ],
+      "vocabularyIds": [
+        "v-necesitamos",
+        "v-revisar",
+        "v-la",
+        "v-porque",
+        "v-importante"
+      ],
+      "outcome": "Correct necesitamos + revisarla, feminine object and es importante without a form hint. Prior reviser error did not recur."
+    },
+    {
+      "id": "o-l12-request-first",
+      "kind": "prompted_production",
+      "learnerText": "Podes revisar esta",
+      "correctedText": "¿Puedes revisar esto?",
+      "grammarIds": [
+        "g-poder-permission",
+        "g-yes-no-question",
+        "g-esto-esta",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-puedes",
+        "v-revisar",
+        "v-esto",
+        "v-esta"
+      ],
+      "outcome": "For the practised tú request, podes corrected to puedes. Standalone this corrected from esta to esto; tutor modelled esta función for this function. No general regional conjugation lesson given."
+    },
+    {
+      "id": "o-l12-request-retry",
+      "kind": "repeat_after_correction",
+      "learnerText": "Puedes revisar esto?",
+      "correctedText": "¿Puedes revisar esto?",
+      "grammarIds": [
+        "g-poder-permission",
+        "g-yes-no-question",
+        "g-esto-esta"
+      ],
+      "vocabularyIds": [
+        "v-puedes",
+        "v-revisar",
+        "v-esto",
+        "v-puedes-revisar"
+      ],
+      "outcome": "Correct immediate repeat of the review-this request after the model, with opening ¿ supplied. The intervening tutor prompt asked Can you test this function?; the learner's grammatical sentence instead means Can you review this? Tutor acknowledged that meaning and reminded probar for test. Do not count as a successful test-this-function attempt."
+    }
+  ],
+  "nextSteps": [
+    "Recheck puedes and esto after intervening material",
+    "Contrast revisar and probar while accepting grammatical responses with different meanings",
+    "Revisit esta función separately from standalone esto",
+    "Review location with estar, then earlier goals and permission phrases"
+  ],
+  "skippedUnitIds": [],
+  "assessmentNote": "Successful same-day recall and immediate repetitions are recorded separately. Four correct feminine readiness uses follow a prior agreement error but do not establish long-term retention. No blanket rule against regional poder forms is inferred."
+}

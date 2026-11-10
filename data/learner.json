@@ -67,9 +67,13 @@
     "g-estar-readiness",
     "g-listo-lista",
     "g-yes-no-question",
-    "g-readiness-time"
+    "g-readiness-time",
+    "g-pero",
+    "g-esto-esta"
   ],
   "nextUnitIds": [
+    "u-review-request",
+    "u-pero",
     "u-ready-agreement",
     "u-ready-time",
     "u-para-vs-porque",
@@ -102,7 +106,7 @@
     ],
     "intervalsAreFlexible": true
   },
-  "latestSessionId": "2026-11-10-11",
+  "latestSessionId": "2026-11-10-12",
   "disclosureAuthorization": {
     "publicLearningRecord": true,
     "ongoingUpdatesAuthorized": true,
