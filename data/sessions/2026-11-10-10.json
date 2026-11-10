@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-10-10",
+  "date": "2026-11-10",
+  "source": "Seven learning exchanges saved as one batch",
+  "lessonTheme": "Yes/no questions, readiness recall and time meaning",
+  "duration": {
+    "requestedMinutes": null,
+    "measuredMinutes": null
+  },
+  "summary": "After saying Yo no sé and receiving a model, produced three structurally correct prompted yes/no questions. Correctly selected lo/la and listo/lista in this round. Esto for está recurred once; está was then recalled in the next two readiness statements. Omitted yet from a requested not-yet sentence, while ya was correctly used in a statement and question. Standard punctuation and accents supplied.",
+  "observations": [
+    {
+      "id": "o-l10-no-se",
+      "kind": "spontaneous_response",
+      "learnerText": "Yo No se",
+      "correctedText": "Yo no sé.",
+      "grammarIds": [
+        "g-spelling"
+      ],
+      "outcome": "Natural I don't know response, rather than an attempted question. Accent/capitalization supplied; No sé modelled as a natural shorter alternative. Tutor re-explained unchanged word order for the practised yes/no questions."
+    },
+    {
+      "id": "o-l10-logo-question",
+      "kind": "prompted_transformation",
+      "learnerText": "El Logo esta listo?",
+      "correctedText": "¿El logo está listo?",
+      "grammarIds": [
+        "g-yes-no-question",
+        "g-estar-readiness",
+        "g-listo-lista",
+        "g-spelling"
+      ],
+      "outcome": "Correct question word order, readiness verb and masculine adjective immediately after explanation. Opening question mark, accent and capitalization supplied."
+    },
+    {
+      "id": "o-l10-use-question",
+      "kind": "prompted_transfer",
+      "learnerText": "Podemos usarlo?",
+      "correctedText": "¿Podemos usarlo?",
+      "grammarIds": [
+        "g-yes-no-question",
+        "g-podemos-infinitive",
+        "g-object-pronouns",
+        "g-object-gender"
+      ],
+      "outcome": "Correct can-use-it question and masculine lo for the stated logo referent; opening question mark supplied."
+    },
+    {
+      "id": "o-l10-ready-reason",
+      "kind": "prompted_combination",
+      "learnerText": "Si podemos usarlo porque esto listo",
+      "correctedText": "Sí, podemos usarlo porque está listo.",
+      "grammarIds": [
+        "g-podemos-infinitive",
+        "g-object-pronouns",
+        "g-object-gender",
+        "g-porque",
+        "g-estar-readiness",
+        "g-listo-lista",
+        "g-spelling"
+      ],
+      "outcome": "Correct affirmative ability, object lo, porque and masculine listo. Recurrent esto for está corrected explicitly: está means it is here; esto means this. Sí accent supplied."
+    },
+    {
+      "id": "o-l10-not-yet-omitted",
+      "kind": "prompted_combination",
+      "learnerText": "No podemos usarlo porque No esta listo",
+      "correctedText": "No podemos usarlo porque no está listo.",
+      "grammarIds": [
+        "g-podemos-infinitive",
+        "g-object-gender",
+        "g-porque",
+        "g-negation",
+        "g-estar-readiness",
+        "g-listo-lista",
+        "g-readiness-time",
+        "g-spelling"
+      ],
+      "outcome": "Grammatical sentence with both negatives and correct object/agreement; está form recalled after immediate correction. Omitted requested yet, so tutor supplied No podemos usarlo porque todavía no está listo. Do not count this as successful recall of todavía."
+    },
+    {
+      "id": "o-l10-feature-now",
+      "kind": "prompted_recall",
+      "learnerText": "La funcion esta lista ya",
+      "correctedText": "La función está lista ya.",
+      "grammarIds": [
+        "g-readiness-time",
+        "g-estar-readiness",
+        "g-listo-lista",
+        "g-spelling"
+      ],
+      "outcome": "Correct feminine agreement and natural sentence-final ya for ready now. Accents supplied. Alternative La función ya está lista modelled."
+    },
+    {
+      "id": "o-l10-use-now-question",
+      "kind": "prompted_transfer",
+      "learnerText": "Podemos usarla ya?",
+      "correctedText": "¿Podemos usarla ya?",
+      "grammarIds": [
+        "g-yes-no-question",
+        "g-readiness-time",
+        "g-podemos-infinitive",
+        "g-object-pronouns",
+        "g-object-gender"
+      ],
+      "outcome": "Correct question structure, feminine la for stated función referent and sentence-final ya. Opening question mark supplied. Three structurally correct prompted questions in this round; delayed retention remains untested."
+    }
+  ],
+  "nextSteps": [
+    "Recheck todavía no with an unhinted familiar sentence",
+    "Review está versus esto after intervening material",
+    "Revisit earlier goals, purpose/reason and location vocabulary before adding more grammar",
+    "Keep question structure success separate from supplied opening question marks and accents"
+  ],
+  "skippedUnitIds": [],
+  "assessmentNote": "All successful question uses were prompted in the same practice sequence after an explanation. No long-term retention or broad ser/estar mastery inferred."
+}

@@ -150,14 +150,16 @@
       "spanish": "esto",
       "english": "this",
       "status": "used_successfully",
-      "note": "Successfully used with revisar.",
+      "note": "Correctly used this with revisar earlier. Later confused esto with readiness está in a reason clause; distinction explicitly explained.",
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
       "sessionIds": [
-        "2026-11-10-01"
+        "2026-11-10-01",
+        "2026-11-10-10"
       ],
       "observationIds": [
-        "o-independent"
+        "o-independent",
+        "o-l10-ready-reason"
       ]
     },
     {
@@ -353,7 +355,8 @@
         "2026-11-10-01",
         "2026-11-10-03",
         "2026-11-10-08",
-        "2026-11-10-09"
+        "2026-11-10-09",
+        "2026-11-10-10"
       ],
       "observationIds": [
         "o-probar",
@@ -361,7 +364,8 @@
         "o-l3-probarla",
         "o-l8-feature-negative",
         "o-l9-feature-positive",
-        "o-l9-ready-now"
+        "o-l9-ready-now",
+        "o-l10-feature-now"
       ]
     },
     {
@@ -384,14 +388,15 @@
       "id": "v-estar",
       "spanish": "estar",
       "english": "to be (including location)",
-      "status": "introduced",
-      "note": "Location correction explained; independent use pending.",
+      "status": "used_with_correction",
+      "note": "Readiness está has been correctly used and also confused with esto more than once. Latest correction followed by two correct readiness statements. Original location use still needs independent recall.",
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
       "sessionIds": [
         "2026-11-10-01",
         "2026-11-10-08",
-        "2026-11-10-09"
+        "2026-11-10-09",
+        "2026-11-10-10"
       ],
       "observationIds": [
         "o-location",
@@ -404,7 +409,11 @@
         "o-l9-feature-positive",
         "o-l9-cannot-because",
         "o-l9-not-yet",
-        "o-l9-ready-now"
+        "o-l9-ready-now",
+        "o-l10-logo-question",
+        "o-l10-ready-reason",
+        "o-l10-not-yet-omitted",
+        "o-l10-feature-now"
       ]
     },
     {
@@ -504,14 +513,18 @@
       "sessionIds": [
         "2026-11-10-01",
         "2026-11-10-08",
-        "2026-11-10-09"
+        "2026-11-10-09",
+        "2026-11-10-10"
       ],
       "observationIds": [
         "o-l8-ready-logo",
         "o-l8-ready-question",
         "o-l8-yes-ready",
         "o-l9-logo-negative",
-        "o-l9-not-yet"
+        "o-l9-not-yet",
+        "o-l10-logo-question",
+        "o-l10-ready-reason",
+        "o-l10-not-yet-omitted"
       ]
     },
     {
@@ -599,10 +612,12 @@
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
       "sessionIds": [
-        "2026-11-10-01"
+        "2026-11-10-01",
+        "2026-11-10-10"
       ],
       "observationIds": [
-        "o-permission"
+        "o-permission",
+        "o-l10-ready-reason"
       ]
     },
     {
@@ -1226,12 +1241,16 @@
       "note": "Correctly used for el logo after a model.",
       "observationIds": [
         "o-l8-usarlo",
-        "o-l8-ready-logo"
+        "o-l8-ready-logo",
+        "o-l10-use-question",
+        "o-l10-ready-reason",
+        "o-l10-not-yet-omitted"
       ],
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
       "sessionIds": [
-        "2026-11-10-08"
+        "2026-11-10-08",
+        "2026-11-10-10"
       ]
     },
     {
@@ -1243,13 +1262,15 @@
       "observationIds": [
         "o-l8-ready-feature",
         "o-l9-cannot-because",
-        "o-l9-use-now"
+        "o-l9-use-now",
+        "o-l10-use-now-question"
       ],
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
       "sessionIds": [
         "2026-11-10-08",
-        "2026-11-10-09"
+        "2026-11-10-09",
+        "2026-11-10-10"
       ]
     },
     {
@@ -1264,28 +1285,32 @@
         "o-l8-feature-negative",
         "o-l9-feature-positive",
         "o-l9-cannot-because",
-        "o-l9-ready-now"
+        "o-l9-ready-now",
+        "o-l10-feature-now"
       ],
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
       "sessionIds": [
         "2026-11-10-08",
-        "2026-11-10-09"
+        "2026-11-10-09",
+        "2026-11-10-10"
       ]
     },
     {
       "id": "v-todavia-no",
       "spanish": "todavía no",
       "english": "not yet",
-      "note": "Introduced and correctly transferred to a masculine-logo sentence; accents supplied.",
+      "note": "Correct immediate transfer in session09. In session10, omitted requested yet from an otherwise grammatical negative sentence; todavía no supplied again. Recheck unhinted recall.",
       "observationIds": [
-        "o-l9-not-yet"
+        "o-l9-not-yet",
+        "o-l10-not-yet-omitted"
       ],
       "status": "used_successfully",
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
       "sessionIds": [
-        "2026-11-10-09"
+        "2026-11-10-09",
+        "2026-11-10-10"
       ]
     },
     {
@@ -1295,13 +1320,31 @@
       "note": "Correctly used before está and at the end of Podemos usarla ya; other senses not taught.",
       "observationIds": [
         "o-l9-ready-now",
-        "o-l9-use-now"
+        "o-l9-use-now",
+        "o-l10-feature-now",
+        "o-l10-use-now-question"
       ],
       "status": "used_successfully",
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
       "sessionIds": [
-        "2026-11-10-09"
+        "2026-11-10-09",
+        "2026-11-10-10"
+      ]
+    },
+    {
+      "id": "v-no-se",
+      "spanish": "no sé",
+      "english": "I don't know",
+      "status": "used_with_correction",
+      "note": "Spontaneous Yo No se was natural in meaning; sé accent and capitalization supplied. No sé modelled as the usual shorter alternative. No general saber conjugation lesson given.",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-10"
+      ],
+      "observationIds": [
+        "o-l10-no-se"
       ]
     }
   ],
@@ -1354,7 +1397,9 @@
         "o-l6-comprendemos",
         "o-l8-ready-logo",
         "o-l8-ready-feature",
-        "o-l9-cannot-because"
+        "o-l9-cannot-because",
+        "o-l10-ready-reason",
+        "o-l10-not-yet-omitted"
       ],
       "nextReview": "Use a new work-related reason, then revisit after a gap.",
       "lastPractised": "2026-11-10",
@@ -1365,7 +1410,8 @@
         "2026-11-10-05",
         "2026-11-10-06",
         "2026-11-10-08",
-        "2026-11-10-09"
+        "2026-11-10-09",
+        "2026-11-10-10"
       ]
     },
     {
@@ -1418,7 +1464,8 @@
         "o-l8-feature-negative",
         "o-l9-logo-negative",
         "o-l9-cannot-because",
-        "o-l9-not-yet"
+        "o-l9-not-yet",
+        "o-l10-not-yet-omitted"
       ],
       "nextReview": "Correctly placed no between an explicit noun subject and está in La función no está lista; adjective correction was separate. Recheck polarity in a new sentence.",
       "lastPractised": "2026-11-10",
@@ -1427,7 +1474,8 @@
         "2026-11-10-03",
         "2026-11-10-07",
         "2026-11-10-08",
-        "2026-11-10-09"
+        "2026-11-10-09",
+        "2026-11-10-10"
       ]
     },
     {
@@ -1503,7 +1551,12 @@
         "o-l9-feature-positive",
         "o-l9-cannot-because",
         "o-l9-not-yet",
-        "o-l9-ready-now"
+        "o-l9-ready-now",
+        "o-l10-no-se",
+        "o-l10-logo-question",
+        "o-l10-ready-reason",
+        "o-l10-not-yet-omitted",
+        "o-l10-feature-now"
       ],
       "nextReview": "Observe naturally; avoid repetitive spelling drills.",
       "lastPractised": "2026-11-10",
@@ -1515,7 +1568,8 @@
         "2026-11-10-06",
         "2026-11-10-07",
         "2026-11-10-08",
-        "2026-11-10-09"
+        "2026-11-10-09",
+        "2026-11-10-10"
       ]
     },
     {
@@ -1573,7 +1627,10 @@
         "o-l7-can-positive",
         "o-l7-can-negative",
         "o-l8-usarlo",
-        "o-l9-use-now"
+        "o-l9-use-now",
+        "o-l10-use-question",
+        "o-l10-ready-reason",
+        "o-l10-use-now-question"
       ],
       "nextReview": "Both attached and before-conjugated-verb positions used successfully in a prompted negative transformation. Test choice of position without instructions after a gap.",
       "lastPractised": "2026-11-10",
@@ -1583,7 +1640,8 @@
         "2026-11-10-06",
         "2026-11-10-07",
         "2026-11-10-08",
-        "2026-11-10-09"
+        "2026-11-10-09",
+        "2026-11-10-10"
       ]
     },
     {
@@ -1634,14 +1692,19 @@
         "o-l3-probarla",
         "o-l8-ready-feature",
         "o-l9-cannot-because",
-        "o-l9-use-now"
+        "o-l9-use-now",
+        "o-l10-use-question",
+        "o-l10-ready-reason",
+        "o-l10-not-yet-omitted",
+        "o-l10-use-now-question"
       ],
       "nextReview": "Immediate selection succeeded with an explicit referent and verb hint. Recheck without hints after a gap.",
       "lastPractised": "2026-11-10",
       "sessionIds": [
         "2026-11-10-03",
         "2026-11-10-08",
-        "2026-11-10-09"
+        "2026-11-10-09",
+        "2026-11-10-10"
       ]
     },
     {
@@ -1773,14 +1836,19 @@
         "o-l7-can-negative",
         "o-l8-usarlo",
         "o-l9-cannot-because",
-        "o-l9-use-now"
+        "o-l9-use-now",
+        "o-l10-use-question",
+        "o-l10-ready-reason",
+        "o-l10-not-yet-omitted",
+        "o-l10-use-now-question"
       ],
       "nextReview": "Test affirmative versus negative meaning and keep the requested object without a recent placement instruction.",
       "lastPractised": "2026-11-10",
       "sessionIds": [
         "2026-11-10-07",
         "2026-11-10-08",
-        "2026-11-10-09"
+        "2026-11-10-09",
+        "2026-11-10-10"
       ]
     },
     {
@@ -1799,13 +1867,18 @@
         "o-l9-feature-positive",
         "o-l9-cannot-because",
         "o-l9-not-yet",
-        "o-l9-ready-now"
+        "o-l9-ready-now",
+        "o-l10-logo-question",
+        "o-l10-ready-reason",
+        "o-l10-not-yet-omitted",
+        "o-l10-feature-now"
       ],
-      "nextReview": "After earlier corrections, readiness verb and gender were correct in five consecutive immediate contexts. Check with new nouns after a gap; accents and función spelling remain separate corrections.",
+      "nextReview": "Esto for está recurred in a reason clause, then está was used in two subsequent readiness statements. Recheck the verb after a gap; gender was correct throughout this round.",
       "lastPractised": "2026-11-10",
       "sessionIds": [
         "2026-11-10-08",
-        "2026-11-10-09"
+        "2026-11-10-09",
+        "2026-11-10-10"
       ]
     },
     {
@@ -1823,28 +1896,37 @@
         "o-l9-feature-positive",
         "o-l9-cannot-because",
         "o-l9-not-yet",
-        "o-l9-ready-now"
+        "o-l9-ready-now",
+        "o-l10-logo-question",
+        "o-l10-ready-reason",
+        "o-l10-not-yet-omitted",
+        "o-l10-feature-now"
       ],
       "nextReview": "After earlier corrections, readiness verb and gender were correct in five consecutive immediate contexts. Check with new nouns after a gap; accents and función spelling remain separate corrections.",
       "lastPractised": "2026-11-10",
       "sessionIds": [
         "2026-11-10-08",
-        "2026-11-10-09"
+        "2026-11-10-09",
+        "2026-11-10-10"
       ]
     },
     {
       "id": "g-yes-no-question",
       "pattern": "statement word order with yes/no question intonation and ¿...?",
-      "meaning": "Ask whether something is ready.",
-      "status": "used_with_correction",
-      "explanation": "¿La función está lista? was modelled; the learner's logo question kept appropriate word order but needed verb, gender and spelling corrections. Spanish can retain statement order in this kind of yes/no question; other orders are also possible.",
+      "meaning": "Ask yes/no questions about readiness or ability.",
+      "status": "used_successfully",
+      "explanation": "The practised questions can retain statement word order, with questioning intonation and ¿...?: ¿El logo está listo? and ¿Podemos usarla ya? Other word orders are possible. After an explanation, learner produced three structurally correct questions; opening ¿ was supplied.",
       "observationIds": [
-        "o-l8-ready-question"
+        "o-l8-ready-question",
+        "o-l10-logo-question",
+        "o-l10-use-question",
+        "o-l10-use-now-question"
       ],
-      "nextReview": "Ask a new short readiness question after a gap.",
+      "nextReview": "Recheck a familiar yes/no question after a gap; all current successes were prompted within one practice sequence.",
       "lastPractised": "2026-11-10",
       "sessionIds": [
-        "2026-11-10-08"
+        "2026-11-10-08",
+        "2026-11-10-10"
       ]
     },
     {
@@ -1856,12 +1938,16 @@
       "observationIds": [
         "o-l9-not-yet",
         "o-l9-ready-now",
-        "o-l9-use-now"
+        "o-l9-use-now",
+        "o-l10-not-yet-omitted",
+        "o-l10-feature-now",
+        "o-l10-use-now-question"
       ],
-      "nextReview": "Correct immediate transfers after models. Revisit the time contrast and question form after a gap.",
+      "nextReview": "Ya was correct in a statement and question, but requested yet was omitted from the negative reason sentence. Prompt unhinted todavía no recall after intervening material.",
       "lastPractised": "2026-11-10",
       "sessionIds": [
-        "2026-11-10-09"
+        "2026-11-10-09",
+        "2026-11-10-10"
       ]
     }
   ],
@@ -2207,11 +2293,11 @@
       "seconds": 45,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 5,
+      "attemptCount": 6,
       "lastAttempt": "2026-11-10",
-      "lastAttemptSessionId": "2026-11-10-09",
-      "lastAttemptVariant": "We can't use it because it isn't ready; feminine feature referent.",
-      "lastOutcome": "used_successfully",
+      "lastAttemptSessionId": "2026-11-10-10",
+      "lastAttemptVariant": "We can't use it because it isn't ready yet; correct negatives but yet omitted.",
+      "lastOutcome": "used_with_correction",
       "nextReview": "after_a_gap"
     },
     {
@@ -2237,11 +2323,11 @@
       "seconds": 45,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 10,
+      "attemptCount": 14,
       "lastAttempt": "2026-11-10",
-      "lastAttemptSessionId": "2026-11-10-09",
-      "lastAttemptVariant": "Masculine/feminine positive and negative readiness, then todavía no and ya.",
-      "lastOutcome": "used_successfully",
+      "lastAttemptSessionId": "2026-11-10-10",
+      "lastAttemptVariant": "Logo readiness question, masculine reason, negative reason and feminine ready-now statement.",
+      "lastOutcome": "used_with_correction",
       "nextReview": "after_a_gap"
     },
     {
@@ -2269,11 +2355,11 @@
       "seconds": 45,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 5,
+      "attemptCount": 9,
       "lastAttempt": "2026-11-10",
-      "lastAttemptSessionId": "2026-11-10-09",
-      "lastAttemptVariant": "We can't use it because it isn't ready; we can use it now.",
-      "lastOutcome": "used_successfully",
+      "lastAttemptSessionId": "2026-11-10-10",
+      "lastAttemptVariant": "Two can-use-it questions, affirmative reason and negative reason; masculine and feminine referents.",
+      "lastOutcome": "used_with_correction",
       "nextReview": "after_a_gap"
     },
     {
@@ -2302,10 +2388,41 @@
       "seconds": 45,
       "optional": true,
       "selection": "enabled",
+      "attemptCount": 6,
+      "lastAttempt": "2026-11-10",
+      "lastAttemptSessionId": "2026-11-10-10",
+      "lastAttemptVariant": "Not-yet reason (yet omitted), feature ready now and can-use-it-now question.",
+      "lastOutcome": "used_with_correction",
+      "nextReview": "after_a_gap"
+    },
+    {
+      "id": "u-yes-no-question",
+      "title": "Turn a familiar statement into a question",
+      "grammarIds": [
+        "g-yes-no-question",
+        "g-podemos-infinitive",
+        "g-object-gender"
+      ],
+      "vocabularyIds": [
+        "v-podemos",
+        "v-usarlo",
+        "v-usarla",
+        "v-ya"
+      ],
+      "prompt": "Ask: Can we use it now? It refers to la función.",
+      "modelAnswer": "¿Podemos usarla ya?",
+      "acceptedAnswers": [
+        "¿Ya podemos usarla?"
+      ],
+      "hint": "Keep the familiar word order and use question punctuation.",
+      "feedbackFocus": "Question structure and correct object gender; treat supplied accents/punctuation separately.",
+      "seconds": 45,
+      "optional": true,
+      "selection": "enabled",
       "attemptCount": 3,
       "lastAttempt": "2026-11-10",
-      "lastAttemptSessionId": "2026-11-10-09",
-      "lastAttemptVariant": "Logo isn't ready yet; feature is ready now; we can use it now.",
+      "lastAttemptSessionId": "2026-11-10-10",
+      "lastAttemptVariant": "Is the logo ready? Can we use it? Can we use it now (feature)?",
       "lastOutcome": "used_successfully",
       "nextReview": "after_a_gap"
     }

@@ -71,8 +71,9 @@
   ],
   "nextUnitIds": [
     "u-ready-time",
-    "u-podemos-negative",
     "u-para-vs-porque",
+    "u-yes-no-question",
+    "u-podemos-negative",
     "u-hablo",
     "u-permission",
     "u-queremos",
@@ -101,7 +102,7 @@
     ],
     "intervalsAreFlexible": true
   },
-  "latestSessionId": "2026-11-10-09",
+  "latestSessionId": "2026-11-10-10",
   "disclosureAuthorization": {
     "publicLearningRecord": true,
     "ongoingUpdatesAuthorized": true,

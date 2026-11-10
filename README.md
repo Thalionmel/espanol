@@ -15,6 +15,7 @@ A shared Spanish learning record for conversation-based teaching and future trai
 - [Need, can and negation practice](data/sessions/2026-11-10-07.json)
 - [Logo use and readiness agreement](data/sessions/2026-11-10-08.json)
 - [Readiness: not yet and ready now](data/sessions/2026-11-10-09.json)
+- [Questions, readiness recall and time meaning](data/sessions/2026-11-10-10.json)
 - [Data format and update rules](docs/data-format.md)
 - [Instructions for future assistants](AGENTS.md)
 
@@ -49,7 +50,9 @@ Used the bear-logo task as real language context, then correctly used **usarlo**
 
 In the following round, readiness gender was correct in five consecutive immediate contexts, including **No podemos usarla porque no está lista**. Introduced **todavía no** (not yet) and **ya** (already/now), with correct transfers and the natural **Podemos usarla ya**.
 
-Next: ask a can-use-it-now question, then recheck time meaning, readiness gender and familiar forms after a gap. Accents and **función** spelling remain separate review items.
+Next round: after **Yo no sé** and a question model, produced three structurally correct prompted yes/no questions, including **¿Podemos usarla ya?**. Correctly chose **lo/la** and **listo/lista**. **Esto** for **está** recurred once, followed by two correct readiness statements. Omitted requested “yet” from an otherwise grammatical negative reason; **todavía no** was supplied again. **Ya** was correctly recalled in a statement and question. Opening question marks and accents remain supplied.
+
+Next: recheck **todavía no** and **está** after intervening material, then revisit familiar purpose/reason and location patterns. Delayed retention remains untested.
 Review software vocabulary such as **probar**, **revisar**, **los logros**, and **ejecutar las pruebas**.
 Location with **estar** still needs independent recall. **Hablo** was recalled without a hint; the surrounding phrase needed **un poco de español** and spelling corrections.
 
