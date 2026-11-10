@@ -30,14 +30,18 @@
       "lastSeen": "2026-11-10",
       "sessionIds": [
         "2026-11-10-01",
-        "2026-11-10-03"
+        "2026-11-10-03",
+        "2026-11-10-04"
       ],
       "observationIds": [
         "o-work-transfer",
         "o-l3-queremos",
         "o-l3-negation",
         "o-l3-negation-fronted",
-        "o-l3-aprender-plural"
+        "o-l3-aprender-plural",
+        "o-l4-why",
+        "o-l4-because",
+        "o-l4-purpose-plural"
       ]
     },
     {
@@ -45,14 +49,16 @@
       "spanish": "hablar",
       "english": "to speak",
       "status": "used_successfully",
-      "note": "Basic verb form after quiero.",
+      "note": "Earlier correct uses remain recorded; later habler spelling was corrected to hablar. Delayed spelling recall still needs review.",
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
       "sessionIds": [
-        "2026-11-10-01"
+        "2026-11-10-01",
+        "2026-11-10-04"
       ],
       "observationIds": [
-        "o-quiero"
+        "o-quiero",
+        "o-l4-because"
       ]
     },
     {
@@ -65,13 +71,17 @@
       "lastSeen": "2026-11-10",
       "sessionIds": [
         "2026-11-10-01",
-        "2026-11-10-03"
+        "2026-11-10-03",
+        "2026-11-10-04"
       ],
       "observationIds": [
         "o-quiero",
         "o-l3-hablo-recall",
         "o-l3-aprender-first",
-        "o-l3-aprender-plural"
+        "o-l3-aprender-plural",
+        "o-l4-why",
+        "o-l4-because",
+        "o-l4-purpose-plural"
       ]
     },
     {
@@ -84,11 +94,14 @@
       "lastSeen": "2026-11-10",
       "sessionIds": [
         "2026-11-10-01",
-        "2026-11-10-03"
+        "2026-11-10-03",
+        "2026-11-10-04"
       ],
       "observationIds": [
         "o-l3-aprender-first",
-        "o-l3-aprender-plural"
+        "o-l3-aprender-plural",
+        "o-l4-why",
+        "o-l4-purpose-plural"
       ]
     },
     {
@@ -134,11 +147,14 @@
       "lastSeen": "2026-11-10",
       "sessionIds": [
         "2026-11-10-01",
-        "2026-11-10-03"
+        "2026-11-10-03",
+        "2026-11-10-04"
       ],
       "observationIds": [
         "o-independent",
-        "o-l3-reason-success"
+        "o-l3-reason-success",
+        "o-l4-because",
+        "o-l4-porque-choice"
       ]
     },
     {
@@ -670,10 +686,12 @@
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
       "sessionIds": [
-        "2026-11-10-02"
+        "2026-11-10-02",
+        "2026-11-10-04"
       ],
       "observationIds": [
-        "o-why-three"
+        "o-why-three",
+        "o-l4-why"
       ]
     },
     {
@@ -815,6 +833,69 @@
       "sessionIds": [
         "2026-11-10-03"
       ]
+    },
+    {
+      "id": "v-para",
+      "spanish": "para",
+      "english": "to / in order to (purpose)",
+      "status": "used_successfully",
+      "note": "Used para + infinitive after a model and selected it correctly in a cued choice.",
+      "observationIds": [
+        "o-l4-purpose-plural",
+        "o-l4-para-choice"
+      ],
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-04"
+      ]
+    },
+    {
+      "id": "v-comprender",
+      "spanish": "comprender",
+      "english": "to understand",
+      "status": "used_successfully",
+      "note": "Learner supplied this verb, then reused it in a modelled purpose sentence.",
+      "observationIds": [
+        "o-l4-purpose-idea",
+        "o-l4-purpose-plural"
+      ],
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-04"
+      ]
+    },
+    {
+      "id": "v-conversaciones",
+      "spanish": "las conversaciones",
+      "english": "conversations",
+      "status": "used_with_correction",
+      "note": "Wrote conversationes twice; supplied conversaciones. Independent correct spelling not observed.",
+      "observationIds": [
+        "o-l4-purpose-idea",
+        "o-l4-purpose-plural"
+      ],
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-04"
+      ]
+    },
+    {
+      "id": "v-espana",
+      "spanish": "España",
+      "english": "Spain",
+      "status": "used_with_correction",
+      "note": "Supplied ñ and capitalization in the country name; recorded as vocabulary, not a personal circumstance.",
+      "observationIds": [
+        "o-l4-purpose-idea"
+      ],
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-04"
+      ]
     }
   ],
   "grammar": [
@@ -830,13 +911,16 @@
         "o-l3-spacing",
         "o-l3-reason-success",
         "o-l3-aprender-first",
-        "o-l3-aprender-plural"
+        "o-l3-aprender-plural",
+        "o-l4-because",
+        "o-l4-purpose-plural"
       ],
       "nextReview": "Combine with different familiar verbs without a model.",
       "lastPractised": "2026-11-10",
       "sessionIds": [
         "2026-11-10-01",
-        "2026-11-10-03"
+        "2026-11-10-03",
+        "2026-11-10-04"
       ]
     },
     {
@@ -849,13 +933,16 @@
         "o-porque",
         "o-independent",
         "o-l3-it-misplaced",
-        "o-l3-reason-success"
+        "o-l3-reason-success",
+        "o-l4-because",
+        "o-l4-porque-choice"
       ],
       "nextReview": "Use a new work-related reason, then revisit after a gap.",
       "lastPractised": "2026-11-10",
       "sessionIds": [
         "2026-11-10-01",
-        "2026-11-10-03"
+        "2026-11-10-03",
+        "2026-11-10-04"
       ]
     },
     {
@@ -870,13 +957,16 @@
         "o-l3-negation",
         "o-l3-negation-fronted",
         "o-l3-probarla",
-        "o-l3-aprender-plural"
+        "o-l3-aprender-plural",
+        "o-l4-why",
+        "o-l4-purpose-plural"
       ],
       "nextReview": "Recalled queremos correctly in Queremos revisarlo after an earlier quieremos correction. Recheck after a gap before inferring retention.",
       "lastPractised": "2026-11-10",
       "sessionIds": [
         "2026-11-10-01",
-        "2026-11-10-03"
+        "2026-11-10-03",
+        "2026-11-10-04"
       ]
     },
     {
@@ -946,13 +1036,18 @@
         "o-l3-negation",
         "o-l3-hablo-recall",
         "o-l3-aprender-first",
-        "o-l3-aprender-plural"
+        "o-l3-aprender-plural",
+        "o-l4-why",
+        "o-l4-because",
+        "o-l4-purpose-idea",
+        "o-l4-purpose-plural"
       ],
       "nextReview": "Observe naturally; avoid repetitive spelling drills.",
       "lastPractised": "2026-11-10",
       "sessionIds": [
         "2026-11-10-01",
-        "2026-11-10-03"
+        "2026-11-10-03",
+        "2026-11-10-04"
       ]
     },
     {
@@ -1011,17 +1106,19 @@
     },
     {
       "id": "g-por-que-question",
-      "pattern": "¿Por qué no...?",
+      "pattern": "¿Por qué...? / ¿Por qué no...?",
       "meaning": "Ask Why not...?",
       "status": "used_with_correction",
-      "explanation": "The supplied model was ¿Por qué no los tres?; the question spelling por qué uses two words and an accent. A separate contrast lesson with porque has not yet occurred.",
+      "explanation": "Por qué asks why and uses two words with accented qué. Practised ¿Por qué queremos aprender español? and contrasted it with porque for because.",
       "observationIds": [
-        "o-why-three"
+        "o-why-three",
+        "o-l4-why"
       ],
-      "nextReview": "Recall a short why-not question after a gap; avoid repetitive spelling drills.",
+      "nextReview": "Question structure correct with a start-phrase reminder; accent and punctuation supplied. Recheck after a gap.",
       "lastPractised": "2026-11-10",
       "sessionIds": [
-        "2026-11-10-02"
+        "2026-11-10-02",
+        "2026-11-10-04"
       ]
     },
     {
@@ -1071,6 +1168,24 @@
       "lastPractised": "2026-11-10",
       "sessionIds": [
         "2026-11-10-03"
+      ]
+    },
+    {
+      "id": "g-para-purpose",
+      "pattern": "para + infinitive",
+      "meaning": "Express purpose: to / in order to.",
+      "status": "used_successfully",
+      "explanation": "Para comprender = to understand. Compared purpose with a reason clause introduced by porque.",
+      "observationIds": [
+        "o-l4-purpose-idea",
+        "o-l4-purpose-plural",
+        "o-l4-para-choice",
+        "o-l4-porque-choice"
+      ],
+      "nextReview": "Reused para after a model and chose para/porque correctly with cues. Test independent production after a gap.",
+      "lastPractised": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-04"
       ]
     }
   ],
@@ -1252,6 +1367,34 @@
       "lastAttemptSessionId": "2026-11-10-03",
       "lastAttemptVariant": "I want to learn a little Spanish; then change I to we.",
       "lastOutcome": "used_with_correction",
+      "nextReview": "after_a_gap"
+    },
+    {
+      "id": "u-para-vs-porque",
+      "title": "Purpose or reason?",
+      "grammarIds": [
+        "g-para-purpose",
+        "g-porque"
+      ],
+      "vocabularyIds": [
+        "v-para",
+        "v-porque",
+        "v-funcion",
+        "v-publicar",
+        "v-importante"
+      ],
+      "prompt": "Choose porque or para: Queremos probar la función ___ publicarla.",
+      "modelAnswer": "Queremos probar la función para publicarla.",
+      "hint": "Does the gap introduce a purpose or a reason clause?",
+      "feedbackFocus": "para + infinitive for purpose; porque + clause for a reason",
+      "seconds": 45,
+      "optional": true,
+      "selection": "enabled",
+      "attemptCount": 2,
+      "lastAttempt": "2026-11-10",
+      "lastAttemptSessionId": "2026-11-10-04",
+      "lastAttemptVariant": "Purpose gap with translation, then Queremos probarla ___ es importante.",
+      "lastOutcome": "used_successfully",
       "nextReview": "after_a_gap"
     }
   ]

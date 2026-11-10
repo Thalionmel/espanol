@@ -9,6 +9,7 @@ A shared Spanish learning record for conversation-based teaching and future trai
 - [First recorded learning session](data/sessions/2026-11-10-01.json)
 - [Short acknowledgement and question practice](data/sessions/2026-11-10-02.json)
 - [Object-pronoun placement and queremos practice](data/sessions/2026-11-10-03.json)
+- [Why, reasons and purpose practice](data/sessions/2026-11-10-04.json)
 - [Data format and update rules](docs/data-format.md)
 - [Instructions for future assistants](AGENTS.md)
 
@@ -27,7 +28,9 @@ Correctly selected feminine object **la** in **Queremos probarla**, with **la fu
 
 Successfully reused **un poco de** in **Queremos aprender un poco de español** after a model; spelling and capitalization corrections remained. **Aprender** was correct in the second attempt.
 
-Next short unit: **por qué** (why) versus **porque** (because), followed by later recall of **un poco de**, **hablo**, object gender, pronoun placement, negation and reasons.
+Practised **¿Por qué queremos aprender español?** with spelling corrections, reused **para comprender** after a model, and correctly chose **para** for purpose and **porque** for a reason in two cued prompts.
+
+Next: use purpose and reason in a self-created work sentence, then revisit **un poco de**, **hablo**, object gender, pronoun placement and why-question spelling after a gap.
 Review software vocabulary such as **probar**, **revisar**, **los logros**, and **ejecutar las pruebas**.
 Location with **estar** still needs independent recall. **Hablo** was recalled without a hint; the surrounding phrase needed **un poco de español** and spelling corrections.
 

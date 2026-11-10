@@ -56,9 +56,12 @@
     "g-object-pronouns",
     "g-object-vs-subject-it",
     "g-object-gender",
-    "g-un-poco-de"
+    "g-un-poco-de",
+    "g-por-que-question",
+    "g-para-purpose"
   ],
   "nextUnitIds": [
+    "u-para-vs-porque",
     "u-hablo",
     "u-permission",
     "u-queremos",
@@ -81,7 +84,7 @@
     ],
     "intervalsAreFlexible": true
   },
-  "latestSessionId": "2026-11-10-03",
+  "latestSessionId": "2026-11-10-04",
   "disclosureAuthorization": {
     "publicLearningRecord": true,
     "ongoingUpdatesAuthorized": true,

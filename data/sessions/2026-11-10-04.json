@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-10-04",
+  "date": "2026-11-10",
+  "source": "Six learning exchanges recorded as one batch",
+  "lessonTheme": "Why questions, reasons and purpose",
+  "duration": {
+    "requestedMinutes": null,
+    "measuredMinutes": null
+  },
+  "summary": "Built a why question with correct word order but accent/spelling corrections. Used porque for a reason, with hablar spelling corrected. Introduced para + infinitive from the learner's purpose, then correctly reused para and distinguished purpose from reason in two choice prompts.",
+  "observations": [
+    {
+      "id": "o-l4-why",
+      "kind": "prompted_attempt",
+      "learnerText": "Por que queremos aprender espanol?",
+      "correctedText": "¿Por qué queremos aprender español?",
+      "grammarIds": [
+        "g-por-que-question",
+        "g-querer-person",
+        "g-spelling"
+      ],
+      "outcome": "Correct question structure and separate por que; supplied accented qué, ñ and opening question mark. The preceding prompt reminded the learner of ¿Por qué...?."
+    },
+    {
+      "id": "o-l4-because",
+      "kind": "prompted_attempt",
+      "learnerText": "Porque queremos habler espanol",
+      "correctedText": "Porque queremos hablar español.",
+      "grammarIds": [
+        "g-porque",
+        "g-quiero-infinitive",
+        "g-spelling"
+      ],
+      "outcome": "Correct porque for a reason and queremos. Corrected habler to hablar and supplied ñ."
+    },
+    {
+      "id": "o-l4-purpose-idea",
+      "kind": "self_created_fragment",
+      "learnerText": "Comprender conversationes en espana",
+      "correctedText": "comprender conversaciones en España",
+      "grammarIds": [
+        "g-para-purpose",
+        "g-spelling"
+      ],
+      "outcome": "Comprender was supplied correctly by the learner. Corrected conversaciones and España, then introduced Quiero aprender español para comprender conversaciones en España and explained para + infinitive. No real-world travel circumstances are inferred."
+    },
+    {
+      "id": "o-l4-purpose-plural",
+      "kind": "prompted_transformation",
+      "learnerText": "Queremos aprender espanol Para comprender conversationes",
+      "correctedText": "Queremos aprender español para comprender conversaciones.",
+      "grammarIds": [
+        "g-para-purpose",
+        "g-querer-person",
+        "g-quiero-infinitive",
+        "g-spelling"
+      ],
+      "outcome": "Correctly used para + infinitive and plural queremos after a model. Supplied standard spelling and lowercase para."
+    },
+    {
+      "id": "o-l4-para-choice",
+      "kind": "choice_response",
+      "learnerText": "Para",
+      "correctedText": null,
+      "grammarIds": [
+        "g-para-purpose"
+      ],
+      "outcome": "Correctly chose para in Queremos probar la función ___ publicarla. English translation explicitly included in order to, so this is cued recognition, not independent recall."
+    },
+    {
+      "id": "o-l4-porque-choice",
+      "kind": "choice_response",
+      "learnerText": "Porque",
+      "correctedText": null,
+      "grammarIds": [
+        "g-porque",
+        "g-para-purpose"
+      ],
+      "outcome": "Correctly chose porque in Queremos probarla ___ es importante, given the choice porque or para. Successful immediate distinction; delayed retention not assessed."
+    }
+  ],
+  "nextSteps": [
+    "Use para versus porque in a self-created work sentence",
+    "Recall why-question spelling after a gap without repetitive accent drills",
+    "Revisit un poco de, hablo and pronoun placement after a gap"
+  ],
+  "skippedUnitIds": [],
+  "assessmentNote": "Modelled production and immediate choices; no mastery claim or delayed retention test."
+}
