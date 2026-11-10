@@ -279,9 +279,12 @@
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
       "sessionIds": [
-        "2026-11-10-01"
+        "2026-11-10-01",
+        "2026-11-10-02"
       ],
-      "observationIds": []
+      "observationIds": [
+        "o-goal-pattern"
+      ]
     },
     {
       "id": "v-estar",
@@ -598,6 +601,51 @@
       "observationIds": [
         "o-object-pronouns"
       ]
+    },
+    {
+      "id": "v-muy-bien",
+      "spanish": "muy bien",
+      "english": "very good / very well",
+      "status": "used_successfully",
+      "note": "Spontaneous acknowledgement; no claim of durable mastery.",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-02"
+      ],
+      "observationIds": [
+        "o-acknowledgement"
+      ]
+    },
+    {
+      "id": "v-por-que",
+      "spanish": "por qué",
+      "english": "why",
+      "status": "used_with_correction",
+      "note": "Learner wrote porque in a why-not question. The model supplied separate words and accented qué; keyboard constraints have not been assessed.",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-02"
+      ],
+      "observationIds": [
+        "o-why-three"
+      ]
+    },
+    {
+      "id": "v-los-tres",
+      "spanish": "los tres",
+      "english": "all three / the three",
+      "status": "used_successfully",
+      "note": "Correctly used in a spontaneous question. No separate gender or article lesson was given.",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-02"
+      ],
+      "observationIds": [
+        "o-why-three"
+      ]
     }
   ],
   "grammar": [
@@ -755,6 +803,21 @@
       "lastPractised": "2026-11-10",
       "sessionIds": [
         "2026-11-10-01"
+      ]
+    },
+    {
+      "id": "g-por-que-question",
+      "pattern": "¿Por qué no...?",
+      "meaning": "Ask Why not...?",
+      "status": "used_with_correction",
+      "explanation": "The supplied model was ¿Por qué no los tres?; the question spelling por qué uses two words and an accent. A separate contrast lesson with porque has not yet occurred.",
+      "observationIds": [
+        "o-why-three"
+      ],
+      "nextReview": "Recall a short why-not question after a gap; avoid repetitive spelling drills.",
+      "lastPractised": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-02"
       ]
     }
   ],

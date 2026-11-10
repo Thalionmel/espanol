@@ -7,6 +7,7 @@ A shared Spanish learning record for conversation-based teaching and future trai
 - [Learner preferences and next steps](data/learner.json)
 - [Vocabulary, grammar and optional practice units](data/catalog.json)
 - [First recorded learning session](data/sessions/2026-11-10-01.json)
+- [Short acknowledgement and question practice](data/sessions/2026-11-10-02.json)
 - [Data format and update rules](docs/data-format.md)
 - [Instructions for future assistants](AGENTS.md)
 
@@ -25,6 +26,8 @@ Location with **estar** and first-person **hablo** have been explained but still
 Successful use once does not establish durable mastery.
 
 Recent additions: **puedes publicarlo** (you may publish it), affirmative **sí** (yes), **Estás autorizado** (you're authorized), and **autorizo / yo autorizo** (I authorize). These have been modelled or corrected; independent recall is still pending.
+
+Also observed: spontaneous **Muy bien** and **los tres**. **¿Por qué no los tres?** was supplied as a spelling/punctuation correction; later independent recall is pending.
 
 ## How practice works
 

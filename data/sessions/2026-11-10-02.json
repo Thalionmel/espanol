@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-10-02",
+  "date": "2026-11-10",
+  "source": "Short language exchanges during an ordinary conversation",
+  "lessonTheme": "Acknowledgement and a why-not question",
+  "duration": {
+    "requestedMinutes": null,
+    "measuredMinutes": null
+  },
+  "summary": "Spontaneously used Muy bien and los tres. The spelling and punctuation of ¿Por qué no los tres? were corrected. El objetivo es... was introduced with a translation; no delayed recall was assessed.",
+  "observations": [
+    {
+      "id": "o-acknowledgement",
+      "kind": "self_created_sentence",
+      "learnerText": "Muy bien",
+      "correctedText": null,
+      "grammarIds": [],
+      "outcome": "Natural conversational acknowledgement used successfully without a prompt."
+    },
+    {
+      "id": "o-why-three",
+      "kind": "self_created_sentence",
+      "learnerText": "porque no los tres?",
+      "correctedText": "¿Por qué no los tres?",
+      "grammarIds": [
+        "g-por-que-question"
+      ],
+      "outcome": "Meaning was clear and los tres was used correctly. Tutor supplied the two-word accented por qué and Spanish question punctuation. The contrast with porque (because) has not yet been explicitly practised."
+    },
+    {
+      "id": "o-goal-pattern",
+      "kind": "explanation",
+      "learnerText": null,
+      "description": "Tutor introduced El objetivo es... with the translation The goal is....",
+      "grammarIds": [],
+      "outcome": "Pattern introduced; no learner production or retention test observed."
+    }
+  ],
+  "nextSteps": [
+    "Recall ¿Por qué no...? after a suitable gap, without assuming mastery from this correction.",
+    "Preserve the existing priority of queremos, negation and hablo recall."
+  ],
+  "skippedUnitIds": [],
+  "assessmentNote": "Spontaneous use and a supplied correction only; no formal assessment or delayed retention check."
+}
