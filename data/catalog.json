@@ -62,10 +62,12 @@
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
       "sessionIds": [
-        "2026-11-10-01"
+        "2026-11-10-01",
+        "2026-11-10-03"
       ],
       "observationIds": [
-        "o-quiero"
+        "o-quiero",
+        "o-l3-hablo-recall"
       ]
     },
     {
@@ -185,15 +187,17 @@
       "id": "v-probar",
       "spanish": "probar",
       "english": "to test / try out",
-      "status": "discussed",
-      "note": "Covers software testing and trying something out; context determines the sense.",
+      "status": "used_successfully",
+      "note": "Previously discussed testing versus trying out; later used correctly in probarla after probar was explicitly reminded in the prompt.",
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
       "sessionIds": [
-        "2026-11-10-01"
+        "2026-11-10-01",
+        "2026-11-10-03"
       ],
       "observationIds": [
-        "o-probar"
+        "o-probar",
+        "o-l3-probarla"
       ]
     },
     {
@@ -283,10 +287,13 @@
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
       "sessionIds": [
-        "2026-11-10-01"
+        "2026-11-10-01",
+        "2026-11-10-03"
       ],
       "observationIds": [
-        "o-probar"
+        "o-probar",
+        "o-l3-object-gender",
+        "o-l3-probarla"
       ]
     },
     {
@@ -324,15 +331,17 @@
       "id": "v-hablo",
       "spanish": "hablo",
       "english": "I speak",
-      "status": "used_with_correction",
-      "note": "Correction from habla was shown; independent recall pending.",
+      "status": "used_successfully",
+      "note": "Recalled hablo unaided in a translation; the surrounding phrase and spelling needed correction.",
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
       "sessionIds": [
-        "2026-11-10-01"
+        "2026-11-10-01",
+        "2026-11-10-03"
       ],
       "observationIds": [
-        "o-hablo"
+        "o-hablo",
+        "o-l3-hablo-recall"
       ]
     },
     {
@@ -720,6 +729,82 @@
       "sessionIds": [
         "2026-11-10-03"
       ]
+    },
+    {
+      "id": "v-la",
+      "spanish": "la",
+      "english": "it (feminine singular object pronoun)",
+      "status": "used_successfully",
+      "note": "Correctly selected for the explicitly stated referent la función.",
+      "observationIds": [
+        "o-l3-object-gender",
+        "o-l3-probarla"
+      ],
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-03"
+      ]
+    },
+    {
+      "id": "v-probarla",
+      "spanish": "probarla",
+      "english": "to test it (feminine object)",
+      "status": "used_successfully",
+      "note": "Used in Queremos probarla after a reminder of probar.",
+      "observationIds": [
+        "o-l3-probarla"
+      ],
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-03"
+      ]
+    },
+    {
+      "id": "v-un-poco-de",
+      "spanish": "un poco de español",
+      "english": "a little Spanish",
+      "status": "used_with_correction",
+      "note": "Learner omitted de; full phrase supplied.",
+      "observationIds": [
+        "o-l3-hablo-recall"
+      ],
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-03"
+      ]
+    },
+    {
+      "id": "v-poquitito",
+      "spanish": "un poquitito",
+      "english": "a tiny little bit",
+      "status": "used_with_correction",
+      "note": "Supplied as the natural spelling after pocetito. General diminutive formation not yet taught.",
+      "observationIds": [
+        "o-l3-hablo-recall"
+      ],
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-03"
+      ]
+    },
+    {
+      "id": "v-mas-bien",
+      "spanish": "más bien",
+      "english": "rather / more like / actually (reformulating)",
+      "status": "introduced",
+      "note": "Supplied in más bien un poquitito as a natural reformulation; independent use untested.",
+      "observationIds": [
+        "o-l3-hablo-recall"
+      ],
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-03"
+      ]
     }
   ],
   "grammar": [
@@ -771,7 +856,8 @@
         "o-work-transfer",
         "o-l3-queremos",
         "o-l3-negation",
-        "o-l3-negation-fronted"
+        "o-l3-negation-fronted",
+        "o-l3-probarla"
       ],
       "nextReview": "Recalled queremos correctly in Queremos revisarlo after an earlier quieremos correction. Recheck after a gap before inferring retention.",
       "lastPractised": "2026-11-10",
@@ -818,15 +904,17 @@
       "id": "g-hablar-person",
       "pattern": "hablo / habla",
       "meaning": "I speak / he, she or formal you speaks.",
-      "status": "used_with_correction",
+      "status": "used_successfully",
       "explanation": "Hablo un poco means I speak a little.",
       "observationIds": [
-        "o-hablo"
+        "o-hablo",
+        "o-l3-hablo-recall"
       ],
-      "nextReview": "Recall Hablo un poco without a model.",
+      "nextReview": "Hablo recalled without a hint; full un poco de español phrase needed correction. Revisit the complete phrase after a gap.",
       "lastPractised": "2026-11-10",
       "sessionIds": [
-        "2026-11-10-01"
+        "2026-11-10-01",
+        "2026-11-10-03"
       ]
     },
     {
@@ -842,7 +930,8 @@
         "o-permission",
         "o-authorized",
         "o-l3-rule-question",
-        "o-l3-negation"
+        "o-l3-negation",
+        "o-l3-hablo-recall"
       ],
       "nextReview": "Observe naturally; avoid repetitive spelling drills.",
       "lastPractised": "2026-11-10",
@@ -895,7 +984,8 @@
         "o-l3-negation",
         "o-l3-negation-fronted",
         "o-l3-it-misplaced",
-        "o-l3-reason-success"
+        "o-l3-reason-success",
+        "o-l3-probarla"
       ],
       "nextReview": "Both attached and before-conjugated-verb positions used successfully in a prompted negative transformation. Test choice of position without instructions after a gap.",
       "lastPractised": "2026-11-10",
@@ -930,6 +1020,37 @@
         "o-l3-reason-success"
       ],
       "nextReview": "Used the distinction correctly in an immediate new translation. Recheck after a gap with a different familiar verb and reason.",
+      "lastPractised": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-03"
+      ]
+    },
+    {
+      "id": "g-object-gender",
+      "pattern": "lo for masculine singular objects; la for feminine singular objects",
+      "meaning": "Choose the object pronoun to match a thing's grammatical gender.",
+      "status": "used_successfully",
+      "explanation": "El documento can be replaced by lo as an object; la función by la. Modelled revisarlo/revisarla, then the learner produced Queremos probarla with la función as the stated referent.",
+      "observationIds": [
+        "o-l3-object-gender",
+        "o-l3-probarla"
+      ],
+      "nextReview": "Immediate selection succeeded with an explicit referent and verb hint. Recheck without hints after a gap.",
+      "lastPractised": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-03"
+      ]
+    },
+    {
+      "id": "g-un-poco-de",
+      "pattern": "un poco de + noun",
+      "meaning": "A little of something; a little Spanish.",
+      "status": "used_with_correction",
+      "explanation": "Use un poco de español for a little Spanish. The learner recalled hablo but omitted de in the noun phrase.",
+      "observationIds": [
+        "o-l3-hablo-recall"
+      ],
+      "nextReview": "Use un poco de español in a new sentence before testing later recall.",
       "lastPractised": "2026-11-10",
       "sessionIds": [
         "2026-11-10-03"
@@ -1005,9 +1126,12 @@
       "seconds": 60,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 0,
-      "lastAttempt": null,
-      "nextReview": "next_suitable_session"
+      "attemptCount": 1,
+      "lastAttempt": "2026-11-10",
+      "nextReview": "after_a_gap",
+      "lastAttemptSessionId": "2026-11-10-03",
+      "lastAttemptVariant": "We want to test it; it refers to la función; probar provided as a reminder.",
+      "lastOutcome": "used_successfully"
     },
     {
       "id": "u-hablo",
@@ -1029,9 +1153,12 @@
       "seconds": 45,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 0,
-      "lastAttempt": null,
-      "nextReview": "next_suitable_session"
+      "attemptCount": 1,
+      "lastAttempt": "2026-11-10",
+      "nextReview": "next_suitable_session",
+      "lastAttemptSessionId": "2026-11-10-03",
+      "lastAttemptVariant": "I speak a little Spanish; no hint provided.",
+      "lastOutcome": "used_with_correction"
     },
     {
       "id": "u-goal-reason",

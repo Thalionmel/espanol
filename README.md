@@ -23,9 +23,11 @@ Successfully recalled **Queremos revisarlo** (We want to review it) after a corr
 
 Successfully combined an object pronoun with a reason in **Quiero revisarlo porque es importante**, after an explanation of object **lo** versus an unstated subject.
 
-Next short unit: software feature testing with **probar**, followed by later recall of pronoun placement, negation and reasons.
+Correctly selected feminine object **la** in **Queremos probarla**, with **la función** as the stated referent and a reminder of **probar**.
+
+Next short unit: **un poco de + noun**, followed by later recall of **hablo**, object gender, pronoun placement, negation and reasons.
 Review software vocabulary such as **probar**, **revisar**, **los logros**, and **ejecutar las pruebas**.
-Location with **estar** and first-person **hablo** have been explained but still need independent recall.
+Location with **estar** still needs independent recall. **Hablo** was recalled without a hint; the surrounding phrase needed **un poco de español** and spelling corrections.
 
 “Introduced”, “discussed”, “used with correction”, and “used successfully” are distinct states.
 Successful use once does not establish durable mastery.

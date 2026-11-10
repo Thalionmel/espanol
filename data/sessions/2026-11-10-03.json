@@ -8,7 +8,7 @@
     "requestedMinutes": null,
     "measuredMinutes": null
   },
-  "summary": "Initially separated lo from revisar; the attached spelling revisarlo was corrected. Asked whether placement is a rule or an option. Explained the alternatives with querer + infinitive. Then correctly produced Queremos revisarlo without being given queremos in the immediate prompt. Subsequently used no with queremos correctly, with one corrected spelling slip, and successfully transformed the negative sentence to No lo queremos publicar. Initially used object lo in a subject position when adding a reason; after explanation correctly produced Quiero revisarlo porque es importante.",
+  "summary": "Initially separated lo from revisar; the attached spelling revisarlo was corrected. Asked whether placement is a rule or an option. Explained the alternatives with querer + infinitive. Then correctly produced Queremos revisarlo without being given queremos in the immediate prompt. Subsequently used no with queremos correctly, with one corrected spelling slip, and successfully transformed the negative sentence to No lo queremos publicar. Initially used object lo in a subject position when adding a reason; after explanation correctly produced Quiero revisarlo porque es importante. Correctly used feminine object la in Queremos probarla with a verb reminder. Recalled hablo unaided but needed un poco de and spelling corrections; un poquitito was supplied.",
   "observations": [
     {
       "id": "o-l3-spacing",
@@ -102,13 +102,47 @@
         "g-porque"
       ],
       "outcome": "Correct response to I want to review it because it's important after the distinction was explained. Attached object lo to revisar and left the subject unstated in es importante. Successful immediate transfer, not delayed retention."
+    },
+    {
+      "id": "o-l3-object-gender",
+      "kind": "explanation",
+      "learnerText": null,
+      "description": "Introduced lo for a masculine singular object and la for a feminine singular object, using el documento and la función.",
+      "grammarIds": [
+        "g-object-gender"
+      ],
+      "outcome": "Modelled revisarlo versus revisarla; supplied probar as the verb for the following prompt."
+    },
+    {
+      "id": "o-l3-probarla",
+      "kind": "prompted_attempt",
+      "learnerText": "Queremos probarla",
+      "correctedText": null,
+      "grammarIds": [
+        "g-object-gender",
+        "g-querer-person",
+        "g-object-pronouns"
+      ],
+      "outcome": "Correct response to We want to test it, where it was explicitly la función and probar was provided as a reminder. Correct feminine la attached to the infinitive; independent delayed recall remains untested."
+    },
+    {
+      "id": "o-l3-hablo-recall",
+      "kind": "recall_attempt",
+      "learnerText": "Hablo un poco espanol - mas un pocetito",
+      "correctedText": "Hablo un poco de español… más bien un poquitito.",
+      "grammarIds": [
+        "g-hablar-person",
+        "g-un-poco-de",
+        "g-spelling"
+      ],
+      "outcome": "Recalled hablo correctly without a form hint. Supplied de in un poco de español, ñ spelling, and the natural phrasing más bien un poquitito. The full phrase needed correction; productive diminutive formation was not taught."
     }
   ],
   "nextSteps": [
-    "Practise software feature testing with probar",
-    "Recheck object it versus an unstated subject after a gap",
-    "Recheck negation and pronoun placement without position hints",
-    "Retain hablo and por qué recall in the review queue"
+    "Practise un poco de with a familiar noun",
+    "Revisit feminine object la and probar after a gap",
+    "Recheck object versus subject it, negation and placement without hints",
+    "Retain por qué recall in the review queue"
   ],
   "skippedUnitIds": [],
   "assessmentNote": "One successful immediate response after instruction. No mastery claim or delayed retention test."

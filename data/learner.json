@@ -38,15 +38,17 @@
     "g-querer-person",
     "g-negation",
     "g-object-pronouns",
-    "g-object-vs-subject-it"
+    "g-object-vs-subject-it",
+    "g-object-gender",
+    "g-un-poco-de"
   ],
   "nextUnitIds": [
-    "u-probar",
     "u-hablo",
     "u-permission",
     "u-queremos",
     "u-negation",
-    "u-goal-reason"
+    "u-goal-reason",
+    "u-probar"
   ],
   "reviewPolicy": {
     "mode": "During suitable conversations; no reminders or background scheduling",
