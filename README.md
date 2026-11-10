@@ -24,7 +24,7 @@ Location with **estar** and first-person **hablo** have been explained but still
 “Introduced”, “discussed”, “used with correction”, and “used successfully” are distinct states.
 Successful use once does not establish durable mastery.
 
-Recent additions: **puedes publicarlo** (you may publish it), affirmative **sí** (yes), and **Estás autorizado** (you're authorized). These have been modelled or corrected; independent recall is still pending.
+Recent additions: **puedes publicarlo** (you may publish it), affirmative **sí** (yes), **Estás autorizado** (you're authorized), and **autorizo / yo autorizo** (I authorize). These have been modelled or corrected; independent recall is still pending.
 
 ## How practice works
 

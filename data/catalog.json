@@ -493,6 +493,111 @@
       "observationIds": [
         "o-authorized"
       ]
+    },
+    {
+      "id": "v-autorizar",
+      "spanish": "autorizar",
+      "english": "to authorize",
+      "note": "Basic verb form introduced while explaining I authorize.",
+      "status": "introduced",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-01"
+      ],
+      "observationIds": [
+        "o-autorizo"
+      ]
+    },
+    {
+      "id": "v-autorizo",
+      "spanish": "autorizo / yo autorizo",
+      "english": "I authorize",
+      "note": "First-person present form explained; independent use pending.",
+      "status": "introduced",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-01"
+      ],
+      "observationIds": [
+        "o-autorizo"
+      ]
+    },
+    {
+      "id": "v-te-autorizo",
+      "spanish": "Te autorizo a publicarlo.",
+      "english": "I authorize you to publish it.",
+      "note": "Example supplied; te and the a + infinitive construction have not been taught separately.",
+      "status": "introduced",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-01"
+      ],
+      "observationIds": [
+        "o-autorizo"
+      ]
+    },
+    {
+      "id": "v-te",
+      "spanish": "te",
+      "english": "you (object pronoun)",
+      "note": "Introduced in te autorizo; direct/indirect-object distinctions have not yet been taught.",
+      "status": "introduced",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-01"
+      ],
+      "observationIds": [
+        "o-object-pronouns"
+      ]
+    },
+    {
+      "id": "v-lo",
+      "spanish": "lo",
+      "english": "it (masculine singular object pronoun)",
+      "note": "Introduced by breaking publicarlo into publicar + lo; gender distinctions not yet taught.",
+      "status": "introduced",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-01"
+      ],
+      "observationIds": [
+        "o-object-pronouns"
+      ]
+    },
+    {
+      "id": "v-reviso",
+      "spanish": "reviso",
+      "english": "I review / check",
+      "note": "Shown in Reviso el documento; independent recall pending.",
+      "status": "introduced",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-01"
+      ],
+      "observationIds": [
+        "o-object-pronouns"
+      ]
+    },
+    {
+      "id": "v-documento",
+      "spanish": "el documento",
+      "english": "the document",
+      "note": "Used in an example of a full noun object after a verb.",
+      "status": "introduced",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-01"
+      ],
+      "observationIds": [
+        "o-object-pronouns"
+      ]
     }
   ],
   "grammar": [
@@ -617,6 +722,36 @@
         "o-permission"
       ],
       "nextReview": "Recall puedes in a practical permission sentence without a model.",
+      "lastPractised": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-01"
+      ]
+    },
+    {
+      "id": "g-autorizo",
+      "pattern": "autorizar → autorizo / yo autorizo",
+      "meaning": "Use the first-person form for I authorize.",
+      "status": "introduced",
+      "explanation": "Autorizo is the I form of autorizar. Yo can be stated explicitly. Model: Te autorizo a publicarlo.",
+      "observationIds": [
+        "o-autorizo"
+      ],
+      "nextReview": "Recall autorizo in a natural permission exchange; do not treat a translation question as successful learner production.",
+      "lastPractised": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-01"
+      ]
+    },
+    {
+      "id": "g-object-pronouns",
+      "pattern": "object pronoun + conjugated verb; infinitive + attached pronoun",
+      "meaning": "Introductory object-pronoun placement.",
+      "status": "introduced",
+      "explanation": "Te autorizo places te before a conjugated verb. Publicarlo attaches lo after the infinitive. Reviso el documento illustrates a full noun object after the verb. This is not a complete placement rule; other constructions remain to be taught.",
+      "observationIds": [
+        "o-object-pronouns"
+      ],
+      "nextReview": "Ask the learner to identify te and lo in Te autorizo a publicarlo before introducing exceptions.",
       "lastPractised": "2026-11-10",
       "sessionIds": [
         "2026-11-10-01"

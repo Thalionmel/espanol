@@ -115,6 +115,26 @@
         "g-spelling"
       ],
       "outcome": "Tutor supplied the Spanish phrase for You're authorized, with z in autorizado. Independent recall of this phrase has not been assessed."
+    },
+    {
+      "id": "o-autorizo",
+      "kind": "explanation",
+      "learnerText": null,
+      "description": "Asked how to say I authorize.",
+      "grammarIds": [
+        "g-autorizo"
+      ],
+      "outcome": "Introduced autorizo / yo autorizo from autorizar, with the example Te autorizo a publicarlo. No learner attempt yet."
+    },
+    {
+      "id": "o-object-pronouns",
+      "kind": "grammar_question",
+      "learnerText": null,
+      "description": "Asked whether te autorizo reflects a general object-before-verb rule.",
+      "grammarIds": [
+        "g-object-pronouns"
+      ],
+      "outcome": "Explained that object pronouns normally precede a conjugated verb (te autorizo), attach after an infinitive (publicar + lo), and differ from full noun objects, which usually follow the verb (Reviso el documento). This is an introductory rule, not an exhaustive treatment; imperatives and other placements have not been taught."
     }
   ],
   "nextSteps": [
