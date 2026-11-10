@@ -18,6 +18,7 @@ A shared Spanish learning record for conversation-based teaching and future trai
 - [Questions, readiness recall and time meaning](data/sessions/2026-11-10-10.json)
 - [Purpose, reasons and not-yet recall](data/sessions/2026-11-10-11.json)
 - [Readiness retry, but contrasts and review requests](data/sessions/2026-11-10-12.json)
+- [This, this function and not-yet reference](data/sessions/2026-11-10-13.json)
 - [Data format and update rules](docs/data-format.md)
 - [Instructions for future assistants](AGENTS.md)
 
@@ -58,7 +59,9 @@ Later recalled **Leemos para aprender español**, **Leemos porque queremos apren
 
 In the next round, correctly recalled **La función todavía no está lista** and used feminine **lista** in four readiness contexts. Introduced **pero** (“but”), with two correct contrasts. Recalled **Necesitamos revisarla porque es importante**. The practical request **Podes revisar esta** was corrected to **¿Puedes revisar esto?**, then immediately repeated correctly. **Esta función** was modelled; independent use before a noun is untested. The repeated review request did not answer the intervening test-this-function prompt, so its correct meaning was acknowledged separately.
 
-Next: recall **puedes** and standalone **esto**, distinguish **revisar/probar**, then revisit location and earlier phrases. Successful same-day recall and immediate repetitions do not establish delayed retention.
+Next practice correctly used **¿Puedes probar esto?**, then **¿Puedes revisar esta función?** after a model, and switched to standalone **Necesitamos revisar esto**. **¿Puedes probar la función?** was grammatical but meant “the function” rather than requested “this function.” Similarly, **No podemos publicar esto todavía** correctly meant “this”; tutor supplied the requested feminine “it.” Learner then correctly transformed it to **Todavía no podemos publicarla**.
+
+Next: recheck **esto / esta función / la** and **puedes** after intervening material, then revisit readiness and location. Successful same-day recall and immediate repetitions do not establish delayed retention.
 Review software vocabulary such as **probar**, **revisar**, **los logros**, and **ejecutar las pruebas**.
 Location with **estar** still needs independent recall. **Hablo** was recalled without a hint; the surrounding phrase needed **un poco de español** and spelling corrections.
 

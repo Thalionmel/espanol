@@ -150,7 +150,8 @@
         "2026-11-10-01",
         "2026-11-10-03",
         "2026-11-10-06",
-        "2026-11-10-12"
+        "2026-11-10-12",
+        "2026-11-10-13"
       ],
       "observationIds": [
         "o-independent",
@@ -159,7 +160,9 @@
         "o-l6-necesitamos-review",
         "o-l12-need-review-reason",
         "o-l12-request-first",
-        "o-l12-request-retry"
+        "o-l12-request-retry",
+        "o-l13-review-this-function",
+        "o-l13-need-this"
       ]
     },
     {
@@ -167,19 +170,23 @@
       "spanish": "esto",
       "english": "this",
       "status": "used_successfully",
-      "note": "Previously correctly used with revisar and confused with readiness está. In session12 standalone esta was corrected to esto; then repeated correctly in ¿Puedes revisar esto?.",
+      "note": "Correct standalone esto in a test request and a need-to-review statement. Used esto grammatically for this when prompt requested it; tutor supplied feminine publicarla separately. Earlier esto/está confusion remains a distinct review target.",
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
       "sessionIds": [
         "2026-11-10-01",
         "2026-11-10-10",
-        "2026-11-10-12"
+        "2026-11-10-12",
+        "2026-11-10-13"
       ],
       "observationIds": [
         "o-independent",
         "o-l10-ready-reason",
         "o-l12-request-first",
-        "o-l12-request-retry"
+        "o-l12-request-retry",
+        "o-l13-test-this",
+        "o-l13-need-this",
+        "o-l13-publish-this-yet"
       ]
     },
     {
@@ -226,7 +233,8 @@
         "2026-11-10-03",
         "2026-11-10-07",
         "2026-11-10-11",
-        "2026-11-10-12"
+        "2026-11-10-12",
+        "2026-11-10-13"
       ],
       "observationIds": [
         "o-negation",
@@ -237,7 +245,9 @@
         "o-l7-can-negative",
         "o-l11-not-yet-recall",
         "o-l11-cannot-yet",
-        "o-l12-ready-but-no-publish"
+        "o-l12-ready-but-no-publish",
+        "o-l13-publish-this-yet",
+        "o-l13-publish-it-yet"
       ]
     },
     {
@@ -287,7 +297,8 @@
         "2026-11-10-03",
         "2026-11-10-07",
         "2026-11-10-11",
-        "2026-11-10-12"
+        "2026-11-10-12",
+        "2026-11-10-13"
       ],
       "observationIds": [
         "o-probar",
@@ -295,7 +306,9 @@
         "o-l7-can-no-object",
         "o-l7-can-positive",
         "o-l11-test-recall",
-        "o-l12-test-reason"
+        "o-l12-test-reason",
+        "o-l13-test-this",
+        "o-l13-test-function"
       ]
     },
     {
@@ -355,7 +368,8 @@
         "2026-11-10-01",
         "2026-11-10-03",
         "2026-11-10-07",
-        "2026-11-10-12"
+        "2026-11-10-12",
+        "2026-11-10-13"
       ],
       "observationIds": [
         "o-work-transfer",
@@ -363,7 +377,9 @@
         "o-l3-negation-fronted",
         "o-l7-need-fronted",
         "o-l7-can-negative",
-        "o-l12-ready-but-no-publish"
+        "o-l12-ready-but-no-publish",
+        "o-l13-publish-this-yet",
+        "o-l13-publish-it-yet"
       ]
     },
     {
@@ -396,7 +412,8 @@
         "2026-11-10-09",
         "2026-11-10-10",
         "2026-11-10-11",
-        "2026-11-10-12"
+        "2026-11-10-12",
+        "2026-11-10-13"
       ],
       "observationIds": [
         "o-probar",
@@ -407,7 +424,9 @@
         "o-l9-ready-now",
         "o-l10-feature-now",
         "o-l11-feature-not-yet",
-        "o-l12-feature-retry"
+        "o-l12-feature-retry",
+        "o-l13-test-function",
+        "o-l13-review-this-function"
       ]
     },
     {
@@ -623,17 +642,21 @@
       "spanish": "puedes",
       "english": "you can / you may",
       "status": "used_successfully",
-      "note": "Used in modelled permission earlier. Session12 practised tú request first wrote podes, then correctly repeated puedes after correction. Independent recall remains to be checked.",
+      "note": "After session12 podes correction, correctly used puedes in three session13 requests. Same-sequence practice; delayed independent recall untested.",
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
       "sessionIds": [
         "2026-11-10-01",
-        "2026-11-10-12"
+        "2026-11-10-12",
+        "2026-11-10-13"
       ],
       "observationIds": [
         "o-permission",
         "o-l12-request-first",
-        "o-l12-request-retry"
+        "o-l12-request-retry",
+        "o-l13-test-this",
+        "o-l13-test-function",
+        "o-l13-review-this-function"
       ]
     },
     {
@@ -914,7 +937,9 @@
         "o-l8-ready-feature",
         "o-l11-test-recall",
         "o-l12-ready-but-no-publish",
-        "o-l12-need-review-reason"
+        "o-l12-need-review-reason",
+        "o-l13-publish-this-yet",
+        "o-l13-publish-it-yet"
       ],
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
@@ -922,7 +947,8 @@
         "2026-11-10-03",
         "2026-11-10-08",
         "2026-11-10-11",
-        "2026-11-10-12"
+        "2026-11-10-12",
+        "2026-11-10-13"
       ]
     },
     {
@@ -1208,7 +1234,8 @@
         "o-l7-need-negative",
         "o-l7-need-fronted",
         "o-l8-logo-request",
-        "o-l12-need-review-reason"
+        "o-l12-need-review-reason",
+        "o-l13-need-this"
       ],
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
@@ -1216,7 +1243,8 @@
         "2026-11-10-06",
         "2026-11-10-07",
         "2026-11-10-08",
-        "2026-11-10-12"
+        "2026-11-10-12",
+        "2026-11-10-13"
       ]
     },
     {
@@ -1233,7 +1261,9 @@
         "o-l9-cannot-because",
         "o-l9-use-now",
         "o-l11-cannot-yet",
-        "o-l11-can-now"
+        "o-l11-can-now",
+        "o-l13-publish-this-yet",
+        "o-l13-publish-it-yet"
       ],
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
@@ -1241,7 +1271,8 @@
         "2026-11-10-07",
         "2026-11-10-08",
         "2026-11-10-09",
-        "2026-11-10-11"
+        "2026-11-10-11",
+        "2026-11-10-13"
       ]
     },
     {
@@ -1396,7 +1427,9 @@
         "o-l11-feature-not-yet",
         "o-l11-cannot-yet",
         "o-l12-feature-retry",
-        "o-l12-but-not-yet"
+        "o-l12-but-not-yet",
+        "o-l13-publish-this-yet",
+        "o-l13-publish-it-yet"
       ],
       "status": "used_successfully",
       "firstSeen": "2026-11-10",
@@ -1405,7 +1438,8 @@
         "2026-11-10-09",
         "2026-11-10-10",
         "2026-11-10-11",
-        "2026-11-10-12"
+        "2026-11-10-12",
+        "2026-11-10-13"
       ]
     },
     {
@@ -1465,15 +1499,18 @@
       "id": "v-esta",
       "spanish": "esta",
       "english": "this (before a feminine singular noun in the practised phrase)",
-      "status": "used_with_correction",
-      "note": "Used esta alone for this in a review request. Tutor corrected to esto and modelled esta función. Independent correct use of esta función has not occurred.",
+      "status": "used_successfully",
+      "note": "After modelled esta función and an initial grammatical the-function response, correctly produced ¿Puedes revisar esta función? in session13. Then correctly switched to standalone esto. Immediate cued use; delayed recall untested.",
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
       "sessionIds": [
-        "2026-11-10-12"
+        "2026-11-10-12",
+        "2026-11-10-13"
       ],
       "observationIds": [
-        "o-l12-request-first"
+        "o-l12-request-first",
+        "o-l13-test-function",
+        "o-l13-review-this-function"
       ]
     }
   ],
@@ -1618,7 +1655,9 @@
         "o-l11-cannot-yet",
         "o-l12-feature-retry",
         "o-l12-but-not-yet",
-        "o-l12-ready-but-no-publish"
+        "o-l12-ready-but-no-publish",
+        "o-l13-publish-this-yet",
+        "o-l13-publish-it-yet"
       ],
       "nextReview": "Correctly placed no between an explicit noun subject and está in La función no está lista; adjective correction was separate. Recheck polarity in a new sentence.",
       "lastPractised": "2026-11-10",
@@ -1630,7 +1669,8 @@
         "2026-11-10-09",
         "2026-11-10-10",
         "2026-11-10-11",
-        "2026-11-10-12"
+        "2026-11-10-12",
+        "2026-11-10-13"
       ]
     },
     {
@@ -1721,7 +1761,10 @@
         "o-l12-test-reason",
         "o-l12-but-not-yet",
         "o-l12-ready-but-no-publish",
-        "o-l12-request-first"
+        "o-l12-request-first",
+        "o-l13-test-function",
+        "o-l13-review-this-function",
+        "o-l13-publish-it-yet"
       ],
       "nextReview": "Observe naturally; avoid repetitive spelling drills.",
       "lastPractised": "2026-11-10",
@@ -1736,7 +1779,8 @@
         "2026-11-10-09",
         "2026-11-10-10",
         "2026-11-10-11",
-        "2026-11-10-12"
+        "2026-11-10-12",
+        "2026-11-10-13"
       ]
     },
     {
@@ -1748,13 +1792,17 @@
       "observationIds": [
         "o-permission",
         "o-l12-request-first",
-        "o-l12-request-retry"
+        "o-l12-request-retry",
+        "o-l13-test-this",
+        "o-l13-test-function",
+        "o-l13-review-this-function"
       ],
-      "nextReview": "Recheck a practical puedes request without a fresh model; latest correct request was an immediate retry.",
+      "nextReview": "Puedes used correctly in three prompted requests after the session12 correction; test unaided recall after a longer gap.",
       "lastPractised": "2026-11-10",
       "sessionIds": [
         "2026-11-10-01",
-        "2026-11-10-12"
+        "2026-11-10-12",
+        "2026-11-10-13"
       ]
     },
     {
@@ -1807,7 +1855,8 @@
         "o-l12-test-reason",
         "o-l12-but-not-yet",
         "o-l12-ready-but-no-publish",
-        "o-l12-need-review-reason"
+        "o-l12-need-review-reason",
+        "o-l13-publish-it-yet"
       ],
       "nextReview": "Both attached and before-conjugated-verb positions used successfully in a prompted negative transformation. Test choice of position without instructions after a gap.",
       "lastPractised": "2026-11-10",
@@ -1820,7 +1869,8 @@
         "2026-11-10-09",
         "2026-11-10-10",
         "2026-11-10-11",
-        "2026-11-10-12"
+        "2026-11-10-12",
+        "2026-11-10-13"
       ]
     },
     {
@@ -1886,7 +1936,9 @@
         "o-l12-test-reason",
         "o-l12-but-not-yet",
         "o-l12-ready-but-no-publish",
-        "o-l12-need-review-reason"
+        "o-l12-need-review-reason",
+        "o-l13-publish-this-yet",
+        "o-l13-publish-it-yet"
       ],
       "nextReview": "Immediate selection succeeded with an explicit referent and verb hint. Recheck without hints after a gap.",
       "lastPractised": "2026-11-10",
@@ -1896,7 +1948,8 @@
         "2026-11-10-09",
         "2026-11-10-10",
         "2026-11-10-11",
-        "2026-11-10-12"
+        "2026-11-10-12",
+        "2026-11-10-13"
       ]
     },
     {
@@ -2011,7 +2064,8 @@
         "o-l7-need-negative",
         "o-l7-need-fronted",
         "o-l8-logo-request",
-        "o-l12-need-review-reason"
+        "o-l12-need-review-reason",
+        "o-l13-need-this"
       ],
       "nextReview": "Necesitamos revisarla porque es importante recalled correctly in session12; earlier reviser ending error did not recur. Recheck later.",
       "lastPractised": "2026-11-10",
@@ -2019,7 +2073,8 @@
         "2026-11-10-06",
         "2026-11-10-07",
         "2026-11-10-08",
-        "2026-11-10-12"
+        "2026-11-10-12",
+        "2026-11-10-13"
       ]
     },
     {
@@ -2041,7 +2096,9 @@
         "o-l10-not-yet-omitted",
         "o-l10-use-now-question",
         "o-l11-cannot-yet",
-        "o-l11-can-now"
+        "o-l11-can-now",
+        "o-l13-publish-this-yet",
+        "o-l13-publish-it-yet"
       ],
       "nextReview": "Test affirmative versus negative meaning and keep the requested object without a recent placement instruction.",
       "lastPractised": "2026-11-10",
@@ -2050,7 +2107,8 @@
         "2026-11-10-08",
         "2026-11-10-09",
         "2026-11-10-10",
-        "2026-11-10-11"
+        "2026-11-10-11",
+        "2026-11-10-13"
       ]
     },
     {
@@ -2140,14 +2198,18 @@
         "o-l10-use-question",
         "o-l10-use-now-question",
         "o-l12-request-first",
-        "o-l12-request-retry"
+        "o-l12-request-retry",
+        "o-l13-test-this",
+        "o-l13-test-function",
+        "o-l13-review-this-function"
       ],
       "nextReview": "Recheck a familiar yes/no question after a gap; all current successes were prompted within one practice sequence.",
       "lastPractised": "2026-11-10",
       "sessionIds": [
         "2026-11-10-08",
         "2026-11-10-10",
-        "2026-11-10-12"
+        "2026-11-10-12",
+        "2026-11-10-13"
       ]
     },
     {
@@ -2168,15 +2230,18 @@
         "o-l11-cannot-yet",
         "o-l11-can-now",
         "o-l12-feature-retry",
-        "o-l12-but-not-yet"
+        "o-l12-but-not-yet",
+        "o-l13-publish-this-yet",
+        "o-l13-publish-it-yet"
       ],
-      "nextReview": "Correctly recalled La función todavía no está lista after intervening exchanges, then reused todavía no in a pero sentence. Longer-term retention untested.",
+      "nextReview": "Correct not-yet meaning with sentence-final todavía, then valid initial Todavía no... transformation. Recheck after a gap alongside readiness agreement.",
       "lastPractised": "2026-11-10",
       "sessionIds": [
         "2026-11-10-09",
         "2026-11-10-10",
         "2026-11-10-11",
-        "2026-11-10-12"
+        "2026-11-10-12",
+        "2026-11-10-13"
       ]
     },
     {
@@ -2199,16 +2264,22 @@
       "id": "g-esto-esta",
       "pattern": "esto / esta + feminine noun",
       "meaning": "Standalone this versus this function in the practised request.",
-      "status": "used_with_correction",
+      "status": "used_successfully",
       "explanation": "¿Puedes revisar esto? uses standalone esto. Esta función means this function. The learner corrected standalone esta to esto after a model; independent use before a noun remains untested. This is not a complete demonstrative-pronoun paradigm.",
       "sessionIds": [
-        "2026-11-10-12"
+        "2026-11-10-12",
+        "2026-11-10-13"
       ],
       "observationIds": [
         "o-l12-request-first",
-        "o-l12-request-retry"
+        "o-l12-request-retry",
+        "o-l13-test-this",
+        "o-l13-test-function",
+        "o-l13-review-this-function",
+        "o-l13-need-this",
+        "o-l13-publish-this-yet"
       ],
-      "nextReview": "Recheck standalone esto versus esta función without supplying the answer.",
+      "nextReview": "Correctly used esta función after a model, then switched to standalone esto. One earlier la función response was grammatical but meant the rather than requested this. Recheck later without an immediate contrast cue.",
       "lastPractised": "2026-11-10"
     }
   ],
@@ -2282,12 +2353,12 @@
       "seconds": 60,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 3,
+      "attemptCount": 5,
       "lastAttempt": "2026-11-10",
       "nextReview": "after_a_gap",
-      "lastAttemptSessionId": "2026-11-10-12",
-      "lastAttemptVariant": "We want to test it because it's ready; feminine función.",
-      "lastOutcome": "used_successfully"
+      "lastAttemptSessionId": "2026-11-10-13",
+      "lastAttemptVariant": "Test this request, then test-this-function request answered with the function.",
+      "lastOutcome": "used_with_correction"
     },
     {
       "id": "u-hablo",
@@ -2522,10 +2593,10 @@
       "seconds": 45,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 5,
+      "attemptCount": 6,
       "lastAttempt": "2026-11-10",
-      "lastAttemptSessionId": "2026-11-10-12",
-      "lastAttemptVariant": "We need to review it because it's important; feminine función.",
+      "lastAttemptSessionId": "2026-11-10-13",
+      "lastAttemptVariant": "We need to review this; standalone esto.",
       "lastOutcome": "used_successfully",
       "nextReview": "after_a_gap"
     },
@@ -2554,10 +2625,10 @@
       "seconds": 45,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 6,
+      "attemptCount": 8,
       "lastAttempt": "2026-11-10",
-      "lastAttemptSessionId": "2026-11-10-10",
-      "lastAttemptVariant": "We can't use it because it isn't ready yet; correct negatives but yet omitted.",
+      "lastAttemptSessionId": "2026-11-10-13",
+      "lastAttemptVariant": "Requested it answered with grammatical this; then correct publicarla in a transformation.",
       "lastOutcome": "used_with_correction",
       "nextReview": "after_a_gap"
     },
@@ -2649,10 +2720,10 @@
       "seconds": 45,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 12,
+      "attemptCount": 14,
       "lastAttempt": "2026-11-10",
-      "lastAttemptSessionId": "2026-11-10-12",
-      "lastAttemptVariant": "Function isn't ready yet; want to use it but it isn't ready yet.",
+      "lastAttemptSessionId": "2026-11-10-13",
+      "lastAttemptVariant": "Can't publish this yet; then initial todavía with feminine publicarla after a model.",
       "lastOutcome": "used_successfully",
       "nextReview": "after_a_gap"
     },
@@ -2739,11 +2810,11 @@
       "seconds": 45,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 2,
+      "attemptCount": 5,
       "lastAttempt": "2026-11-10",
-      "lastAttemptSessionId": "2026-11-10-12",
-      "lastAttemptVariant": "Review-this request correction, then immediate repeat while tutor had prompted test this function.",
-      "lastOutcome": "used_successfully",
+      "lastAttemptSessionId": "2026-11-10-13",
+      "lastAttemptVariant": "Test this; test this function (grammatical the-function response); review this function.",
+      "lastOutcome": "used_with_correction",
       "nextReview": "after_a_gap"
     }
   ]

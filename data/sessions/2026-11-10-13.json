@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-10-13",
+  "date": "2026-11-10",
+  "source": "Six learning exchanges saved as one batch",
+  "lessonTheme": "Standalone this, this function and not-yet object reference",
+  "duration": {
+    "requestedMinutes": null,
+    "measuredMinutes": null
+  },
+  "summary": "Correctly used puedes in three requests, including probar esto and revisar esta función. A grammatical la función response meant the function rather than the requested this function. Correctly switched to standalone esto with necesitamos. Used sentence-final todavía in a grammatical publish-this sentence, then retained modelled feminine publicarla while moving todavía to the beginning.",
+  "observations": [
+    {
+      "id": "o-l13-test-this",
+      "kind": "prompted_transfer",
+      "learnerText": "Puedes probar esto?",
+      "correctedText": "¿Puedes probar esto?",
+      "grammarIds": [
+        "g-poder-permission",
+        "g-yes-no-question",
+        "g-esto-esta"
+      ],
+      "vocabularyIds": [
+        "v-puedes",
+        "v-probar",
+        "v-esto"
+      ],
+      "outcome": "Correct probar substitution and standalone esto immediately after a vocabulary reminder. Opening ¿ supplied."
+    },
+    {
+      "id": "o-l13-test-function",
+      "kind": "prompted_transfer",
+      "learnerText": "Puedes probar la funcion?",
+      "correctedText": "¿Puedes probar la función?",
+      "grammarIds": [
+        "g-poder-permission",
+        "g-yes-no-question",
+        "g-esto-esta",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-puedes",
+        "v-probar",
+        "v-funcion",
+        "v-esta"
+      ],
+      "outcome": "Grammatical request meaning Can you test the function? Prompt asked this function. Tutor acknowledged valid meaning, supplied esta función and accent. Do not count this as correct esta use."
+    },
+    {
+      "id": "o-l13-review-this-function",
+      "kind": "prompted_transfer",
+      "learnerText": "Puedes revisar esta funcion?",
+      "correctedText": "¿Puedes revisar esta función?",
+      "grammarIds": [
+        "g-poder-permission",
+        "g-yes-no-question",
+        "g-esto-esta",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-puedes",
+        "v-revisar",
+        "v-esta",
+        "v-funcion"
+      ],
+      "outcome": "Correct esta before feminine función, and correct verb for review, after prior model. Opening ¿ and función accent supplied."
+    },
+    {
+      "id": "o-l13-need-this",
+      "kind": "prompted_transfer",
+      "learnerText": "Necesitamos revisar esto",
+      "correctedText": null,
+      "grammarIds": [
+        "g-necesitamos-infinitive",
+        "g-esto-esta"
+      ],
+      "vocabularyIds": [
+        "v-necesitamos",
+        "v-revisar",
+        "v-esto"
+      ],
+      "outcome": "Correct switch to standalone esto in a need-to-review statement without a full target model."
+    },
+    {
+      "id": "o-l13-publish-this-yet",
+      "kind": "prompted_transfer",
+      "learnerText": "No podemos publicar esto todavia",
+      "correctedText": "No podemos publicar esto todavía.",
+      "grammarIds": [
+        "g-podemos-infinitive",
+        "g-negation",
+        "g-readiness-time",
+        "g-esto-esta",
+        "g-object-gender"
+      ],
+      "vocabularyIds": [
+        "v-podemos",
+        "v-no",
+        "v-publicar",
+        "v-esto",
+        "v-todavia-no",
+        "v-la"
+      ],
+      "outcome": "Grammatical We can't publish this yet, with valid sentence-final todavía. Prompt requested it for la función. Tutor distinguished meaning and supplied No podemos publicarla todavía; do not mark learner sentence ungrammatical or claim object la already produced."
+    },
+    {
+      "id": "o-l13-publish-it-yet",
+      "kind": "prompted_transfer",
+      "learnerText": "Todavia No podemos publicarla",
+      "correctedText": "Todavía no podemos publicarla.",
+      "grammarIds": [
+        "g-podemos-infinitive",
+        "g-negation",
+        "g-readiness-time",
+        "g-object-pronouns",
+        "g-object-gender",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-podemos",
+        "v-no",
+        "v-publicar",
+        "v-la",
+        "v-todavia-no"
+      ],
+      "outcome": "Correct transformation moving todavía to the beginning while retaining modelled publicarla. Feminine object, polarity and time meaning correct; accent/capitalization supplied. Immediate model-supported transformation."
+    }
+  ],
+  "nextSteps": [
+    "Recheck esto, esta función and object la after intervening material",
+    "Recall puedes requests without a fresh model",
+    "Revisit readiness verb/gender and location before adding more patterns"
+  ],
+  "skippedUnitIds": [],
+  "assessmentNote": "Grammatical responses with different meanings are distinguished from exact target matches. Immediate model-supported transformations are not evidence of delayed retention. No new vocabulary or grammar introduced."
+}
