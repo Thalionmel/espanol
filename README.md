@@ -14,6 +14,7 @@ A shared Spanish learning record for conversation-based teaching and future trai
 - [Recall, what questions and needing to act](data/sessions/2026-11-10-06.json)
 - [Need, can and negation practice](data/sessions/2026-11-10-07.json)
 - [Logo use and readiness agreement](data/sessions/2026-11-10-08.json)
+- [Readiness: not yet and ready now](data/sessions/2026-11-10-09.json)
 - [Data format and update rules](docs/data-format.md)
 - [Instructions for future assistants](AGENTS.md)
 
@@ -46,7 +47,9 @@ Correctly used **No necesitamos publicarlo** and transformed it to **No lo neces
 
 Used the bear-logo task as real language context, then correctly used **usarlo** for **el logo** and **usarla** for **la función**. Readiness **está listo / está lista** was modelled and sometimes correct, but agreement later became inconsistent. In **La función no está lista**, the learner placed **no** correctly and needed the feminine adjective supplied.
 
-Next: stabilise **el logo está listo / la función está lista**, then revisit familiar modal forms, questions and object pronouns after a gap.
+In the following round, readiness gender was correct in five consecutive immediate contexts, including **No podemos usarla porque no está lista**. Introduced **todavía no** (not yet) and **ya** (already/now), with correct transfers and the natural **Podemos usarla ya**.
+
+Next: ask a can-use-it-now question, then recheck time meaning, readiness gender and familiar forms after a gap. Accents and **función** spelling remain separate review items.
 Review software vocabulary such as **probar**, **revisar**, **los logros**, and **ejecutar las pruebas**.
 Location with **estar** still needs independent recall. **Hablo** was recalled without a hint; the surrounding phrase needed **un poco de español** and spelling corrections.
 

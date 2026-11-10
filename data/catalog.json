@@ -352,13 +352,16 @@
       "sessionIds": [
         "2026-11-10-01",
         "2026-11-10-03",
-        "2026-11-10-08"
+        "2026-11-10-08",
+        "2026-11-10-09"
       ],
       "observationIds": [
         "o-probar",
         "o-l3-object-gender",
         "o-l3-probarla",
-        "o-l8-feature-negative"
+        "o-l8-feature-negative",
+        "o-l9-feature-positive",
+        "o-l9-ready-now"
       ]
     },
     {
@@ -387,7 +390,8 @@
       "lastSeen": "2026-11-10",
       "sessionIds": [
         "2026-11-10-01",
-        "2026-11-10-08"
+        "2026-11-10-08",
+        "2026-11-10-09"
       ],
       "observationIds": [
         "o-location",
@@ -395,7 +399,12 @@
         "o-l8-ready-feature",
         "o-l8-ready-question",
         "o-l8-yes-ready",
-        "o-l8-feature-negative"
+        "o-l8-feature-negative",
+        "o-l9-logo-negative",
+        "o-l9-feature-positive",
+        "o-l9-cannot-because",
+        "o-l9-not-yet",
+        "o-l9-ready-now"
       ]
     },
     {
@@ -494,12 +503,15 @@
       "lastSeen": "2026-11-10",
       "sessionIds": [
         "2026-11-10-01",
-        "2026-11-10-08"
+        "2026-11-10-08",
+        "2026-11-10-09"
       ],
       "observationIds": [
         "o-l8-ready-logo",
         "o-l8-ready-question",
-        "o-l8-yes-ready"
+        "o-l8-yes-ready",
+        "o-l9-logo-negative",
+        "o-l9-not-yet"
       ]
     },
     {
@@ -1129,13 +1141,16 @@
         "o-l7-can-no-object",
         "o-l7-can-positive",
         "o-l7-can-negative",
-        "o-l8-usarlo"
+        "o-l8-usarlo",
+        "o-l9-cannot-because",
+        "o-l9-use-now"
       ],
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
       "sessionIds": [
         "2026-11-10-07",
-        "2026-11-10-08"
+        "2026-11-10-08",
+        "2026-11-10-09"
       ]
     },
     {
@@ -1161,12 +1176,15 @@
       "note": "Used in a work request and readiness question; noun is masculine.",
       "observationIds": [
         "o-l8-logo-request",
-        "o-l8-ready-question"
+        "o-l8-ready-question",
+        "o-l9-logo-negative",
+        "o-l9-not-yet"
       ],
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
       "sessionIds": [
-        "2026-11-10-08"
+        "2026-11-10-08",
+        "2026-11-10-09"
       ]
     },
     {
@@ -1223,29 +1241,67 @@
       "status": "used_successfully",
       "note": "Correctly selected for the stated referent la función.",
       "observationIds": [
-        "o-l8-ready-feature"
+        "o-l8-ready-feature",
+        "o-l9-cannot-because",
+        "o-l9-use-now"
       ],
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
       "sessionIds": [
-        "2026-11-10-08"
+        "2026-11-10-08",
+        "2026-11-10-09"
       ]
     },
     {
       "id": "v-lista",
       "spanish": "lista",
       "english": "ready (feminine singular)",
-      "status": "used_with_correction",
-      "note": "Initially correct after a model, then replaced with listo incorrectly for la función; corrected again.",
+      "status": "used_successfully",
+      "note": "Following earlier inconsistent agreement, correctly used feminine lista in three immediate contexts in the next round. Long-gap recall still pending.",
       "observationIds": [
         "o-l8-ready-feature",
         "o-l8-ready-question",
-        "o-l8-feature-negative"
+        "o-l8-feature-negative",
+        "o-l9-feature-positive",
+        "o-l9-cannot-because",
+        "o-l9-ready-now"
       ],
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
       "sessionIds": [
-        "2026-11-10-08"
+        "2026-11-10-08",
+        "2026-11-10-09"
+      ]
+    },
+    {
+      "id": "v-todavia-no",
+      "spanish": "todavía no",
+      "english": "not yet",
+      "note": "Introduced and correctly transferred to a masculine-logo sentence; accents supplied.",
+      "observationIds": [
+        "o-l9-not-yet"
+      ],
+      "status": "used_successfully",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-09"
+      ]
+    },
+    {
+      "id": "v-ya",
+      "spanish": "ya",
+      "english": "already / now (in these contexts)",
+      "note": "Correctly used before está and at the end of Podemos usarla ya; other senses not taught.",
+      "observationIds": [
+        "o-l9-ready-now",
+        "o-l9-use-now"
+      ],
+      "status": "used_successfully",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-09"
       ]
     }
   ],
@@ -1297,7 +1353,8 @@
         "o-l5-leemos",
         "o-l6-comprendemos",
         "o-l8-ready-logo",
-        "o-l8-ready-feature"
+        "o-l8-ready-feature",
+        "o-l9-cannot-because"
       ],
       "nextReview": "Use a new work-related reason, then revisit after a gap.",
       "lastPractised": "2026-11-10",
@@ -1307,7 +1364,8 @@
         "2026-11-10-04",
         "2026-11-10-05",
         "2026-11-10-06",
-        "2026-11-10-08"
+        "2026-11-10-08",
+        "2026-11-10-09"
       ]
     },
     {
@@ -1357,7 +1415,10 @@
         "o-l7-lo-fragment",
         "o-l7-can-positive",
         "o-l7-can-negative",
-        "o-l8-feature-negative"
+        "o-l8-feature-negative",
+        "o-l9-logo-negative",
+        "o-l9-cannot-because",
+        "o-l9-not-yet"
       ],
       "nextReview": "Correctly placed no between an explicit noun subject and está in La función no está lista; adjective correction was separate. Recheck polarity in a new sentence.",
       "lastPractised": "2026-11-10",
@@ -1365,7 +1426,8 @@
         "2026-11-10-01",
         "2026-11-10-03",
         "2026-11-10-07",
-        "2026-11-10-08"
+        "2026-11-10-08",
+        "2026-11-10-09"
       ]
     },
     {
@@ -1436,7 +1498,12 @@
         "o-l8-ready-feature",
         "o-l8-ready-question",
         "o-l8-yes-ready",
-        "o-l8-feature-negative"
+        "o-l8-feature-negative",
+        "o-l9-logo-negative",
+        "o-l9-feature-positive",
+        "o-l9-cannot-because",
+        "o-l9-not-yet",
+        "o-l9-ready-now"
       ],
       "nextReview": "Observe naturally; avoid repetitive spelling drills.",
       "lastPractised": "2026-11-10",
@@ -1447,7 +1514,8 @@
         "2026-11-10-05",
         "2026-11-10-06",
         "2026-11-10-07",
-        "2026-11-10-08"
+        "2026-11-10-08",
+        "2026-11-10-09"
       ]
     },
     {
@@ -1504,7 +1572,8 @@
         "o-l7-lo-fragment",
         "o-l7-can-positive",
         "o-l7-can-negative",
-        "o-l8-usarlo"
+        "o-l8-usarlo",
+        "o-l9-use-now"
       ],
       "nextReview": "Both attached and before-conjugated-verb positions used successfully in a prompted negative transformation. Test choice of position without instructions after a gap.",
       "lastPractised": "2026-11-10",
@@ -1513,7 +1582,8 @@
         "2026-11-10-03",
         "2026-11-10-06",
         "2026-11-10-07",
-        "2026-11-10-08"
+        "2026-11-10-08",
+        "2026-11-10-09"
       ]
     },
     {
@@ -1542,13 +1612,15 @@
       "observationIds": [
         "o-l3-it-misplaced",
         "o-l3-reason-success",
-        "o-l8-ready-logo"
+        "o-l8-ready-logo",
+        "o-l9-cannot-because"
       ],
       "nextReview": "Used the distinction correctly in an immediate new translation. Recheck after a gap with a different familiar verb and reason.",
       "lastPractised": "2026-11-10",
       "sessionIds": [
         "2026-11-10-03",
-        "2026-11-10-08"
+        "2026-11-10-08",
+        "2026-11-10-09"
       ]
     },
     {
@@ -1560,13 +1632,16 @@
       "observationIds": [
         "o-l3-object-gender",
         "o-l3-probarla",
-        "o-l8-ready-feature"
+        "o-l8-ready-feature",
+        "o-l9-cannot-because",
+        "o-l9-use-now"
       ],
       "nextReview": "Immediate selection succeeded with an explicit referent and verb hint. Recheck without hints after a gap.",
       "lastPractised": "2026-11-10",
       "sessionIds": [
         "2026-11-10-03",
-        "2026-11-10-08"
+        "2026-11-10-08",
+        "2026-11-10-09"
       ]
     },
     {
@@ -1696,50 +1771,65 @@
         "o-l7-lo-fragment",
         "o-l7-can-positive",
         "o-l7-can-negative",
-        "o-l8-usarlo"
+        "o-l8-usarlo",
+        "o-l9-cannot-because",
+        "o-l9-use-now"
       ],
       "nextReview": "Test affirmative versus negative meaning and keep the requested object without a recent placement instruction.",
       "lastPractised": "2026-11-10",
       "sessionIds": [
         "2026-11-10-07",
-        "2026-11-10-08"
+        "2026-11-10-08",
+        "2026-11-10-09"
       ]
     },
     {
       "id": "g-estar-readiness",
       "pattern": "está listo / está lista",
       "meaning": "It is ready; report readiness with está.",
-      "status": "used_with_correction",
+      "status": "used_successfully",
       "explanation": "Used está listo as a readiness chunk and supplied está after one esto error. This is readiness usage, not a complete explanation of ser versus estar.",
       "observationIds": [
         "o-l8-ready-logo",
         "o-l8-ready-feature",
         "o-l8-ready-question",
         "o-l8-yes-ready",
-        "o-l8-feature-negative"
+        "o-l8-feature-negative",
+        "o-l9-logo-negative",
+        "o-l9-feature-positive",
+        "o-l9-cannot-because",
+        "o-l9-not-yet",
+        "o-l9-ready-now"
       ],
-      "nextReview": "Recall the complete readiness chunk without confusing está and esto.",
+      "nextReview": "After earlier corrections, readiness verb and gender were correct in five consecutive immediate contexts. Check with new nouns after a gap; accents and función spelling remain separate corrections.",
       "lastPractised": "2026-11-10",
       "sessionIds": [
-        "2026-11-10-08"
+        "2026-11-10-08",
+        "2026-11-10-09"
       ]
     },
     {
       "id": "g-listo-lista",
       "pattern": "el logo → listo; la función → lista",
       "meaning": "Match this adjective's singular ending to the noun's grammatical gender.",
-      "status": "used_with_correction",
+      "status": "used_successfully",
       "explanation": "Listo with masculine el logo; lista with feminine la función. Initially selected both correctly after models but later mismatched them in a question and negative sentence.",
       "observationIds": [
         "o-l8-ready-feature",
         "o-l8-ready-question",
         "o-l8-yes-ready",
-        "o-l8-feature-negative"
+        "o-l8-feature-negative",
+        "o-l9-logo-negative",
+        "o-l9-feature-positive",
+        "o-l9-cannot-because",
+        "o-l9-not-yet",
+        "o-l9-ready-now"
       ],
-      "nextReview": "Practise the minimal noun/adjective pair, then revisit it after a gap. Agreement is not yet stable.",
+      "nextReview": "After earlier corrections, readiness verb and gender were correct in five consecutive immediate contexts. Check with new nouns after a gap; accents and función spelling remain separate corrections.",
       "lastPractised": "2026-11-10",
       "sessionIds": [
-        "2026-11-10-08"
+        "2026-11-10-08",
+        "2026-11-10-09"
       ]
     },
     {
@@ -1755,6 +1845,23 @@
       "lastPractised": "2026-11-10",
       "sessionIds": [
         "2026-11-10-08"
+      ]
+    },
+    {
+      "id": "g-readiness-time",
+      "pattern": "todavía no / ya with readiness or ability",
+      "meaning": "Not yet versus already/now in the practised contexts.",
+      "status": "used_successfully",
+      "explanation": "El logo todavía no está listo = The logo isn't ready yet. La función ya está lista = The feature is ready now. Podemos usarla ya and Ya podemos usarla are both natural here; this is not a universal rule for all adverb positions.",
+      "observationIds": [
+        "o-l9-not-yet",
+        "o-l9-ready-now",
+        "o-l9-use-now"
+      ],
+      "nextReview": "Correct immediate transfers after models. Revisit the time contrast and question form after a gap.",
+      "lastPractised": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-09"
       ]
     }
   ],
@@ -2100,10 +2207,10 @@
       "seconds": 45,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 4,
+      "attemptCount": 5,
       "lastAttempt": "2026-11-10",
-      "lastAttemptSessionId": "2026-11-10-07",
-      "lastAttemptVariant": "Can test it; can't test it with partial response and retry; can't publish it.",
+      "lastAttemptSessionId": "2026-11-10-09",
+      "lastAttemptVariant": "We can't use it because it isn't ready; feminine feature referent.",
       "lastOutcome": "used_successfully",
       "nextReview": "after_a_gap"
     },
@@ -2130,12 +2237,12 @@
       "seconds": 45,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 5,
+      "attemptCount": 10,
       "lastAttempt": "2026-11-10",
-      "lastAttemptSessionId": "2026-11-10-08",
-      "lastAttemptVariant": "Ready logo/feature statements, logo question and answer, then negative feature statement.",
-      "lastOutcome": "used_with_correction",
-      "nextReview": "next_suitable_session"
+      "lastAttemptSessionId": "2026-11-10-09",
+      "lastAttemptVariant": "Masculine/feminine positive and negative readiness, then todavía no and ya.",
+      "lastOutcome": "used_successfully",
+      "nextReview": "after_a_gap"
     },
     {
       "id": "u-usar-logo",
@@ -2162,10 +2269,43 @@
       "seconds": 45,
       "optional": true,
       "selection": "enabled",
+      "attemptCount": 5,
+      "lastAttempt": "2026-11-10",
+      "lastAttemptSessionId": "2026-11-10-09",
+      "lastAttemptVariant": "We can't use it because it isn't ready; we can use it now.",
+      "lastOutcome": "used_successfully",
+      "nextReview": "after_a_gap"
+    },
+    {
+      "id": "u-ready-time",
+      "title": "Not yet or ready now?",
+      "grammarIds": [
+        "g-readiness-time",
+        "g-estar-readiness",
+        "g-listo-lista"
+      ],
+      "vocabularyIds": [
+        "v-todavia-no",
+        "v-ya",
+        "v-logo",
+        "v-funcion",
+        "v-listo",
+        "v-lista"
+      ],
+      "prompt": "Say: The feature is ready now.",
+      "modelAnswer": "La función ya está lista.",
+      "acceptedAnswers": [
+        "La función está lista ya."
+      ],
+      "hint": "Ready now uses ya; not yet uses todavía no.",
+      "feedbackFocus": "Match time meaning, polarity and noun gender; accept natural ya placement variations.",
+      "seconds": 45,
+      "optional": true,
+      "selection": "enabled",
       "attemptCount": 3,
       "lastAttempt": "2026-11-10",
-      "lastAttemptSessionId": "2026-11-10-08",
-      "lastAttemptVariant": "We can use it; add ready reason for the logo; change referent to la función.",
+      "lastAttemptSessionId": "2026-11-10-09",
+      "lastAttemptVariant": "Logo isn't ready yet; feature is ready now; we can use it now.",
       "lastOutcome": "used_successfully",
       "nextReview": "after_a_gap"
     }

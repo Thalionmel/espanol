@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-10-09",
+  "date": "2026-11-10",
+  "source": "Six learning exchanges saved as one batch",
+  "lessonTheme": "Readiness agreement, not yet and ready now",
+  "duration": {
+    "requestedMinutes": null,
+    "measuredMinutes": null
+  },
+  "summary": "Correctly matched listo/lista in five consecutive immediate practice contexts, including a double-negative reason sentence. Introduced todavía no and ya. Correctly used ya in a feature-readiness statement, then chose the valid sentence-final position in Podemos usarla ya. Accents and Spanish spelling of función remained supplied.",
+  "observations": [
+    {
+      "id": "o-l9-logo-negative",
+      "kind": "prompted_contrast",
+      "learnerText": "El Logo No esta listo",
+      "correctedText": "El logo no está listo.",
+      "grammarIds": [
+        "g-estar-readiness",
+        "g-listo-lista",
+        "g-negation",
+        "g-spelling"
+      ],
+      "outcome": "Correct masculine agreement, readiness verb and negation placement. Standard capitalization and accent supplied."
+    },
+    {
+      "id": "o-l9-feature-positive",
+      "kind": "prompted_contrast",
+      "learnerText": "La function esta lista",
+      "correctedText": "La función está lista.",
+      "grammarIds": [
+        "g-estar-readiness",
+        "g-listo-lista",
+        "g-spelling"
+      ],
+      "outcome": "Correct feminine agreement and affirmative meaning. Supplied Spanish función and the accent in está."
+    },
+    {
+      "id": "o-l9-cannot-because",
+      "kind": "prompted_combination",
+      "learnerText": "No podemos usarla porque No esta lista",
+      "correctedText": "No podemos usarla porque no está lista.",
+      "grammarIds": [
+        "g-podemos-infinitive",
+        "g-negation",
+        "g-object-gender",
+        "g-object-vs-subject-it",
+        "g-porque",
+        "g-estar-readiness",
+        "g-listo-lista",
+        "g-spelling"
+      ],
+      "outcome": "Correct two negatives, feminine object la, unstated subject in the reason clause and feminine lista. Standard spelling supplied. Tutor then introduced todavía no with a readiness model."
+    },
+    {
+      "id": "o-l9-not-yet",
+      "kind": "prompted_transfer",
+      "learnerText": "El Logo todavia No esta listo",
+      "correctedText": "El logo todavía no está listo.",
+      "grammarIds": [
+        "g-readiness-time",
+        "g-estar-readiness",
+        "g-listo-lista",
+        "g-negation",
+        "g-spelling"
+      ],
+      "outcome": "Correct todavía no placement and masculine agreement after a feminine model. Supplied accents/capitalization. Tutor then introduced ya for ready now."
+    },
+    {
+      "id": "o-l9-ready-now",
+      "kind": "prompted_transfer",
+      "learnerText": "La function ya esta lista",
+      "correctedText": "La función ya está lista.",
+      "grammarIds": [
+        "g-readiness-time",
+        "g-estar-readiness",
+        "g-listo-lista",
+        "g-spelling"
+      ],
+      "outcome": "Correct ya and feminine agreement after a masculine model. Spanish función and accent supplied."
+    },
+    {
+      "id": "o-l9-use-now",
+      "kind": "prompted_transfer",
+      "learnerText": "Podemos usarla ya",
+      "correctedText": null,
+      "grammarIds": [
+        "g-readiness-time",
+        "g-podemos-infinitive",
+        "g-object-gender",
+        "g-object-pronouns"
+      ],
+      "outcome": "Correct use of sentence-final ya and feminine object la without being given the full target form. Tutor confirmed Ya podemos usarla is also natural. This is immediate transfer; no long-gap retention test."
+    }
+  ],
+  "nextSteps": [
+    "Turn the valid can-use-it-now statement into a yes/no question",
+    "Recheck readiness gender with new familiar nouns after a gap",
+    "Preserve polarity and distinguish not yet from ready now",
+    "Treat ongoing accent/función spelling separately from correct grammar"
+  ],
+  "skippedUnitIds": [],
+  "assessmentNote": "Agreement was consistent in this immediate round after earlier corrections. Long-term retention is unassessed; standard spelling was still supplied."
+}

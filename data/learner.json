@@ -66,10 +66,11 @@
     "g-podemos-infinitive",
     "g-estar-readiness",
     "g-listo-lista",
-    "g-yes-no-question"
+    "g-yes-no-question",
+    "g-readiness-time"
   ],
   "nextUnitIds": [
-    "u-ready-agreement",
+    "u-ready-time",
     "u-podemos-negative",
     "u-para-vs-porque",
     "u-hablo",
@@ -83,7 +84,8 @@
     "u-que-question",
     "u-regular-er-we",
     "u-necesitamos",
-    "u-usar-logo"
+    "u-usar-logo",
+    "u-ready-agreement"
   ],
   "reviewPolicy": {
     "mode": "During suitable conversations; no reminders or background scheduling",
@@ -99,7 +101,7 @@
     ],
     "intervalsAreFlexible": true
   },
-  "latestSessionId": "2026-11-10-08",
+  "latestSessionId": "2026-11-10-09",
   "disclosureAuthorization": {
     "publicLearningRecord": true,
     "ongoingUpdatesAuthorized": true,
