@@ -70,6 +70,7 @@
     "g-readiness-time"
   ],
   "nextUnitIds": [
+    "u-ready-agreement",
     "u-ready-time",
     "u-para-vs-porque",
     "u-yes-no-question",
@@ -85,8 +86,7 @@
     "u-que-question",
     "u-regular-er-we",
     "u-necesitamos",
-    "u-usar-logo",
-    "u-ready-agreement"
+    "u-usar-logo"
   ],
   "reviewPolicy": {
     "mode": "During suitable conversations; no reminders or background scheduling",
@@ -102,7 +102,7 @@
     ],
     "intervalsAreFlexible": true
   },
-  "latestSessionId": "2026-11-10-10",
+  "latestSessionId": "2026-11-10-11",
   "disclosureAuthorization": {
     "publicLearningRecord": true,
     "ongoingUpdatesAuthorized": true,

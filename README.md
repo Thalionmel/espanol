@@ -16,6 +16,7 @@ A shared Spanish learning record for conversation-based teaching and future trai
 - [Logo use and readiness agreement](data/sessions/2026-11-10-08.json)
 - [Readiness: not yet and ready now](data/sessions/2026-11-10-09.json)
 - [Questions, readiness recall and time meaning](data/sessions/2026-11-10-10.json)
+- [Purpose, reasons and not-yet recall](data/sessions/2026-11-10-11.json)
 - [Data format and update rules](docs/data-format.md)
 - [Instructions for future assistants](AGENTS.md)
 
@@ -52,7 +53,9 @@ In the following round, readiness gender was correct in five consecutive immedia
 
 Next round: after **Yo no sé** and a question model, produced three structurally correct prompted yes/no questions, including **¿Podemos usarla ya?**. Correctly chose **lo/la** and **listo/lista**. **Esto** for **está** recurred once, followed by two correct readiness statements. Omitted requested “yet” from an otherwise grammatical negative reason; **todavía no** was supplied again. **Ya** was correctly recalled in a statement and question. Opening question marks and accents remain supplied.
 
-Next: recheck **todavía no** and **está** after intervening material, then revisit familiar purpose/reason and location patterns. Delayed retention remains untested.
+Later recalled **Leemos para aprender español**, **Leemos porque queremos aprender español**, and **Queremos probarla** without Spanish form hints. Not-yet recall initially produced **Lo no está listo ya**: subject **lo** and time meaning were corrected. Then **todavía** placement was valid, but **la función ... listo** needed feminine **lista**. Correctly transferred **Todavía no podemos usarla**, then switched to **Podemos usarla ya**.
+
+Next: recheck feminine readiness and unstated subject with **todavía no**, then revisit location and earlier practical phrases. Successful same-day recall and immediate transfers do not establish delayed retention.
 Review software vocabulary such as **probar**, **revisar**, **los logros**, and **ejecutar las pruebas**.
 Location with **estar** still needs independent recall. **Hablo** was recalled without a hint; the surrounding phrase needed **un poco de español** and spelling corrections.
 

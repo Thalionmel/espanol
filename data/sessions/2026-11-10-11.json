@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-10-11",
+  "date": "2026-11-10",
+  "source": "Seven learning exchanges saved as one batch",
+  "lessonTheme": "Purpose and reason recall, not yet versus now, testing vocabulary",
+  "duration": {
+    "requestedMinutes": null,
+    "measuredMinutes": null
+  },
+  "summary": "Recalled Leemos para aprender español and Leemos porque queremos aprender español, with spelling corrections only. Readiness recall initially confused object lo with subject it and ya with not yet. After correction, todavía placement was valid; feminine lista needed correction. Correctly transferred todavía no to ability, then switched to ya. Recalled Queremos probarla without a Spanish form hint.",
+  "observations": [
+    {
+      "id": "o-l11-purpose",
+      "kind": "prompted_transfer",
+      "learnerText": "Leemos Para aprender espanol",
+      "correctedText": "Leemos para aprender español.",
+      "grammarIds": [
+        "g-leer-present",
+        "g-para-purpose",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-leemos",
+        "v-para",
+        "v-aprender",
+        "v-espanol"
+      ],
+      "outcome": "Correct leemos and para + infinitive without a form hint; capitalization and ñ supplied."
+    },
+    {
+      "id": "o-l11-reason",
+      "kind": "prompted_transfer",
+      "learnerText": "Leemos porque queremos aprender espanol",
+      "correctedText": "Leemos porque queremos aprender español.",
+      "grammarIds": [
+        "g-leer-present",
+        "g-porque",
+        "g-querer-person",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-leemos",
+        "v-porque",
+        "v-queremos",
+        "v-aprender",
+        "v-espanol"
+      ],
+      "outcome": "Correct reason clause and queremos recalled after intervening readiness practice. Supplied ñ; no verb correction needed."
+    },
+    {
+      "id": "o-l11-not-yet-recall",
+      "kind": "prompted_transfer",
+      "learnerText": "Lo No esta listo ya",
+      "correctedText": "Todavía no está listo.",
+      "grammarIds": [
+        "g-object-vs-subject-it",
+        "g-negation",
+        "g-estar-readiness",
+        "g-listo-lista",
+        "g-readiness-time",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-lo",
+        "v-no",
+        "v-estar",
+        "v-listo",
+        "v-ya",
+        "v-todavia-no"
+      ],
+      "outcome": "Requested It isn't ready yet. Incorrect subject lo and use of ya for requested not yet corrected. Tutor explained todavía no and that subject it is unstated here; lo is an object pronoun. Masculine listo and negation otherwise appropriate."
+    },
+    {
+      "id": "o-l11-feature-not-yet",
+      "kind": "prompted_transfer",
+      "learnerText": "Todavia la funcion no esta listo",
+      "correctedText": "Todavía la función no está lista.",
+      "grammarIds": [
+        "g-readiness-time",
+        "g-estar-readiness",
+        "g-listo-lista",
+        "g-negation",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-todavia-no",
+        "v-funcion",
+        "v-estar",
+        "v-lista"
+      ],
+      "outcome": "Valid initial todavía placement and subject la función after the model. Correct time meaning, but feminine lista needed correction. Tutor also modelled La función todavía no está lista. Accents supplied."
+    },
+    {
+      "id": "o-l11-cannot-yet",
+      "kind": "prompted_transfer",
+      "learnerText": "Todavia No podemos usarla",
+      "correctedText": "Todavía no podemos usarla.",
+      "grammarIds": [
+        "g-readiness-time",
+        "g-negation",
+        "g-podemos-infinitive",
+        "g-object-pronouns",
+        "g-object-gender",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-todavia-no",
+        "v-podemos",
+        "v-usarla",
+        "v-no"
+      ],
+      "outcome": "Correct transfer of todavía no to ability and feminine object la for stated function referent. Accent/capitalization supplied; immediate practice, not delayed retention."
+    },
+    {
+      "id": "o-l11-can-now",
+      "kind": "prompted_transfer",
+      "learnerText": "Podemos usarla ya",
+      "correctedText": null,
+      "grammarIds": [
+        "g-readiness-time",
+        "g-podemos-infinitive",
+        "g-object-pronouns",
+        "g-object-gender"
+      ],
+      "vocabularyIds": [
+        "v-podemos",
+        "v-usarla",
+        "v-ya"
+      ],
+      "outcome": "Correct switch from not yet to now, using natural sentence-final ya and retaining la."
+    },
+    {
+      "id": "o-l11-test-recall",
+      "kind": "prompted_recall",
+      "learnerText": "Queremos probarla",
+      "correctedText": null,
+      "grammarIds": [
+        "g-querer-person",
+        "g-quiero-infinitive",
+        "g-object-pronouns",
+        "g-object-gender"
+      ],
+      "vocabularyIds": [
+        "v-queremos",
+        "v-probar",
+        "v-probarla",
+        "v-la"
+      ],
+      "outcome": "Correct queremos, probar and feminine object la for the stated función referent. No Spanish form or vocabulary hint provided; earlier version in session03 included a probar reminder. This remains same-day recall."
+    }
+  ],
+  "nextSteps": [
+    "Recheck feminine readiness with todavía no after intervening material",
+    "Recheck omission of subject it and distinguish it from object lo/la",
+    "Review location with estar, which has not yet had an independent correct retry",
+    "Return to earlier goals and permission phrases before adding more grammar"
+  ],
+  "skippedUnitIds": [],
+  "assessmentNote": "Correct immediate transfer after a model is distinguished from same-day recall without a form hint. No evidence of long-term retention. Orthography assessed separately; no keyboard limitation assumed."
+}
