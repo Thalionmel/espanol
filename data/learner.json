@@ -37,15 +37,16 @@
     "g-porque",
     "g-querer-person",
     "g-negation",
-    "g-object-pronouns"
+    "g-object-pronouns",
+    "g-object-vs-subject-it"
   ],
   "nextUnitIds": [
-    "u-goal-reason",
     "u-probar",
     "u-hablo",
     "u-permission",
     "u-queremos",
-    "u-negation"
+    "u-negation",
+    "u-goal-reason"
   ],
   "reviewPolicy": {
     "mode": "During suitable conversations; no reminders or background scheduling",

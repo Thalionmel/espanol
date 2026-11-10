@@ -11,10 +11,12 @@
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
       "sessionIds": [
-        "2026-11-10-01"
+        "2026-11-10-01",
+        "2026-11-10-03"
       ],
       "observationIds": [
-        "o-independent"
+        "o-independent",
+        "o-l3-reason-success"
       ]
     },
     {
@@ -121,10 +123,12 @@
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
       "sessionIds": [
-        "2026-11-10-01"
+        "2026-11-10-01",
+        "2026-11-10-03"
       ],
       "observationIds": [
-        "o-independent"
+        "o-independent",
+        "o-l3-reason-success"
       ]
     },
     {
@@ -169,10 +173,12 @@
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
       "sessionIds": [
-        "2026-11-10-01"
+        "2026-11-10-01",
+        "2026-11-10-03"
       ],
       "observationIds": [
-        "o-independent"
+        "o-independent",
+        "o-l3-reason-success"
       ]
     },
     {
@@ -676,7 +682,8 @@
       "note": "Initially separated as revisar lo; then used correctly in Queremos revisarlo. Recall after a gap remains untested.",
       "observationIds": [
         "o-l3-spacing",
-        "o-l3-queremos"
+        "o-l3-queremos",
+        "o-l3-reason-success"
       ],
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
@@ -725,7 +732,8 @@
       "observationIds": [
         "o-quiero",
         "o-independent",
-        "o-l3-spacing"
+        "o-l3-spacing",
+        "o-l3-reason-success"
       ],
       "nextReview": "Combine with different familiar verbs without a model.",
       "lastPractised": "2026-11-10",
@@ -742,12 +750,15 @@
       "explanation": "Quiero revisar esto porque es importante.",
       "observationIds": [
         "o-porque",
-        "o-independent"
+        "o-independent",
+        "o-l3-it-misplaced",
+        "o-l3-reason-success"
       ],
       "nextReview": "Use a new work-related reason, then revisit after a gap.",
       "lastPractised": "2026-11-10",
       "sessionIds": [
-        "2026-11-10-01"
+        "2026-11-10-01",
+        "2026-11-10-03"
       ]
     },
     {
@@ -778,7 +789,8 @@
       "observationIds": [
         "o-negation",
         "o-l3-negation",
-        "o-l3-negation-fronted"
+        "o-l3-negation-fronted",
+        "o-l3-it-misplaced"
       ],
       "nextReview": "Used no correctly with queremos in both pronoun positions after a negation hint. Recheck independently after a gap.",
       "lastPractised": "2026-11-10",
@@ -881,7 +893,9 @@
         "o-l3-options",
         "o-l3-queremos",
         "o-l3-negation",
-        "o-l3-negation-fronted"
+        "o-l3-negation-fronted",
+        "o-l3-it-misplaced",
+        "o-l3-reason-success"
       ],
       "nextReview": "Both attached and before-conjugated-verb positions used successfully in a prompted negative transformation. Test choice of position without instructions after a gap.",
       "lastPractised": "2026-11-10",
@@ -903,6 +917,22 @@
       "lastPractised": "2026-11-10",
       "sessionIds": [
         "2026-11-10-02"
+      ]
+    },
+    {
+      "id": "g-object-vs-subject-it",
+      "pattern": "object lo versus an unstated subject",
+      "meaning": "Distinguish publish it from it is correct.",
+      "status": "used_successfully",
+      "explanation": "Lo represents the object in publicarlo or revisarlo. In the examples no es correcto and es importante, English subject it is left unstated in Spanish. This does not establish a general rule to omit every subject.",
+      "observationIds": [
+        "o-l3-it-misplaced",
+        "o-l3-reason-success"
+      ],
+      "nextReview": "Used the distinction correctly in an immediate new translation. Recheck after a gap with a different familiar verb and reason.",
+      "lastPractised": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-03"
       ]
     }
   ],
@@ -1024,9 +1054,11 @@
       "seconds": 60,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 0,
-      "lastAttempt": null,
-      "nextReview": "next_suitable_session"
+      "attemptCount": 1,
+      "lastAttempt": "2026-11-10",
+      "nextReview": "after_a_gap",
+      "lastAttemptSessionId": "2026-11-10-03",
+      "lastAttemptVariant": "I want to review it because it's important."
     },
     {
       "id": "u-permission",

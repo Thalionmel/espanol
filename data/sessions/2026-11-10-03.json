@@ -3,12 +3,12 @@
   "id": "2026-11-10-03",
   "date": "2026-11-10",
   "source": "Short requested lesson during a waiting period",
-  "lessonTheme": "Attached object pronouns and recalling queremos",
+  "lessonTheme": "Object-pronoun placement, negation and reasons",
   "duration": {
     "requestedMinutes": null,
     "measuredMinutes": null
   },
-  "summary": "Initially separated lo from revisar; the attached spelling revisarlo was corrected. Asked whether placement is a rule or an option. Explained the alternatives with querer + infinitive. Then correctly produced Queremos revisarlo without being given queremos in the immediate prompt. Subsequently used no with queremos correctly, with one corrected spelling slip, and successfully transformed the negative sentence to No lo queremos publicar.",
+  "summary": "Initially separated lo from revisar; the attached spelling revisarlo was corrected. Asked whether placement is a rule or an option. Explained the alternatives with querer + infinitive. Then correctly produced Queremos revisarlo without being given queremos in the immediate prompt. Subsequently used no with queremos correctly, with one corrected spelling slip, and successfully transformed the negative sentence to No lo queremos publicar. Initially used object lo in a subject position when adding a reason; after explanation correctly produced Quiero revisarlo porque es importante.",
   "observations": [
     {
       "id": "o-l3-spacing",
@@ -76,11 +76,38 @@
         "g-object-pronouns"
       ],
       "outcome": "Correctly moved lo before queremos while keeping no at the beginning and using the bare infinitive publicar. This followed an explicit placement instruction; independent selection and delayed retention remain untested."
+    },
+    {
+      "id": "o-l3-it-misplaced",
+      "kind": "prompted_attempt",
+      "learnerText": "no queremos publicar porque lo no es correcto",
+      "correctedText": "No queremos publicarlo porque no es correcto.",
+      "grammarIds": [
+        "g-object-vs-subject-it",
+        "g-object-pronouns",
+        "g-negation",
+        "g-porque"
+      ],
+      "outcome": "Used queremos and porque correctly. Omitted object it from publicar, then placed lo in the subject position in the reason clause. Explained object lo versus an unstated subject in no es correcto."
+    },
+    {
+      "id": "o-l3-reason-success",
+      "kind": "prompted_attempt",
+      "learnerText": "Quiero revisarlo porque es importante",
+      "correctedText": null,
+      "grammarIds": [
+        "g-object-vs-subject-it",
+        "g-object-pronouns",
+        "g-quiero-infinitive",
+        "g-porque"
+      ],
+      "outcome": "Correct response to I want to review it because it's important after the distinction was explained. Attached object lo to revisar and left the subject unstated in es importante. Successful immediate transfer, not delayed retention."
     }
   ],
   "nextSteps": [
-    "Combine negation with a reason using porque",
-    "Recall both object-pronoun positions after a gap without a placement instruction",
+    "Practise software feature testing with probar",
+    "Recheck object it versus an unstated subject after a gap",
+    "Recheck negation and pronoun placement without position hints",
     "Retain hablo and por qué recall in the review queue"
   ],
   "skippedUnitIds": [],

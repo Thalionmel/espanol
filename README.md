@@ -21,7 +21,9 @@ Successfully used **Quiero + infinitive + porque + reason**, including:
 
 Successfully recalled **Queremos revisarlo** (We want to review it) after a correction to pronoun attachment. Also used **No queremos publicarlo** and **No lo queremos publicar** correctly for negation and pronoun placement, with one corrected spelling slip and an explicit placement instruction. Delayed independent recall remains untested.
 
-Next short unit: combine negation with a reason using **porque**, followed by later recall checks of **queremos** and pronoun placement.
+Successfully combined an object pronoun with a reason in **Quiero revisarlo porque es importante**, after an explanation of object **lo** versus an unstated subject.
+
+Next short unit: software feature testing with **probar**, followed by later recall of pronoun placement, negation and reasons.
 Review software vocabulary such as **probar**, **revisar**, **los logros**, and **ejecutar las pruebas**.
 Location with **estar** and first-person **hablo** have been explained but still need independent recall.
 
