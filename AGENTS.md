@@ -25,7 +25,12 @@ Separate introduced, discussed, used_with_correction and used_successfully; do n
 Keep stable IDs and schemaVersion, link evidence to the real session and observation, and preserve existing records.
 Store language-learning excerpts only. Avoid copying unrelated work details or personal circumstances into this public repository.
 
-After a meaningful learning exchange, consolidate an update to the relevant records and read it back.
+Batch learning-record updates instead of saving after each sentence or small exercise.
+Read the shared record once at the start of a lesson/chat, then use the current conversation for routine teaching replies.
+Accumulate actual attempts and corrections across roughly 6–10 learner/tutor exchanges, or save sooner at a natural lesson end, topic change, or explicit save request.
+An exchange means one learner reply and its tutor response; the range is approximate, not a reason to interrupt a useful exercise.
+Workflow or preference changes can be saved immediately once. Do not repeatedly fetch the repository or perform writes/readbacks between routine exercises.
+Before each batch save, refresh the affected remote files and head, merge concurrent changes, and perform one consolidated verified update.
 Fetch current content and branch head immediately before writing. Use content SHA checks or a non-forced ref update with an expected head.
 If another chat changed the record, merge its updates before retrying; never overwrite or force-push to bypass concurrency.
 Keep session IDs unique; reuse the same session ID when correcting an uncertain write, rather than duplicating events.

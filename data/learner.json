@@ -24,7 +24,23 @@
     "deselectedUnitIds": [],
     "deselectedGrammarIds": [],
     "deselectedVocabularyIds": [],
-    "unansweredPromptCreatesBacklog": false
+    "unansweredPromptCreatesBacklog": false,
+    "recordUpdates": {
+      "mode": "batched",
+      "approximateLearningExchanges": {
+        "min": 6,
+        "max": 10
+      },
+      "exchangeDefinition": "One learner reply and its tutor response",
+      "saveAt": [
+        "natural_lesson_end",
+        "topic_change",
+        "explicit_save_request"
+      ],
+      "refreshRemote": "At lesson/chat start and immediately before a batch save",
+      "betweenExercises": "Use current conversation; no per-sentence repository reads or writes",
+      "preferenceChanges": "May be saved immediately once"
+    }
   },
   "progression": [
     "Work goals, requests, progress and completion",

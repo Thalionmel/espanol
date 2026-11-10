@@ -55,3 +55,7 @@ Validate JSON syntax, unique IDs, enum values and references before writing.
 Fetch current remote content before saving and preserve concurrent updates.
 
 This repository stores language-learning content, not full chat transcripts or unrelated work information.
+
+## Batched recording
+
+The learner prefers conversation speed over per-sentence synchronization. Accumulate actual learning evidence in the current conversation and save a consolidated batch after roughly 6–10 learner/tutor exchanges, or at a natural lesson end, topic change, or explicit save request. An exchange means one learner reply and tutor response; this is an approximate cadence. Read at lesson/chat start, then avoid repository calls between routine exercises. Fetch current affected files and the head before the batch write, merge concurrent updates, validate, and read back once. Workflow/preference changes may be saved immediately once. Do not claim that unsaved in-conversation observations are already in GitHub.

@@ -46,7 +46,9 @@ Each unit introduces or reviews one pattern, with a short example and at most on
 “Skip this” drops the current exercise; “skip this topic” deselects that topic until the learner opts back in.
 An unanswered prompt creates no backlog. Review happens during suitable conversations; no scheduled reminders are set up.
 
-Read the latest record before teaching and update it after meaningful practice.
+Read the latest record at lesson/chat start, then keep practice flowing using the current conversation.
+Save progress in batches after about 6–10 learning exchanges, or at lesson end, a topic change, or an explicit save request.
+Refresh affected remote files before each batch save; routine exercises do not trigger individual repository updates.
 Use recent corrections and spaced recall to select the next unit.
 Keep examples connected to real work while recording only language-learning evidence.
 This public repository excludes unrelated work contents and personal circumstances.
