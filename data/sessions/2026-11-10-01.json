@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-10-01",
+  "date": "2026-11-10",
+  "source": "Direct learning conversation with the learner",
+  "lessonTheme": "State a goal and explain a reason; apply it to software work",
+  "duration": {
+    "requestedMinutes": 5,
+    "measuredMinutes": null
+  },
+  "summary": "Practised quiero + infinitive and porque + reason. One complete prompted sentence was correct. A self-created work sentence revealed queremos as the next correction target. Discussed probar for software testing versus trying something out.",
+  "observations": [
+    {
+      "id": "o-hablo",
+      "kind": "correction",
+      "learnerText": "Habla un poco",
+      "correctedText": "Hablo un poco",
+      "grammarIds": [
+        "g-hablar-person"
+      ],
+      "outcome": "Correction explained; independent retry not observed."
+    },
+    {
+      "id": "o-location",
+      "kind": "correction",
+      "learnerText": null,
+      "description": "The learner used ser for a person's location.",
+      "grammarIds": [
+        "g-location"
+      ],
+      "outcome": "Estar for location was explained; independent retry not observed."
+    },
+    {
+      "id": "o-quiero",
+      "kind": "prompted_attempt",
+      "learnerText": "Quiero hablar espanol",
+      "correctedText": "Quiero hablar español",
+      "grammarIds": [
+        "g-quiero-infinitive",
+        "g-spelling"
+      ],
+      "outcome": "Correct quiero + infinitive structure. The ñ spelling was supplied."
+    },
+    {
+      "id": "o-porque",
+      "kind": "prompted_attempt",
+      "learnerText": null,
+      "description": "Combined a goal with a reason; wrote poque and espanol.",
+      "grammarIds": [
+        "g-porque",
+        "g-spelling"
+      ],
+      "outcome": "Sentence structure correct; porque and español spelling corrected. Other details omitted as unnecessary personal context."
+    },
+    {
+      "id": "o-negation",
+      "kind": "prompted_attempt",
+      "learnerText": "Quiero revisar esto porque esto ne es correcto",
+      "correctedText": "Quiero revisar esto porque no es correcto.",
+      "grammarIds": [
+        "g-quiero-infinitive",
+        "g-porque",
+        "g-negation"
+      ],
+      "outcome": "Goal and reason successfully combined. No before es was explained; independent negative statement still pending."
+    },
+    {
+      "id": "o-independent",
+      "kind": "prompted_attempt",
+      "learnerText": "quiero revisar esto porque es importante",
+      "correctedText": "Quiero revisar esto porque es importante.",
+      "grammarIds": [
+        "g-quiero-infinitive",
+        "g-porque"
+      ],
+      "outcome": "Correct full sentence after vocabulary hints in the preceding tutor turn; no full-sentence model was shown in that immediate prompt. This is successful use, not a delayed retention test."
+    },
+    {
+      "id": "o-work-transfer",
+      "kind": "self_created_sentence",
+      "learnerText": "quiero testar las achievments porque quieremos deploy them",
+      "correctedText": "Quiero probar los logros porque queremos publicarlos.",
+      "grammarIds": [
+        "g-quiero-infinitive",
+        "g-porque",
+        "g-querer-person"
+      ],
+      "outcome": "Applied goal-and-reason structure to own work. Tutor supplied software vocabulary and corrected quieremos to queremos. Testar was replaced with a natural alternative, not established as an invalid Spanish word."
+    },
+    {
+      "id": "o-probar",
+      "kind": "meaning_discussion",
+      "learnerText": null,
+      "description": "Asked whether probar means testing software rather than trying something out.",
+      "grammarIds": [],
+      "outcome": "Explained that probar covers both; introduced hacer pruebas and ejecutar las pruebas. No independent production of these expressions yet."
+    }
+  ],
+  "nextSteps": [
+    "Recall queremos without a model",
+    "Practise no before a conjugated verb",
+    "Use probar in a software-testing sentence",
+    "Revisit quiero ... porque ... after a gap"
+  ],
+  "skippedUnitIds": [],
+  "assessmentNote": "No formal proficiency assessment or measured retention test has been completed."
+}

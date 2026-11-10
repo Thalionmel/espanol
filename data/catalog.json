@@ -1,0 +1,668 @@
+{
+  "schemaVersion": 1,
+  "lastUpdated": "2026-11-10",
+  "vocabulary": [
+    {
+      "id": "v-quiero",
+      "spanish": "quiero",
+      "english": "I want",
+      "status": "used_successfully",
+      "note": "First-person form of querer.",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-01"
+      ],
+      "observationIds": [
+        "o-independent"
+      ]
+    },
+    {
+      "id": "v-queremos",
+      "spanish": "queremos",
+      "english": "we want",
+      "status": "used_with_correction",
+      "note": "Correction provided for quieremos; not yet independently recalled.",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-01"
+      ],
+      "observationIds": [
+        "o-work-transfer"
+      ]
+    },
+    {
+      "id": "v-hablar",
+      "spanish": "hablar",
+      "english": "to speak",
+      "status": "used_successfully",
+      "note": "Basic verb form after quiero.",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-01"
+      ],
+      "observationIds": [
+        "o-quiero"
+      ]
+    },
+    {
+      "id": "v-espanol",
+      "spanish": "español",
+      "english": "Spanish",
+      "status": "used_with_correction",
+      "note": "Written espanol; ñ correction shown. Keyboard limitations have not been assessed.",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-01"
+      ],
+      "observationIds": [
+        "o-quiero"
+      ]
+    },
+    {
+      "id": "v-aprender",
+      "spanish": "aprender",
+      "english": "to learn",
+      "status": "introduced",
+      "note": "Used in teaching examples; independent production not observed.",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-01"
+      ],
+      "observationIds": []
+    },
+    {
+      "id": "v-revisar",
+      "spanish": "revisar",
+      "english": "to review / check",
+      "status": "used_successfully",
+      "note": "Successfully used in a work sentence.",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-01"
+      ],
+      "observationIds": [
+        "o-independent"
+      ]
+    },
+    {
+      "id": "v-esto",
+      "spanish": "esto",
+      "english": "this",
+      "status": "used_successfully",
+      "note": "Successfully used with revisar.",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-01"
+      ],
+      "observationIds": [
+        "o-independent"
+      ]
+    },
+    {
+      "id": "v-porque",
+      "spanish": "porque",
+      "english": "because",
+      "status": "used_successfully",
+      "note": "Earlier poque was corrected; later produced correctly.",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-01"
+      ],
+      "observationIds": [
+        "o-independent"
+      ]
+    },
+    {
+      "id": "v-no",
+      "spanish": "no",
+      "english": "not / no",
+      "status": "used_with_correction",
+      "note": "Correction from ne es to no es; independent recall pending.",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-01"
+      ],
+      "observationIds": [
+        "o-negation"
+      ]
+    },
+    {
+      "id": "v-correcto",
+      "spanish": "correcto",
+      "english": "correct",
+      "status": "used_successfully",
+      "note": "Used in a sentence whose negation needed correction.",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-01"
+      ],
+      "observationIds": [
+        "o-negation"
+      ]
+    },
+    {
+      "id": "v-importante",
+      "spanish": "importante",
+      "english": "important",
+      "status": "used_successfully",
+      "note": "Successfully used in porque es importante.",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-01"
+      ],
+      "observationIds": [
+        "o-independent"
+      ]
+    },
+    {
+      "id": "v-probar",
+      "spanish": "probar",
+      "english": "to test / try out",
+      "status": "discussed",
+      "note": "Covers software testing and trying something out; context determines the sense.",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-01"
+      ],
+      "observationIds": [
+        "o-probar"
+      ]
+    },
+    {
+      "id": "v-pruebas",
+      "spanish": "hacer pruebas",
+      "english": "to perform testing",
+      "status": "introduced",
+      "note": "Makes the testing activity explicit.",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-01"
+      ],
+      "observationIds": [
+        "o-probar"
+      ]
+    },
+    {
+      "id": "v-ejecutar-pruebas",
+      "spanish": "ejecutar las pruebas",
+      "english": "to run the tests",
+      "status": "introduced",
+      "note": "Useful for automated tests.",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-01"
+      ],
+      "observationIds": [
+        "o-probar"
+      ]
+    },
+    {
+      "id": "v-logros",
+      "spanish": "los logros",
+      "english": "achievements",
+      "status": "introduced",
+      "note": "Software feature terminology supplied after a mixed-language attempt.",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-01"
+      ],
+      "observationIds": [
+        "o-work-transfer"
+      ]
+    },
+    {
+      "id": "v-publicar",
+      "spanish": "publicar",
+      "english": "to publish / release",
+      "status": "introduced",
+      "note": "Used for releasing a feature; deployment wording depends on context.",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-01"
+      ],
+      "observationIds": [
+        "o-work-transfer"
+      ]
+    },
+    {
+      "id": "v-publicarlos",
+      "spanish": "publicarlos",
+      "english": "to publish / release them",
+      "status": "introduced",
+      "note": "Object pronoun los attached to the infinitive; grammar not yet taught.",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-01"
+      ],
+      "observationIds": [
+        "o-work-transfer"
+      ]
+    },
+    {
+      "id": "v-funcion",
+      "spanish": "la función",
+      "english": "the function / feature",
+      "status": "introduced",
+      "note": "In software, the best English equivalent depends on context.",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-01"
+      ],
+      "observationIds": [
+        "o-probar"
+      ]
+    },
+    {
+      "id": "v-objetivo",
+      "spanish": "el objetivo",
+      "english": "the goal",
+      "status": "introduced",
+      "note": "In the pattern El objetivo es...",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-01"
+      ],
+      "observationIds": []
+    },
+    {
+      "id": "v-estar",
+      "spanish": "estar",
+      "english": "to be (including location)",
+      "status": "introduced",
+      "note": "Location correction explained; independent use pending.",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-01"
+      ],
+      "observationIds": [
+        "o-location"
+      ]
+    },
+    {
+      "id": "v-hablo",
+      "spanish": "hablo",
+      "english": "I speak",
+      "status": "used_with_correction",
+      "note": "Correction from habla was shown; independent recall pending.",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-01"
+      ],
+      "observationIds": [
+        "o-hablo"
+      ]
+    },
+    {
+      "id": "v-vivir",
+      "spanish": "vivir",
+      "english": "to live",
+      "status": "used_successfully",
+      "note": "Used vive correctly in a prompted sentence.",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-01"
+      ],
+      "observationIds": [
+        "o-porque"
+      ]
+    },
+    {
+      "id": "v-visitar",
+      "spanish": "visitar",
+      "english": "to visit",
+      "status": "introduced",
+      "note": "Used in teaching examples.",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-01"
+      ],
+      "observationIds": []
+    },
+    {
+      "id": "v-hermano",
+      "spanish": "el hermano",
+      "english": "the brother",
+      "status": "used_successfully",
+      "note": "Vocabulary only; no personal circumstances recorded.",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-01"
+      ],
+      "observationIds": [
+        "o-location"
+      ]
+    },
+    {
+      "id": "v-una-vez-al-ano",
+      "spanish": "una vez al año",
+      "english": "once a year",
+      "status": "introduced",
+      "note": "Translation supplied; independent production not observed.",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-01"
+      ],
+      "observationIds": []
+    },
+    {
+      "id": "v-poco-a-poco",
+      "spanish": "poco a poco",
+      "english": "little by little",
+      "status": "used_successfully",
+      "note": "Used by the learner in conversation.",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-01"
+      ],
+      "observationIds": []
+    },
+    {
+      "id": "v-listo",
+      "spanish": "está listo",
+      "english": "it's ready",
+      "status": "introduced",
+      "note": "For reporting completion.",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-01"
+      ],
+      "observationIds": []
+    },
+    {
+      "id": "v-puedes-revisar",
+      "spanish": "¿Puedes revisar esto?",
+      "english": "Can you check this?",
+      "status": "introduced",
+      "note": "Practical work request.",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-01"
+      ],
+      "observationIds": []
+    },
+    {
+      "id": "v-gracias",
+      "spanish": "gracias",
+      "english": "thank you",
+      "status": "used_successfully",
+      "note": "Used spontaneously in conversation.",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-01"
+      ],
+      "observationIds": []
+    },
+    {
+      "id": "v-bueno",
+      "spanish": "bueno",
+      "english": "good / well / alright",
+      "status": "used_successfully",
+      "note": "Used as a conversational acknowledgement.",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-01"
+      ],
+      "observationIds": []
+    }
+  ],
+  "grammar": [
+    {
+      "id": "g-quiero-infinitive",
+      "pattern": "Quiero + infinitive",
+      "meaning": "I want to do something.",
+      "status": "used_successfully",
+      "explanation": "The verb after quiero stays in its basic form: Quiero revisar esto.",
+      "observationIds": [
+        "o-quiero",
+        "o-independent"
+      ],
+      "nextReview": "Combine with different familiar verbs without a model.",
+      "lastPractised": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-01"
+      ]
+    },
+    {
+      "id": "g-porque",
+      "pattern": "statement + porque + reason",
+      "meaning": "Give a reason using because.",
+      "status": "used_successfully",
+      "explanation": "Quiero revisar esto porque es importante.",
+      "observationIds": [
+        "o-porque",
+        "o-independent"
+      ],
+      "nextReview": "Use a new work-related reason, then revisit after a gap.",
+      "lastPractised": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-01"
+      ]
+    },
+    {
+      "id": "g-querer-person",
+      "pattern": "quiero / queremos",
+      "meaning": "I want / we want.",
+      "status": "used_with_correction",
+      "explanation": "Quiero is first-person singular; queremos is first-person plural. The plural is not quieremos.",
+      "observationIds": [
+        "o-work-transfer"
+      ],
+      "nextReview": "Contrast Quiero revisar esto with Queremos revisar esto.",
+      "lastPractised": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-01"
+      ]
+    },
+    {
+      "id": "g-negation",
+      "pattern": "no + conjugated verb",
+      "meaning": "Negate a statement.",
+      "status": "used_with_correction",
+      "explanation": "No es correcto means It isn't correct.",
+      "observationIds": [
+        "o-negation"
+      ],
+      "nextReview": "Elicit no es importante or no es correcto without supplying no.",
+      "lastPractised": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-01"
+      ]
+    },
+    {
+      "id": "g-location",
+      "pattern": "estar for location",
+      "meaning": "Say where someone or something is.",
+      "status": "used_with_correction",
+      "explanation": "Use estar for a person's location: Está en Granada. Ser/estar has other uses that have not yet been taught.",
+      "observationIds": [
+        "o-location"
+      ],
+      "nextReview": "Ask for a short location sentence; supply any new forms needed.",
+      "lastPractised": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-01"
+      ]
+    },
+    {
+      "id": "g-hablar-person",
+      "pattern": "hablo / habla",
+      "meaning": "I speak / he, she or formal you speaks.",
+      "status": "used_with_correction",
+      "explanation": "Hablo un poco means I speak a little.",
+      "observationIds": [
+        "o-hablo"
+      ],
+      "nextReview": "Recall Hablo un poco without a model.",
+      "lastPractised": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-01"
+      ]
+    },
+    {
+      "id": "g-spelling",
+      "pattern": "español / porque",
+      "meaning": "Spelling encountered during practice.",
+      "status": "used_with_correction",
+      "explanation": "Use ñ in español; porque includes r. Check keyboard constraints before treating accent input as a language difficulty.",
+      "observationIds": [
+        "o-quiero",
+        "o-porque",
+        "o-independent"
+      ],
+      "nextReview": "Observe naturally; avoid repetitive spelling drills.",
+      "lastPractised": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-01"
+      ]
+    }
+  ],
+  "practiceUnits": [
+    {
+      "id": "u-queremos",
+      "title": "I want / we want",
+      "grammarIds": [
+        "g-querer-person",
+        "g-quiero-infinitive"
+      ],
+      "vocabularyIds": [
+        "v-quiero",
+        "v-queremos",
+        "v-revisar",
+        "v-esto"
+      ],
+      "prompt": "Say: We want to review this.",
+      "modelAnswer": "Queremos revisar esto.",
+      "hint": "Start with Queremos.",
+      "feedbackFocus": "queremos, without the extra i",
+      "seconds": 45,
+      "optional": true,
+      "selection": "enabled",
+      "attemptCount": 0,
+      "lastAttempt": null,
+      "nextReview": "next_suitable_session"
+    },
+    {
+      "id": "u-negation",
+      "title": "Say what isn't correct",
+      "grammarIds": [
+        "g-negation"
+      ],
+      "vocabularyIds": [
+        "v-esto",
+        "v-no",
+        "v-correcto"
+      ],
+      "prompt": "Say: This isn't correct.",
+      "modelAnswer": "Esto no es correcto.",
+      "hint": "Put no before es.",
+      "feedbackFocus": "no before the conjugated verb",
+      "seconds": 45,
+      "optional": true,
+      "selection": "enabled",
+      "attemptCount": 0,
+      "lastAttempt": null,
+      "nextReview": "next_suitable_session"
+    },
+    {
+      "id": "u-probar",
+      "title": "Test a software feature",
+      "grammarIds": [
+        "g-quiero-infinitive"
+      ],
+      "vocabularyIds": [
+        "v-quiero",
+        "v-probar",
+        "v-funcion"
+      ],
+      "prompt": "Say: I want to test this feature.",
+      "modelAnswer": "Quiero probar esta función.",
+      "hint": "Esta función means this feature; this form has not yet been practised.",
+      "feedbackFocus": "probar used for software testing",
+      "seconds": 60,
+      "optional": true,
+      "selection": "enabled",
+      "attemptCount": 0,
+      "lastAttempt": null,
+      "nextReview": "next_suitable_session"
+    },
+    {
+      "id": "u-hablo",
+      "title": "Say how much Spanish you speak",
+      "grammarIds": [
+        "g-hablar-person"
+      ],
+      "vocabularyIds": [
+        "v-hablo",
+        "v-espanol"
+      ],
+      "prompt": "Say: I speak a little Spanish.",
+      "modelAnswer": "Hablo un poco de español.",
+      "acceptedAnswers": [
+        "Hablo español un poco."
+      ],
+      "hint": "I speak = hablo.",
+      "feedbackFocus": "hablo for I speak",
+      "seconds": 45,
+      "optional": true,
+      "selection": "enabled",
+      "attemptCount": 0,
+      "lastAttempt": null,
+      "nextReview": "next_suitable_session"
+    },
+    {
+      "id": "u-goal-reason",
+      "title": "A goal and a reason",
+      "grammarIds": [
+        "g-quiero-infinitive",
+        "g-porque"
+      ],
+      "vocabularyIds": [
+        "v-quiero",
+        "v-revisar",
+        "v-esto",
+        "v-porque",
+        "v-importante"
+      ],
+      "prompt": "Without a model, give a real work goal and a reason using Quiero ... porque ... .",
+      "modelAnswer": "Quiero revisar esto porque es importante.",
+      "hint": "Use familiar words; mixed-language attempts are welcome.",
+      "feedbackFocus": "Goal plus reason; the model answer is only one possible response.",
+      "seconds": 60,
+      "optional": true,
+      "selection": "enabled",
+      "attemptCount": 0,
+      "lastAttempt": null,
+      "nextReview": "next_suitable_session"
+    }
+  ]
+}

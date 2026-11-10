@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "learnerId": "primary",
+  "lastUpdated": "2026-11-10",
+  "interfaceLanguage": "en",
+  "targetLanguage": "es",
+  "selfReportedLevel": "Speaks a little Spanish",
+  "formalAssessment": null,
+  "preferences": {
+    "approach": "Spanish woven into everyday work",
+    "defaultUnitSeconds": {
+      "min": 30,
+      "max": 60
+    },
+    "longerLessons": "On request; a five-minute lesson was requested and completed in this conversation",
+    "optionalPractice": true,
+    "keepWorkMoving": true,
+    "initialTranslations": "English",
+    "correctionStyle": "Natural corrected sentence and at most one useful explanation",
+    "skipCommands": [
+      "skip this",
+      "skip this topic"
+    ],
+    "deselectedUnitIds": [],
+    "deselectedGrammarIds": [],
+    "deselectedVocabularyIds": [],
+    "unansweredPromptCreatesBacklog": false
+  },
+  "progression": [
+    "Work goals, requests, progress and completion",
+    "Present tense, questions, common verbs, ser/estar",
+    "Reasons, preferences and comparisons",
+    "Past events and future plans"
+  ],
+  "currentGrammarIds": [
+    "g-quiero-infinitive",
+    "g-porque",
+    "g-querer-person",
+    "g-negation"
+  ],
+  "nextUnitIds": [
+    "u-queremos",
+    "u-negation",
+    "u-probar",
+    "u-hablo",
+    "u-goal-reason"
+  ],
+  "reviewPolicy": {
+    "mode": "During suitable conversations; no reminders or background scheduling",
+    "priority": [
+      "Recent corrections without independent recall",
+      "Previously successful patterns after a gap",
+      "New material when recall is secure"
+    ],
+    "suggestedIntervalsDays": [
+      1,
+      3,
+      7
+    ],
+    "intervalsAreFlexible": true
+  },
+  "latestSessionId": "2026-11-10-01"
+}
