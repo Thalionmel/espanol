@@ -60,10 +60,12 @@
     "g-por-que-question",
     "g-para-purpose",
     "g-leer-present",
-    "g-regular-er-we"
+    "g-regular-er-we",
+    "g-que-question",
+    "g-necesitamos-infinitive"
   ],
   "nextUnitIds": [
-    "u-regular-er-we",
+    "u-necesitamos",
     "u-para-vs-porque",
     "u-hablo",
     "u-permission",
@@ -72,7 +74,9 @@
     "u-goal-reason",
     "u-probar",
     "u-un-poco-de",
-    "u-leer-present"
+    "u-leer-present",
+    "u-que-question",
+    "u-regular-er-we"
   ],
   "reviewPolicy": {
     "mode": "During suitable conversations; no reminders or background scheduling",
@@ -88,7 +92,7 @@
     ],
     "intervalsAreFlexible": true
   },
-  "latestSessionId": "2026-11-10-05",
+  "latestSessionId": "2026-11-10-06",
   "disclosureAuthorization": {
     "publicLearningRecord": true,
     "ongoingUpdatesAuthorized": true,

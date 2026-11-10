@@ -11,6 +11,7 @@ A shared Spanish learning record for conversation-based teaching and future trai
 - [Object-pronoun placement and queremos practice](data/sessions/2026-11-10-03.json)
 - [Why, reasons and purpose practice](data/sessions/2026-11-10-04.json)
 - [Reading and regular -er verb practice](data/sessions/2026-11-10-05.json)
+- [Recall, what questions and needing to act](data/sessions/2026-11-10-06.json)
 - [Data format and update rules](docs/data-format.md)
 - [Instructions for future assistants](AGENTS.md)
 
@@ -33,9 +34,13 @@ Practised **¿Por qué queremos aprender español?** with spelling corrections, 
 
 Used **leer** in a self-created purpose sentence, then correctly used **leo** and **leemos** after models. **Quieremos** recurred and was corrected; **Queremos leer** was then recalled correctly.
 
-Introduced regular **-er → -emos** for we: **comprender** was initially truncated, while **aprendemos** was correct after a prior model and stem explanation. **Comprendemos** still needs independent production.
+Introduced regular **-er → -emos** for we: **comprender** was initially truncated, while **aprendemos** was correct after a prior model and stem explanation. **Comprendemos** was later correctly recalled in **Comprendemos español porque leemos**, without an immediate form hint; longer-term retention remains untested.
 
-Next: recall **comprendemos** and **queremos**, then combine reading/learning with purpose and reason after a gap.
+Practised **qué** versus **por qué** with correct word order, while standard spelling and one read/learn meaning mismatch needed correction. A shorter **Queremos aprender** answer was grammatical but omitted the requested language.
+
+Correctly used **Necesitamos publicarlo** after a correction to **revisar + lo**.
+
+Next: combine negation with **necesitamos**, then revisit question meanings, verb endings and pronoun placement after a gap.
 Review software vocabulary such as **probar**, **revisar**, **los logros**, and **ejecutar las pruebas**.
 Location with **estar** still needs independent recall. **Hablo** was recalled without a hint; the surrounding phrase needed **un poco de español** and spelling corrections.
 

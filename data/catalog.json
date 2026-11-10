@@ -32,7 +32,8 @@
         "2026-11-10-01",
         "2026-11-10-03",
         "2026-11-10-04",
-        "2026-11-10-05"
+        "2026-11-10-05",
+        "2026-11-10-06"
       ],
       "observationIds": [
         "o-work-transfer",
@@ -44,7 +45,9 @@
         "o-l4-because",
         "o-l4-purpose-plural",
         "o-l5-leemos",
-        "o-l5-queremos"
+        "o-l5-queremos",
+        "o-l6-que-leer",
+        "o-l6-short-answer"
       ]
     },
     {
@@ -76,7 +79,8 @@
         "2026-11-10-01",
         "2026-11-10-03",
         "2026-11-10-04",
-        "2026-11-10-05"
+        "2026-11-10-05",
+        "2026-11-10-06"
       ],
       "observationIds": [
         "o-quiero",
@@ -88,7 +92,9 @@
         "o-l4-purpose-plural",
         "o-l5-leemos",
         "o-l5-comprender",
-        "o-l5-aprender"
+        "o-l5-aprender",
+        "o-l6-comprendemos",
+        "o-l6-question-purpose"
       ]
     },
     {
@@ -103,7 +109,8 @@
         "2026-11-10-01",
         "2026-11-10-03",
         "2026-11-10-04",
-        "2026-11-10-05"
+        "2026-11-10-05",
+        "2026-11-10-06"
       ],
       "observationIds": [
         "o-l3-aprender-first",
@@ -111,7 +118,9 @@
         "o-l4-why",
         "o-l4-purpose-plural",
         "o-l5-leemos",
-        "o-l5-aprender"
+        "o-l5-aprender",
+        "o-l6-short-answer",
+        "o-l6-question-purpose"
       ]
     },
     {
@@ -119,17 +128,19 @@
       "spanish": "revisar",
       "english": "to review / check",
       "status": "used_successfully",
-      "note": "Successfully used in a work sentence.",
+      "note": "Earlier correct uses remain recorded. In Necesitamos reviser the ending was corrected to -ar and object lo was supplied; revisit revisarlo.",
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
       "sessionIds": [
         "2026-11-10-01",
-        "2026-11-10-03"
+        "2026-11-10-03",
+        "2026-11-10-06"
       ],
       "observationIds": [
         "o-independent",
         "o-l3-spacing",
-        "o-l3-queremos"
+        "o-l3-queremos",
+        "o-l6-necesitamos-review"
       ]
     },
     {
@@ -527,12 +538,14 @@
       "lastSeen": "2026-11-10",
       "sessionIds": [
         "2026-11-10-01",
-        "2026-11-10-03"
+        "2026-11-10-03",
+        "2026-11-10-06"
       ],
       "observationIds": [
         "o-permission",
         "o-l3-negation",
-        "o-l3-negation-fronted"
+        "o-l3-negation-fronted",
+        "o-l6-necesitamos-publish"
       ]
     },
     {
@@ -924,12 +937,14 @@
       "observationIds": [
         "o-l5-purpose",
         "o-l5-reason",
-        "o-l5-queremos"
+        "o-l5-queremos",
+        "o-l6-que-leer"
       ],
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
       "sessionIds": [
-        "2026-11-10-05"
+        "2026-11-10-05",
+        "2026-11-10-06"
       ]
     },
     {
@@ -986,12 +1001,15 @@
       "status": "used_successfully",
       "note": "Correct form after introduction; the same sentence needed a querer correction.",
       "observationIds": [
-        "o-l5-leemos"
+        "o-l5-leemos",
+        "o-l6-comprendemos",
+        "o-l6-question-purpose"
       ],
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
       "sessionIds": [
-        "2026-11-10-05"
+        "2026-11-10-05",
+        "2026-11-10-06"
       ]
     },
     {
@@ -1013,15 +1031,49 @@
       "id": "v-comprendemos",
       "spanish": "comprendemos",
       "english": "we understand",
-      "status": "used_with_correction",
-      "note": "Compremos was corrected to comprendemos; independent correct production remains pending.",
+      "status": "used_successfully",
+      "note": "Previously corrected from Compremos; now correctly recalled in Comprendemos español porque leemos without an immediate form hint. Long-term retention untested.",
       "observationIds": [
-        "o-l5-comprender"
+        "o-l5-comprender",
+        "o-l6-comprendemos"
       ],
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
       "sessionIds": [
-        "2026-11-10-05"
+        "2026-11-10-05",
+        "2026-11-10-06"
+      ]
+    },
+    {
+      "id": "v-que",
+      "spanish": "qué",
+      "english": "what (question word)",
+      "status": "used_with_correction",
+      "note": "Correct question word and word order; supplied accent and punctuation. Keyboard constraints remain unassessed.",
+      "observationIds": [
+        "o-l6-que-leer",
+        "o-l6-question-purpose"
+      ],
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-06"
+      ]
+    },
+    {
+      "id": "v-necesitamos",
+      "spanish": "necesitamos",
+      "english": "we need",
+      "status": "used_successfully",
+      "note": "Correctly used after introduction; one following verb/object needed correction, then Necesitamos publicarlo was complete.",
+      "observationIds": [
+        "o-l6-necesitamos-review",
+        "o-l6-necesitamos-publish"
+      ],
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-06"
       ]
     }
   ],
@@ -1043,7 +1095,8 @@
         "o-l4-purpose-plural",
         "o-l5-purpose",
         "o-l5-reason",
-        "o-l5-queremos"
+        "o-l5-queremos",
+        "o-l6-short-answer"
       ],
       "nextReview": "Combine with different familiar verbs without a model.",
       "lastPractised": "2026-11-10",
@@ -1051,7 +1104,8 @@
         "2026-11-10-01",
         "2026-11-10-03",
         "2026-11-10-04",
-        "2026-11-10-05"
+        "2026-11-10-05",
+        "2026-11-10-06"
       ]
     },
     {
@@ -1068,7 +1122,8 @@
         "o-l4-because",
         "o-l4-porque-choice",
         "o-l5-reason",
-        "o-l5-leemos"
+        "o-l5-leemos",
+        "o-l6-comprendemos"
       ],
       "nextReview": "Use a new work-related reason, then revisit after a gap.",
       "lastPractised": "2026-11-10",
@@ -1076,7 +1131,8 @@
         "2026-11-10-01",
         "2026-11-10-03",
         "2026-11-10-04",
-        "2026-11-10-05"
+        "2026-11-10-05",
+        "2026-11-10-06"
       ]
     },
     {
@@ -1095,7 +1151,9 @@
         "o-l4-why",
         "o-l4-purpose-plural",
         "o-l5-leemos",
-        "o-l5-queremos"
+        "o-l5-queremos",
+        "o-l6-que-leer",
+        "o-l6-short-answer"
       ],
       "nextReview": "Quieremos recurred in a longer sentence; Queremos leer was then recalled correctly immediately after correction. Recheck without a recent form reminder.",
       "lastPractised": "2026-11-10",
@@ -1103,7 +1161,8 @@
         "2026-11-10-01",
         "2026-11-10-03",
         "2026-11-10-04",
-        "2026-11-10-05"
+        "2026-11-10-05",
+        "2026-11-10-06"
       ]
     },
     {
@@ -1182,7 +1241,11 @@
         "o-l5-leo",
         "o-l5-leemos",
         "o-l5-comprender",
-        "o-l5-aprender"
+        "o-l5-aprender",
+        "o-l6-comprendemos",
+        "o-l6-que-leer",
+        "o-l6-question-purpose",
+        "o-l6-necesitamos-review"
       ],
       "nextReview": "Observe naturally; avoid repetitive spelling drills.",
       "lastPractised": "2026-11-10",
@@ -1190,7 +1253,8 @@
         "2026-11-10-01",
         "2026-11-10-03",
         "2026-11-10-04",
-        "2026-11-10-05"
+        "2026-11-10-05",
+        "2026-11-10-06"
       ]
     },
     {
@@ -1238,13 +1302,16 @@
         "o-l3-negation-fronted",
         "o-l3-it-misplaced",
         "o-l3-reason-success",
-        "o-l3-probarla"
+        "o-l3-probarla",
+        "o-l6-necesitamos-review",
+        "o-l6-necesitamos-publish"
       ],
       "nextReview": "Both attached and before-conjugated-verb positions used successfully in a prompted negative transformation. Test choice of position without instructions after a gap.",
       "lastPractised": "2026-11-10",
       "sessionIds": [
         "2026-11-10-01",
-        "2026-11-10-03"
+        "2026-11-10-03",
+        "2026-11-10-06"
       ]
     },
     {
@@ -1325,13 +1392,15 @@
         "o-l4-para-choice",
         "o-l4-porque-choice",
         "o-l5-purpose",
-        "o-l5-leo"
+        "o-l5-leo",
+        "o-l6-question-purpose"
       ],
       "nextReview": "Reused para after a model and chose para/porque correctly with cues. Test independent production after a gap.",
       "lastPractised": "2026-11-10",
       "sessionIds": [
         "2026-11-10-04",
-        "2026-11-10-05"
+        "2026-11-10-05",
+        "2026-11-10-06"
       ]
     },
     {
@@ -1342,28 +1411,65 @@
       "explanation": "Leo is the I form; leemos is the we form. Both were supplied, then correctly used in prompted sentences.",
       "observationIds": [
         "o-l5-leo",
-        "o-l5-leemos"
+        "o-l5-leemos",
+        "o-l6-comprendemos",
+        "o-l6-question-purpose"
       ],
       "nextReview": "Recall forms after a gap and use them in a new sentence.",
       "lastPractised": "2026-11-10",
       "sessionIds": [
-        "2026-11-10-05"
+        "2026-11-10-05",
+        "2026-11-10-06"
       ]
     },
     {
       "id": "g-regular-er-we",
       "pattern": "regular -er verb stem + -emos",
       "meaning": "Form the present-tense we form of regular -er verbs.",
-      "status": "used_with_correction",
+      "status": "used_successfully",
       "explanation": "Remove only final -er and retain the stem: leer → leemos, aprender → aprendemos, comprender → comprendemos. Comprender was initially truncated; aprender was then correct after explicit models.",
       "observationIds": [
         "o-l5-comprender",
-        "o-l5-aprender"
+        "o-l5-aprender",
+        "o-l6-comprendemos"
       ],
-      "nextReview": "Comprendemos still needs independent production; do not infer general rule mastery from modelled aprendemos.",
+      "nextReview": "Comprendemos was recalled correctly in a full sentence after the previous stem correction. Recheck after a longer gap; no broad mastery claim.",
       "lastPractised": "2026-11-10",
       "sessionIds": [
-        "2026-11-10-05"
+        "2026-11-10-05",
+        "2026-11-10-06"
+      ]
+    },
+    {
+      "id": "g-que-question",
+      "pattern": "¿Qué + conjugated verb...? versus ¿Por qué...?",
+      "meaning": "Ask what rather than why.",
+      "status": "used_with_correction",
+      "explanation": "¿Qué leemos? asks What do we read?; ¿Por qué leemos? asks Why do we read? Word order was correct in practice, while accents and punctuation were supplied; leer was once used for requested aprender.",
+      "observationIds": [
+        "o-l6-que-leer",
+        "o-l6-question-purpose"
+      ],
+      "nextReview": "Ask a new what/why question after a gap and check meaning separately from accent input.",
+      "lastPractised": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-06"
+      ]
+    },
+    {
+      "id": "g-necesitamos-infinitive",
+      "pattern": "necesitamos + infinitive",
+      "meaning": "We need to do something.",
+      "status": "used_successfully",
+      "explanation": "Necesitamos leer = We need to read. After a review-it correction, the learner produced Necesitamos publicarlo correctly.",
+      "observationIds": [
+        "o-l6-necesitamos-review",
+        "o-l6-necesitamos-publish"
+      ],
+      "nextReview": "Combine with familiar negation, then revisit after a gap.",
+      "lastPractised": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-06"
       ]
     }
   ],
@@ -1591,16 +1697,16 @@
       "prompt": "Say: We understand Spanish.",
       "modelAnswer": "Comprendemos español.",
       "hint": "Keep comprend-; replace only final -er with -emos.",
-      "feedbackFocus": "Retain the full stem; correct modelled aprendemos does not yet establish recall of comprendemos.",
+      "feedbackFocus": "Full comprend- stem correctly recalled in a short-gap sentence; recheck later.",
       "seconds": 45,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 2,
+      "attemptCount": 3,
       "lastAttempt": "2026-11-10",
-      "lastAttemptSessionId": "2026-11-10-05",
-      "lastAttemptVariant": "We understand Spanish, then We learn Spanish after a stem correction.",
-      "lastOutcome": "used_with_correction",
-      "nextReview": "next_suitable_session"
+      "lastAttemptSessionId": "2026-11-10-06",
+      "lastAttemptVariant": "We understand Spanish because we read.",
+      "lastOutcome": "used_successfully",
+      "nextReview": "after_a_gap"
     },
     {
       "id": "u-leer-present",
@@ -1629,6 +1735,60 @@
       "lastAttemptVariant": "I read to get information; then We read because we want to learn Spanish.",
       "lastOutcome": "used_successfully",
       "nextReview": "after_a_gap"
+    },
+    {
+      "id": "u-que-question",
+      "title": "Ask what, rather than why",
+      "grammarIds": [
+        "g-que-question",
+        "g-leer-present",
+        "g-para-purpose"
+      ],
+      "vocabularyIds": [
+        "v-que",
+        "v-leemos",
+        "v-aprender",
+        "v-espanol"
+      ],
+      "prompt": "Say: What do we read to learn Spanish?",
+      "modelAnswer": "¿Qué leemos para aprender español?",
+      "hint": "What = qué; why = por qué.",
+      "feedbackFocus": "Match requested meaning, then question structure and standard spelling.",
+      "seconds": 45,
+      "optional": true,
+      "selection": "enabled",
+      "attemptCount": 2,
+      "lastAttempt": "2026-11-10",
+      "lastAttemptSessionId": "2026-11-10-06",
+      "lastAttemptVariant": "What do we want to learn?, then What do we read to learn Spanish?",
+      "lastOutcome": "used_with_correction",
+      "nextReview": "after_a_gap"
+    },
+    {
+      "id": "u-necesitamos",
+      "title": "Say what we need to do",
+      "grammarIds": [
+        "g-necesitamos-infinitive",
+        "g-object-pronouns"
+      ],
+      "vocabularyIds": [
+        "v-necesitamos",
+        "v-revisar",
+        "v-publicarlo"
+      ],
+      "prompt": "Say: We need to publish it.",
+      "modelAnswer": "Necesitamos publicarlo.",
+      "hint": "We need = necesitamos.",
+      "feedbackFocus": "Necesitamos + infinitive; preserve verb ending and requested object.",
+      "seconds": 45,
+      "optional": true,
+      "selection": "enabled",
+      "attemptCount": 2,
+      "lastAttempt": "2026-11-10",
+      "lastAttemptSessionId": "2026-11-10-06",
+      "lastAttemptVariant": "We need to review it, then We need to publish it.",
+      "lastOutcome": "used_successfully",
+      "nextReview": "next_suitable_session"
     }
   ]
 }

@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-10-06",
+  "date": "2026-11-10",
+  "source": "Six learning exchanges saved as one batch",
+  "lessonTheme": "Recalling comprendemos, qué questions and necesitamos",
+  "duration": {
+    "requestedMinutes": null,
+    "measuredMinutes": null
+  },
+  "summary": "Correctly recalled comprendemos in a full sentence. Practised qué versus por qué and combined a what question with purpose. One question used leer rather than requested aprender; a shorter answer was grammatical but omitted the requested language. Introduced necesitamos + infinitive; after reviser and omitted lo were corrected, correctly produced Necesitamos publicarlo.",
+  "observations": [
+    {
+      "id": "o-l6-comprendemos",
+      "kind": "prompted_recall",
+      "learnerText": "Comprendemos espanol porque leemos",
+      "correctedText": "Comprendemos español porque leemos.",
+      "grammarIds": [
+        "g-regular-er-we",
+        "g-leer-present",
+        "g-porque",
+        "g-spelling"
+      ],
+      "outcome": "Correct comprendemos with the full stem, leemos and reason structure, without a verb-form hint in the immediate prompt. Supplied ñ. This is short-gap recall after earlier correction, not a timed long-term retention test. Tutor then introduced qué questions contrasted with por qué."
+    },
+    {
+      "id": "o-l6-que-leer",
+      "kind": "prompted_attempt",
+      "learnerText": "Que queremos leer",
+      "correctedText": "¿Qué queremos leer?",
+      "grammarIds": [
+        "g-que-question",
+        "g-querer-person",
+        "g-spelling"
+      ],
+      "outcome": "Grammatical question meaning What do we want to read? The requested meaning was learn, so tutor supplied ¿Qué queremos aprender?. Supplied question accent and punctuation; word order was correct."
+    },
+    {
+      "id": "o-l6-short-answer",
+      "kind": "prompted_answer",
+      "learnerText": "Queremos aprender",
+      "correctedText": null,
+      "grammarIds": [
+        "g-querer-person",
+        "g-quiero-infinitive"
+      ],
+      "outcome": "Valid sentence meaning We want to learn. It omitted español from the requested full meaning; tutor supplied Queremos aprender español without treating the shorter version as ungrammatical."
+    },
+    {
+      "id": "o-l6-question-purpose",
+      "kind": "prompted_attempt",
+      "learnerText": "Que leemos Para aprender espanol",
+      "correctedText": "¿Qué leemos para aprender español?",
+      "grammarIds": [
+        "g-que-question",
+        "g-leer-present",
+        "g-para-purpose",
+        "g-spelling"
+      ],
+      "outcome": "Correct question structure and para + infinitive. Supplied accents, lowercase para and question punctuation. Tutor then introduced Necesitamos... and modelled Necesitamos leer."
+    },
+    {
+      "id": "o-l6-necesitamos-review",
+      "kind": "prompted_attempt",
+      "learnerText": "Necesitamos reviser",
+      "correctedText": "Necesitamos revisarlo.",
+      "grammarIds": [
+        "g-necesitamos-infinitive",
+        "g-object-pronouns",
+        "g-spelling"
+      ],
+      "outcome": "Necesitamos was correct. Corrected revisar to its -ar ending and supplied lo for the requested object it, reinforcing revisar + lo."
+    },
+    {
+      "id": "o-l6-necesitamos-publish",
+      "kind": "prompted_attempt",
+      "learnerText": "Necesitamos publicarlo",
+      "correctedText": null,
+      "grammarIds": [
+        "g-necesitamos-infinitive",
+        "g-object-pronouns"
+      ],
+      "outcome": "Correct complete sentence after the prior model and correction; no publish-it form was supplied in the immediate prompt. Delayed retention remains untested."
+    }
+  ],
+  "nextSteps": [
+    "Combine no with necesitamos without adding new vocabulary",
+    "Revisit revisar versus reviser and retain the requested object pronoun",
+    "Recheck qué versus por qué and leer versus aprender after a gap",
+    "Recheck comprendemos and queremos later in new contexts"
+  ],
+  "skippedUnitIds": [],
+  "assessmentNote": "Correct short-gap recall and immediate transfer are distinguished from spelling corrections, a translation mismatch and a valid shortened answer."
+}
