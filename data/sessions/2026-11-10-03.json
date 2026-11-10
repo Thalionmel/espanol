@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-10-03",
+  "date": "2026-11-10",
+  "source": "Short requested lesson during a waiting period",
+  "lessonTheme": "Attached object pronouns and recalling queremos",
+  "duration": {
+    "requestedMinutes": null,
+    "measuredMinutes": null
+  },
+  "summary": "Initially separated lo from revisar; the attached spelling revisarlo was corrected. Asked whether placement is a rule or an option. Explained the alternatives with querer + infinitive. Then correctly produced Queremos revisarlo without being given queremos in the immediate prompt.",
+  "observations": [
+    {
+      "id": "o-l3-spacing",
+      "kind": "prompted_attempt",
+      "learnerText": "Quiero revisar lo",
+      "correctedText": "Quiero revisarlo.",
+      "grammarIds": [
+        "g-quiero-infinitive",
+        "g-object-pronouns"
+      ],
+      "outcome": "Meaning and quiero + infinitive structure correct. Explained that a pronoun after the infinitive must attach without a space."
+    },
+    {
+      "id": "o-l3-rule-question",
+      "kind": "self_created_question",
+      "learnerText": "es una regla o una possibilidad?",
+      "correctedText": "¿Es una regla o una posibilidad?",
+      "grammarIds": [
+        "g-spelling"
+      ],
+      "outcome": "Asked a clear grammatical question using regla and posibilidad. Corrected posibilidad to one s and supplied Spanish question punctuation."
+    },
+    {
+      "id": "o-l3-options",
+      "kind": "explanation",
+      "learnerText": null,
+      "description": "Explained Quiero revisarlo and Lo quiero revisar.",
+      "grammarIds": [
+        "g-object-pronouns"
+      ],
+      "outcome": "Both are correct with querer + infinitive. Position can vary; attachment is obligatory if the pronoun follows the infinitive. Did not claim this alternation applies to all verb combinations."
+    },
+    {
+      "id": "o-l3-queremos",
+      "kind": "prompted_attempt",
+      "learnerText": "Queremos revisarlo",
+      "correctedText": null,
+      "grammarIds": [
+        "g-querer-person",
+        "g-object-pronouns"
+      ],
+      "outcome": "Correct response to We want to review it. Recalled queremos without a form hint in the immediate prompt and attached lo correctly after the preceding explanation. Demonstrates successful immediate use; delayed retention and the before-conjugated-verb variant remain untested."
+    }
+  ],
+  "nextSteps": [
+    "Combine no + queremos + infinitive with attached lo",
+    "Recall queremos again after a gap",
+    "Practise the before-conjugated-verb variant separately",
+    "Retain hablo and por qué recall in the review queue"
+  ],
+  "skippedUnitIds": [],
+  "assessmentNote": "One successful immediate response after instruction. No mastery claim or delayed retention test."
+}

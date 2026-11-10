@@ -36,15 +36,16 @@
     "g-quiero-infinitive",
     "g-porque",
     "g-querer-person",
-    "g-negation"
+    "g-negation",
+    "g-object-pronouns"
   ],
   "nextUnitIds": [
-    "u-queremos",
     "u-negation",
     "u-probar",
     "u-hablo",
     "u-goal-reason",
-    "u-permission"
+    "u-permission",
+    "u-queremos"
   ],
   "reviewPolicy": {
     "mode": "During suitable conversations; no reminders or background scheduling",
@@ -60,7 +61,7 @@
     ],
     "intervalsAreFlexible": true
   },
-  "latestSessionId": "2026-11-10-02",
+  "latestSessionId": "2026-11-10-03",
   "disclosureAuthorization": {
     "publicLearningRecord": true,
     "ongoingUpdatesAuthorized": true,

@@ -21,15 +21,17 @@
       "id": "v-queremos",
       "spanish": "queremos",
       "english": "we want",
-      "status": "used_with_correction",
-      "note": "Correction provided for quieremos; not yet independently recalled.",
+      "status": "used_successfully",
+      "note": "Earlier quieremos was corrected. Later recalled queremos correctly in Queremos revisarlo without an immediate form hint; delayed recall not tested.",
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
       "sessionIds": [
-        "2026-11-10-01"
+        "2026-11-10-01",
+        "2026-11-10-03"
       ],
       "observationIds": [
-        "o-work-transfer"
+        "o-work-transfer",
+        "o-l3-queremos"
       ]
     },
     {
@@ -84,10 +86,13 @@
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
       "sessionIds": [
-        "2026-11-10-01"
+        "2026-11-10-01",
+        "2026-11-10-03"
       ],
       "observationIds": [
-        "o-independent"
+        "o-independent",
+        "o-l3-spacing",
+        "o-l3-queremos"
       ]
     },
     {
@@ -566,10 +571,13 @@
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
       "sessionIds": [
-        "2026-11-10-01"
+        "2026-11-10-01",
+        "2026-11-10-03"
       ],
       "observationIds": [
-        "o-object-pronouns"
+        "o-object-pronouns",
+        "o-l3-spacing",
+        "o-l3-queremos"
       ]
     },
     {
@@ -646,6 +654,52 @@
       "observationIds": [
         "o-why-three"
       ]
+    },
+    {
+      "id": "v-revisarlo",
+      "spanish": "revisarlo",
+      "english": "to review / check it",
+      "status": "used_successfully",
+      "note": "Initially separated as revisar lo; then used correctly in Queremos revisarlo. Recall after a gap remains untested.",
+      "observationIds": [
+        "o-l3-spacing",
+        "o-l3-queremos"
+      ],
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-03"
+      ]
+    },
+    {
+      "id": "v-regla",
+      "spanish": "la regla",
+      "english": "the rule",
+      "status": "used_successfully",
+      "note": "Used spontaneously in a grammatical question.",
+      "observationIds": [
+        "o-l3-rule-question"
+      ],
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-03"
+      ]
+    },
+    {
+      "id": "v-posibilidad",
+      "spanish": "la posibilidad",
+      "english": "the possibility / option",
+      "status": "used_with_correction",
+      "note": "Wrote possibilidad; supplied the spelling posibilidad with one s.",
+      "observationIds": [
+        "o-l3-rule-question"
+      ],
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-03"
+      ]
     }
   ],
   "grammar": [
@@ -657,12 +711,14 @@
       "explanation": "The verb after quiero stays in its basic form: Quiero revisar esto.",
       "observationIds": [
         "o-quiero",
-        "o-independent"
+        "o-independent",
+        "o-l3-spacing"
       ],
       "nextReview": "Combine with different familiar verbs without a model.",
       "lastPractised": "2026-11-10",
       "sessionIds": [
-        "2026-11-10-01"
+        "2026-11-10-01",
+        "2026-11-10-03"
       ]
     },
     {
@@ -685,15 +741,17 @@
       "id": "g-querer-person",
       "pattern": "quiero / queremos",
       "meaning": "I want / we want.",
-      "status": "used_with_correction",
+      "status": "used_successfully",
       "explanation": "Quiero is first-person singular; queremos is first-person plural. The plural is not quieremos.",
       "observationIds": [
-        "o-work-transfer"
+        "o-work-transfer",
+        "o-l3-queremos"
       ],
-      "nextReview": "Contrast Quiero revisar esto with Queremos revisar esto.",
+      "nextReview": "Recalled queremos correctly in Queremos revisarlo after an earlier quieremos correction. Recheck after a gap before inferring retention.",
       "lastPractised": "2026-11-10",
       "sessionIds": [
-        "2026-11-10-01"
+        "2026-11-10-01",
+        "2026-11-10-03"
       ]
     },
     {
@@ -746,18 +804,20 @@
       "pattern": "español / porque / sí / autorizado",
       "meaning": "Spelling encountered during practice.",
       "status": "used_with_correction",
-      "explanation": "Use ñ in español; porque includes r. Check keyboard constraints before treating accent input as a language difficulty. Affirmative sí has an accent. Autorizado is spelled with z.",
+      "explanation": "Use ñ in español; porque includes r. Check keyboard constraints before treating accent input as a language difficulty. Affirmative sí has an accent. Autorizado is spelled with z. Posibilidad has one s.",
       "observationIds": [
         "o-quiero",
         "o-porque",
         "o-independent",
         "o-permission",
-        "o-authorized"
+        "o-authorized",
+        "o-l3-rule-question"
       ],
       "nextReview": "Observe naturally; avoid repetitive spelling drills.",
       "lastPractised": "2026-11-10",
       "sessionIds": [
-        "2026-11-10-01"
+        "2026-11-10-01",
+        "2026-11-10-03"
       ]
     },
     {
@@ -794,15 +854,19 @@
       "id": "g-object-pronouns",
       "pattern": "object pronoun + conjugated verb; infinitive + attached pronoun",
       "meaning": "Introductory object-pronoun placement.",
-      "status": "introduced",
-      "explanation": "Te autorizo places te before a conjugated verb. Publicarlo attaches lo after the infinitive. Reviso el documento illustrates a full noun object after the verb. This is not a complete placement rule; other constructions remain to be taught.",
+      "status": "used_successfully",
+      "explanation": "Te autorizo places te before a conjugated verb. Publicarlo attaches lo after the infinitive. Reviso el documento illustrates a full noun object after the verb. This is not a complete placement rule; other constructions remain to be taught. With querer + infinitive, both Quiero revisarlo and Lo quiero revisar are possible. If lo follows the infinitive it must attach directly; this is not a blanket rule for all verb combinations.",
       "observationIds": [
-        "o-object-pronouns"
+        "o-object-pronouns",
+        "o-l3-spacing",
+        "o-l3-options",
+        "o-l3-queremos"
       ],
-      "nextReview": "Ask the learner to identify te and lo in Te autorizo a publicarlo before introducing exceptions.",
+      "nextReview": "Attached form used correctly immediately after correction. Test recall after a gap and practise the before-conjugated-verb variant separately.",
       "lastPractised": "2026-11-10",
       "sessionIds": [
-        "2026-11-10-01"
+        "2026-11-10-01",
+        "2026-11-10-03"
       ]
     },
     {
@@ -842,9 +906,11 @@
       "seconds": 45,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 0,
-      "lastAttempt": null,
-      "nextReview": "next_suitable_session"
+      "attemptCount": 1,
+      "lastAttempt": "2026-11-10",
+      "nextReview": "after_a_gap",
+      "lastAttemptSessionId": "2026-11-10-03",
+      "lastAttemptVariant": "We want to review it."
     },
     {
       "id": "u-negation",
