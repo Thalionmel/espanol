@@ -10,6 +10,7 @@ A shared Spanish learning record for conversation-based teaching and future trai
 - [Short acknowledgement and question practice](data/sessions/2026-11-10-02.json)
 - [Object-pronoun placement and queremos practice](data/sessions/2026-11-10-03.json)
 - [Why, reasons and purpose practice](data/sessions/2026-11-10-04.json)
+- [Reading and regular -er verb practice](data/sessions/2026-11-10-05.json)
 - [Data format and update rules](docs/data-format.md)
 - [Instructions for future assistants](AGENTS.md)
 
@@ -30,7 +31,11 @@ Successfully reused **un poco de** in **Queremos aprender un poco de español** 
 
 Practised **¿Por qué queremos aprender español?** with spelling corrections, reused **para comprender** after a model, and correctly chose **para** for purpose and **porque** for a reason in two cued prompts.
 
-Next: use purpose and reason in a self-created work sentence, then revisit **un poco de**, **hablo**, object gender, pronoun placement and why-question spelling after a gap.
+Used **leer** in a self-created purpose sentence, then correctly used **leo** and **leemos** after models. **Quieremos** recurred and was corrected; **Queremos leer** was then recalled correctly.
+
+Introduced regular **-er → -emos** for we: **comprender** was initially truncated, while **aprendemos** was correct after a prior model and stem explanation. **Comprendemos** still needs independent production.
+
+Next: recall **comprendemos** and **queremos**, then combine reading/learning with purpose and reason after a gap.
 Review software vocabulary such as **probar**, **revisar**, **los logros**, and **ejecutar las pruebas**.
 Location with **estar** still needs independent recall. **Hablo** was recalled without a hint; the surrounding phrase needed **un poco de español** and spelling corrections.
 

@@ -25,13 +25,14 @@
       "spanish": "queremos",
       "english": "we want",
       "status": "used_successfully",
-      "note": "Recalled queremos correctly, then made one quermos spelling slip and subsequently wrote queremos correctly again in a prompted transformation.",
+      "note": "Quieremos has recurred in longer sentences despite earlier correct uses; then Queremos leer was correct after an immediate correction. Longer-gap recall remains a priority.",
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
       "sessionIds": [
         "2026-11-10-01",
         "2026-11-10-03",
-        "2026-11-10-04"
+        "2026-11-10-04",
+        "2026-11-10-05"
       ],
       "observationIds": [
         "o-work-transfer",
@@ -41,7 +42,9 @@
         "o-l3-aprender-plural",
         "o-l4-why",
         "o-l4-because",
-        "o-l4-purpose-plural"
+        "o-l4-purpose-plural",
+        "o-l5-leemos",
+        "o-l5-queremos"
       ]
     },
     {
@@ -72,7 +75,8 @@
       "sessionIds": [
         "2026-11-10-01",
         "2026-11-10-03",
-        "2026-11-10-04"
+        "2026-11-10-04",
+        "2026-11-10-05"
       ],
       "observationIds": [
         "o-quiero",
@@ -81,7 +85,10 @@
         "o-l3-aprender-plural",
         "o-l4-why",
         "o-l4-because",
-        "o-l4-purpose-plural"
+        "o-l4-purpose-plural",
+        "o-l5-leemos",
+        "o-l5-comprender",
+        "o-l5-aprender"
       ]
     },
     {
@@ -95,13 +102,16 @@
       "sessionIds": [
         "2026-11-10-01",
         "2026-11-10-03",
-        "2026-11-10-04"
+        "2026-11-10-04",
+        "2026-11-10-05"
       ],
       "observationIds": [
         "o-l3-aprender-first",
         "o-l3-aprender-plural",
         "o-l4-why",
-        "o-l4-purpose-plural"
+        "o-l4-purpose-plural",
+        "o-l5-leemos",
+        "o-l5-aprender"
       ]
     },
     {
@@ -148,13 +158,16 @@
       "sessionIds": [
         "2026-11-10-01",
         "2026-11-10-03",
-        "2026-11-10-04"
+        "2026-11-10-04",
+        "2026-11-10-05"
       ],
       "observationIds": [
         "o-independent",
         "o-l3-reason-success",
         "o-l4-because",
-        "o-l4-porque-choice"
+        "o-l4-porque-choice",
+        "o-l5-reason",
+        "o-l5-leemos"
       ]
     },
     {
@@ -842,12 +855,15 @@
       "note": "Used para + infinitive after a model and selected it correctly in a cued choice.",
       "observationIds": [
         "o-l4-purpose-plural",
-        "o-l4-para-choice"
+        "o-l4-para-choice",
+        "o-l5-purpose",
+        "o-l5-leo"
       ],
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
       "sessionIds": [
-        "2026-11-10-04"
+        "2026-11-10-04",
+        "2026-11-10-05"
       ]
     },
     {
@@ -858,12 +874,14 @@
       "note": "Learner supplied this verb, then reused it in a modelled purpose sentence.",
       "observationIds": [
         "o-l4-purpose-idea",
-        "o-l4-purpose-plural"
+        "o-l4-purpose-plural",
+        "o-l5-comprender"
       ],
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
       "sessionIds": [
-        "2026-11-10-04"
+        "2026-11-10-04",
+        "2026-11-10-05"
       ]
     },
     {
@@ -896,6 +914,115 @@
       "sessionIds": [
         "2026-11-10-04"
       ]
+    },
+    {
+      "id": "v-leer",
+      "spanish": "leer",
+      "english": "to read",
+      "status": "used_successfully",
+      "note": "Supplied correctly in a self-created sentence and later recall.",
+      "observationIds": [
+        "o-l5-purpose",
+        "o-l5-reason",
+        "o-l5-queremos"
+      ],
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-05"
+      ]
+    },
+    {
+      "id": "v-obtener",
+      "spanish": "obtener",
+      "english": "to obtain / get",
+      "status": "used_successfully",
+      "note": "Tutor supplied obtener información; learner then reused obtener after the model.",
+      "observationIds": [
+        "o-l5-purpose",
+        "o-l5-leo"
+      ],
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-05"
+      ]
+    },
+    {
+      "id": "v-informacion",
+      "spanish": "la información",
+      "english": "information",
+      "status": "used_with_correction",
+      "note": "Meaning clear; accent in información supplied. Keyboard limitations remain unassessed.",
+      "observationIds": [
+        "o-l5-purpose",
+        "o-l5-leo"
+      ],
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-05"
+      ]
+    },
+    {
+      "id": "v-leo",
+      "spanish": "leo",
+      "english": "I read / I am reading",
+      "status": "used_successfully",
+      "note": "Correct prompted use after the form was shown.",
+      "observationIds": [
+        "o-l5-leo"
+      ],
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-05"
+      ]
+    },
+    {
+      "id": "v-leemos",
+      "spanish": "leemos",
+      "english": "we read",
+      "status": "used_successfully",
+      "note": "Correct form after introduction; the same sentence needed a querer correction.",
+      "observationIds": [
+        "o-l5-leemos"
+      ],
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-05"
+      ]
+    },
+    {
+      "id": "v-aprendemos",
+      "spanish": "aprendemos",
+      "english": "we learn",
+      "status": "used_successfully",
+      "note": "Correct immediate response after an explicit earlier model and stem-preservation explanation.",
+      "observationIds": [
+        "o-l5-aprender"
+      ],
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-05"
+      ]
+    },
+    {
+      "id": "v-comprendemos",
+      "spanish": "comprendemos",
+      "english": "we understand",
+      "status": "used_with_correction",
+      "note": "Compremos was corrected to comprendemos; independent correct production remains pending.",
+      "observationIds": [
+        "o-l5-comprender"
+      ],
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-05"
+      ]
     }
   ],
   "grammar": [
@@ -913,14 +1040,18 @@
         "o-l3-aprender-first",
         "o-l3-aprender-plural",
         "o-l4-because",
-        "o-l4-purpose-plural"
+        "o-l4-purpose-plural",
+        "o-l5-purpose",
+        "o-l5-reason",
+        "o-l5-queremos"
       ],
       "nextReview": "Combine with different familiar verbs without a model.",
       "lastPractised": "2026-11-10",
       "sessionIds": [
         "2026-11-10-01",
         "2026-11-10-03",
-        "2026-11-10-04"
+        "2026-11-10-04",
+        "2026-11-10-05"
       ]
     },
     {
@@ -935,14 +1066,17 @@
         "o-l3-it-misplaced",
         "o-l3-reason-success",
         "o-l4-because",
-        "o-l4-porque-choice"
+        "o-l4-porque-choice",
+        "o-l5-reason",
+        "o-l5-leemos"
       ],
       "nextReview": "Use a new work-related reason, then revisit after a gap.",
       "lastPractised": "2026-11-10",
       "sessionIds": [
         "2026-11-10-01",
         "2026-11-10-03",
-        "2026-11-10-04"
+        "2026-11-10-04",
+        "2026-11-10-05"
       ]
     },
     {
@@ -959,14 +1093,17 @@
         "o-l3-probarla",
         "o-l3-aprender-plural",
         "o-l4-why",
-        "o-l4-purpose-plural"
+        "o-l4-purpose-plural",
+        "o-l5-leemos",
+        "o-l5-queremos"
       ],
-      "nextReview": "Recalled queremos correctly in Queremos revisarlo after an earlier quieremos correction. Recheck after a gap before inferring retention.",
+      "nextReview": "Quieremos recurred in a longer sentence; Queremos leer was then recalled correctly immediately after correction. Recheck without a recent form reminder.",
       "lastPractised": "2026-11-10",
       "sessionIds": [
         "2026-11-10-01",
         "2026-11-10-03",
-        "2026-11-10-04"
+        "2026-11-10-04",
+        "2026-11-10-05"
       ]
     },
     {
@@ -1040,14 +1177,20 @@
         "o-l4-why",
         "o-l4-because",
         "o-l4-purpose-idea",
-        "o-l4-purpose-plural"
+        "o-l4-purpose-plural",
+        "o-l5-purpose",
+        "o-l5-leo",
+        "o-l5-leemos",
+        "o-l5-comprender",
+        "o-l5-aprender"
       ],
       "nextReview": "Observe naturally; avoid repetitive spelling drills.",
       "lastPractised": "2026-11-10",
       "sessionIds": [
         "2026-11-10-01",
         "2026-11-10-03",
-        "2026-11-10-04"
+        "2026-11-10-04",
+        "2026-11-10-05"
       ]
     },
     {
@@ -1180,12 +1323,47 @@
         "o-l4-purpose-idea",
         "o-l4-purpose-plural",
         "o-l4-para-choice",
-        "o-l4-porque-choice"
+        "o-l4-porque-choice",
+        "o-l5-purpose",
+        "o-l5-leo"
       ],
       "nextReview": "Reused para after a model and chose para/porque correctly with cues. Test independent production after a gap.",
       "lastPractised": "2026-11-10",
       "sessionIds": [
-        "2026-11-10-04"
+        "2026-11-10-04",
+        "2026-11-10-05"
+      ]
+    },
+    {
+      "id": "g-leer-present",
+      "pattern": "leer → leo / leemos",
+      "meaning": "I read / we read.",
+      "status": "used_successfully",
+      "explanation": "Leo is the I form; leemos is the we form. Both were supplied, then correctly used in prompted sentences.",
+      "observationIds": [
+        "o-l5-leo",
+        "o-l5-leemos"
+      ],
+      "nextReview": "Recall forms after a gap and use them in a new sentence.",
+      "lastPractised": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-05"
+      ]
+    },
+    {
+      "id": "g-regular-er-we",
+      "pattern": "regular -er verb stem + -emos",
+      "meaning": "Form the present-tense we form of regular -er verbs.",
+      "status": "used_with_correction",
+      "explanation": "Remove only final -er and retain the stem: leer → leemos, aprender → aprendemos, comprender → comprendemos. Comprender was initially truncated; aprender was then correct after explicit models.",
+      "observationIds": [
+        "o-l5-comprender",
+        "o-l5-aprender"
+      ],
+      "nextReview": "Comprendemos still needs independent production; do not infer general rule mastery from modelled aprendemos.",
+      "lastPractised": "2026-11-10",
+      "sessionIds": [
+        "2026-11-10-05"
       ]
     }
   ],
@@ -1210,11 +1388,12 @@
       "seconds": 45,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 1,
+      "attemptCount": 2,
       "lastAttempt": "2026-11-10",
       "nextReview": "after_a_gap",
-      "lastAttemptSessionId": "2026-11-10-03",
-      "lastAttemptVariant": "We want to review it."
+      "lastAttemptSessionId": "2026-11-10-05",
+      "lastAttemptVariant": "We want to read, immediately after quieremos was corrected.",
+      "lastOutcome": "used_successfully"
     },
     {
       "id": "u-negation",
@@ -1394,6 +1573,60 @@
       "lastAttempt": "2026-11-10",
       "lastAttemptSessionId": "2026-11-10-04",
       "lastAttemptVariant": "Purpose gap with translation, then Queremos probarla ___ es importante.",
+      "lastOutcome": "used_successfully",
+      "nextReview": "after_a_gap"
+    },
+    {
+      "id": "u-regular-er-we",
+      "title": "Keep the whole -er stem",
+      "grammarIds": [
+        "g-regular-er-we"
+      ],
+      "vocabularyIds": [
+        "v-comprender",
+        "v-comprendemos",
+        "v-aprendemos",
+        "v-espanol"
+      ],
+      "prompt": "Say: We understand Spanish.",
+      "modelAnswer": "Comprendemos español.",
+      "hint": "Keep comprend-; replace only final -er with -emos.",
+      "feedbackFocus": "Retain the full stem; correct modelled aprendemos does not yet establish recall of comprendemos.",
+      "seconds": 45,
+      "optional": true,
+      "selection": "enabled",
+      "attemptCount": 2,
+      "lastAttempt": "2026-11-10",
+      "lastAttemptSessionId": "2026-11-10-05",
+      "lastAttemptVariant": "We understand Spanish, then We learn Spanish after a stem correction.",
+      "lastOutcome": "used_with_correction",
+      "nextReview": "next_suitable_session"
+    },
+    {
+      "id": "u-leer-present",
+      "title": "Reading in the present",
+      "grammarIds": [
+        "g-leer-present",
+        "g-para-purpose",
+        "g-porque"
+      ],
+      "vocabularyIds": [
+        "v-leo",
+        "v-leemos",
+        "v-obtener",
+        "v-informacion"
+      ],
+      "prompt": "Say: I read to get information.",
+      "modelAnswer": "Leo para obtener información.",
+      "hint": "I read = leo.",
+      "feedbackFocus": "Present form leo/leemos with an appropriate purpose or reason.",
+      "seconds": 45,
+      "optional": true,
+      "selection": "enabled",
+      "attemptCount": 2,
+      "lastAttempt": "2026-11-10",
+      "lastAttemptSessionId": "2026-11-10-05",
+      "lastAttemptVariant": "I read to get information; then We read because we want to learn Spanish.",
       "lastOutcome": "used_successfully",
       "nextReview": "after_a_gap"
     }

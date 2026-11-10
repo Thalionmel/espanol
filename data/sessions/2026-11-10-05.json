@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-10-05",
+  "date": "2026-11-10",
+  "source": "Seven learning exchanges saved as one batch",
+  "lessonTheme": "Reading, information and regular -er present forms",
+  "duration": {
+    "requestedMinutes": null,
+    "measuredMinutes": null
+  },
+  "summary": "Used purpose and reason with leer. Replaced ganar información with the more natural obtener información. Correctly used leo and leemos. Corrected recurring quieremos to queremos, then recalled Queremos leer. Applied the regular -er we pattern: comprender stem initially truncated, followed by correct Aprendemos español after models and correction.",
+  "observations": [
+    {
+      "id": "o-l5-purpose",
+      "kind": "self_created_sentence",
+      "learnerText": "Quiero leer Para ganar informacion",
+      "correctedText": "Quiero leer para obtener información.",
+      "grammarIds": [
+        "g-quiero-infinitive",
+        "g-para-purpose",
+        "g-spelling"
+      ],
+      "outcome": "Correct purpose structure and leer. Supplied the more natural collocation obtener información, lowercase para and the accent. Ganar was not declared an invalid Spanish verb."
+    },
+    {
+      "id": "o-l5-reason",
+      "kind": "prompted_attempt",
+      "learnerText": "Quiero leer porque es importante",
+      "correctedText": null,
+      "grammarIds": [
+        "g-quiero-infinitive",
+        "g-porque"
+      ],
+      "outcome": "Correct complete reason sentence. Tutor subsequently introduced leo and modelled Leo para aprender."
+    },
+    {
+      "id": "o-l5-leo",
+      "kind": "prompted_attempt",
+      "learnerText": "Leo Para obtener informacion",
+      "correctedText": "Leo para obtener información.",
+      "grammarIds": [
+        "g-leer-present",
+        "g-para-purpose",
+        "g-spelling"
+      ],
+      "outcome": "Correct leo and obtener after models, with capitalization and accent corrections. Tutor then introduced leemos."
+    },
+    {
+      "id": "o-l5-leemos",
+      "kind": "prompted_attempt",
+      "learnerText": "Leemos porque quieremos aprender espanol",
+      "correctedText": "Leemos porque queremos aprender español.",
+      "grammarIds": [
+        "g-leer-present",
+        "g-porque",
+        "g-querer-person",
+        "g-spelling"
+      ],
+      "outcome": "Correct leemos and reason structure. Repeated quieremos error was corrected to queremos; supplied ñ."
+    },
+    {
+      "id": "o-l5-queremos",
+      "kind": "prompted_recall",
+      "learnerText": "Queremos leer",
+      "correctedText": null,
+      "grammarIds": [
+        "g-querer-person",
+        "g-quiero-infinitive"
+      ],
+      "outcome": "Correct immediate recall after the preceding querer correction. Tutor then taught regular -er stem + emos using leer/leemos and aprender/aprendemos."
+    },
+    {
+      "id": "o-l5-comprender",
+      "kind": "rule_application",
+      "learnerText": "Compremos espanol",
+      "correctedText": "Comprendemos español.",
+      "grammarIds": [
+        "g-regular-er-we",
+        "g-spelling"
+      ],
+      "outcome": "Attempted we form but truncated the comprender stem. Explained removing only final -er: comprend + emos. Correct comprendemos has been supplied but not yet independently produced."
+    },
+    {
+      "id": "o-l5-aprender",
+      "kind": "rule_application",
+      "learnerText": "Aprendemos espanol",
+      "correctedText": "Aprendemos español.",
+      "grammarIds": [
+        "g-regular-er-we",
+        "g-spelling"
+      ],
+      "outcome": "Correct aprendemos with the whole stem after the regular -er explanation. Aprender/aprendemos had been explicitly modelled earlier; this is immediate cued use, not an unmodelled or delayed retention test. Supplied ñ."
+    }
+  ],
+  "nextSteps": [
+    "Recall comprendemos while retaining the full comprend- stem",
+    "Recheck quiero versus queremos after a gap",
+    "Use regular -er present forms with purpose and reason in a self-created sentence"
+  ],
+  "skippedUnitIds": [],
+  "assessmentNote": "Successful immediate use is distinguished from supplied forms, lexical corrections and untested delayed retention."
+}

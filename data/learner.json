@@ -58,9 +58,12 @@
     "g-object-gender",
     "g-un-poco-de",
     "g-por-que-question",
-    "g-para-purpose"
+    "g-para-purpose",
+    "g-leer-present",
+    "g-regular-er-we"
   ],
   "nextUnitIds": [
+    "u-regular-er-we",
     "u-para-vs-porque",
     "u-hablo",
     "u-permission",
@@ -68,7 +71,8 @@
     "u-negation",
     "u-goal-reason",
     "u-probar",
-    "u-un-poco-de"
+    "u-un-poco-de",
+    "u-leer-present"
   ],
   "reviewPolicy": {
     "mode": "During suitable conversations; no reminders or background scheduling",
@@ -84,7 +88,7 @@
     ],
     "intervalsAreFlexible": true
   },
-  "latestSessionId": "2026-11-10-04",
+  "latestSessionId": "2026-11-10-05",
   "disclosureAuthorization": {
     "publicLearningRecord": true,
     "ongoingUpdatesAuthorized": true,
