@@ -14,8 +14,10 @@ A five-minute lesson is appropriate when requested.
 ## Recording learning
 
 The user requested ongoing storage of vocabulary, grammar, lessons and practice for future training programs.
-Maintain those records as part of the learning conversation; do not require separate approval for each routine learning-record update.
-This authorization is limited to learning content in this repository, not deployments, dependencies, unrelated code or messages to other people.
+Maintain those records as part of the learning conversation, within the user's explicit disclosure authorization.
+When ongoing public learning-record updates are explicitly authorized, routine updates within that scope need no separate approval.
+Initial-publication approval alone does not authorize adding future personal learning evidence publicly.
+Authorization is limited to learning content in this repository, not deployments, dependencies, unrelated code or messages to other people.
 
 Record only observed attempts, explanations actually given, and explicit preferences.
 Separate introduced, discussed, used_with_correction and used_successfully; do not infer mastery.
