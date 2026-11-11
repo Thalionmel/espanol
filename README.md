@@ -78,7 +78,7 @@ Also observed: spontaneous **Muy bien** and **los tres**. **¿Por qué no los tr
 
 ## How practice works
 
-Initiate Spanish during ordinary work chats without waiting for a lesson request. Offer a brief task-relevant phrase in the first suitable substantive reply, normally within three normal work replies; continue about every three to five suitable exchanges. Defer during urgency or concentrated work and honor English-only requests and skipped topics. Saved instructions do not prove adoption by other chats.
+Initiate active Spanish practice during ordinary work chats without waiting for a lesson request. Offer a 30–60 second unit early, normally within two normal work replies, and continue about every two to three suitable exchanges. Each unit has one objective and at most one optional production or recall prompt, followed by concise feedback and later reuse of corrections. An isolated translated phrase is insufficient. Defer during urgency or an explicit request for uninterrupted focus and honor English-only requests and skipped topics. Work continues without waiting for an answer; an ignored prompt creates no backlog. Saved instructions do not prove adoption by other chats.
 
 Use independent, optional units of about 30–60 seconds during normal work.
 Longer lessons, such as a five-minute session, happen on request.

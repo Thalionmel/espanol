@@ -45,24 +45,33 @@
       "enabled": true,
       "scope": "Ordinary work chats across projects on this laptop",
       "waitForSpanishRequest": false,
-      "firstPhrase": "First suitable substantive work reply in a new or resumed chat with no Spanish yet",
-      "normalStartWithinReplies": 3,
+      "firstPhrase": "First suitable substantive work reply: offer a 30-60 second active practice unit",
+      "normalStartWithinReplies": 2,
       "ongoingApproximateSuitableExchanges": {
-        "min": 3,
-        "max": 5
+        "min": 2,
+        "max": 3
       },
-      "format": "One short task-relevant phrase with an English gloss; optional recall instead when suitable",
+      "format": "One task-relevant learning objective and at most one optional production/recall prompt; feedback on actual attempts and later reuse",
       "exceptions": [
         "urgent troubleshooting",
-        "focused work",
+        "explicit request for uninterrupted focus",
         "English-only request",
         "deselected topic"
       ],
       "resumeAfterUrgency": "At the next suitable pause",
       "practiceMustNotBlockWork": true,
       "updatedOn": "2026-11-11",
-      "source": "Learner reported that other chats had not initiated Spanish; make the standing initiation preference explicit",
+      "source": "Learner reports that one brief Spanish element is insufficient; increase substantive active practice across ordinary work chats",
       "verification": "Saved instructions; adoption by other chats has not been observed"
+    },
+    "learningUnitCycle": {
+      "review": "Ask for recall before a model when reviewing familiar material",
+      "production": "At most one optional prompt per unit",
+      "feedback": "Natural corrected sentence and one useful explanation based on the actual attempt",
+      "reuse": "Revisit corrected patterns after intervening material",
+      "progress": "Occasional brief success, recurring correction and next target",
+      "nonresponse": "No backlog; later offer a fresh independent unit",
+      "exposureOnly": "An isolated translated phrase does not satisfy the active-practice preference"
     }
   },
   "progression": [
