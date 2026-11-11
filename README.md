@@ -30,6 +30,7 @@ A shared Spanish learning record for conversation-based teaching and future trai
 - [Tell me whether: dime si requests](data/sessions/2026-11-11-08.json)
 - [Command recall in positive and negative sequences](data/sessions/2026-11-11-09.json)
 - [Explain to me why: explícame requests](data/sessions/2026-11-11-10.json)
+- [Self-chosen first/then commands](data/sessions/2026-11-11-11.json)
 - [Data format and update rules](docs/data-format.md)
 - [Instructions for future assistants](AGENTS.md)
 
@@ -91,6 +92,8 @@ Then correctly produced the feminine read/review sequence. Introduced **Dime si�
 Latest sequence recall initially mixed **probarla** and **puedes dime**; two direct commands were supplied. Focused **pruébala** retry, full feminine sequence and masculine **pruébalo / listo** transfer were then correct. Positive/negative **revísalo; no lo publiques** and feminine transfer kept pronouns correctly placed. **Publices** needed **qu**, retained on immediate retry. **Primero** spelling slips and written accents were supplied separately from grammar.
 
 Introduced **explicar → explica**, then **explica + me → explícame**. Learner correctly attached **me**; stress was corrected from **explicáme**, then the correct **explícame** accent was retained in three prompts. **Explícame por qué…** correctly introduced readiness, inability and need clauses. Infinitives after **podemos/necesitamos** were correct. Final **Primero revísala; luego explícame por qué no está lista** retained all requested meaning, with remaining accents supplied.
+
+In a self-chosen instruction, **Primero publicalo luegoe pruebalo**, both affirmative command forms and attached **lo** were correct, including the **prueba** stem. Tutor supplied **Primero publícalo, luego pruébalo.** Written accents and **luego** spelling remain separate review targets; no immediate retry was observed.
 
 Next: use a self-chosen practical instruction and recheck **explícame** after a gap. Retain earlier **publiques**, **un poco de**, purpose/reason and location review targets; immediate success does not establish durable recall.
 Review software vocabulary such as **probar**, **revisar**, **los logros**, and **ejecutar las pruebas**.

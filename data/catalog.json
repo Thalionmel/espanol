@@ -2045,14 +2045,16 @@
       "lastSeen": "2026-11-11",
       "sessionIds": [
         "2026-11-11-06",
-        "2026-11-11-07"
+        "2026-11-11-07",
+        "2026-11-11-11"
       ],
       "observationIds": [
         "o-2026-11-11-06-publish-feminine",
         "o-2026-11-11-06-publish-logo-retry",
         "o-2026-11-11-07-logo-positive-reason",
         "o-2026-11-11-07-sequence-first",
-        "o-2026-11-11-07-sequence-retry"
+        "o-2026-11-11-07-sequence-retry",
+        "o-2026-11-11-11-self-chosen-sequence"
       ]
     },
     {
@@ -2067,7 +2069,8 @@
         "2026-11-11-07",
         "2026-11-11-08",
         "2026-11-11-09",
-        "2026-11-11-10"
+        "2026-11-11-10",
+        "2026-11-11-11"
       ],
       "observationIds": [
         "o-2026-11-11-07-sequence-first",
@@ -2079,22 +2082,24 @@
         "o-2026-11-11-09-logo-sequence-transfer",
         "o-2026-11-11-09-logo-review-no-publish",
         "o-2026-11-11-09-feature-review-no-publish",
-        "o-2026-11-11-10-review-explain-sequence"
+        "o-2026-11-11-10-review-explain-sequence",
+        "o-2026-11-11-11-self-chosen-sequence"
       ]
     },
     {
       "id": "v-luego",
       "spanish": "luego",
       "english": "then",
-      "status": "used_successfully",
-      "note": "Introduced with primero and correctly used in two immediate action sequences; longer-gap recall untested.",
+      "status": "used_with_correction",
+      "note": "Introduced with primero and correctly used in two immediate action sequences; longer-gap recall untested. A later self-chosen sequence used luegoe; corrected to luego. Sequence meaning was retained.",
       "firstSeen": "2026-11-11",
       "lastSeen": "2026-11-11",
       "sessionIds": [
         "2026-11-11-07",
         "2026-11-11-08",
         "2026-11-11-09",
-        "2026-11-11-10"
+        "2026-11-11-10",
+        "2026-11-11-11"
       ],
       "observationIds": [
         "o-2026-11-11-07-sequence-first",
@@ -2103,7 +2108,8 @@
         "o-2026-11-11-08-review-tell-sequence",
         "o-2026-11-11-09-feature-sequence-retry",
         "o-2026-11-11-09-logo-sequence-transfer",
-        "o-2026-11-11-10-review-explain-sequence"
+        "o-2026-11-11-10-review-explain-sequence",
+        "o-2026-11-11-11-self-chosen-sequence"
       ]
     },
     {
@@ -2116,13 +2122,15 @@
       "lastSeen": "2026-11-11",
       "sessionIds": [
         "2026-11-11-07",
-        "2026-11-11-09"
+        "2026-11-11-09",
+        "2026-11-11-11"
       ],
       "observationIds": [
         "o-2026-11-11-07-sequence-first",
         "o-2026-11-11-07-test-logo-retry",
         "o-2026-11-11-07-sequence-retry",
-        "o-2026-11-11-09-logo-sequence-transfer"
+        "o-2026-11-11-09-logo-sequence-transfer",
+        "o-2026-11-11-11-self-chosen-sequence"
       ]
     },
     {
@@ -2558,7 +2566,8 @@
         "o-2026-11-11-10-explain-not-ready",
         "o-2026-11-11-10-explain-cannot-publish",
         "o-2026-11-11-10-explain-need-test",
-        "o-2026-11-11-10-review-explain-sequence"
+        "o-2026-11-11-10-review-explain-sequence",
+        "o-2026-11-11-11-self-chosen-sequence"
       ],
       "nextReview": "Observe naturally; avoid repetitive spelling drills.",
       "lastPractised": "2026-11-11",
@@ -2585,7 +2594,8 @@
         "2026-11-11-07",
         "2026-11-11-08",
         "2026-11-11-09",
-        "2026-11-11-10"
+        "2026-11-11-10",
+        "2026-11-11-11"
       ]
     },
     {
@@ -3253,7 +3263,8 @@
         "2026-11-11-04",
         "2026-11-11-05",
         "2026-11-11-07",
-        "2026-11-11-09"
+        "2026-11-11-09",
+        "2026-11-11-11"
       ],
       "observationIds": [
         "o-2026-11-11-03-test-function",
@@ -3269,7 +3280,8 @@
         "o-2026-11-11-09-mixed-command-sequence",
         "o-2026-11-11-09-test-feature-focused",
         "o-2026-11-11-09-feature-sequence-retry",
-        "o-2026-11-11-09-logo-sequence-transfer"
+        "o-2026-11-11-09-logo-sequence-transfer",
+        "o-2026-11-11-11-self-chosen-sequence"
       ],
       "lastPractised": "2026-11-11",
       "nextReview": "Probarla infinitive recurred in a longer command sequence; after focused retry, pruébala/pruébalo correctly used in two sequences. Recheck without immediate models."
@@ -3304,7 +3316,8 @@
         "2026-11-11-07",
         "2026-11-11-08",
         "2026-11-11-09",
-        "2026-11-11-10"
+        "2026-11-11-10",
+        "2026-11-11-11"
       ],
       "observationIds": [
         "o-2026-11-11-04-review-infinitive",
@@ -3328,7 +3341,8 @@
         "o-2026-11-11-09-logo-sequence-transfer",
         "o-2026-11-11-09-logo-review-no-publish",
         "o-2026-11-11-09-feature-review-no-publish",
-        "o-2026-11-11-10-review-explain-sequence"
+        "o-2026-11-11-10-review-explain-sequence",
+        "o-2026-11-11-11-self-chosen-sequence"
       ],
       "lastPractised": "2026-11-11",
       "nextReview": "Correct same-sequence contrasts Queremos probarla / Pruébala and Necesitamos leerla / Léela. Written command accents supplied; recheck after a longer gap."
@@ -3411,7 +3425,8 @@
         "2026-11-11-07",
         "2026-11-11-08",
         "2026-11-11-09",
-        "2026-11-11-10"
+        "2026-11-11-10",
+        "2026-11-11-11"
       ],
       "observationIds": [
         "o-2026-11-11-07-sequence-first",
@@ -3423,10 +3438,11 @@
         "o-2026-11-11-09-logo-sequence-transfer",
         "o-2026-11-11-09-logo-review-no-publish",
         "o-2026-11-11-09-feature-review-no-publish",
-        "o-2026-11-11-10-review-explain-sequence"
+        "o-2026-11-11-10-review-explain-sequence",
+        "o-2026-11-11-11-self-chosen-sequence"
       ],
       "lastPractised": "2026-11-11",
-      "nextReview": "Latest review/explain sequence correctly retained explicit la, both direct commands and readiness clause. Recheck with self-chosen practical instructions after a gap."
+      "nextReview": "A self-chosen publish/test sequence retained action order and both command forms. Written accents and luego spelling supplied; revisit after a gap."
     },
     {
       "id": "g-dime-si",
@@ -4216,11 +4232,11 @@
       "seconds": 60,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 10,
+      "attemptCount": 11,
       "lastAttempt": "2026-11-11",
-      "lastAttemptSessionId": "2026-11-11-10",
-      "lastAttemptVariant": "First review it, then explain why not ready; all meaning retained.",
-      "lastOutcome": "used_successfully",
+      "lastAttemptSessionId": "2026-11-11-11",
+      "lastAttemptVariant": "Self-chosen publish first, then test sequence; command forms correct, accents and luego spelling supplied.",
+      "lastOutcome": "used_with_correction",
       "nextReview": "after_a_gap"
     },
     {

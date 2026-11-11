@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-11-11",
+  "date": "2026-11-11",
+  "source": "One self-chosen instruction and its correction, saved at a topic change",
+  "lessonTheme": "Independent first/then instruction sequence",
+  "duration": {
+    "requestedMinutes": null,
+    "measuredMinutes": null
+  },
+  "summary": "Spontaneously formed two affirmative commands with attached lo, retaining prueba and the intended first/then order. Written command accents and luegoe spelling were corrected; no long-term mastery inferred.",
+  "observations": [
+    {
+      "id": "o-2026-11-11-11-self-chosen-sequence",
+      "kind": "spontaneous_work_transfer",
+      "learnerText": "Primero publicalo luegoe pruebalo",
+      "correctedText": "Primero publícalo, luego pruébalo.",
+      "grammarIds": [
+        "g-sequenced-commands",
+        "g-imperative-objects",
+        "g-probar-imperative",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-primero",
+        "v-publicalo",
+        "v-luego",
+        "v-pruebalo"
+      ],
+      "outcome": "Correct affirmative command forms, lo attachment, prueba stem and sequence meaning without an immediate target model. Tutor supplied the natural sentence with accents and corrected luegoe to luego. No retry was observed."
+    }
+  ],
+  "nextSteps": [
+    "Reuse self-chosen first/then commands after intervening material",
+    "Review written stress in publícalo and pruébalo separately from correct morphology"
+  ],
+  "skippedUnitIds": [],
+  "assessmentNote": "The instruction was self-chosen during ordinary conversation. Record only its language form; exclude unrelated work details."
+}
