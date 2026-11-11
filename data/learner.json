@@ -110,9 +110,11 @@
     "g-regular-imperative-tu",
     "g-probar-imperative",
     "g-imperative-register",
-    "g-imperative-objects"
+    "g-imperative-objects",
+    "g-negative-tu-ar"
   ],
   "nextUnitIds": [
+    "u-negative-tu-ar",
     "u-imperative-object",
     "u-prueba",
     "u-regular-imperative-tu",
@@ -150,7 +152,7 @@
     ],
     "intervalsAreFlexible": true
   },
-  "latestSessionId": "2026-11-11-04",
+  "latestSessionId": "2026-11-11-05",
   "disclosureAuthorization": {
     "publicLearningRecord": true,
     "ongoingUpdatesAuthorized": true,

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-11-05",
+  "date": "2026-11-11",
+  "source": "Six learner attempts saved as one batch",
+  "lessonTheme": "Infinitive versus command, then regular negative tú commands",
+  "duration": {
+    "requestedMinutes": null,
+    "measuredMinutes": null
+  },
+  "summary": "Correctly contrasted Queremos probarla / Pruébala and Necesitamos leerla / Léela, with command accents supplied. Introduced regular negative tú -ar → -es; correct No revises esta función after a model and correct transfer No crees esta función without conjugated target supplied.",
+  "observations": [
+    {
+      "id": "o-2026-11-11-05-want-test",
+      "kind": "prompted_transfer",
+      "learnerText": "queremos probarla",
+      "correctedText": "Queremos probarla.",
+      "grammarIds": [
+        "g-querer-person",
+        "g-quiero-infinitive",
+        "g-object-pronouns",
+        "g-object-gender"
+      ],
+      "vocabularyIds": [
+        "v-queremos",
+        "v-probarla"
+      ],
+      "outcome": "Correct infinitive probarla after queremos in a command-versus-infinitive contrast."
+    },
+    {
+      "id": "o-2026-11-11-05-test-command",
+      "kind": "prompted_transfer",
+      "learnerText": "pruebala por favor",
+      "correctedText": "Pruébala, por favor.",
+      "grammarIds": [
+        "g-imperative-objects",
+        "g-probar-imperative",
+        "g-object-gender",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-pruebala",
+        "v-prueba",
+        "v-por-favor"
+      ],
+      "outcome": "Correct switch from probarla to personal command pruébala; accent/capitalization supplied."
+    },
+    {
+      "id": "o-2026-11-11-05-need-read",
+      "kind": "prompted_transfer",
+      "learnerText": "necesitamos leerla",
+      "correctedText": "Necesitamos leerla.",
+      "grammarIds": [
+        "g-necesitamos-infinitive",
+        "g-object-pronouns",
+        "g-object-gender"
+      ],
+      "vocabularyIds": [
+        "v-necesitamos",
+        "v-leerla",
+        "v-leer"
+      ],
+      "outcome": "Correct infinitive leer + la after necesitamos, without a full target model."
+    },
+    {
+      "id": "o-2026-11-11-05-read-command",
+      "kind": "prompted_transfer",
+      "learnerText": "leela por favor",
+      "correctedText": "Léela, por favor.",
+      "grammarIds": [
+        "g-imperative-objects",
+        "g-regular-imperative-tu",
+        "g-object-gender",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-leela",
+        "v-lee",
+        "v-por-favor"
+      ],
+      "outcome": "Correct switch from leerla to command léela; accent/capitalization supplied. Tutor then introduced revisa versus no revises and regular negative tú -ar → -es."
+    },
+    {
+      "id": "o-2026-11-11-05-negative-review",
+      "kind": "prompted_transfer",
+      "learnerText": "no revises esta funcion por favor",
+      "correctedText": "No revises esta función, por favor.",
+      "grammarIds": [
+        "g-negative-tu-ar",
+        "g-esto-esta",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-no-revises",
+        "v-esta",
+        "v-funcion",
+        "v-por-favor"
+      ],
+      "outcome": "Correct no revises after negative model, retaining esta función. Standard capitalization, función accent and conventional punctuation supplied."
+    },
+    {
+      "id": "o-2026-11-11-05-negative-create",
+      "kind": "prompted_transfer",
+      "learnerText": "no crees esta funcion por favor",
+      "correctedText": "No crees esta función, por favor.",
+      "grammarIds": [
+        "g-negative-tu-ar",
+        "g-esto-esta",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-no-crees",
+        "v-crear",
+        "v-esta",
+        "v-funcion",
+        "v-por-favor"
+      ],
+      "outcome": "Correct transfer of regular negative tú -es ending to crear, including full cre- stem and double e in crees. No conjugated crear target supplied. Spelling/punctuation supplied."
+    }
+  ],
+  "nextSteps": [
+    "Recheck verb meaning and command/infinitive form after intervening material",
+    "Introduce negative-command object placement separately",
+    "Later recall negative endings without a fresh model"
+  ],
+  "skippedUnitIds": [],
+  "assessmentNote": "Model-supported initial negative use is separate from regular-pattern transfer. Spelling and supplied accents do not erase correct morphology; no long-term mastery inferred."
+}

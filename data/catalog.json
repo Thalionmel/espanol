@@ -27,7 +27,7 @@
       "status": "used_successfully",
       "note": "Quieremos has recurred in longer sentences despite earlier correct uses; then Queremos leer was correct after an immediate correction. Longer-gap recall remains a priority.",
       "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-10",
+      "lastSeen": "2026-11-11",
       "sessionIds": [
         "2026-11-10-01",
         "2026-11-10-03",
@@ -36,7 +36,8 @@
         "2026-11-10-06",
         "2026-11-10-11",
         "2026-11-10-12",
-        "2026-11-10-14"
+        "2026-11-10-14",
+        "2026-11-11-05"
       ],
       "observationIds": [
         "o-work-transfer",
@@ -56,7 +57,8 @@
         "o-l12-test-reason",
         "o-l12-but-not-yet",
         "o-l12-ready-but-no-publish",
-        "o-2026-11-10-14-learn"
+        "o-2026-11-10-14-learn",
+        "o-2026-11-11-05-want-test"
       ]
     },
     {
@@ -444,7 +446,8 @@
         "2026-11-10-13",
         "2026-11-11-02",
         "2026-11-11-03",
-        "2026-11-11-04"
+        "2026-11-11-04",
+        "2026-11-11-05"
       ],
       "observationIds": [
         "o-probar",
@@ -465,7 +468,9 @@
         "o-2026-11-11-03-create-this-function",
         "o-2026-11-11-03-test-function",
         "o-2026-11-11-04-test-function-recall",
-        "o-2026-11-11-04-read-function-recall"
+        "o-2026-11-11-04-read-function-recall",
+        "o-2026-11-11-05-negative-review",
+        "o-2026-11-11-05-negative-create"
       ]
     },
     {
@@ -1007,14 +1012,16 @@
       "observationIds": [
         "o-l3-probarla",
         "o-l11-test-recall",
-        "o-l12-test-reason"
+        "o-l12-test-reason",
+        "o-2026-11-11-05-want-test"
       ],
       "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-10",
+      "lastSeen": "2026-11-11",
       "sessionIds": [
         "2026-11-10-03",
         "2026-11-10-11",
-        "2026-11-10-12"
+        "2026-11-10-12",
+        "2026-11-11-05"
       ]
     },
     {
@@ -1157,7 +1164,8 @@
         "o-l5-queremos",
         "o-l6-que-leer",
         "o-2026-11-11-02-read-this",
-        "o-2026-11-11-03-read-formal"
+        "o-2026-11-11-03-read-formal",
+        "o-2026-11-11-05-need-read"
       ],
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-11",
@@ -1165,7 +1173,8 @@
         "2026-11-10-05",
         "2026-11-10-06",
         "2026-11-11-02",
-        "2026-11-11-03"
+        "2026-11-11-03",
+        "2026-11-11-05"
       ]
     },
     {
@@ -1305,7 +1314,8 @@
         "o-l8-logo-request",
         "o-l12-need-review-reason",
         "o-l13-need-this",
-        "o-2026-11-11-01-need-conversations"
+        "o-2026-11-11-01-need-conversations",
+        "o-2026-11-11-05-need-read"
       ],
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-11",
@@ -1315,7 +1325,8 @@
         "2026-11-10-08",
         "2026-11-10-12",
         "2026-11-10-13",
-        "2026-11-11-01"
+        "2026-11-11-01",
+        "2026-11-11-05"
       ]
     },
     {
@@ -1354,13 +1365,15 @@
       "note": "Supplied correctly in a real Spanish work request.",
       "observationIds": [
         "o-l8-logo-request",
-        "o-2026-11-11-02-create-function"
+        "o-2026-11-11-02-create-function",
+        "o-2026-11-11-05-negative-create"
       ],
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-11",
       "sessionIds": [
         "2026-11-10-08",
-        "2026-11-11-02"
+        "2026-11-11-02",
+        "2026-11-11-05"
       ]
     },
     {
@@ -1581,7 +1594,8 @@
         "2026-11-10-13",
         "2026-11-11-02",
         "2026-11-11-03",
-        "2026-11-11-04"
+        "2026-11-11-04",
+        "2026-11-11-05"
       ],
       "observationIds": [
         "o-l12-request-first",
@@ -1594,7 +1608,9 @@
         "o-2026-11-11-03-create-this-function",
         "o-2026-11-11-03-test-function",
         "o-2026-11-11-04-test-function-recall",
-        "o-2026-11-11-04-read-function-recall"
+        "o-2026-11-11-04-read-function-recall",
+        "o-2026-11-11-05-negative-review",
+        "o-2026-11-11-05-negative-create"
       ]
     },
     {
@@ -1644,14 +1660,16 @@
       "sessionIds": [
         "2026-11-11-02",
         "2026-11-11-03",
-        "2026-11-11-04"
+        "2026-11-11-04",
+        "2026-11-11-05"
       ],
       "observationIds": [
         "o-2026-11-11-02-read-this",
         "o-2026-11-11-02-read-function",
         "o-2026-11-11-03-read-formal",
         "o-2026-11-11-04-read-function-recall",
-        "o-2026-11-11-04-read-feature"
+        "o-2026-11-11-04-read-feature",
+        "o-2026-11-11-05-read-command"
       ]
     },
     {
@@ -1665,7 +1683,8 @@
       "sessionIds": [
         "2026-11-11-02",
         "2026-11-11-03",
-        "2026-11-11-04"
+        "2026-11-11-04",
+        "2026-11-11-05"
       ],
       "observationIds": [
         "o-2026-11-11-02-review-function",
@@ -1683,7 +1702,11 @@
         "o-2026-11-11-04-review-infinitive",
         "o-2026-11-11-04-review-logo",
         "o-2026-11-11-04-test-feature",
-        "o-2026-11-11-04-read-feature"
+        "o-2026-11-11-04-read-feature",
+        "o-2026-11-11-05-test-command",
+        "o-2026-11-11-05-read-command",
+        "o-2026-11-11-05-negative-review",
+        "o-2026-11-11-05-negative-create"
       ]
     },
     {
@@ -1696,7 +1719,8 @@
       "lastSeen": "2026-11-11",
       "sessionIds": [
         "2026-11-11-03",
-        "2026-11-11-04"
+        "2026-11-11-04",
+        "2026-11-11-05"
       ],
       "observationIds": [
         "o-2026-11-11-03-test-function",
@@ -1704,7 +1728,8 @@
         "o-2026-11-11-03-ue-gap",
         "o-2026-11-11-03-test-this-retry",
         "o-2026-11-11-04-test-function-recall",
-        "o-2026-11-11-04-test-feature"
+        "o-2026-11-11-04-test-feature",
+        "o-2026-11-11-05-test-command"
       ]
     },
     {
@@ -1761,10 +1786,12 @@
       "firstSeen": "2026-11-11",
       "lastSeen": "2026-11-11",
       "sessionIds": [
-        "2026-11-11-04"
+        "2026-11-11-04",
+        "2026-11-11-05"
       ],
       "observationIds": [
-        "o-2026-11-11-04-test-feature"
+        "o-2026-11-11-04-test-feature",
+        "o-2026-11-11-05-test-command"
       ]
     },
     {
@@ -1776,10 +1803,57 @@
       "firstSeen": "2026-11-11",
       "lastSeen": "2026-11-11",
       "sessionIds": [
-        "2026-11-11-04"
+        "2026-11-11-04",
+        "2026-11-11-05"
       ],
       "observationIds": [
-        "o-2026-11-11-04-read-feature"
+        "o-2026-11-11-04-read-feature",
+        "o-2026-11-11-05-read-command"
+      ]
+    },
+    {
+      "id": "v-leerla",
+      "spanish": "leerla",
+      "english": "to read it (feminine object)",
+      "status": "used_successfully",
+      "note": "Correct in Necesitamos leerla without full target model; then contrasted with command léela.",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "sessionIds": [
+        "2026-11-11-05"
+      ],
+      "observationIds": [
+        "o-2026-11-11-05-need-read"
+      ]
+    },
+    {
+      "id": "v-no-revises",
+      "spanish": "no revises",
+      "english": "don't review (negative tú command)",
+      "status": "used_successfully",
+      "note": "Correct after a negative revisar model, in No revises esta función.",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "sessionIds": [
+        "2026-11-11-05"
+      ],
+      "observationIds": [
+        "o-2026-11-11-05-negative-review"
+      ]
+    },
+    {
+      "id": "v-no-crees",
+      "spanish": "no crees",
+      "english": "don't create (negative tú command of crear)",
+      "status": "used_successfully",
+      "note": "Correct regular-pattern transfer from crear, including crees spelling, in No crees esta función. Not a general lesson on all possible meanings of this written form.",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "sessionIds": [
+        "2026-11-11-05"
+      ],
+      "observationIds": [
+        "o-2026-11-11-05-negative-create"
       ]
     }
   ],
@@ -1807,10 +1881,11 @@
         "o-l12-test-reason",
         "o-l12-but-not-yet",
         "o-l12-ready-but-no-publish",
-        "o-2026-11-10-14-learn"
+        "o-2026-11-10-14-learn",
+        "o-2026-11-11-05-want-test"
       ],
       "nextReview": "Combine with different familiar verbs without a model.",
-      "lastPractised": "2026-11-10",
+      "lastPractised": "2026-11-11",
       "sessionIds": [
         "2026-11-10-01",
         "2026-11-10-03",
@@ -1819,7 +1894,8 @@
         "2026-11-10-06",
         "2026-11-10-11",
         "2026-11-10-12",
-        "2026-11-10-14"
+        "2026-11-10-14",
+        "2026-11-11-05"
       ]
     },
     {
@@ -1888,10 +1964,11 @@
         "o-l12-test-reason",
         "o-l12-but-not-yet",
         "o-l12-ready-but-no-publish",
-        "o-2026-11-10-14-learn"
+        "o-2026-11-10-14-learn",
+        "o-2026-11-11-05-want-test"
       ],
       "nextReview": "Queremos was recalled correctly in a reason clause and Queremos probarla after intervening material. Longer-term retention remains untested.",
-      "lastPractised": "2026-11-10",
+      "lastPractised": "2026-11-11",
       "sessionIds": [
         "2026-11-10-01",
         "2026-11-10-03",
@@ -1900,7 +1977,8 @@
         "2026-11-10-06",
         "2026-11-10-11",
         "2026-11-10-12",
-        "2026-11-10-14"
+        "2026-11-10-14",
+        "2026-11-11-05"
       ]
     },
     {
@@ -2055,7 +2133,11 @@
         "o-2026-11-11-04-read-function-recall",
         "o-2026-11-11-04-review-logo",
         "o-2026-11-11-04-test-feature",
-        "o-2026-11-11-04-read-feature"
+        "o-2026-11-11-04-read-feature",
+        "o-2026-11-11-05-test-command",
+        "o-2026-11-11-05-read-command",
+        "o-2026-11-11-05-negative-review",
+        "o-2026-11-11-05-negative-create"
       ],
       "nextReview": "Observe naturally; avoid repetitive spelling drills.",
       "lastPractised": "2026-11-11",
@@ -2076,7 +2158,8 @@
         "2026-11-11-01",
         "2026-11-11-02",
         "2026-11-11-03",
-        "2026-11-11-04"
+        "2026-11-11-04",
+        "2026-11-11-05"
       ]
     },
     {
@@ -2152,10 +2235,12 @@
         "o-l12-but-not-yet",
         "o-l12-ready-but-no-publish",
         "o-l12-need-review-reason",
-        "o-l13-publish-it-yet"
+        "o-l13-publish-it-yet",
+        "o-2026-11-11-05-want-test",
+        "o-2026-11-11-05-need-read"
       ],
       "nextReview": "Both attached and before-conjugated-verb positions used successfully in a prompted negative transformation. Test choice of position without instructions after a gap.",
-      "lastPractised": "2026-11-10",
+      "lastPractised": "2026-11-11",
       "sessionIds": [
         "2026-11-10-01",
         "2026-11-10-03",
@@ -2166,7 +2251,8 @@
         "2026-11-10-10",
         "2026-11-10-11",
         "2026-11-10-12",
-        "2026-11-10-13"
+        "2026-11-10-13",
+        "2026-11-11-05"
       ]
     },
     {
@@ -2237,7 +2323,11 @@
         "o-l13-publish-it-yet",
         "o-2026-11-11-04-review-logo",
         "o-2026-11-11-04-test-feature",
-        "o-2026-11-11-04-read-feature"
+        "o-2026-11-11-04-read-feature",
+        "o-2026-11-11-05-want-test",
+        "o-2026-11-11-05-test-command",
+        "o-2026-11-11-05-need-read",
+        "o-2026-11-11-05-read-command"
       ],
       "nextReview": "Immediate selection succeeded with an explicit referent and verb hint. Recheck without hints after a gap.",
       "lastPractised": "2026-11-11",
@@ -2249,7 +2339,8 @@
         "2026-11-10-11",
         "2026-11-10-12",
         "2026-11-10-13",
-        "2026-11-11-04"
+        "2026-11-11-04",
+        "2026-11-11-05"
       ]
     },
     {
@@ -2379,7 +2470,8 @@
         "o-l8-logo-request",
         "o-l12-need-review-reason",
         "o-l13-need-this",
-        "o-2026-11-11-01-need-conversations"
+        "o-2026-11-11-01-need-conversations",
+        "o-2026-11-11-05-need-read"
       ],
       "nextReview": "Necesitamos revisarla porque es importante recalled correctly in session12; earlier reviser ending error did not recur. Recheck later.",
       "lastPractised": "2026-11-11",
@@ -2389,7 +2481,8 @@
         "2026-11-10-08",
         "2026-11-10-12",
         "2026-11-10-13",
-        "2026-11-11-01"
+        "2026-11-11-01",
+        "2026-11-11-05"
       ]
     },
     {
@@ -2586,7 +2679,8 @@
         "2026-11-10-13",
         "2026-11-11-02",
         "2026-11-11-03",
-        "2026-11-11-04"
+        "2026-11-11-04",
+        "2026-11-11-05"
       ],
       "observationIds": [
         "o-l12-request-first",
@@ -2607,7 +2701,9 @@
         "o-2026-11-11-03-test-this-retry",
         "o-2026-11-11-03-read-formal",
         "o-2026-11-11-04-test-function-recall",
-        "o-2026-11-11-04-read-function-recall"
+        "o-2026-11-11-04-read-function-recall",
+        "o-2026-11-11-05-negative-review",
+        "o-2026-11-11-05-negative-create"
       ],
       "nextReview": "Correct full Crea esta función after previous corrections, and correct esto throughout test/read requests in this batch. Longer-gap contrast still needs review.",
       "lastPractised": "2026-11-11"
@@ -2617,11 +2713,12 @@
       "pattern": "regular affirmative tú commands: -ar → -a; -er → -e",
       "meaning": "Give practical direct instructions using the familiar tú form.",
       "status": "used_successfully",
-      "explanation": "Compared ¿Puedes revisar esto? with Revisa esto. Introduced revisar → revisa, crear → crea, leer → lee. These regular affirmative forms were used correctly after models; later crea was recalled, while a read prompt elicited valid formal lea. Demonstratives and spelling assessed separately. Irregular prueba is covered separately; negative and -ir commands have not been taught.",
+      "explanation": "Compared ¿Puedes revisar esto? with Revisa esto. Introduced revisar → revisa, crear → crea, leer → lee. These regular affirmative forms were used correctly after models; later crea was recalled, while a read prompt elicited valid formal lea. Demonstratives and spelling assessed separately. Irregular prueba is covered separately; regular negative -ar commands are covered separately; -ir commands have not been taught.",
       "sessionIds": [
         "2026-11-11-02",
         "2026-11-11-03",
-        "2026-11-11-04"
+        "2026-11-11-04",
+        "2026-11-11-05"
       ],
       "observationIds": [
         "o-2026-11-11-02-review-function",
@@ -2634,7 +2731,8 @@
         "o-2026-11-11-04-read-function-recall",
         "o-2026-11-11-04-review-infinitive",
         "o-2026-11-11-04-review-logo",
-        "o-2026-11-11-04-read-feature"
+        "o-2026-11-11-04-read-feature",
+        "o-2026-11-11-05-read-command"
       ],
       "lastPractised": "2026-11-11",
       "nextReview": "Correct informal lee recalled with tú explicit. Recheck regular command versus infinitive when attaching an object: revisa + la, not revisar + la, for the personal command target."
@@ -2647,7 +2745,8 @@
       "explanation": "Probar changes o → ue in the affirmative tú command prueba. Learner omitted ue twice after introduction, then correctly selected ue and produced Prueba esto after a model. This example does not teach a full paradigm or all dialect forms.",
       "sessionIds": [
         "2026-11-11-03",
-        "2026-11-11-04"
+        "2026-11-11-04",
+        "2026-11-11-05"
       ],
       "observationIds": [
         "o-2026-11-11-03-test-function",
@@ -2655,7 +2754,8 @@
         "o-2026-11-11-03-ue-gap",
         "o-2026-11-11-03-test-this-retry",
         "o-2026-11-11-04-test-function-recall",
-        "o-2026-11-11-04-test-feature"
+        "o-2026-11-11-04-test-feature",
+        "o-2026-11-11-05-test-command"
       ],
       "lastPractised": "2026-11-11",
       "nextReview": "After two earlier proba corrections and a supported retry, correctly recalled Prueba esta función without a stem hint, then used pruébala with accent supplied. Recheck after a longer gap."
@@ -2684,16 +2784,35 @@
       "status": "used_successfully",
       "explanation": "For the affirmative commands practised, attach lo/la to the command base and preserve its stress, adding a written accent where needed. Introduced lee + la → léela. First review-it attempt used infinitive revisarla; corrected to revisa + la → revísala. Then correctly formed revísalo, pruébala and léela, with written accents supplied. Negative-command pronoun placement has not been taught.",
       "sessionIds": [
-        "2026-11-11-04"
+        "2026-11-11-04",
+        "2026-11-11-05"
       ],
       "observationIds": [
         "o-2026-11-11-04-review-infinitive",
         "o-2026-11-11-04-review-logo",
         "o-2026-11-11-04-test-feature",
-        "o-2026-11-11-04-read-feature"
+        "o-2026-11-11-04-read-feature",
+        "o-2026-11-11-05-test-command",
+        "o-2026-11-11-05-read-command"
       ],
       "lastPractised": "2026-11-11",
-      "nextReview": "Contrast the infinitive revisarla after necesitamos with command revísala, then recheck after a gap. Keep accents separate from correct command morphology."
+      "nextReview": "Correct same-sequence contrasts Queremos probarla / Pruébala and Necesitamos leerla / Léela. Written command accents supplied; recheck after a longer gap."
+    },
+    {
+      "id": "g-negative-tu-ar",
+      "pattern": "regular -ar negative tú commands: no + stem + es",
+      "meaning": "Tell the assistant not to do something.",
+      "status": "used_successfully",
+      "explanation": "Contrasted Revisa esto with No revises esto. Learner correctly used No revises esta función after the model, then transferred the ending to crear: No crees esta función. This covers the regular -ar examples taught, not all negative forms. Negative object-pronoun placement has not yet been taught.",
+      "sessionIds": [
+        "2026-11-11-05"
+      ],
+      "observationIds": [
+        "o-2026-11-11-05-negative-review",
+        "o-2026-11-11-05-negative-create"
+      ],
+      "lastPractised": "2026-11-11",
+      "nextReview": "Recheck negative commands without a model; introduce object-pronoun placement as a separate small unit."
     }
   ],
   "practiceUnits": [
@@ -2766,12 +2885,12 @@
       "seconds": 60,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 5,
-      "lastAttempt": "2026-11-10",
+      "attemptCount": 6,
+      "lastAttempt": "2026-11-11",
       "nextReview": "after_a_gap",
-      "lastAttemptSessionId": "2026-11-10-13",
-      "lastAttemptVariant": "Test this request, then test-this-function request answered with the function.",
-      "lastOutcome": "used_with_correction"
+      "lastAttemptSessionId": "2026-11-11-05",
+      "lastAttemptVariant": "We want to test it; infinitive in command contrast.",
+      "lastOutcome": "used_successfully"
     },
     {
       "id": "u-hablo",
@@ -3006,10 +3125,10 @@
       "seconds": 45,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 6,
-      "lastAttempt": "2026-11-10",
-      "lastAttemptSessionId": "2026-11-10-13",
-      "lastAttemptVariant": "We need to review this; standalone esto.",
+      "attemptCount": 7,
+      "lastAttempt": "2026-11-11",
+      "lastAttemptSessionId": "2026-11-11-05",
+      "lastAttemptVariant": "We need to read it; infinitive leerla.",
       "lastOutcome": "used_successfully",
       "nextReview": "after_a_gap"
     },
@@ -3281,10 +3400,10 @@
       "seconds": 45,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 6,
+      "attemptCount": 7,
       "lastAttempt": "2026-11-11",
-      "lastAttemptSessionId": "2026-11-11-04",
-      "lastAttemptVariant": "Test this function without a stem hint; then test it with feminine la, accent supplied.",
+      "lastAttemptSessionId": "2026-11-11-05",
+      "lastAttemptVariant": "Test it after Queremos probarla; accent supplied.",
       "lastOutcome": "used_successfully",
       "nextReview": "after_a_gap"
     },
@@ -3310,11 +3429,39 @@
       "seconds": 45,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 4,
+      "attemptCount": 6,
       "lastAttempt": "2026-11-11",
-      "lastAttemptSessionId": "2026-11-11-04",
-      "lastAttemptVariant": "Review it (feature, then logo), test it and read it (feature).",
-      "lastOutcome": "used_with_correction",
+      "lastAttemptSessionId": "2026-11-11-05",
+      "lastAttemptVariant": "Test it and read it after corresponding infinitive statements; accents supplied.",
+      "lastOutcome": "used_successfully",
+      "nextReview": "after_a_gap"
+    },
+    {
+      "id": "u-negative-tu-ar",
+      "title": "Give a negative instruction",
+      "grammarIds": [
+        "g-negative-tu-ar",
+        "g-esto-esta"
+      ],
+      "vocabularyIds": [
+        "v-no-revises",
+        "v-no-crees",
+        "v-esta",
+        "v-funcion",
+        "v-por-favor"
+      ],
+      "prompt": "Using tú, say: Don't create this function, please.",
+      "modelAnswer": "No crees esta función, por favor.",
+      "hint": "Regular negative -ar commands end in -es.",
+      "feedbackFocus": "Negative command ending and noun reference; distinguish immediate model-supported use from transfer.",
+      "seconds": 45,
+      "optional": true,
+      "selection": "enabled",
+      "attemptCount": 2,
+      "lastAttempt": "2026-11-11",
+      "lastAttemptSessionId": "2026-11-11-05",
+      "lastAttemptVariant": "Don't review this function; then don't create this function.",
+      "lastOutcome": "used_successfully",
       "nextReview": "after_a_gap"
     }
   ]

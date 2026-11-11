@@ -24,6 +24,7 @@ A shared Spanish learning record for conversation-based teaching and future trai
 - [Practical commands: revisa, crea and lee](data/sessions/2026-11-11-02.json)
 - [Prueba, and formal lea versus informal lee](data/sessions/2026-11-11-03.json)
 - [Affirmative commands with attached objects](data/sessions/2026-11-11-04.json)
+- [Command contrasts and first negative commands](data/sessions/2026-11-11-05.json)
 - [Data format and update rules](docs/data-format.md)
 - [Instructions for future assistants](AGENTS.md)
 
@@ -74,7 +75,9 @@ Next round correctly recalled **Crea esta función** and kept **esto / esta func
 
 Then correctly recalled **Prueba esta función** without a stem hint and **Lee esta función** with tú explicit. Introduced object attachment to affirmative commands using **lee + la → léela**. Initial **Revisarla por favor** needed personal command **Revísala**; then **revísalo**, **pruébala** and **léela** were correctly formed, with written accents supplied.
 
-Next: contrast **Necesitamos revisarla** with **Revísala** by meaning, then revisit command objects after a gap. Negative commands remain a separate later unit. Keep **un poco de**, purpose/reason and location as later review targets; immediate success does not establish durable recall.
+Next practice correctly contrasted **Queremos probarla / Pruébala** and **Necesitamos leerla / Léela**, with written command accents supplied. Introduced regular negative **tú -ar → -es**: correctly used **No revises esta función** after a model, then transferred to **No crees esta función**, including the double **e**, without a conjugated target model.
+
+Next: negative-command object placement as a separate unit, then recall negative endings and command/infinitive contrasts after intervening material. Keep **un poco de**, purpose/reason and location as later review targets; immediate success does not establish durable recall.
 Review software vocabulary such as **probar**, **revisar**, **los logros**, and **ejecutar las pruebas**.
 Location with **estar** still needs independent recall. **Hablo** was recalled without a hint; the surrounding phrase needed **un poco de español** and spelling corrections.
 
