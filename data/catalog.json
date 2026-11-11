@@ -165,7 +165,8 @@
         "2026-11-10-12",
         "2026-11-10-13",
         "2026-11-11-02",
-        "2026-11-11-04"
+        "2026-11-11-04",
+        "2026-11-11-08"
       ],
       "observationIds": [
         "o-independent",
@@ -178,7 +179,8 @@
         "o-l13-review-this-function",
         "o-l13-need-this",
         "o-2026-11-11-02-review-function",
-        "o-2026-11-11-04-review-infinitive"
+        "o-2026-11-11-04-review-infinitive",
+        "o-2026-11-11-08-tell-need-review"
       ]
     },
     {
@@ -330,7 +332,8 @@
         "2026-11-10-11",
         "2026-11-10-12",
         "2026-11-10-13",
-        "2026-11-11-03"
+        "2026-11-11-03",
+        "2026-11-11-08"
       ],
       "observationIds": [
         "o-probar",
@@ -342,7 +345,8 @@
         "o-l13-test-this",
         "o-l13-test-function",
         "o-2026-11-11-03-test-function",
-        "o-2026-11-11-03-test-this-first"
+        "o-2026-11-11-03-test-this-first",
+        "o-2026-11-11-08-tell-can-test"
       ]
     },
     {
@@ -404,7 +408,8 @@
         "2026-11-10-07",
         "2026-11-10-12",
         "2026-11-10-13",
-        "2026-11-11-06"
+        "2026-11-11-06",
+        "2026-11-11-08"
       ],
       "observationIds": [
         "o-work-transfer",
@@ -415,7 +420,8 @@
         "o-l12-ready-but-no-publish",
         "o-l13-publish-this-yet",
         "o-l13-publish-it-yet",
-        "o-2026-11-11-06-logo-negative-publish"
+        "o-2026-11-11-06-logo-negative-publish",
+        "o-2026-11-11-08-tell-publish"
       ]
     },
     {
@@ -634,7 +640,8 @@
         "2026-11-10-09",
         "2026-11-10-10",
         "2026-11-10-11",
-        "2026-11-11-07"
+        "2026-11-11-07",
+        "2026-11-11-08"
       ],
       "observationIds": [
         "o-l8-ready-logo",
@@ -647,7 +654,8 @@
         "o-l10-not-yet-omitted",
         "o-l11-not-yet-recall",
         "o-2026-11-11-07-logo-negative-reason",
-        "o-2026-11-11-07-logo-positive-reason"
+        "o-2026-11-11-07-logo-positive-reason",
+        "o-2026-11-11-08-tell-ready"
       ]
     },
     {
@@ -844,7 +852,8 @@
         "2026-11-10-11",
         "2026-11-11-04",
         "2026-11-11-06",
-        "2026-11-11-07"
+        "2026-11-11-07",
+        "2026-11-11-08"
       ],
       "observationIds": [
         "o-object-pronouns",
@@ -865,7 +874,8 @@
         "o-2026-11-11-07-feature-negative-reason",
         "o-2026-11-11-07-logo-negative-reason",
         "o-2026-11-11-07-logo-positive-reason",
-        "o-2026-11-11-07-test-logo-retry"
+        "o-2026-11-11-07-test-logo-retry",
+        "o-2026-11-11-08-tell-can-test"
       ]
     },
     {
@@ -1014,7 +1024,8 @@
         "o-2026-11-11-06-review-negative-object",
         "o-2026-11-11-06-review-positive-object",
         "o-2026-11-11-06-publish-feminine",
-        "o-2026-11-11-07-feature-negative-reason"
+        "o-2026-11-11-07-feature-negative-reason",
+        "o-2026-11-11-08-tell-need-review"
       ],
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-11",
@@ -1026,7 +1037,8 @@
         "2026-11-10-13",
         "2026-11-11-04",
         "2026-11-11-06",
-        "2026-11-11-07"
+        "2026-11-11-07",
+        "2026-11-11-08"
       ]
     },
     {
@@ -1341,7 +1353,8 @@
         "o-l12-need-review-reason",
         "o-l13-need-this",
         "o-2026-11-11-01-need-conversations",
-        "o-2026-11-11-05-need-read"
+        "o-2026-11-11-05-need-read",
+        "o-2026-11-11-08-tell-need-review"
       ],
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-11",
@@ -1352,7 +1365,8 @@
         "2026-11-10-12",
         "2026-11-10-13",
         "2026-11-11-01",
-        "2026-11-11-05"
+        "2026-11-11-05",
+        "2026-11-11-08"
       ]
     },
     {
@@ -1371,16 +1385,19 @@
         "o-l11-cannot-yet",
         "o-l11-can-now",
         "o-l13-publish-this-yet",
-        "o-l13-publish-it-yet"
+        "o-l13-publish-it-yet",
+        "o-2026-11-11-08-tell-publish",
+        "o-2026-11-11-08-tell-can-test"
       ],
       "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-10",
+      "lastSeen": "2026-11-11",
       "sessionIds": [
         "2026-11-10-07",
         "2026-11-10-08",
         "2026-11-10-09",
         "2026-11-10-11",
-        "2026-11-10-13"
+        "2026-11-10-13",
+        "2026-11-11-08"
       ]
     },
     {
@@ -1413,14 +1430,16 @@
         "o-l8-ready-question",
         "o-l9-logo-negative",
         "o-l9-not-yet",
-        "o-2026-11-11-06-publish-logo-retry"
+        "o-2026-11-11-06-publish-logo-retry",
+        "o-2026-11-11-08-tell-ready"
       ],
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-11",
       "sessionIds": [
         "2026-11-10-08",
         "2026-11-10-09",
-        "2026-11-11-06"
+        "2026-11-11-06",
+        "2026-11-11-08"
       ]
     },
     {
@@ -1518,7 +1537,8 @@
         "o-l12-test-reason",
         "o-l12-but-not-yet",
         "o-l12-ready-but-no-publish",
-        "o-2026-11-11-07-feature-negative-reason"
+        "o-2026-11-11-07-feature-negative-reason",
+        "o-2026-11-11-08-review-tell-sequence"
       ],
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-11",
@@ -1528,7 +1548,8 @@
         "2026-11-10-10",
         "2026-11-10-11",
         "2026-11-10-12",
-        "2026-11-11-07"
+        "2026-11-11-07",
+        "2026-11-11-08"
       ]
     },
     {
@@ -1653,13 +1674,15 @@
       "lastSeen": "2026-11-11",
       "sessionIds": [
         "2026-11-11-02",
-        "2026-11-11-04"
+        "2026-11-11-04",
+        "2026-11-11-08"
       ],
       "observationIds": [
         "o-2026-11-11-02-review-function",
         "o-2026-11-11-02-review-this",
         "o-2026-11-11-04-review-infinitive",
-        "o-2026-11-11-04-review-logo"
+        "o-2026-11-11-04-review-logo",
+        "o-2026-11-11-08-review-tell-sequence"
       ]
     },
     {
@@ -1796,11 +1819,14 @@
       "lastSeen": "2026-11-11",
       "sessionIds": [
         "2026-11-11-04",
-        "2026-11-11-06"
+        "2026-11-11-06",
+        "2026-11-11-08"
       ],
       "observationIds": [
         "o-2026-11-11-04-review-infinitive",
-        "o-2026-11-11-06-review-positive-object"
+        "o-2026-11-11-06-review-positive-object",
+        "o-2026-11-11-08-read-review-sequence",
+        "o-2026-11-11-08-review-tell-sequence"
       ]
     },
     {
@@ -1845,11 +1871,13 @@
       "lastSeen": "2026-11-11",
       "sessionIds": [
         "2026-11-11-04",
-        "2026-11-11-05"
+        "2026-11-11-05",
+        "2026-11-11-08"
       ],
       "observationIds": [
         "o-2026-11-11-04-read-feature",
-        "o-2026-11-11-05-read-command"
+        "o-2026-11-11-05-read-command",
+        "o-2026-11-11-08-read-review-sequence"
       ]
     },
     {
@@ -1980,11 +2008,14 @@
       "firstSeen": "2026-11-11",
       "lastSeen": "2026-11-11",
       "sessionIds": [
-        "2026-11-11-07"
+        "2026-11-11-07",
+        "2026-11-11-08"
       ],
       "observationIds": [
         "o-2026-11-11-07-sequence-first",
-        "o-2026-11-11-07-sequence-retry"
+        "o-2026-11-11-07-sequence-retry",
+        "o-2026-11-11-08-read-review-sequence",
+        "o-2026-11-11-08-review-tell-sequence"
       ]
     },
     {
@@ -1996,11 +2027,14 @@
       "firstSeen": "2026-11-11",
       "lastSeen": "2026-11-11",
       "sessionIds": [
-        "2026-11-11-07"
+        "2026-11-11-07",
+        "2026-11-11-08"
       ],
       "observationIds": [
         "o-2026-11-11-07-sequence-first",
-        "o-2026-11-11-07-sequence-retry"
+        "o-2026-11-11-07-sequence-retry",
+        "o-2026-11-11-08-read-review-sequence",
+        "o-2026-11-11-08-review-tell-sequence"
       ]
     },
     {
@@ -2018,6 +2052,59 @@
         "o-2026-11-11-07-sequence-first",
         "o-2026-11-11-07-test-logo-retry",
         "o-2026-11-11-07-sequence-retry"
+      ]
+    },
+    {
+      "id": "v-dime",
+      "spanish": "dime",
+      "english": "tell me (affirmative tú command)",
+      "status": "used_successfully",
+      "note": "Introduced as chunk Dime si...; correctly reused in several clauses and a sequence. General decir conjugation or all indirect-object pronouns not taught.",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "sessionIds": [
+        "2026-11-11-08"
+      ],
+      "observationIds": [
+        "o-2026-11-11-08-tell-ready",
+        "o-2026-11-11-08-tell-publish",
+        "o-2026-11-11-08-tell-can-test",
+        "o-2026-11-11-08-tell-need-review",
+        "o-2026-11-11-08-review-tell-sequence"
+      ]
+    },
+    {
+      "id": "v-si-whether",
+      "spanish": "si",
+      "english": "whether / if (in an indirect yes/no question)",
+      "status": "used_successfully",
+      "note": "Explained unaccented si in Dime si está lista, distinct from affirmative sí. Correctly used throughout dime-si attempts; full conditional grammar not taught.",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "sessionIds": [
+        "2026-11-11-08"
+      ],
+      "observationIds": [
+        "o-2026-11-11-08-tell-ready",
+        "o-2026-11-11-08-tell-publish",
+        "o-2026-11-11-08-tell-can-test",
+        "o-2026-11-11-08-tell-need-review",
+        "o-2026-11-11-08-review-tell-sequence"
+      ]
+    },
+    {
+      "id": "v-publicamos",
+      "spanish": "publicamos",
+      "english": "we publish / we are publishing",
+      "status": "used_successfully",
+      "note": "Produced correctly in a grammatical sentence with different meaning from requested can publish. Tutor supplied podemos publicar for ability; regular -ar we paradigm not separately taught.",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "sessionIds": [
+        "2026-11-11-08"
+      ],
+      "observationIds": [
+        "o-2026-11-11-08-tell-publish"
       ]
     }
   ],
@@ -2314,7 +2401,10 @@
         "o-2026-11-11-07-logo-positive-reason",
         "o-2026-11-11-07-sequence-first",
         "o-2026-11-11-07-test-logo-retry",
-        "o-2026-11-11-07-sequence-retry"
+        "o-2026-11-11-07-sequence-retry",
+        "o-2026-11-11-08-read-review-sequence",
+        "o-2026-11-11-08-tell-ready",
+        "o-2026-11-11-08-review-tell-sequence"
       ],
       "nextReview": "Observe naturally; avoid repetitive spelling drills.",
       "lastPractised": "2026-11-11",
@@ -2338,7 +2428,8 @@
         "2026-11-11-04",
         "2026-11-11-05",
         "2026-11-11-06",
-        "2026-11-11-07"
+        "2026-11-11-07",
+        "2026-11-11-08"
       ]
     },
     {
@@ -2416,7 +2507,10 @@
         "o-l12-need-review-reason",
         "o-l13-publish-it-yet",
         "o-2026-11-11-05-want-test",
-        "o-2026-11-11-05-need-read"
+        "o-2026-11-11-05-need-read",
+        "o-2026-11-11-08-tell-publish",
+        "o-2026-11-11-08-tell-can-test",
+        "o-2026-11-11-08-tell-need-review"
       ],
       "nextReview": "Both attached and before-conjugated-verb positions used successfully in a prompted negative transformation. Test choice of position without instructions after a gap.",
       "lastPractised": "2026-11-11",
@@ -2431,7 +2525,8 @@
         "2026-11-10-11",
         "2026-11-10-12",
         "2026-11-10-13",
-        "2026-11-11-05"
+        "2026-11-11-05",
+        "2026-11-11-08"
       ]
     },
     {
@@ -2516,7 +2611,11 @@
         "o-2026-11-11-07-feature-negative-reason",
         "o-2026-11-11-07-logo-negative-reason",
         "o-2026-11-11-07-logo-positive-reason",
-        "o-2026-11-11-07-test-logo-retry"
+        "o-2026-11-11-07-test-logo-retry",
+        "o-2026-11-11-08-read-review-sequence",
+        "o-2026-11-11-08-tell-can-test",
+        "o-2026-11-11-08-tell-need-review",
+        "o-2026-11-11-08-review-tell-sequence"
       ],
       "nextReview": "Latest feminine-function prompt used lo with correct lista; la supplied. Then correct lo/listo transfer for logo and positive instruction. Recheck feminine la independently later.",
       "lastPractised": "2026-11-11",
@@ -2531,7 +2630,8 @@
         "2026-11-11-04",
         "2026-11-11-05",
         "2026-11-11-06",
-        "2026-11-11-07"
+        "2026-11-11-07",
+        "2026-11-11-08"
       ]
     },
     {
@@ -2662,7 +2762,8 @@
         "o-l12-need-review-reason",
         "o-l13-need-this",
         "o-2026-11-11-01-need-conversations",
-        "o-2026-11-11-05-need-read"
+        "o-2026-11-11-05-need-read",
+        "o-2026-11-11-08-tell-need-review"
       ],
       "nextReview": "Necesitamos revisarla porque es importante recalled correctly in session12; earlier reviser ending error did not recur. Recheck later.",
       "lastPractised": "2026-11-11",
@@ -2673,7 +2774,8 @@
         "2026-11-10-12",
         "2026-11-10-13",
         "2026-11-11-01",
-        "2026-11-11-05"
+        "2026-11-11-05",
+        "2026-11-11-08"
       ]
     },
     {
@@ -2697,17 +2799,20 @@
         "o-l11-cannot-yet",
         "o-l11-can-now",
         "o-l13-publish-this-yet",
-        "o-l13-publish-it-yet"
+        "o-l13-publish-it-yet",
+        "o-2026-11-11-08-tell-publish",
+        "o-2026-11-11-08-tell-can-test"
       ],
-      "nextReview": "Test affirmative versus negative meaning and keep the requested object without a recent placement instruction.",
-      "lastPractised": "2026-11-10",
+      "nextReview": "Publicamos was grammatical but did not express requested can publish. After podemos-publicar model, correctly transferred Dime si podemos probarlo. Recheck ability meaning after a gap.",
+      "lastPractised": "2026-11-11",
       "sessionIds": [
         "2026-11-10-07",
         "2026-11-10-08",
         "2026-11-10-09",
         "2026-11-10-10",
         "2026-11-10-11",
-        "2026-11-10-13"
+        "2026-11-10-13",
+        "2026-11-11-08"
       ]
     },
     {
@@ -2739,7 +2844,9 @@
         "o-l12-ready-but-no-publish",
         "o-2026-11-11-07-feature-negative-reason",
         "o-2026-11-11-07-logo-negative-reason",
-        "o-2026-11-11-07-logo-positive-reason"
+        "o-2026-11-11-07-logo-positive-reason",
+        "o-2026-11-11-08-tell-ready",
+        "o-2026-11-11-08-review-tell-sequence"
       ],
       "nextReview": "Recheck readiness and location in separate familiar contexts after a gap.",
       "lastPractised": "2026-11-11",
@@ -2749,7 +2856,8 @@
         "2026-11-10-10",
         "2026-11-10-11",
         "2026-11-10-12",
-        "2026-11-11-07"
+        "2026-11-11-07",
+        "2026-11-11-08"
       ]
     },
     {
@@ -2779,7 +2887,9 @@
         "o-l12-but-not-yet",
         "o-l12-ready-but-no-publish",
         "o-2026-11-11-07-feature-negative-reason",
-        "o-2026-11-11-07-logo-negative-reason"
+        "o-2026-11-11-07-logo-negative-reason",
+        "o-2026-11-11-08-tell-ready",
+        "o-2026-11-11-08-review-tell-sequence"
       ],
       "nextReview": "After the session11 feminine error, correctly used lista in four readiness contexts in session12, including two contrast sentences. Recheck after a longer gap.",
       "lastPractised": "2026-11-11",
@@ -2789,7 +2899,8 @@
         "2026-11-10-10",
         "2026-11-10-11",
         "2026-11-10-12",
-        "2026-11-11-07"
+        "2026-11-11-07",
+        "2026-11-11-08"
       ]
     },
     {
@@ -2917,7 +3028,8 @@
         "2026-11-11-03",
         "2026-11-11-04",
         "2026-11-11-05",
-        "2026-11-11-06"
+        "2026-11-11-06",
+        "2026-11-11-08"
       ],
       "observationIds": [
         "o-2026-11-11-02-review-function",
@@ -2932,7 +3044,8 @@
         "o-2026-11-11-04-review-logo",
         "o-2026-11-11-04-read-feature",
         "o-2026-11-11-05-read-command",
-        "o-2026-11-11-06-review-positive-object"
+        "o-2026-11-11-06-review-positive-object",
+        "o-2026-11-11-08-review-tell-sequence"
       ],
       "lastPractised": "2026-11-11",
       "nextReview": "Correct informal lee recalled with tú explicit. Recheck regular command versus infinitive when attaching an object: revisa + la, not revisar + la, for the personal command target."
@@ -2991,7 +3104,8 @@
         "2026-11-11-04",
         "2026-11-11-05",
         "2026-11-11-06",
-        "2026-11-11-07"
+        "2026-11-11-07",
+        "2026-11-11-08"
       ],
       "observationIds": [
         "o-2026-11-11-04-review-infinitive",
@@ -3006,7 +3120,9 @@
         "o-2026-11-11-07-logo-positive-reason",
         "o-2026-11-11-07-sequence-first",
         "o-2026-11-11-07-test-logo-retry",
-        "o-2026-11-11-07-sequence-retry"
+        "o-2026-11-11-07-sequence-retry",
+        "o-2026-11-11-08-read-review-sequence",
+        "o-2026-11-11-08-review-tell-sequence"
       ],
       "lastPractised": "2026-11-11",
       "nextReview": "Correct same-sequence contrasts Queremos probarla / Pruébala and Necesitamos leerla / Léela. Written command accents supplied; recheck after a longer gap."
@@ -3080,14 +3196,36 @@
       "status": "used_successfully",
       "explanation": "Introduced Primero revísalo; luego pruébalo. Learner correctly sequenced test then publish twice. First sequence needed prueba stem correction; second retained ue but had a primero letter transposition. Sequencing success is separate from verb-form and spelling corrections.",
       "sessionIds": [
-        "2026-11-11-07"
+        "2026-11-11-07",
+        "2026-11-11-08"
       ],
       "observationIds": [
         "o-2026-11-11-07-sequence-first",
-        "o-2026-11-11-07-sequence-retry"
+        "o-2026-11-11-07-sequence-retry",
+        "o-2026-11-11-08-read-review-sequence",
+        "o-2026-11-11-08-review-tell-sequence"
       ],
       "lastPractised": "2026-11-11",
-      "nextReview": "Use a different pair of familiar actions and recheck the prueba stem after intervening material."
+      "nextReview": "Correctly combined read/review commands, then review + dime-si readiness. Last first command omitted explicit requested it; recheck object retention in longer sequences."
+    },
+    {
+      "id": "g-dime-si",
+      "pattern": "Dime si + statement clause",
+      "meaning": "Ask the assistant to tell you whether something is the case.",
+      "status": "used_successfully",
+      "explanation": "Introduced Dime si está lista = Tell me whether it's ready. Dime si is practised as a useful command chunk, with unaccented si. Correctly extended to noun readiness, podemos + infinitive, necesitamos + infinitive and a sequence. Publicamos was grammatical but omitted requested ability, so podemos publicar was modelled. General decir conjugation and conditional clauses not taught.",
+      "sessionIds": [
+        "2026-11-11-08"
+      ],
+      "observationIds": [
+        "o-2026-11-11-08-tell-ready",
+        "o-2026-11-11-08-tell-publish",
+        "o-2026-11-11-08-tell-can-test",
+        "o-2026-11-11-08-tell-need-review",
+        "o-2026-11-11-08-review-tell-sequence"
+      ],
+      "lastPractised": "2026-11-11",
+      "nextReview": "Recheck a practical dime-si instruction after intervening material, preserving requested ability or need meaning and object."
     }
   ],
   "practiceUnits": [
@@ -3400,10 +3538,10 @@
       "seconds": 45,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 7,
+      "attemptCount": 8,
       "lastAttempt": "2026-11-11",
-      "lastAttemptSessionId": "2026-11-11-05",
-      "lastAttemptVariant": "We need to read it; infinitive leerla.",
+      "lastAttemptSessionId": "2026-11-11-08",
+      "lastAttemptVariant": "Dime si necesitamos revisarla, feminine feature referent.",
       "lastOutcome": "used_successfully",
       "nextReview": "after_a_gap"
     },
@@ -3704,11 +3842,11 @@
       "seconds": 45,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 11,
+      "attemptCount": 13,
       "lastAttempt": "2026-11-11",
-      "lastAttemptSessionId": "2026-11-11-07",
-      "lastAttemptVariant": "Positive publish with reason; then focused test-it retry after model.",
-      "lastOutcome": "used_successfully",
+      "lastAttemptSessionId": "2026-11-11-08",
+      "lastAttemptVariant": "Two sequence variants: full read/review objects, then review-it object omitted.",
+      "lastOutcome": "used_with_correction",
       "nextReview": "after_a_gap"
     },
     {
@@ -3817,10 +3955,41 @@
       "seconds": 60,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 2,
+      "attemptCount": 4,
       "lastAttempt": "2026-11-11",
-      "lastAttemptSessionId": "2026-11-11-07",
-      "lastAttemptVariant": "Initial sequence and retry after a focused test-command correction.",
+      "lastAttemptSessionId": "2026-11-11-08",
+      "lastAttemptVariant": "Read it then review it; review it then tell me whether ready, with first-command object omitted.",
+      "lastOutcome": "used_with_correction",
+      "nextReview": "after_a_gap"
+    },
+    {
+      "id": "u-dime-si",
+      "title": "Ask the assistant to report whether",
+      "grammarIds": [
+        "g-dime-si",
+        "g-podemos-infinitive",
+        "g-object-pronouns"
+      ],
+      "vocabularyIds": [
+        "v-dime",
+        "v-si-whether",
+        "v-podemos",
+        "v-publicar"
+      ],
+      "prompt": "Using tú, say: Tell me whether we can publish it. It refers to el logo.",
+      "modelAnswer": "Dime si podemos publicarlo.",
+      "acceptedAnswers": [
+        "Dime si lo podemos publicar."
+      ],
+      "hint": "Preserve can with podemos + infinitive.",
+      "feedbackFocus": "Indirect yes/no clause, requested ability/need meaning and object retention. Valid different meanings acknowledged separately.",
+      "seconds": 60,
+      "optional": true,
+      "selection": "enabled",
+      "attemptCount": 5,
+      "lastAttempt": "2026-11-11",
+      "lastAttemptSessionId": "2026-11-11-08",
+      "lastAttemptVariant": "Logo readiness; can-publish target answered with publicamos; can-test; need-review; review then report readiness.",
       "lastOutcome": "used_with_correction",
       "nextReview": "after_a_gap"
     }

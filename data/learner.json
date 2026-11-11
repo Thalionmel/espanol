@@ -114,9 +114,11 @@
     "g-negative-tu-ar",
     "g-negative-command-objects",
     "g-publicar-command-spelling",
-    "g-sequenced-commands"
+    "g-sequenced-commands",
+    "g-dime-si"
   ],
   "nextUnitIds": [
+    "u-dime-si",
     "u-sequenced-commands",
     "u-prueba",
     "u-negative-command-object",
@@ -158,7 +160,7 @@
     ],
     "intervalsAreFlexible": true
   },
-  "latestSessionId": "2026-11-11-07",
+  "latestSessionId": "2026-11-11-08",
   "disclosureAuthorization": {
     "publicLearningRecord": true,
     "ongoingUpdatesAuthorized": true,

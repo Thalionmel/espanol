@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-11-08",
+  "date": "2026-11-11",
+  "source": "Six learner attempts saved as one batch",
+  "lessonTheme": "Dime si reporting requests and keeping meaning in longer instructions",
+  "duration": {
+    "requestedMinutes": null,
+    "measuredMinutes": null
+  },
+  "summary": "Correctly used feminine read/review sequence. Introduced Dime si... with unaccented whether-si. Readiness extension correct. Grammatical Dime si lo publicamos differed from requested can-publish meaning; after correction, can-test and need-review requests correct. Final sequence retained reporting clause and agreement but omitted explicit it from first review command; revísala supplied.",
+  "observations": [
+    {
+      "id": "o-2026-11-11-08-read-review-sequence",
+      "kind": "prompted_transfer",
+      "learnerText": "primero leela luego revisala",
+      "correctedText": "Primero léela; luego revísala.",
+      "grammarIds": [
+        "g-sequenced-commands",
+        "g-imperative-objects",
+        "g-object-gender",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-primero",
+        "v-luego",
+        "v-leela",
+        "v-revisala"
+      ],
+      "outcome": "Correct order and feminine object-command forms after prior models; accents supplied. Tutor then introduced Dime si está lista, translating dime si as tell me whether and noting unaccented si."
+    },
+    {
+      "id": "o-2026-11-11-08-tell-ready",
+      "kind": "prompted_transfer",
+      "learnerText": "Dime si el logo esta listo",
+      "correctedText": "Dime si el logo está listo.",
+      "grammarIds": [
+        "g-dime-si",
+        "g-estar-readiness",
+        "g-listo-lista",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-dime",
+        "v-si-whether",
+        "v-logo",
+        "v-listo"
+      ],
+      "outcome": "Correct extension of modelled dime si with explicit noun subject and masculine readiness agreement. Está accent supplied."
+    },
+    {
+      "id": "o-2026-11-11-08-tell-publish",
+      "kind": "prompted_transfer",
+      "learnerText": "Dime si lo publicamos",
+      "correctedText": null,
+      "grammarIds": [
+        "g-dime-si",
+        "g-podemos-infinitive",
+        "g-object-pronouns"
+      ],
+      "vocabularyIds": [
+        "v-dime",
+        "v-si-whether",
+        "v-publicamos",
+        "v-podemos",
+        "v-publicar"
+      ],
+      "outcome": "Grammatical Tell me whether we're publishing it, with valid lo placement. Prompt asked whether we can publish it; missing ability meaning supplied as Dime si lo podemos publicar / Dime si podemos publicarlo. Do not mark publicamos itself ungrammatical or count as successful can-publish production."
+    },
+    {
+      "id": "o-2026-11-11-08-tell-can-test",
+      "kind": "prompted_transfer",
+      "learnerText": "dime si podemos probarlo",
+      "correctedText": "Dime si podemos probarlo.",
+      "grammarIds": [
+        "g-dime-si",
+        "g-podemos-infinitive",
+        "g-object-pronouns",
+        "g-object-gender"
+      ],
+      "vocabularyIds": [
+        "v-dime",
+        "v-si-whether",
+        "v-podemos",
+        "v-probar",
+        "v-lo"
+      ],
+      "outcome": "Correct podemos + infinitive with attached masculine lo after ability correction; no full test-it target model supplied."
+    },
+    {
+      "id": "o-2026-11-11-08-tell-need-review",
+      "kind": "prompted_transfer",
+      "learnerText": "dime si necesitamos revisarla",
+      "correctedText": "Dime si necesitamos revisarla.",
+      "grammarIds": [
+        "g-dime-si",
+        "g-necesitamos-infinitive",
+        "g-object-pronouns",
+        "g-object-gender"
+      ],
+      "vocabularyIds": [
+        "v-dime",
+        "v-si-whether",
+        "v-necesitamos",
+        "v-revisar",
+        "v-la"
+      ],
+      "outcome": "Correct transfer to necesitamos + feminine revisarla without a fresh full model."
+    },
+    {
+      "id": "o-2026-11-11-08-review-tell-sequence",
+      "kind": "prompted_transfer",
+      "learnerText": "primero revisa, luego dime si esta lista",
+      "correctedText": "Primero revísala; luego dime si está lista.",
+      "grammarIds": [
+        "g-sequenced-commands",
+        "g-dime-si",
+        "g-regular-imperative-tu",
+        "g-imperative-objects",
+        "g-object-gender",
+        "g-estar-readiness",
+        "g-listo-lista",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-primero",
+        "v-luego",
+        "v-revisa",
+        "v-revisala",
+        "v-dime",
+        "v-si-whether",
+        "v-lista"
+      ],
+      "outcome": "Correct sequence, command revisa and dime si readiness clause with feminine lista. First command omitted explicit requested it; tutor supplied revísala. Raw shorter revisa is understandable in context and not treated as wholly ungrammatical. Está accent supplied."
+    }
+  ],
+  "nextSteps": [
+    "Keep explicit objects in multi-step commands",
+    "Preserve can versus simple present meaning",
+    "Recheck prueba stem after this intervening topic"
+  ],
+  "skippedUnitIds": [],
+  "assessmentNote": "Different grammatical meanings are acknowledged rather than scored as universally wrong. Prompted immediate transfers and supplied accents do not establish long-term retention."
+}
