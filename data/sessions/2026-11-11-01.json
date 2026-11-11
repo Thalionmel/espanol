@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-11-01",
+  "date": "2026-11-11",
+  "source": "Part of one consolidated six-exchange batch spanning two client dates",
+  "lessonTheme": "Understanding, reasons and requested purpose",
+  "duration": {
+    "requestedMinutes": null,
+    "measuredMinutes": null
+  },
+  "summary": "Correct Comprendemos español porque leemos on the next client date. Grammatical Necesitamos comprender conversaciones expressed a different meaning from requested We read to understand conversations; tutor supplied para purpose model.",
+  "observations": [
+    {
+      "id": "o-2026-11-11-01-understand-reason",
+      "kind": "prompted_production",
+      "learnerText": "comprendemos espanol porque leemos",
+      "correctedText": "Comprendemos español porque leemos.",
+      "grammarIds": [
+        "g-regular-er-we",
+        "g-porque",
+        "g-leer-present",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-comprendemos",
+        "v-espanol",
+        "v-porque",
+        "v-leemos"
+      ],
+      "outcome": "Correct comprendemos, porque and leemos in response to the prior prompt, received on the next client date. Standard capitalization and ñ supplied. Exact elapsed practice interval is unknown; no long-term mastery inferred."
+    },
+    {
+      "id": "o-2026-11-11-01-need-conversations",
+      "kind": "prompted_production",
+      "learnerText": "necesitamos comprender conversaciones",
+      "correctedText": "Necesitamos comprender conversaciones.",
+      "grammarIds": [
+        "g-necesitamos-infinitive",
+        "g-para-purpose"
+      ],
+      "vocabularyIds": [
+        "v-necesitamos",
+        "v-comprender",
+        "v-conversaciones",
+        "v-para",
+        "v-leemos"
+      ],
+      "outcome": "Grammatical We need to understand conversations. Prompt asked We read to understand conversations. Tutor acknowledged the learner's different meaning and modelled Leemos para comprender conversaciones. Not evidence of learner using para in this attempt."
+    }
+  ],
+  "nextSteps": [
+    "Recheck complete un poco de chunk",
+    "Distinguish purpose para from need-to meaning",
+    "Revisit earlier practical requests and location"
+  ],
+  "skippedUnitIds": [],
+  "assessmentNote": "Record actual learner meanings and cue levels. Spelling corrections are separate from grammatical form; no mastery inferred from immediate practice."
+}

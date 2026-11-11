@@ -19,10 +19,12 @@ A shared Spanish learning record for conversation-based teaching and future trai
 - [Purpose, reasons and not-yet recall](data/sessions/2026-11-10-11.json)
 - [Readiness retry, but contrasts and review requests](data/sessions/2026-11-10-12.json)
 - [This, this function and not-yet reference](data/sessions/2026-11-10-13.json)
+- [A little Spanish and full-stem recall](data/sessions/2026-11-10-14.json)
+- [Understanding, reasons and purpose](data/sessions/2026-11-11-01.json)
 - [Data format and update rules](docs/data-format.md)
 - [Instructions for future assistants](AGENTS.md)
 
-## Current learning position — 10 November 2026
+## Current learning position — 11 November 2026
 
 The learner reports speaking a little Spanish. No formal level assessment has been performed.
 
@@ -61,7 +63,9 @@ In the next round, correctly recalled **La función todavía no está lista** an
 
 Next practice correctly used **¿Puedes probar esto?**, then **¿Puedes revisar esta función?** after a model, and switched to standalone **Necesitamos revisar esto**. **¿Puedes probar la función?** was grammatical but meant “the function” rather than requested “this function.” Similarly, **No podemos publicar esto todavía** correctly meant “this”; tutor supplied the requested feminine “it.” Learner then correctly transformed it to **Todavía no podemos publicarla**.
 
-Next: recheck **esto / esta función / la** and **puedes** after intervening material, then revisit readiness and location. Successful same-day recall and immediate repetitions do not establish delayed retention.
+Latest chunk review: **hablo** and **queremos aprender** were correct, but **de** was omitted twice from **un poco de español**. A cued gap was correct, followed by **Comprendemos un poco de español**. On the next client date, correctly produced **Comprendemos español porque leemos**. **Necesitamos comprender conversaciones** was grammatical and meant “We need to understand conversations”; requested read-to purpose was supplied as **Leemos para comprender conversaciones**.
+
+Next: recheck the full **un poco de** chunk and **para** purpose meaning, then revisit requests and location. Exact elapsed retention intervals are unknown; immediate/cued success is distinguished from independent recall.
 Review software vocabulary such as **probar**, **revisar**, **los logros**, and **ejecutar las pruebas**.
 Location with **estar** still needs independent recall. **Hablo** was recalled without a hint; the surrounding phrase needed **un poco de español** and spelling corrections.
 

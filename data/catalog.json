@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-11-10",
+  "lastUpdated": "2026-11-11",
   "vocabulary": [
     {
       "id": "v-quiero",
@@ -35,7 +35,8 @@
         "2026-11-10-05",
         "2026-11-10-06",
         "2026-11-10-11",
-        "2026-11-10-12"
+        "2026-11-10-12",
+        "2026-11-10-14"
       ],
       "observationIds": [
         "o-work-transfer",
@@ -54,7 +55,8 @@
         "o-l11-test-recall",
         "o-l12-test-reason",
         "o-l12-but-not-yet",
-        "o-l12-ready-but-no-publish"
+        "o-l12-ready-but-no-publish",
+        "o-2026-11-10-14-learn"
       ]
     },
     {
@@ -81,14 +83,16 @@
       "status": "used_with_correction",
       "note": "Written espanol; ñ correction shown. Keyboard limitations have not been assessed.",
       "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-10",
+      "lastSeen": "2026-11-11",
       "sessionIds": [
         "2026-11-10-01",
         "2026-11-10-03",
         "2026-11-10-04",
         "2026-11-10-05",
         "2026-11-10-06",
-        "2026-11-10-11"
+        "2026-11-10-11",
+        "2026-11-10-14",
+        "2026-11-11-01"
       ],
       "observationIds": [
         "o-quiero",
@@ -104,7 +108,11 @@
         "o-l6-comprendemos",
         "o-l6-question-purpose",
         "o-l11-purpose",
-        "o-l11-reason"
+        "o-l11-reason",
+        "o-2026-11-10-14-hablo",
+        "o-2026-11-10-14-learn",
+        "o-2026-11-10-14-understand-little",
+        "o-2026-11-11-01-understand-reason"
       ]
     },
     {
@@ -122,7 +130,8 @@
         "2026-11-10-05",
         "2026-11-10-06",
         "2026-11-10-08",
-        "2026-11-10-11"
+        "2026-11-10-11",
+        "2026-11-10-14"
       ],
       "observationIds": [
         "o-l3-aprender-first",
@@ -135,7 +144,8 @@
         "o-l6-question-purpose",
         "o-l8-logo-request",
         "o-l11-purpose",
-        "o-l11-reason"
+        "o-l11-reason",
+        "o-2026-11-10-14-learn"
       ]
     },
     {
@@ -196,7 +206,7 @@
       "status": "used_successfully",
       "note": "Earlier poque was corrected; later produced correctly.",
       "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-10",
+      "lastSeen": "2026-11-11",
       "sessionIds": [
         "2026-11-10-01",
         "2026-11-10-03",
@@ -204,7 +214,8 @@
         "2026-11-10-05",
         "2026-11-10-08",
         "2026-11-10-11",
-        "2026-11-10-12"
+        "2026-11-10-12",
+        "2026-11-11-01"
       ],
       "observationIds": [
         "o-independent",
@@ -217,7 +228,8 @@
         "o-l8-ready-feature",
         "o-l11-reason",
         "o-l12-test-reason",
-        "o-l12-need-review-reason"
+        "o-l12-need-review-reason",
+        "o-2026-11-11-01-understand-reason"
       ]
     },
     {
@@ -487,16 +499,18 @@
       "spanish": "hablo",
       "english": "I speak",
       "status": "used_successfully",
-      "note": "Recalled hablo unaided in a translation; the surrounding phrase and spelling needed correction.",
+      "note": "Hablo again correctly recalled without a form hint on 10 November; surrounding un poco de phrase omitted de. Verb form and chunk assessed separately.",
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
       "sessionIds": [
         "2026-11-10-01",
-        "2026-11-10-03"
+        "2026-11-10-03",
+        "2026-11-10-14"
       ],
       "observationIds": [
         "o-hablo",
-        "o-l3-hablo-recall"
+        "o-l3-hablo-recall",
+        "o-2026-11-10-14-hablo"
       ]
     },
     {
@@ -975,16 +989,21 @@
       "spanish": "un poco de español",
       "english": "a little Spanish",
       "status": "used_successfully",
-      "note": "Initially omitted de; later included it correctly in Queremos aprender un poco de español after a model. Minor spelling corrections remained.",
+      "note": "De omitted in both Hablo un poco español and Queremos aprender un poco español on 10 November. Then correctly selected de in a gap and retained it in Comprendemos un poco de español. Immediate transfer distinguished from recall.",
       "observationIds": [
         "o-l3-hablo-recall",
         "o-l3-aprender-first",
-        "o-l3-aprender-plural"
+        "o-l3-aprender-plural",
+        "o-2026-11-10-14-hablo",
+        "o-2026-11-10-14-learn",
+        "o-2026-11-10-14-de-gap",
+        "o-2026-11-10-14-understand-little"
       ],
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10",
       "sessionIds": [
-        "2026-11-10-03"
+        "2026-11-10-03",
+        "2026-11-10-14"
       ]
     },
     {
@@ -1028,14 +1047,16 @@
         "o-l4-para-choice",
         "o-l5-purpose",
         "o-l5-leo",
-        "o-l11-purpose"
+        "o-l11-purpose",
+        "o-2026-11-11-01-need-conversations"
       ],
       "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-10",
+      "lastSeen": "2026-11-11",
       "sessionIds": [
         "2026-11-10-04",
         "2026-11-10-05",
-        "2026-11-10-11"
+        "2026-11-10-11",
+        "2026-11-11-01"
       ]
     },
     {
@@ -1047,13 +1068,15 @@
       "observationIds": [
         "o-l4-purpose-idea",
         "o-l4-purpose-plural",
-        "o-l5-comprender"
+        "o-l5-comprender",
+        "o-2026-11-11-01-need-conversations"
       ],
       "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-10",
+      "lastSeen": "2026-11-11",
       "sessionIds": [
         "2026-11-10-04",
-        "2026-11-10-05"
+        "2026-11-10-05",
+        "2026-11-11-01"
       ]
     },
     {
@@ -1064,12 +1087,14 @@
       "note": "Wrote conversationes twice; supplied conversaciones. Independent correct spelling not observed.",
       "observationIds": [
         "o-l4-purpose-idea",
-        "o-l4-purpose-plural"
+        "o-l4-purpose-plural",
+        "o-2026-11-11-01-need-conversations"
       ],
       "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-10",
+      "lastSeen": "2026-11-11",
       "sessionIds": [
-        "2026-11-10-04"
+        "2026-11-10-04",
+        "2026-11-11-01"
       ]
     },
     {
@@ -1164,14 +1189,17 @@
         "o-l6-comprendemos",
         "o-l6-question-purpose",
         "o-l11-purpose",
-        "o-l11-reason"
+        "o-l11-reason",
+        "o-2026-11-11-01-understand-reason",
+        "o-2026-11-11-01-need-conversations"
       ],
       "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-10",
+      "lastSeen": "2026-11-11",
       "sessionIds": [
         "2026-11-10-05",
         "2026-11-10-06",
-        "2026-11-10-11"
+        "2026-11-10-11",
+        "2026-11-11-01"
       ]
     },
     {
@@ -1194,16 +1222,20 @@
       "spanish": "comprendemos",
       "english": "we understand",
       "status": "used_successfully",
-      "note": "Previously corrected from Compremos; now correctly recalled in Comprendemos español porque leemos without an immediate form hint. Long-term retention untested.",
+      "note": "Correct full stem in Comprendemos un poco de español, then correctly used comprendemos with porque leemos in the next client-date reply. Exact elapsed interval unknown; longer-term retention untested.",
       "observationIds": [
         "o-l5-comprender",
-        "o-l6-comprendemos"
+        "o-l6-comprendemos",
+        "o-2026-11-10-14-understand-little",
+        "o-2026-11-11-01-understand-reason"
       ],
       "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-10",
+      "lastSeen": "2026-11-11",
       "sessionIds": [
         "2026-11-10-05",
-        "2026-11-10-06"
+        "2026-11-10-06",
+        "2026-11-10-14",
+        "2026-11-11-01"
       ]
     },
     {
@@ -1235,16 +1267,18 @@
         "o-l7-need-fronted",
         "o-l8-logo-request",
         "o-l12-need-review-reason",
-        "o-l13-need-this"
+        "o-l13-need-this",
+        "o-2026-11-11-01-need-conversations"
       ],
       "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-10",
+      "lastSeen": "2026-11-11",
       "sessionIds": [
         "2026-11-10-06",
         "2026-11-10-07",
         "2026-11-10-08",
         "2026-11-10-12",
-        "2026-11-10-13"
+        "2026-11-10-13",
+        "2026-11-11-01"
       ]
     },
     {
@@ -1537,7 +1571,8 @@
         "o-l11-test-recall",
         "o-l12-test-reason",
         "o-l12-but-not-yet",
-        "o-l12-ready-but-no-publish"
+        "o-l12-ready-but-no-publish",
+        "o-2026-11-10-14-learn"
       ],
       "nextReview": "Combine with different familiar verbs without a model.",
       "lastPractised": "2026-11-10",
@@ -1548,7 +1583,8 @@
         "2026-11-10-05",
         "2026-11-10-06",
         "2026-11-10-11",
-        "2026-11-10-12"
+        "2026-11-10-12",
+        "2026-11-10-14"
       ]
     },
     {
@@ -1574,10 +1610,11 @@
         "o-l10-not-yet-omitted",
         "o-l11-reason",
         "o-l12-test-reason",
-        "o-l12-need-review-reason"
+        "o-l12-need-review-reason",
+        "o-2026-11-11-01-understand-reason"
       ],
       "nextReview": "Use a new work-related reason, then revisit after a gap.",
-      "lastPractised": "2026-11-10",
+      "lastPractised": "2026-11-11",
       "sessionIds": [
         "2026-11-10-01",
         "2026-11-10-03",
@@ -1588,7 +1625,8 @@
         "2026-11-10-09",
         "2026-11-10-10",
         "2026-11-10-11",
-        "2026-11-10-12"
+        "2026-11-10-12",
+        "2026-11-11-01"
       ]
     },
     {
@@ -1614,7 +1652,8 @@
         "o-l11-test-recall",
         "o-l12-test-reason",
         "o-l12-but-not-yet",
-        "o-l12-ready-but-no-publish"
+        "o-l12-ready-but-no-publish",
+        "o-2026-11-10-14-learn"
       ],
       "nextReview": "Queremos was recalled correctly in a reason clause and Queremos probarla after intervening material. Longer-term retention remains untested.",
       "lastPractised": "2026-11-10",
@@ -1625,7 +1664,8 @@
         "2026-11-10-05",
         "2026-11-10-06",
         "2026-11-10-11",
-        "2026-11-10-12"
+        "2026-11-10-12",
+        "2026-11-10-14"
       ]
     },
     {
@@ -1696,13 +1736,15 @@
       "explanation": "Hablo un poco means I speak a little.",
       "observationIds": [
         "o-hablo",
-        "o-l3-hablo-recall"
+        "o-l3-hablo-recall",
+        "o-2026-11-10-14-hablo"
       ],
       "nextReview": "Hablo recalled without a hint; full un poco de español phrase needed correction. Revisit the complete phrase after a gap.",
       "lastPractised": "2026-11-10",
       "sessionIds": [
         "2026-11-10-01",
-        "2026-11-10-03"
+        "2026-11-10-03",
+        "2026-11-10-14"
       ]
     },
     {
@@ -1764,10 +1806,14 @@
         "o-l12-request-first",
         "o-l13-test-function",
         "o-l13-review-this-function",
-        "o-l13-publish-it-yet"
+        "o-l13-publish-it-yet",
+        "o-2026-11-10-14-hablo",
+        "o-2026-11-10-14-learn",
+        "o-2026-11-10-14-understand-little",
+        "o-2026-11-11-01-understand-reason"
       ],
       "nextReview": "Observe naturally; avoid repetitive spelling drills.",
-      "lastPractised": "2026-11-10",
+      "lastPractised": "2026-11-11",
       "sessionIds": [
         "2026-11-10-01",
         "2026-11-10-03",
@@ -1780,7 +1826,9 @@
         "2026-11-10-10",
         "2026-11-10-11",
         "2026-11-10-12",
-        "2026-11-10-13"
+        "2026-11-10-13",
+        "2026-11-10-14",
+        "2026-11-11-01"
       ]
     },
     {
@@ -1961,12 +2009,17 @@
       "observationIds": [
         "o-l3-hablo-recall",
         "o-l3-aprender-first",
-        "o-l3-aprender-plural"
+        "o-l3-aprender-plural",
+        "o-2026-11-10-14-hablo",
+        "o-2026-11-10-14-learn",
+        "o-2026-11-10-14-de-gap",
+        "o-2026-11-10-14-understand-little"
       ],
-      "nextReview": "Used de correctly in Queremos aprender un poco de español after a model; spelling corrections remained. Test un poco de with a new noun or after a gap.",
+      "nextReview": "De omitted twice on 10 November, including immediately after a correction. Correct in a cued gap, then Comprendemos un poco de español. Recheck complete chunk without an immediate model.",
       "lastPractised": "2026-11-10",
       "sessionIds": [
-        "2026-11-10-03"
+        "2026-11-10-03",
+        "2026-11-10-14"
       ]
     },
     {
@@ -1984,16 +2037,18 @@
         "o-l5-leo",
         "o-l6-question-purpose",
         "o-l8-logo-request",
-        "o-l11-purpose"
+        "o-l11-purpose",
+        "o-2026-11-11-01-need-conversations"
       ],
-      "nextReview": "Reused para after a model and chose para/porque correctly with cues. Test independent production after a gap.",
-      "lastPractised": "2026-11-10",
+      "nextReview": "Latest response Necesitamos comprender conversaciones was grammatical but did not express the requested read-to purpose. Leemos para comprender conversaciones modelled; review para + infinitive separately from porque.",
+      "lastPractised": "2026-11-11",
       "sessionIds": [
         "2026-11-10-04",
         "2026-11-10-05",
         "2026-11-10-06",
         "2026-11-10-08",
-        "2026-11-10-11"
+        "2026-11-10-11",
+        "2026-11-11-01"
       ]
     },
     {
@@ -2008,14 +2063,16 @@
         "o-l6-comprendemos",
         "o-l6-question-purpose",
         "o-l11-purpose",
-        "o-l11-reason"
+        "o-l11-reason",
+        "o-2026-11-11-01-understand-reason"
       ],
       "nextReview": "Recall forms after a gap and use them in a new sentence.",
-      "lastPractised": "2026-11-10",
+      "lastPractised": "2026-11-11",
       "sessionIds": [
         "2026-11-10-05",
         "2026-11-10-06",
-        "2026-11-10-11"
+        "2026-11-10-11",
+        "2026-11-11-01"
       ]
     },
     {
@@ -2027,13 +2084,17 @@
       "observationIds": [
         "o-l5-comprender",
         "o-l5-aprender",
-        "o-l6-comprendemos"
+        "o-l6-comprendemos",
+        "o-2026-11-10-14-understand-little",
+        "o-2026-11-11-01-understand-reason"
       ],
-      "nextReview": "Comprendemos was recalled correctly in a full sentence after the previous stem correction. Recheck after a longer gap; no broad mastery claim.",
-      "lastPractised": "2026-11-10",
+      "nextReview": "Comprendemos correctly produced twice in this batch, including a next-client-date reply. Recheck aprendemos and other familiar -er forms later.",
+      "lastPractised": "2026-11-11",
       "sessionIds": [
         "2026-11-10-05",
-        "2026-11-10-06"
+        "2026-11-10-06",
+        "2026-11-10-14",
+        "2026-11-11-01"
       ]
     },
     {
@@ -2065,16 +2126,18 @@
         "o-l7-need-fronted",
         "o-l8-logo-request",
         "o-l12-need-review-reason",
-        "o-l13-need-this"
+        "o-l13-need-this",
+        "o-2026-11-11-01-need-conversations"
       ],
       "nextReview": "Necesitamos revisarla porque es importante recalled correctly in session12; earlier reviser ending error did not recur. Recheck later.",
-      "lastPractised": "2026-11-10",
+      "lastPractised": "2026-11-11",
       "sessionIds": [
         "2026-11-10-06",
         "2026-11-10-07",
         "2026-11-10-08",
         "2026-11-10-12",
-        "2026-11-10-13"
+        "2026-11-10-13",
+        "2026-11-11-01"
       ]
     },
     {
@@ -2380,11 +2443,11 @@
       "seconds": 45,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 1,
+      "attemptCount": 2,
       "lastAttempt": "2026-11-10",
-      "nextReview": "next_suitable_session",
-      "lastAttemptSessionId": "2026-11-10-03",
-      "lastAttemptVariant": "I speak a little Spanish; no hint provided.",
+      "nextReview": "after_a_gap",
+      "lastAttemptSessionId": "2026-11-10-14",
+      "lastAttemptVariant": "I speak a little Spanish; hablo correct, de omitted.",
       "lastOutcome": "used_with_correction"
     },
     {
@@ -2457,10 +2520,10 @@
       "seconds": 45,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 2,
+      "attemptCount": 6,
       "lastAttempt": "2026-11-10",
-      "lastAttemptSessionId": "2026-11-10-03",
-      "lastAttemptVariant": "I want to learn a little Spanish; then change I to we.",
+      "lastAttemptSessionId": "2026-11-10-14",
+      "lastAttemptVariant": "Hablo and queremos aprender omitted de; cued gap selected de; comprendemos sentence retained complete chunk.",
       "lastOutcome": "used_with_correction",
       "nextReview": "after_a_gap"
     },
@@ -2485,11 +2548,11 @@
       "seconds": 45,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 4,
-      "lastAttempt": "2026-11-10",
-      "lastAttemptSessionId": "2026-11-10-11",
-      "lastAttemptVariant": "We read to learn Spanish; then we read because we want to learn Spanish.",
-      "lastOutcome": "used_successfully",
+      "attemptCount": 5,
+      "lastAttempt": "2026-11-11",
+      "lastAttemptSessionId": "2026-11-11-01",
+      "lastAttemptVariant": "Requested We read to understand conversations; grammatical need-to-understand alternative supplied.",
+      "lastOutcome": "used_with_correction",
       "nextReview": "after_a_gap"
     },
     {
@@ -2511,10 +2574,10 @@
       "seconds": 45,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 3,
-      "lastAttempt": "2026-11-10",
-      "lastAttemptSessionId": "2026-11-10-06",
-      "lastAttemptVariant": "We understand Spanish because we read.",
+      "attemptCount": 5,
+      "lastAttempt": "2026-11-11",
+      "lastAttemptSessionId": "2026-11-11-01",
+      "lastAttemptVariant": "We understand a little Spanish; then We understand Spanish because we read.",
       "lastOutcome": "used_successfully",
       "nextReview": "after_a_gap"
     },

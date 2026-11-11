@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-10-14",
+  "date": "2026-11-10",
+  "source": "Part of one consolidated six-exchange batch spanning two client dates",
+  "lessonTheme": "Recall of un poco de and familiar verb forms",
+  "duration": {
+    "requestedMinutes": null,
+    "measuredMinutes": null
+  },
+  "summary": "Hablo and queremos aprender correct, but de omitted twice. Correct gap selection of de followed by full Comprendemos un poco de español transfer.",
+  "observations": [
+    {
+      "id": "o-2026-11-10-14-hablo",
+      "kind": "prompted_production",
+      "learnerText": "Hablo un Poco espanol",
+      "correctedText": "Hablo un poco de español.",
+      "grammarIds": [
+        "g-hablar-person",
+        "g-un-poco-de",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-hablo",
+        "v-un-poco-de",
+        "v-espanol"
+      ],
+      "outcome": "Correct hablo, but omitted de from un poco de español; capitalization and ñ also supplied. Earlier correction had been shown in session03, so de omission is recurrent."
+    },
+    {
+      "id": "o-2026-11-10-14-learn",
+      "kind": "prompted_production",
+      "learnerText": "Queremos aprender un Poco espanol",
+      "correctedText": "Queremos aprender un poco de español.",
+      "grammarIds": [
+        "g-querer-person",
+        "g-quiero-infinitive",
+        "g-un-poco-de",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-queremos",
+        "v-aprender",
+        "v-un-poco-de",
+        "v-espanol"
+      ],
+      "outcome": "Correct queremos aprender, but de omitted again immediately after the hablo correction. Tutor repeated the complete chunk and gave a one-gap exercise."
+    },
+    {
+      "id": "o-2026-11-10-14-de-gap",
+      "kind": "cued_gap_selection",
+      "learnerText": "De",
+      "correctedText": null,
+      "grammarIds": [
+        "g-un-poco-de"
+      ],
+      "vocabularyIds": [
+        "v-un-poco-de"
+      ],
+      "outcome": "Correct selection of de in Hablo un poco ___ español, with the answer explicitly cued by the preceding correction. This is gap recognition, not independent full-sentence recall."
+    },
+    {
+      "id": "o-2026-11-10-14-understand-little",
+      "kind": "prompted_production",
+      "learnerText": "Comprendemos un Poco de espanol",
+      "correctedText": "Comprendemos un poco de español.",
+      "grammarIds": [
+        "g-regular-er-we",
+        "g-un-poco-de",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-comprendemos",
+        "v-un-poco-de",
+        "v-espanol"
+      ],
+      "outcome": "Correct full comprendemos stem and complete un poco de chunk in a transfer after the gap exercise. Capitalization and ñ supplied. Immediate prompted success; retention not established."
+    }
+  ],
+  "nextSteps": [
+    "Recheck complete un poco de chunk without a model",
+    "Retain correct hablo and comprendemos forms while assessing chunk separately"
+  ],
+  "skippedUnitIds": [],
+  "assessmentNote": "Record actual learner meanings and cue levels. Spelling corrections are separate from grammatical form; no mastery inferred from immediate practice."
+}

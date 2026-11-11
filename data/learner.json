@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "learnerId": "primary",
-  "lastUpdated": "2026-11-10",
+  "lastUpdated": "2026-11-11",
   "interfaceLanguage": "en",
   "targetLanguage": "es",
   "selfReportedLevel": "Speaks a little Spanish",
@@ -72,11 +72,12 @@
     "g-esto-esta"
   ],
   "nextUnitIds": [
+    "u-un-poco-de",
+    "u-para-vs-porque",
     "u-review-request",
     "u-pero",
     "u-ready-agreement",
     "u-ready-time",
-    "u-para-vs-porque",
     "u-yes-no-question",
     "u-podemos-negative",
     "u-hablo",
@@ -85,7 +86,6 @@
     "u-negation",
     "u-goal-reason",
     "u-probar",
-    "u-un-poco-de",
     "u-leer-present",
     "u-que-question",
     "u-regular-er-we",
@@ -106,7 +106,7 @@
     ],
     "intervalsAreFlexible": true
   },
-  "latestSessionId": "2026-11-10-13",
+  "latestSessionId": "2026-11-11-01",
   "disclosureAuthorization": {
     "publicLearningRecord": true,
     "ongoingUpdatesAuthorized": true,
