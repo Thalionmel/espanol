@@ -119,9 +119,11 @@
     "g-imperative-me",
     "g-indirect-why",
     "g-problema-gender",
-    "g-comprueba-si"
+    "g-comprueba-si",
+    "g-hay-existential"
   ],
   "nextUnitIds": [
+    "u-hay-existence",
     "u-comprueba-si",
     "u-problema-instruction",
     "u-open-file",
@@ -170,7 +172,7 @@
     ],
     "intervalsAreFlexible": true
   },
-  "latestSessionId": "2026-11-11-14",
+  "latestSessionId": "2026-11-11-15",
   "disclosureAuthorization": {
     "publicLearningRecord": true,
     "ongoingUpdatesAuthorized": true,

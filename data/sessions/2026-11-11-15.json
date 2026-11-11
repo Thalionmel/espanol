@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-11-15",
+  "date": "2026-11-11",
+  "source": "Six learner attempts saved as one batch",
+  "lessonTheme": "Existential hay with singular, plural and negative statements",
+  "duration": {
+    "requestedMinutes": null,
+    "measuredMinutes": null
+  },
+  "summary": "Introduced hay un problema. Masculine un correct while noun problemo needed problema. Correct singular file-problem request and model-supported negative check. After plural introduction, singular answer differed from requested plural, then son substituted for existential hay in negative report. Final Hay problemas correct after focused correction.",
+  "observations": [
+    {
+      "id": "o-2026-11-11-15-check-one-problem",
+      "kind": "prompted_transfer",
+      "learnerText": "Comprueba Si hay un problemo",
+      "correctedText": "Comprueba si hay un problema.",
+      "grammarIds": [
+        "g-comprueba-si",
+        "g-hay-existential",
+        "g-problema-gender",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-comprueba",
+        "v-hay",
+        "v-problema"
+      ],
+      "outcome": "Correct comprueba si hay un after a hay un problema model; masculine un correct. Noun ending problemo corrected to problema, with reminder that masculine noun retains -a."
+    },
+    {
+      "id": "o-2026-11-11-15-tell-one-file-problem",
+      "kind": "prompted_transfer",
+      "learnerText": "Dime Si hay un problema Con El archivo",
+      "correctedText": "Dime si hay un problema con el archivo.",
+      "grammarIds": [
+        "g-dime-si",
+        "g-hay-existential",
+        "g-problema-gender",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-dime",
+        "v-hay",
+        "v-problema",
+        "v-archivo"
+      ],
+      "outcome": "Correct full singular existence request with file phrase; capitalization supplied. Tutor introduced negative No hay un problema."
+    },
+    {
+      "id": "o-2026-11-11-15-check-no-one-problem",
+      "kind": "prompted_transfer",
+      "learnerText": "Comprueba Si No hay un problema",
+      "correctedText": "Comprueba si no hay un problema.",
+      "grammarIds": [
+        "g-comprueba-si",
+        "g-hay-existential",
+        "g-negation",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-comprueba",
+        "v-no-hay",
+        "v-hay",
+        "v-problema"
+      ],
+      "outcome": "Correct practised negative singular check after model; capitalization supplied. Tutor then introduced No hay problemas and unchanged hay with singular/plural."
+    },
+    {
+      "id": "o-2026-11-11-15-singular-instead-plural",
+      "kind": "prompted_transfer",
+      "learnerText": "Dime Si hay un problema Con El archivo",
+      "correctedText": "Dime si hay un problema con el archivo.",
+      "grammarIds": [
+        "g-dime-si",
+        "g-hay-existential",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-dime",
+        "v-hay",
+        "v-problema",
+        "v-problemas",
+        "v-archivo"
+      ],
+      "outcome": "Grammatical one-problem request, but target asked plural problems. Tutor acknowledged singular meaning and supplied Dime si hay problemas con el archivo, explaining omit un and add -s."
+    },
+    {
+      "id": "o-2026-11-11-15-negative-existence-son",
+      "kind": "prompted_transfer",
+      "learnerText": "No son Problemas Con El archivo",
+      "correctedText": "No hay problemas con el archivo.",
+      "grammarIds": [
+        "g-hay-existential",
+        "g-negation",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-no-hay",
+        "v-hay",
+        "v-problemas",
+        "v-archivo"
+      ],
+      "outcome": "Plural problemas correct, but son used where requested there are no requires existential hay. Tutor supplied No hay problemas and emphasized hay for both numbers. Do not generalize that son problemas can never be grammatical with another meaning."
+    },
+    {
+      "id": "o-2026-11-11-15-plural-focused-retry",
+      "kind": "focused_retry",
+      "learnerText": "Hay problemas",
+      "correctedText": null,
+      "grammarIds": [
+        "g-hay-existential"
+      ],
+      "vocabularyIds": [
+        "v-hay",
+        "v-problemas"
+      ],
+      "outcome": "Correct standalone plural existence phrase after explicit hay correction and focused prompt. Supported immediate retry, not delayed independent mastery."
+    }
+  ],
+  "nextSteps": [
+    "Recheck plural hay and no hay without immediate models",
+    "Use a whole practical check/report instruction with plural problems",
+    "Retain singular problema despite masculine un"
+  ],
+  "skippedUnitIds": [],
+  "assessmentNote": "Grammatical different-number responses are distinct from invalid morphology. Existential son substitution corrected for the target meaning; supported retry is not durable mastery."
+}

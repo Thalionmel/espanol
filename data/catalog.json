@@ -2194,7 +2194,8 @@
       "lastSeen": "2026-11-11",
       "sessionIds": [
         "2026-11-11-08",
-        "2026-11-11-09"
+        "2026-11-11-09",
+        "2026-11-11-15"
       ],
       "observationIds": [
         "o-2026-11-11-08-tell-ready",
@@ -2204,7 +2205,9 @@
         "o-2026-11-11-08-review-tell-sequence",
         "o-2026-11-11-09-mixed-command-sequence",
         "o-2026-11-11-09-feature-sequence-retry",
-        "o-2026-11-11-09-logo-sequence-transfer"
+        "o-2026-11-11-09-logo-sequence-transfer",
+        "o-2026-11-11-15-tell-one-file-problem",
+        "o-2026-11-11-15-singular-instead-plural"
       ]
     },
     {
@@ -2348,12 +2351,13 @@
       "spanish": "problema",
       "english": "problem (masculine noun)",
       "status": "used_with_correction",
-      "note": "Esto problema recurred after correction; then correct este choice and two complete este problema instructions. Delayed gender recall untested.",
+      "note": "Esto problema recurred after correction; then correct este choice and two complete este problema instructions. Delayed gender recall untested. Later chose masculine un correctly but changed noun ending to problemo once; corrected to problema, then singular form correctly reused.",
       "firstSeen": "2026-11-11",
       "lastSeen": "2026-11-11",
       "sessionIds": [
         "2026-11-11-12",
-        "2026-11-11-13"
+        "2026-11-11-13",
+        "2026-11-11-15"
       ],
       "observationIds": [
         "o-2026-11-11-12-self-chosen-image",
@@ -2364,7 +2368,11 @@
         "o-2026-11-11-13-1",
         "o-2026-11-11-13-2",
         "o-2026-11-11-13-3",
-        "o-2026-11-11-13-4"
+        "o-2026-11-11-13-4",
+        "o-2026-11-11-15-check-one-problem",
+        "o-2026-11-11-15-tell-one-file-problem",
+        "o-2026-11-11-15-check-no-one-problem",
+        "o-2026-11-11-15-singular-instead-plural"
       ]
     },
     {
@@ -2516,12 +2524,16 @@
       "lastSeen": "2026-11-11",
       "sessionIds": [
         "2026-11-11-13",
-        "2026-11-11-14"
+        "2026-11-11-14",
+        "2026-11-11-15"
       ],
       "observationIds": [
         "o-2026-11-11-13-5",
         "o-2026-11-11-14-partial-ready",
-        "o-2026-11-11-14-file-review-check"
+        "o-2026-11-11-14-file-review-check",
+        "o-2026-11-11-15-tell-one-file-problem",
+        "o-2026-11-11-15-singular-instead-plural",
+        "o-2026-11-11-15-negative-existence-son"
       ]
     },
     {
@@ -2548,14 +2560,70 @@
       "firstSeen": "2026-11-11",
       "lastSeen": "2026-11-11",
       "sessionIds": [
-        "2026-11-11-14"
+        "2026-11-11-14",
+        "2026-11-11-15"
       ],
       "observationIds": [
         "o-2026-11-11-14-partial-ready",
         "o-2026-11-11-14-check-feature",
         "o-2026-11-11-14-check-can-publish",
         "o-2026-11-11-14-feature-review-check",
-        "o-2026-11-11-14-file-review-check"
+        "o-2026-11-11-14-file-review-check",
+        "o-2026-11-11-15-check-one-problem",
+        "o-2026-11-11-15-check-no-one-problem"
+      ]
+    },
+    {
+      "id": "v-hay",
+      "spanish": "hay",
+      "english": "there is / there are",
+      "status": "used_with_correction",
+      "note": "Correct singular existence requests and a negative check after models. Plural target first answered with singular, then son used for existential are; corrected. Hay problemas correct in focused retry.",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "sessionIds": [
+        "2026-11-11-15"
+      ],
+      "observationIds": [
+        "o-2026-11-11-15-check-one-problem",
+        "o-2026-11-11-15-tell-one-file-problem",
+        "o-2026-11-11-15-check-no-one-problem",
+        "o-2026-11-11-15-singular-instead-plural",
+        "o-2026-11-11-15-negative-existence-son",
+        "o-2026-11-11-15-plural-focused-retry"
+      ]
+    },
+    {
+      "id": "v-no-hay",
+      "spanish": "no hay",
+      "english": "there isn't / there aren't",
+      "status": "used_with_correction",
+      "note": "Correct in a model-supported negative singular check, but later standalone negative plural report used son. No hay problemas supplied; delayed recall untested.",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "sessionIds": [
+        "2026-11-11-15"
+      ],
+      "observationIds": [
+        "o-2026-11-11-15-check-no-one-problem",
+        "o-2026-11-11-15-negative-existence-son"
+      ]
+    },
+    {
+      "id": "v-problemas",
+      "spanish": "problemas",
+      "english": "problems",
+      "status": "used_successfully",
+      "note": "Plural form modelled by adding -s and omitting un for general problems. Correct noun plural in No son problemas and Hay problemas; verb-choice issue assessed separately.",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "sessionIds": [
+        "2026-11-11-15"
+      ],
+      "observationIds": [
+        "o-2026-11-11-15-singular-instead-plural",
+        "o-2026-11-11-15-negative-existence-son",
+        "o-2026-11-11-15-plural-focused-retry"
       ]
     }
   ],
@@ -2717,7 +2785,9 @@
         "o-l12-ready-but-no-publish",
         "o-l13-publish-this-yet",
         "o-l13-publish-it-yet",
-        "o-2026-11-11-10-explain-cannot-publish"
+        "o-2026-11-11-10-explain-cannot-publish",
+        "o-2026-11-11-15-check-no-one-problem",
+        "o-2026-11-11-15-negative-existence-son"
       ],
       "nextReview": "Correctly placed no between an explicit noun subject and está in La función no está lista; adjective correction was separate. Recheck polarity in a new sentence.",
       "lastPractised": "2026-11-11",
@@ -2731,7 +2801,8 @@
         "2026-11-10-11",
         "2026-11-10-12",
         "2026-11-10-13",
-        "2026-11-11-10"
+        "2026-11-11-10",
+        "2026-11-11-15"
       ]
     },
     {
@@ -2882,7 +2953,12 @@
         "o-2026-11-11-14-partial-ready",
         "o-2026-11-11-14-check-feature",
         "o-2026-11-11-14-feature-review-check",
-        "o-2026-11-11-14-file-review-check"
+        "o-2026-11-11-14-file-review-check",
+        "o-2026-11-11-15-check-one-problem",
+        "o-2026-11-11-15-tell-one-file-problem",
+        "o-2026-11-11-15-check-no-one-problem",
+        "o-2026-11-11-15-singular-instead-plural",
+        "o-2026-11-11-15-negative-existence-son"
       ],
       "nextReview": "Observe naturally; avoid repetitive spelling drills.",
       "lastPractised": "2026-11-11",
@@ -2913,7 +2989,8 @@
         "2026-11-11-11",
         "2026-11-11-12",
         "2026-11-11-13",
-        "2026-11-11-14"
+        "2026-11-11-14",
+        "2026-11-11-15"
       ]
     },
     {
@@ -3823,7 +3900,8 @@
       "explanation": "Introduced Dime si está lista = Tell me whether it's ready. Dime si is practised as a useful command chunk, with unaccented si. Correctly extended to noun readiness, podemos + infinitive, necesitamos + infinitive and a sequence. Publicamos was grammatical but omitted requested ability, so podemos publicar was modelled. General decir conjugation and conditional clauses not taught.",
       "sessionIds": [
         "2026-11-11-08",
-        "2026-11-11-09"
+        "2026-11-11-09",
+        "2026-11-11-15"
       ],
       "observationIds": [
         "o-2026-11-11-08-tell-ready",
@@ -3833,7 +3911,9 @@
         "o-2026-11-11-08-review-tell-sequence",
         "o-2026-11-11-09-mixed-command-sequence",
         "o-2026-11-11-09-feature-sequence-retry",
-        "o-2026-11-11-09-logo-sequence-transfer"
+        "o-2026-11-11-09-logo-sequence-transfer",
+        "o-2026-11-11-15-tell-one-file-problem",
+        "o-2026-11-11-15-singular-instead-plural"
       ],
       "lastPractised": "2026-11-11",
       "nextReview": "Recheck a practical dime-si instruction after intervening material, preserving requested ability or need meaning and object."
@@ -3885,7 +3965,8 @@
       "explanation": "Corrected la problema to el problema. Learner used el once after a reminder, then la recurred; tutor explicitly explained the masculine noun. Correct lo in review/fix sequences does not itself prove article recall. Latest esto problema was corrected to este problema; no correct este retry yet.",
       "sessionIds": [
         "2026-11-11-12",
-        "2026-11-11-13"
+        "2026-11-11-13",
+        "2026-11-11-15"
       ],
       "observationIds": [
         "o-2026-11-11-12-self-chosen-image",
@@ -3896,7 +3977,9 @@
         "o-2026-11-11-13-1",
         "o-2026-11-11-13-2",
         "o-2026-11-11-13-3",
-        "o-2026-11-11-13-4"
+        "o-2026-11-11-13-4",
+        "o-2026-11-11-15-check-one-problem",
+        "o-2026-11-11-15-tell-one-file-problem"
       ],
       "lastPractised": "2026-11-11",
       "nextReview": "Esto problema recurred, followed by correct cued este and complete revisa/investiga este problema instructions. Recheck later without a fresh contrast."
@@ -3908,17 +3991,40 @@
       "status": "used_successfully",
       "explanation": "Introduced comprobar → comprueba with ue like prueba, then Comprueba si está listo. After a partial readiness clause and full model, correctly produced readiness and ability check instructions, then combined review/check steps. This is a practised command chunk, not a full comprobar paradigm.",
       "sessionIds": [
-        "2026-11-11-14"
+        "2026-11-11-14",
+        "2026-11-11-15"
       ],
       "observationIds": [
         "o-2026-11-11-14-partial-ready",
         "o-2026-11-11-14-check-feature",
         "o-2026-11-11-14-check-can-publish",
         "o-2026-11-11-14-feature-review-check",
-        "o-2026-11-11-14-file-review-check"
+        "o-2026-11-11-14-file-review-check",
+        "o-2026-11-11-15-check-one-problem",
+        "o-2026-11-11-15-check-no-one-problem"
       ],
       "lastPractised": "2026-11-11",
       "nextReview": "Recheck a self-chosen check instruction after intervening material; keep requested ability meaning and explicit object when needed."
+    },
+    {
+      "id": "g-hay-existential",
+      "pattern": "hay / no hay + singular or plural noun phrase",
+      "meaning": "Say whether something exists: there is/are; there isn't/aren't.",
+      "status": "used_with_correction",
+      "explanation": "Introduced Hay un problema. Learner correctly used hay un problema in check/report requests, then no hay un problema after model. Tutor introduced hay problemas/no hay problemas and unchanged hay across number; learner first retained singular for a plural target, then used son for existential are. Corrected to hay; final Hay problemas was a supported retry. This is present existential haber only, not a full conjugation lesson.",
+      "sessionIds": [
+        "2026-11-11-15"
+      ],
+      "observationIds": [
+        "o-2026-11-11-15-check-one-problem",
+        "o-2026-11-11-15-tell-one-file-problem",
+        "o-2026-11-11-15-check-no-one-problem",
+        "o-2026-11-11-15-singular-instead-plural",
+        "o-2026-11-11-15-negative-existence-son",
+        "o-2026-11-11-15-plural-focused-retry"
+      ],
+      "lastPractised": "2026-11-11",
+      "nextReview": "Recheck affirmative and negative plural existence after intervening material, then embed it in a practical command."
     }
   ],
   "practiceUnits": [
@@ -4679,10 +4785,10 @@
       "seconds": 60,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 8,
+      "attemptCount": 10,
       "lastAttempt": "2026-11-11",
-      "lastAttemptSessionId": "2026-11-11-09",
-      "lastAttemptVariant": "Initial puedes dime mix, then correct reporting clauses in feminine and masculine sequences.",
+      "lastAttemptSessionId": "2026-11-11-15",
+      "lastAttemptVariant": "Singular file-problem request correct; repeated singular for requested plural.",
       "lastOutcome": "used_with_correction",
       "nextReview": "after_a_gap"
     },
@@ -4852,10 +4958,39 @@
       "seconds": 60,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 5,
+      "attemptCount": 7,
       "lastAttempt": "2026-11-11",
-      "lastAttemptSessionId": "2026-11-11-14",
-      "lastAttemptVariant": "Partial file-readiness response; feature-readiness, can-publish and two review/check sequences.",
+      "lastAttemptSessionId": "2026-11-11-15",
+      "lastAttemptVariant": "Check whether there is a problem; then whether there isn't one.",
+      "lastOutcome": "used_with_correction",
+      "nextReview": "after_a_gap"
+    },
+    {
+      "id": "u-hay-existence",
+      "title": "Report whether there are problems",
+      "grammarIds": [
+        "g-hay-existential",
+        "g-dime-si",
+        "g-comprueba-si"
+      ],
+      "vocabularyIds": [
+        "v-hay",
+        "v-no-hay",
+        "v-problema",
+        "v-problemas",
+        "v-archivo"
+      ],
+      "prompt": "Say: There are no problems with the file.",
+      "modelAnswer": "No hay problemas con el archivo.",
+      "hint": "Hay stays the same with singular and plural.",
+      "feedbackFocus": "Existential hay versus a different predicate with son, singular/plural target meaning and problem noun spelling.",
+      "seconds": 60,
+      "optional": true,
+      "selection": "enabled",
+      "attemptCount": 6,
+      "lastAttempt": "2026-11-11",
+      "lastAttemptSessionId": "2026-11-11-15",
+      "lastAttemptVariant": "Singular check/report, negative singular, plural request answered singular, negative plural son error, focused Hay problemas retry.",
       "lastOutcome": "used_with_correction",
       "nextReview": "after_a_gap"
     }
