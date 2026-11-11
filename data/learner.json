@@ -109,9 +109,11 @@
     "g-esto-esta",
     "g-regular-imperative-tu",
     "g-probar-imperative",
-    "g-imperative-register"
+    "g-imperative-register",
+    "g-imperative-objects"
   ],
   "nextUnitIds": [
+    "u-imperative-object",
     "u-prueba",
     "u-regular-imperative-tu",
     "u-un-poco-de",
@@ -148,7 +150,7 @@
     ],
     "intervalsAreFlexible": true
   },
-  "latestSessionId": "2026-11-11-03",
+  "latestSessionId": "2026-11-11-04",
   "disclosureAuthorization": {
     "publicLearningRecord": true,
     "ongoingUpdatesAuthorized": true,

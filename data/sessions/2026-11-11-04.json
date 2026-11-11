@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-11-04",
+  "date": "2026-11-11",
+  "source": "Six learner attempts saved as one batch",
+  "lessonTheme": "Affirmative command objects and command versus infinitive",
+  "duration": {
+    "requestedMinutes": null,
+    "measuredMinutes": null
+  },
+  "summary": "Correctly recalled prueba and informal lee, with esta función appropriate. Introduced object suffixes on affirmative tú commands. First review-it response used infinitive revisarla; tutor explained revísala. Then correctly formed revísalo, pruébala and léela, with accents supplied. Command morphology success assessed separately from orthography.",
+  "observations": [
+    {
+      "id": "o-2026-11-11-04-test-function-recall",
+      "kind": "prompted_production",
+      "learnerText": "Prueba esta funcion por favor",
+      "correctedText": "Prueba esta función, por favor.",
+      "grammarIds": [
+        "g-probar-imperative",
+        "g-esto-esta",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-prueba",
+        "v-esta",
+        "v-funcion",
+        "v-por-favor"
+      ],
+      "outcome": "Correct prueba after intervening material without a fresh stem hint; appropriate esta función. Función accent supplied. Same-day recall, no durable mastery claim."
+    },
+    {
+      "id": "o-2026-11-11-04-read-function-recall",
+      "kind": "prompted_production",
+      "learnerText": "Lee esta funcion por favor",
+      "correctedText": "Lee esta función, por favor.",
+      "grammarIds": [
+        "g-regular-imperative-tu",
+        "g-imperative-register",
+        "g-esto-esta",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-lee",
+        "v-esta",
+        "v-funcion",
+        "v-por-favor"
+      ],
+      "outcome": "Correct informal tú lee with register explicitly named, without a fresh conjugated model. Tutor then introduced affirmative-command pronoun attachment using lee + la → léela, with stress-preserving accent."
+    },
+    {
+      "id": "o-2026-11-11-04-review-infinitive",
+      "kind": "prompted_production",
+      "learnerText": "Revisarla por favor",
+      "correctedText": "Revísala, por favor.",
+      "grammarIds": [
+        "g-imperative-objects",
+        "g-regular-imperative-tu"
+      ],
+      "vocabularyIds": [
+        "v-revisala",
+        "v-revisa",
+        "v-revisar",
+        "v-la",
+        "v-por-favor"
+      ],
+      "outcome": "Target was Review it, please for la función. Learner used infinitive revisarla, meaning to review it; tutor supplied revisa + la → revísala and emphasized no r in this command. Infinitives can serve other directive functions in Spanish; do not infer a universal prohibition beyond the practised personal tú target."
+    },
+    {
+      "id": "o-2026-11-11-04-review-logo",
+      "kind": "prompted_production",
+      "learnerText": "Revisalo por favor",
+      "correctedText": "Revísalo, por favor.",
+      "grammarIds": [
+        "g-imperative-objects",
+        "g-regular-imperative-tu",
+        "g-object-gender",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-revisalo",
+        "v-revisa",
+        "v-lo",
+        "v-por-favor"
+      ],
+      "outcome": "Correct command base and masculine lo for stated el logo after feminine model. Only accent and conventional punctuation supplied; no infinitive r remained."
+    },
+    {
+      "id": "o-2026-11-11-04-test-feature",
+      "kind": "prompted_production",
+      "learnerText": "Pruebala por favor",
+      "correctedText": "Pruébala, por favor.",
+      "grammarIds": [
+        "g-imperative-objects",
+        "g-probar-imperative",
+        "g-object-gender",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-pruebala",
+        "v-prueba",
+        "v-la",
+        "v-por-favor"
+      ],
+      "outcome": "Correct prueba stem, suffix la and affirmative command construction without full target model. Accent supplied. Prompted transfer from review/read attachment examples."
+    },
+    {
+      "id": "o-2026-11-11-04-read-feature",
+      "kind": "prompted_production",
+      "learnerText": "Leela por favor",
+      "correctedText": "Léela, por favor.",
+      "grammarIds": [
+        "g-imperative-objects",
+        "g-regular-imperative-tu",
+        "g-object-gender",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-leela",
+        "v-lee",
+        "v-la",
+        "v-por-favor"
+      ],
+      "outcome": "Correct lee + la command after intervening commands, with léela earlier modelled at introduction. Accent supplied; retention beyond this immediate practice sequence untested."
+    }
+  ],
+  "nextSteps": [
+    "Contrast Necesitamos revisarla with Revísala in separate meaning prompts",
+    "Recheck affirmative object-command forms after intervening material",
+    "Introduce negative commands only as a separate later unit"
+  ],
+  "skippedUnitIds": [],
+  "assessmentNote": "Prompted production, prior models and supplied accents are explicit. No negative-command object placement or broad mastery inferred."
+}
