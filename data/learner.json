@@ -118,11 +118,11 @@
     "g-dime-si"
   ],
   "nextUnitIds": [
-    "u-dime-si",
     "u-sequenced-commands",
+    "u-publicar-command",
+    "u-dime-si",
     "u-prueba",
     "u-negative-command-object",
-    "u-publicar-command",
     "u-negative-tu-ar",
     "u-imperative-object",
     "u-regular-imperative-tu",
@@ -160,7 +160,7 @@
     ],
     "intervalsAreFlexible": true
   },
-  "latestSessionId": "2026-11-11-08",
+  "latestSessionId": "2026-11-11-09",
   "disclosureAuthorization": {
     "publicLearningRecord": true,
     "ongoingUpdatesAuthorized": true,

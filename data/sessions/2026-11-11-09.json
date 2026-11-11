@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-11-09",
+  "date": "2026-11-11",
+  "source": "Six learner attempts saved as one batch",
+  "lessonTheme": "Recall of personal commands in positive/negative action sequences",
+  "duration": {
+    "requestedMinutes": null,
+    "measuredMinutes": null
+  },
+  "summary": "Longer command initially mixed infinitive probarla and puedes dime. Focused correction followed by correct feminine sequence and masculine transfer. Positive/negative object placement then correct for both genders. Publices needed qu correction, retained in immediate feminine transfer. Primero spelling slips and command accents supplied. No new grammar or vocabulary introduced.",
+  "observations": [
+    {
+      "id": "o-2026-11-11-09-mixed-command-sequence",
+      "kind": "prompted_transfer",
+      "learnerText": "primero probarla, puedes dime si esta lista",
+      "correctedText": "Primero pruébala; luego dime si está lista.",
+      "grammarIds": [
+        "g-sequenced-commands",
+        "g-imperative-objects",
+        "g-probar-imperative",
+        "g-dime-si",
+        "g-estar-readiness",
+        "g-listo-lista",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-primero",
+        "v-pruebala",
+        "v-dime",
+        "v-puedes",
+        "v-lista"
+      ],
+      "outcome": "First clause used infinitive probarla for requested command, and second mixed puedes with command dime. Tutor supplied two direct commands pruébala and dime, contrasting probarla/pruébala. No separate puedes decirme rule was taught."
+    },
+    {
+      "id": "o-2026-11-11-09-test-feature-focused",
+      "kind": "prompted_transfer",
+      "learnerText": "pruebala por favor",
+      "correctedText": "Pruébala, por favor.",
+      "grammarIds": [
+        "g-probar-imperative",
+        "g-imperative-objects",
+        "g-object-gender",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-pruebala",
+        "v-la",
+        "v-por-favor"
+      ],
+      "outcome": "Correct personal command and feminine object after focused model; accent supplied."
+    },
+    {
+      "id": "o-2026-11-11-09-feature-sequence-retry",
+      "kind": "prompted_transfer",
+      "learnerText": "primero pruebala, luego dime si esta lista",
+      "correctedText": "Primero pruébala; luego dime si está lista.",
+      "grammarIds": [
+        "g-sequenced-commands",
+        "g-imperative-objects",
+        "g-probar-imperative",
+        "g-dime-si",
+        "g-estar-readiness",
+        "g-listo-lista",
+        "g-object-gender",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-primero",
+        "v-pruebala",
+        "v-luego",
+        "v-dime",
+        "v-lista"
+      ],
+      "outcome": "Correct full retry with two direct commands, attached la and feminine lista. Accents supplied."
+    },
+    {
+      "id": "o-2026-11-11-09-logo-sequence-transfer",
+      "kind": "prompted_transfer",
+      "learnerText": "primeor pruebalo, luego dime si esta listo",
+      "correctedText": "Primero pruébalo; luego dime si está listo.",
+      "grammarIds": [
+        "g-sequenced-commands",
+        "g-imperative-objects",
+        "g-probar-imperative",
+        "g-dime-si",
+        "g-estar-readiness",
+        "g-listo-lista",
+        "g-object-gender",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-primero",
+        "v-pruebalo",
+        "v-luego",
+        "v-dime",
+        "v-listo"
+      ],
+      "outcome": "Correct masculine lo/listo transfer and command stem. Primero letter transposition and accents supplied; no grammatical correction."
+    },
+    {
+      "id": "o-2026-11-11-09-logo-review-no-publish",
+      "kind": "prompted_transfer",
+      "learnerText": "Primero revisalo; no lo publices",
+      "correctedText": "Primero revísalo; no lo publiques.",
+      "grammarIds": [
+        "g-sequenced-commands",
+        "g-imperative-objects",
+        "g-negative-command-objects",
+        "g-publicar-command-spelling",
+        "g-object-gender",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-primero",
+        "v-revisalo",
+        "v-no-publiques",
+        "v-lo"
+      ],
+      "outcome": "Correct affirmative attached lo and negative pre-verbal lo, both matching logo. Publices needed c → qu before e; revísalo accent supplied."
+    },
+    {
+      "id": "o-2026-11-11-09-feature-review-no-publish",
+      "kind": "prompted_transfer",
+      "learnerText": "Primerlo revisala; no la publiques",
+      "correctedText": "Primero revísala; no la publiques.",
+      "grammarIds": [
+        "g-sequenced-commands",
+        "g-imperative-objects",
+        "g-negative-command-objects",
+        "g-publicar-command-spelling",
+        "g-object-gender",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-primero",
+        "v-revisala",
+        "v-no-publiques",
+        "v-la"
+      ],
+      "outcome": "Correct feminine transfer in both commands and retained qu after immediate correction. Extra letter in Primero and revísala accent supplied. Earlier positive-versus-negative pronoun placement retained."
+    }
+  ],
+  "nextSteps": [
+    "Recheck direct commands without fresh models during ordinary work",
+    "Revisit publiques spelling after a gap",
+    "Keep future units practical and small; add a further command lexeme when useful"
+  ],
+  "skippedUnitIds": [],
+  "assessmentNote": "Correct immediate retries and grammatical transfers recorded separately from initial errors. Repeated spelling corrections do not erase correct command placement or agreement; no durable mastery inferred."
+}

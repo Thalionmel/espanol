@@ -28,6 +28,7 @@ A shared Spanish learning record for conversation-based teaching and future trai
 - [Negative command objects and publishing instructions](data/sessions/2026-11-11-06.json)
 - [Reasons and first/then instruction sequences](data/sessions/2026-11-11-07.json)
 - [Tell me whether: dime si requests](data/sessions/2026-11-11-08.json)
+- [Command recall in positive and negative sequences](data/sessions/2026-11-11-09.json)
 - [Data format and update rules](docs/data-format.md)
 - [Instructions for future assistants](AGENTS.md)
 
@@ -86,7 +87,9 @@ Combined publishing commands with readiness reasons: feminine-function **lo** ne
 
 Then correctly produced the feminine read/review sequence. Introduced **Dime si…** (“Tell me whether…”, unaccented **si**), with correct readiness, can-test and need-review uses. **Dime si lo publicamos** was grammatical but lacked requested “can”; **podemos publicar** was supplied. In **Primero revisa; luego dime si está lista**, sequence and reporting clause were correct; explicit “review it” needed **revísala**.
 
-Next: retain explicit objects in multi-step commands, preserve ability/need meaning and recheck **prueba** after intervening material. Keep **un poco de**, purpose/reason and location as later review targets; immediate success does not establish durable recall.
+Latest sequence recall initially mixed **probarla** and **puedes dime**; two direct commands were supplied. Focused **pruébala** retry, full feminine sequence and masculine **pruébalo / listo** transfer were then correct. Positive/negative **revísalo; no lo publiques** and feminine transfer kept pronouns correctly placed. **Publices** needed **qu**, retained on immediate retry. **Primero** spelling slips and written accents were supplied separately from grammar.
+
+Next: recheck commands and **publiques** after a gap, using practical work instructions. Add further command vocabulary in small units when useful. Keep **un poco de**, purpose/reason and location as later review targets; immediate success does not establish durable recall.
 Review software vocabulary such as **probar**, **revisar**, **los logros**, and **ejecutar las pruebas**.
 Location with **estar** still needs independent recall. **Hablo** was recalled without a hint; the surrounding phrase needed **un poco de español** and spelling corrections.
 

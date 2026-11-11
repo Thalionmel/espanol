@@ -641,7 +641,8 @@
         "2026-11-10-10",
         "2026-11-10-11",
         "2026-11-11-07",
-        "2026-11-11-08"
+        "2026-11-11-08",
+        "2026-11-11-09"
       ],
       "observationIds": [
         "o-l8-ready-logo",
@@ -655,7 +656,8 @@
         "o-l11-not-yet-recall",
         "o-2026-11-11-07-logo-negative-reason",
         "o-2026-11-11-07-logo-positive-reason",
-        "o-2026-11-11-08-tell-ready"
+        "o-2026-11-11-08-tell-ready",
+        "o-2026-11-11-09-logo-sequence-transfer"
       ]
     },
     {
@@ -707,11 +709,12 @@
       "status": "used_successfully",
       "note": "After session12 podes correction, correctly used puedes in three session13 requests. Same-sequence practice; delayed independent recall untested.",
       "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-10",
+      "lastSeen": "2026-11-11",
       "sessionIds": [
         "2026-11-10-01",
         "2026-11-10-12",
-        "2026-11-10-13"
+        "2026-11-10-13",
+        "2026-11-11-09"
       ],
       "observationIds": [
         "o-permission",
@@ -719,7 +722,8 @@
         "o-l12-request-retry",
         "o-l13-test-this",
         "o-l13-test-function",
-        "o-l13-review-this-function"
+        "o-l13-review-this-function",
+        "o-2026-11-11-09-mixed-command-sequence"
       ]
     },
     {
@@ -853,7 +857,8 @@
         "2026-11-11-04",
         "2026-11-11-06",
         "2026-11-11-07",
-        "2026-11-11-08"
+        "2026-11-11-08",
+        "2026-11-11-09"
       ],
       "observationIds": [
         "o-object-pronouns",
@@ -875,7 +880,8 @@
         "o-2026-11-11-07-logo-negative-reason",
         "o-2026-11-11-07-logo-positive-reason",
         "o-2026-11-11-07-test-logo-retry",
-        "o-2026-11-11-08-tell-can-test"
+        "o-2026-11-11-08-tell-can-test",
+        "o-2026-11-11-09-logo-review-no-publish"
       ]
     },
     {
@@ -1025,7 +1031,9 @@
         "o-2026-11-11-06-review-positive-object",
         "o-2026-11-11-06-publish-feminine",
         "o-2026-11-11-07-feature-negative-reason",
-        "o-2026-11-11-08-tell-need-review"
+        "o-2026-11-11-08-tell-need-review",
+        "o-2026-11-11-09-test-feature-focused",
+        "o-2026-11-11-09-feature-review-no-publish"
       ],
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-11",
@@ -1038,7 +1046,8 @@
         "2026-11-11-04",
         "2026-11-11-06",
         "2026-11-11-07",
-        "2026-11-11-08"
+        "2026-11-11-08",
+        "2026-11-11-09"
       ]
     },
     {
@@ -1538,7 +1547,9 @@
         "o-l12-but-not-yet",
         "o-l12-ready-but-no-publish",
         "o-2026-11-11-07-feature-negative-reason",
-        "o-2026-11-11-08-review-tell-sequence"
+        "o-2026-11-11-08-review-tell-sequence",
+        "o-2026-11-11-09-mixed-command-sequence",
+        "o-2026-11-11-09-feature-sequence-retry"
       ],
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-11",
@@ -1549,7 +1560,8 @@
         "2026-11-10-11",
         "2026-11-10-12",
         "2026-11-11-07",
-        "2026-11-11-08"
+        "2026-11-11-08",
+        "2026-11-11-09"
       ]
     },
     {
@@ -1739,7 +1751,8 @@
         "2026-11-11-04",
         "2026-11-11-05",
         "2026-11-11-06",
-        "2026-11-11-07"
+        "2026-11-11-07",
+        "2026-11-11-09"
       ],
       "observationIds": [
         "o-2026-11-11-02-review-function",
@@ -1768,7 +1781,8 @@
         "o-2026-11-11-06-logo-negative-review",
         "o-2026-11-11-06-logo-negative-publish",
         "o-2026-11-11-06-publish-feminine",
-        "o-2026-11-11-07-test-logo-retry"
+        "o-2026-11-11-07-test-logo-retry",
+        "o-2026-11-11-09-test-feature-focused"
       ]
     },
     {
@@ -1820,13 +1834,15 @@
       "sessionIds": [
         "2026-11-11-04",
         "2026-11-11-06",
-        "2026-11-11-08"
+        "2026-11-11-08",
+        "2026-11-11-09"
       ],
       "observationIds": [
         "o-2026-11-11-04-review-infinitive",
         "o-2026-11-11-06-review-positive-object",
         "o-2026-11-11-08-read-review-sequence",
-        "o-2026-11-11-08-review-tell-sequence"
+        "o-2026-11-11-08-review-tell-sequence",
+        "o-2026-11-11-09-feature-review-no-publish"
       ]
     },
     {
@@ -1838,10 +1854,12 @@
       "firstSeen": "2026-11-11",
       "lastSeen": "2026-11-11",
       "sessionIds": [
-        "2026-11-11-04"
+        "2026-11-11-04",
+        "2026-11-11-09"
       ],
       "observationIds": [
-        "o-2026-11-11-04-review-logo"
+        "o-2026-11-11-04-review-logo",
+        "o-2026-11-11-09-logo-review-no-publish"
       ]
     },
     {
@@ -1854,11 +1872,15 @@
       "lastSeen": "2026-11-11",
       "sessionIds": [
         "2026-11-11-04",
-        "2026-11-11-05"
+        "2026-11-11-05",
+        "2026-11-11-09"
       ],
       "observationIds": [
         "o-2026-11-11-04-test-feature",
-        "o-2026-11-11-05-test-command"
+        "o-2026-11-11-05-test-command",
+        "o-2026-11-11-09-mixed-command-sequence",
+        "o-2026-11-11-09-test-feature-focused",
+        "o-2026-11-11-09-feature-sequence-retry"
       ]
     },
     {
@@ -1956,12 +1978,15 @@
       "lastSeen": "2026-11-11",
       "sessionIds": [
         "2026-11-11-06",
-        "2026-11-11-07"
+        "2026-11-11-07",
+        "2026-11-11-09"
       ],
       "observationIds": [
         "o-2026-11-11-06-logo-negative-publish",
         "o-2026-11-11-07-feature-negative-reason",
-        "o-2026-11-11-07-logo-negative-reason"
+        "o-2026-11-11-07-logo-negative-reason",
+        "o-2026-11-11-09-logo-review-no-publish",
+        "o-2026-11-11-09-feature-review-no-publish"
       ]
     },
     {
@@ -2004,18 +2029,24 @@
       "spanish": "primero",
       "english": "first",
       "status": "used_with_correction",
-      "note": "Introduced in a two-command sequence. Correct in first attempt; transposed as priemro in later retry and corrected. Sequence meaning appropriate both times.",
+      "note": "Correct sequence meaning throughout, but letter transpositions/extra letters observed as priemro, primeor and Primerlo in longer attempts. Standard spelling supplied; no keyboard cause or persistent-language deficit inferred.",
       "firstSeen": "2026-11-11",
       "lastSeen": "2026-11-11",
       "sessionIds": [
         "2026-11-11-07",
-        "2026-11-11-08"
+        "2026-11-11-08",
+        "2026-11-11-09"
       ],
       "observationIds": [
         "o-2026-11-11-07-sequence-first",
         "o-2026-11-11-07-sequence-retry",
         "o-2026-11-11-08-read-review-sequence",
-        "o-2026-11-11-08-review-tell-sequence"
+        "o-2026-11-11-08-review-tell-sequence",
+        "o-2026-11-11-09-mixed-command-sequence",
+        "o-2026-11-11-09-feature-sequence-retry",
+        "o-2026-11-11-09-logo-sequence-transfer",
+        "o-2026-11-11-09-logo-review-no-publish",
+        "o-2026-11-11-09-feature-review-no-publish"
       ]
     },
     {
@@ -2028,13 +2059,16 @@
       "lastSeen": "2026-11-11",
       "sessionIds": [
         "2026-11-11-07",
-        "2026-11-11-08"
+        "2026-11-11-08",
+        "2026-11-11-09"
       ],
       "observationIds": [
         "o-2026-11-11-07-sequence-first",
         "o-2026-11-11-07-sequence-retry",
         "o-2026-11-11-08-read-review-sequence",
-        "o-2026-11-11-08-review-tell-sequence"
+        "o-2026-11-11-08-review-tell-sequence",
+        "o-2026-11-11-09-feature-sequence-retry",
+        "o-2026-11-11-09-logo-sequence-transfer"
       ]
     },
     {
@@ -2046,12 +2080,14 @@
       "firstSeen": "2026-11-11",
       "lastSeen": "2026-11-11",
       "sessionIds": [
-        "2026-11-11-07"
+        "2026-11-11-07",
+        "2026-11-11-09"
       ],
       "observationIds": [
         "o-2026-11-11-07-sequence-first",
         "o-2026-11-11-07-test-logo-retry",
-        "o-2026-11-11-07-sequence-retry"
+        "o-2026-11-11-07-sequence-retry",
+        "o-2026-11-11-09-logo-sequence-transfer"
       ]
     },
     {
@@ -2063,14 +2099,18 @@
       "firstSeen": "2026-11-11",
       "lastSeen": "2026-11-11",
       "sessionIds": [
-        "2026-11-11-08"
+        "2026-11-11-08",
+        "2026-11-11-09"
       ],
       "observationIds": [
         "o-2026-11-11-08-tell-ready",
         "o-2026-11-11-08-tell-publish",
         "o-2026-11-11-08-tell-can-test",
         "o-2026-11-11-08-tell-need-review",
-        "o-2026-11-11-08-review-tell-sequence"
+        "o-2026-11-11-08-review-tell-sequence",
+        "o-2026-11-11-09-mixed-command-sequence",
+        "o-2026-11-11-09-feature-sequence-retry",
+        "o-2026-11-11-09-logo-sequence-transfer"
       ]
     },
     {
@@ -2404,7 +2444,13 @@
         "o-2026-11-11-07-sequence-retry",
         "o-2026-11-11-08-read-review-sequence",
         "o-2026-11-11-08-tell-ready",
-        "o-2026-11-11-08-review-tell-sequence"
+        "o-2026-11-11-08-review-tell-sequence",
+        "o-2026-11-11-09-mixed-command-sequence",
+        "o-2026-11-11-09-test-feature-focused",
+        "o-2026-11-11-09-feature-sequence-retry",
+        "o-2026-11-11-09-logo-sequence-transfer",
+        "o-2026-11-11-09-logo-review-no-publish",
+        "o-2026-11-11-09-feature-review-no-publish"
       ],
       "nextReview": "Observe naturally; avoid repetitive spelling drills.",
       "lastPractised": "2026-11-11",
@@ -2429,7 +2475,8 @@
         "2026-11-11-05",
         "2026-11-11-06",
         "2026-11-11-07",
-        "2026-11-11-08"
+        "2026-11-11-08",
+        "2026-11-11-09"
       ]
     },
     {
@@ -2615,9 +2662,14 @@
         "o-2026-11-11-08-read-review-sequence",
         "o-2026-11-11-08-tell-can-test",
         "o-2026-11-11-08-tell-need-review",
-        "o-2026-11-11-08-review-tell-sequence"
+        "o-2026-11-11-08-review-tell-sequence",
+        "o-2026-11-11-09-test-feature-focused",
+        "o-2026-11-11-09-feature-sequence-retry",
+        "o-2026-11-11-09-logo-sequence-transfer",
+        "o-2026-11-11-09-logo-review-no-publish",
+        "o-2026-11-11-09-feature-review-no-publish"
       ],
-      "nextReview": "Latest feminine-function prompt used lo with correct lista; la supplied. Then correct lo/listo transfer for logo and positive instruction. Recheck feminine la independently later.",
+      "nextReview": "Feminine and masculine command/readiness transfers were correct in this batch. Preserve this evidence without assuming longer-term retention.",
       "lastPractised": "2026-11-11",
       "sessionIds": [
         "2026-11-10-03",
@@ -2631,7 +2683,8 @@
         "2026-11-11-05",
         "2026-11-11-06",
         "2026-11-11-07",
-        "2026-11-11-08"
+        "2026-11-11-08",
+        "2026-11-11-09"
       ]
     },
     {
@@ -2846,7 +2899,10 @@
         "o-2026-11-11-07-logo-negative-reason",
         "o-2026-11-11-07-logo-positive-reason",
         "o-2026-11-11-08-tell-ready",
-        "o-2026-11-11-08-review-tell-sequence"
+        "o-2026-11-11-08-review-tell-sequence",
+        "o-2026-11-11-09-mixed-command-sequence",
+        "o-2026-11-11-09-feature-sequence-retry",
+        "o-2026-11-11-09-logo-sequence-transfer"
       ],
       "nextReview": "Recheck readiness and location in separate familiar contexts after a gap.",
       "lastPractised": "2026-11-11",
@@ -2857,7 +2913,8 @@
         "2026-11-10-11",
         "2026-11-10-12",
         "2026-11-11-07",
-        "2026-11-11-08"
+        "2026-11-11-08",
+        "2026-11-11-09"
       ]
     },
     {
@@ -2889,7 +2946,10 @@
         "o-2026-11-11-07-feature-negative-reason",
         "o-2026-11-11-07-logo-negative-reason",
         "o-2026-11-11-08-tell-ready",
-        "o-2026-11-11-08-review-tell-sequence"
+        "o-2026-11-11-08-review-tell-sequence",
+        "o-2026-11-11-09-mixed-command-sequence",
+        "o-2026-11-11-09-feature-sequence-retry",
+        "o-2026-11-11-09-logo-sequence-transfer"
       ],
       "nextReview": "After the session11 feminine error, correctly used lista in four readiness contexts in session12, including two contrast sentences. Recheck after a longer gap.",
       "lastPractised": "2026-11-11",
@@ -2900,7 +2960,8 @@
         "2026-11-10-11",
         "2026-11-10-12",
         "2026-11-11-07",
-        "2026-11-11-08"
+        "2026-11-11-08",
+        "2026-11-11-09"
       ]
     },
     {
@@ -3060,7 +3121,8 @@
         "2026-11-11-03",
         "2026-11-11-04",
         "2026-11-11-05",
-        "2026-11-11-07"
+        "2026-11-11-07",
+        "2026-11-11-09"
       ],
       "observationIds": [
         "o-2026-11-11-03-test-function",
@@ -3072,10 +3134,14 @@
         "o-2026-11-11-05-test-command",
         "o-2026-11-11-07-sequence-first",
         "o-2026-11-11-07-test-logo-retry",
-        "o-2026-11-11-07-sequence-retry"
+        "o-2026-11-11-07-sequence-retry",
+        "o-2026-11-11-09-mixed-command-sequence",
+        "o-2026-11-11-09-test-feature-focused",
+        "o-2026-11-11-09-feature-sequence-retry",
+        "o-2026-11-11-09-logo-sequence-transfer"
       ],
       "lastPractised": "2026-11-11",
-      "nextReview": "Probalo recurred in a longer sequence despite earlier correct prueba recall. Focused retry and sequence retry retained ue after a model. Recheck without an immediate model after other material."
+      "nextReview": "Probarla infinitive recurred in a longer command sequence; after focused retry, pruébala/pruébalo correctly used in two sequences. Recheck without immediate models."
     },
     {
       "id": "g-imperative-register",
@@ -3105,7 +3171,8 @@
         "2026-11-11-05",
         "2026-11-11-06",
         "2026-11-11-07",
-        "2026-11-11-08"
+        "2026-11-11-08",
+        "2026-11-11-09"
       ],
       "observationIds": [
         "o-2026-11-11-04-review-infinitive",
@@ -3122,7 +3189,13 @@
         "o-2026-11-11-07-test-logo-retry",
         "o-2026-11-11-07-sequence-retry",
         "o-2026-11-11-08-read-review-sequence",
-        "o-2026-11-11-08-review-tell-sequence"
+        "o-2026-11-11-08-review-tell-sequence",
+        "o-2026-11-11-09-mixed-command-sequence",
+        "o-2026-11-11-09-test-feature-focused",
+        "o-2026-11-11-09-feature-sequence-retry",
+        "o-2026-11-11-09-logo-sequence-transfer",
+        "o-2026-11-11-09-logo-review-no-publish",
+        "o-2026-11-11-09-feature-review-no-publish"
       ],
       "lastPractised": "2026-11-11",
       "nextReview": "Correct same-sequence contrasts Queremos probarla / Pruébala and Necesitamos leerla / Léela. Written command accents supplied; recheck after a longer gap."
@@ -3155,7 +3228,8 @@
       "explanation": "Contrasted Revísala and No la revises: affirmative object attached, negative object before the verb. First negative-create attempt creesla needed No la crees. Then correctly used No la revises, No lo revises and No lo publiques. This covers direct-object pronouns practised; other command pronouns not taught.",
       "sessionIds": [
         "2026-11-11-06",
-        "2026-11-11-07"
+        "2026-11-11-07",
+        "2026-11-11-09"
       ],
       "observationIds": [
         "o-2026-11-11-06-create-negative-object",
@@ -3163,7 +3237,9 @@
         "o-2026-11-11-06-logo-negative-review",
         "o-2026-11-11-06-logo-negative-publish",
         "o-2026-11-11-07-feature-negative-reason",
-        "o-2026-11-11-07-logo-negative-reason"
+        "o-2026-11-11-07-logo-negative-reason",
+        "o-2026-11-11-09-logo-review-no-publish",
+        "o-2026-11-11-09-feature-review-no-publish"
       ],
       "lastPractised": "2026-11-11",
       "nextReview": "Recheck positive/negative placement with gender after intervening material; latest publish gender needed an immediate retry."
@@ -3176,7 +3252,8 @@
       "explanation": "Introduced publicar → publica and negative no publiques, explaining c → qu before e to preserve the sound. Correctly used no lo publiques. Affirmative publícala was grammatical for feminine but target logo needed masculine publícalo, then correctly retried. Written accents supplied.",
       "sessionIds": [
         "2026-11-11-06",
-        "2026-11-11-07"
+        "2026-11-11-07",
+        "2026-11-11-09"
       ],
       "observationIds": [
         "o-2026-11-11-06-logo-negative-publish",
@@ -3184,10 +3261,12 @@
         "o-2026-11-11-06-publish-logo-retry",
         "o-2026-11-11-07-feature-negative-reason",
         "o-2026-11-11-07-logo-negative-reason",
-        "o-2026-11-11-07-logo-positive-reason"
+        "o-2026-11-11-07-logo-positive-reason",
+        "o-2026-11-11-09-logo-review-no-publish",
+        "o-2026-11-11-09-feature-review-no-publish"
       ],
       "lastPractised": "2026-11-11",
-      "nextReview": "Recheck no publiques and object gender without a fresh conjugated model."
+      "nextReview": "Publices omitted qu after intervening material, corrected to publiques; feminine transfer retained qu immediately afterwards. Recheck later."
     },
     {
       "id": "g-sequenced-commands",
@@ -3197,16 +3276,22 @@
       "explanation": "Introduced Primero revísalo; luego pruébalo. Learner correctly sequenced test then publish twice. First sequence needed prueba stem correction; second retained ue but had a primero letter transposition. Sequencing success is separate from verb-form and spelling corrections.",
       "sessionIds": [
         "2026-11-11-07",
-        "2026-11-11-08"
+        "2026-11-11-08",
+        "2026-11-11-09"
       ],
       "observationIds": [
         "o-2026-11-11-07-sequence-first",
         "o-2026-11-11-07-sequence-retry",
         "o-2026-11-11-08-read-review-sequence",
-        "o-2026-11-11-08-review-tell-sequence"
+        "o-2026-11-11-08-review-tell-sequence",
+        "o-2026-11-11-09-mixed-command-sequence",
+        "o-2026-11-11-09-feature-sequence-retry",
+        "o-2026-11-11-09-logo-sequence-transfer",
+        "o-2026-11-11-09-logo-review-no-publish",
+        "o-2026-11-11-09-feature-review-no-publish"
       ],
       "lastPractised": "2026-11-11",
-      "nextReview": "Correctly combined read/review commands, then review + dime-si readiness. Last first command omitted explicit requested it; recheck object retention in longer sequences."
+      "nextReview": "Initial probarla/puedes dime mixture needed two direct commands. Focused retry then complete feminine sequence and masculine transfer correct. Later positive/negative sequence had right pronoun placement. Recheck after a gap."
     },
     {
       "id": "g-dime-si",
@@ -3215,14 +3300,18 @@
       "status": "used_successfully",
       "explanation": "Introduced Dime si está lista = Tell me whether it's ready. Dime si is practised as a useful command chunk, with unaccented si. Correctly extended to noun readiness, podemos + infinitive, necesitamos + infinitive and a sequence. Publicamos was grammatical but omitted requested ability, so podemos publicar was modelled. General decir conjugation and conditional clauses not taught.",
       "sessionIds": [
-        "2026-11-11-08"
+        "2026-11-11-08",
+        "2026-11-11-09"
       ],
       "observationIds": [
         "o-2026-11-11-08-tell-ready",
         "o-2026-11-11-08-tell-publish",
         "o-2026-11-11-08-tell-can-test",
         "o-2026-11-11-08-tell-need-review",
-        "o-2026-11-11-08-review-tell-sequence"
+        "o-2026-11-11-08-review-tell-sequence",
+        "o-2026-11-11-09-mixed-command-sequence",
+        "o-2026-11-11-09-feature-sequence-retry",
+        "o-2026-11-11-09-logo-sequence-transfer"
       ],
       "lastPractised": "2026-11-11",
       "nextReview": "Recheck a practical dime-si instruction after intervening material, preserving requested ability or need meaning and object."
@@ -3813,10 +3902,10 @@
       "seconds": 45,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 10,
+      "attemptCount": 14,
       "lastAttempt": "2026-11-11",
-      "lastAttemptSessionId": "2026-11-11-07",
-      "lastAttemptVariant": "Test/publish sequence stem error; focused retry; complete sequence retry with ue retained.",
+      "lastAttemptSessionId": "2026-11-11-09",
+      "lastAttemptVariant": "Initial sequence used infinitive; focused command retry then feminine and masculine full sequences correct.",
       "lastOutcome": "used_with_correction",
       "nextReview": "after_a_gap"
     },
@@ -3842,10 +3931,10 @@
       "seconds": 45,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 13,
+      "attemptCount": 18,
       "lastAttempt": "2026-11-11",
-      "lastAttemptSessionId": "2026-11-11-08",
-      "lastAttemptVariant": "Two sequence variants: full read/review objects, then review-it object omitted.",
+      "lastAttemptSessionId": "2026-11-11-09",
+      "lastAttemptVariant": "Longer sequences plus focused pruébala retry; initial infinitive corrected, later objects retained.",
       "lastOutcome": "used_with_correction",
       "nextReview": "after_a_gap"
     },
@@ -3898,11 +3987,11 @@
       "seconds": 45,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 6,
+      "attemptCount": 8,
       "lastAttempt": "2026-11-11",
-      "lastAttemptSessionId": "2026-11-11-07",
-      "lastAttemptVariant": "Negative publish with reason: function needed la, then logo lo correct.",
-      "lastOutcome": "used_with_correction",
+      "lastAttemptSessionId": "2026-11-11-09",
+      "lastAttemptVariant": "Review it / don't publish it sequences, masculine then feminine; placement correct.",
+      "lastOutcome": "used_successfully",
       "nextReview": "after_a_gap"
     },
     {
@@ -3927,10 +4016,10 @@
       "seconds": 45,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 6,
+      "attemptCount": 8,
       "lastAttempt": "2026-11-11",
-      "lastAttemptSessionId": "2026-11-11-07",
-      "lastAttemptVariant": "Don't publish it because not ready (function mismatch, then logo transfer), then publish logo because ready.",
+      "lastAttemptSessionId": "2026-11-11-09",
+      "lastAttemptVariant": "Publices needed qu; immediate feminine transfer no la publiques retained spelling.",
       "lastOutcome": "used_with_correction",
       "nextReview": "after_a_gap"
     },
@@ -3955,10 +4044,10 @@
       "seconds": 60,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 4,
+      "attemptCount": 9,
       "lastAttempt": "2026-11-11",
-      "lastAttemptSessionId": "2026-11-11-08",
-      "lastAttemptVariant": "Read it then review it; review it then tell me whether ready, with first-command object omitted.",
+      "lastAttemptSessionId": "2026-11-11-09",
+      "lastAttemptVariant": "Initial infinitive/puedes-dime mix, corrected feature sequence, masculine transfer, then positive/negative review-publish sequences.",
       "lastOutcome": "used_with_correction",
       "nextReview": "after_a_gap"
     },
@@ -3986,10 +4075,10 @@
       "seconds": 60,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 5,
+      "attemptCount": 8,
       "lastAttempt": "2026-11-11",
-      "lastAttemptSessionId": "2026-11-11-08",
-      "lastAttemptVariant": "Logo readiness; can-publish target answered with publicamos; can-test; need-review; review then report readiness.",
+      "lastAttemptSessionId": "2026-11-11-09",
+      "lastAttemptVariant": "Initial puedes dime mix, then correct reporting clauses in feminine and masculine sequences.",
       "lastOutcome": "used_with_correction",
       "nextReview": "after_a_gap"
     }
