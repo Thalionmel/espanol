@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-11-07",
+  "date": "2026-11-11",
+  "source": "Six learner attempts saved as one batch",
+  "lessonTheme": "Commands with reasons and primero/luego action sequences",
+  "duration": {
+    "requestedMinutes": null,
+    "measuredMinutes": null
+  },
+  "summary": "Feminine negative publish command used mismatched lo with correct lista; corrected to la. Then correct masculine negative-reason and affirmative-reason instructions. Introduced primero/luego: action order correct twice, with probalo stem relapse first. Focused retry and full sequence retry retained ue; primero transposition and accents supplied.",
+  "observations": [
+    {
+      "id": "o-2026-11-11-07-feature-negative-reason",
+      "kind": "prompted_transfer",
+      "learnerText": "no lo publiques porque no esta lista",
+      "correctedText": "No la publiques porque no está lista.",
+      "grammarIds": [
+        "g-negative-command-objects",
+        "g-publicar-command-spelling",
+        "g-object-gender",
+        "g-porque",
+        "g-estar-readiness",
+        "g-listo-lista",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-no-publiques",
+        "v-lo",
+        "v-la",
+        "v-porque",
+        "v-lista"
+      ],
+      "outcome": "Negative command and feminine lista correct, but lo mismatched the stated función referent. Tutor supplied la and está accent."
+    },
+    {
+      "id": "o-2026-11-11-07-logo-negative-reason",
+      "kind": "prompted_transfer",
+      "learnerText": "no lo publiques porque no esta listo",
+      "correctedText": "No lo publiques porque no está listo.",
+      "grammarIds": [
+        "g-negative-command-objects",
+        "g-publicar-command-spelling",
+        "g-object-gender",
+        "g-porque",
+        "g-estar-readiness",
+        "g-listo-lista",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-no-publiques",
+        "v-lo",
+        "v-porque",
+        "v-listo"
+      ],
+      "outcome": "Correct transfer to el logo with both lo and listo; negative command, reason and both negatives correct. Está accent supplied."
+    },
+    {
+      "id": "o-2026-11-11-07-logo-positive-reason",
+      "kind": "prompted_transfer",
+      "learnerText": "publicalo porque esta listo",
+      "correctedText": "Publícalo porque está listo.",
+      "grammarIds": [
+        "g-imperative-objects",
+        "g-publicar-command-spelling",
+        "g-object-gender",
+        "g-porque",
+        "g-estar-readiness",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-publicalo",
+        "v-lo",
+        "v-porque",
+        "v-listo"
+      ],
+      "outcome": "Correct switch to affirmative attached object and positive readiness reason. Written accents supplied. Tutor then introduced Primero revísalo; luego pruébalo and translated primero/luego."
+    },
+    {
+      "id": "o-2026-11-11-07-sequence-first",
+      "kind": "prompted_transfer",
+      "learnerText": "primero probalo, luego publicalo",
+      "correctedText": "Primero pruébalo; luego publícalo.",
+      "grammarIds": [
+        "g-sequenced-commands",
+        "g-probar-imperative",
+        "g-imperative-objects",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-primero",
+        "v-luego",
+        "v-pruebalo",
+        "v-publicalo"
+      ],
+      "outcome": "Correct primero/luego sequence and affirmative object attachment, but probar command stem reverted to probalo. Tutor supplied prueba + lo → pruébalo. Accents also supplied."
+    },
+    {
+      "id": "o-2026-11-11-07-test-logo-retry",
+      "kind": "prompted_transfer",
+      "learnerText": "pruebalo, por favor",
+      "correctedText": "Pruébalo, por favor.",
+      "grammarIds": [
+        "g-probar-imperative",
+        "g-imperative-objects",
+        "g-object-gender",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-pruebalo",
+        "v-por-favor",
+        "v-lo"
+      ],
+      "outcome": "Correct full prueba + lo stem/attachment after the immediately preceding model, with accent supplied. Supported retry, not delayed recall."
+    },
+    {
+      "id": "o-2026-11-11-07-sequence-retry",
+      "kind": "prompted_transfer",
+      "learnerText": "priemro pruebalo luego publicalo",
+      "correctedText": "Primero pruébalo; luego publícalo.",
+      "grammarIds": [
+        "g-sequenced-commands",
+        "g-probar-imperative",
+        "g-imperative-objects",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-primero",
+        "v-luego",
+        "v-pruebalo",
+        "v-publicalo"
+      ],
+      "outcome": "Correct action sequence and retained ue in pruébalo after focused retry. Priemro letter transposition and command accents supplied. Earlier primero was correctly spelled; do not infer a persistent spelling deficit."
+    }
+  ],
+  "nextSteps": [
+    "Use another pair of familiar actions with primero/luego",
+    "Recheck prueba/pruébalo after intervening material",
+    "Revisit feminine object la with readiness agreement"
+  ],
+  "skippedUnitIds": [],
+  "assessmentNote": "Sequence meaning, gender, command stem and orthography are separate evidence. Correct immediate retries after models do not establish durable recall."
+}

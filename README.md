@@ -26,6 +26,7 @@ A shared Spanish learning record for conversation-based teaching and future trai
 - [Affirmative commands with attached objects](data/sessions/2026-11-11-04.json)
 - [Command contrasts and first negative commands](data/sessions/2026-11-11-05.json)
 - [Negative command objects and publishing instructions](data/sessions/2026-11-11-06.json)
+- [Reasons and first/then instruction sequences](data/sessions/2026-11-11-07.json)
 - [Data format and update rules](docs/data-format.md)
 - [Instructions for future assistants](AGENTS.md)
 
@@ -80,7 +81,9 @@ Next practice correctly contrasted **Queremos probarla / Pruébala** and **Neces
 
 Introduced negative object placement: initial **no creesla** needed **No la crees**, then **No la revises**, **Revísala** and **No lo revises** were correct. Introduced **publica / no publiques** with **c → qu** before **e**; correctly used **No lo publiques**. **Publícala** was grammatical for feminine but mismatched **el logo**; immediately retried **Publícalo — es un logo**, with written accent supplied.
 
-Next: combine a familiar negative command with a reason, then recheck placement and gender after intervening material. Keep **un poco de**, purpose/reason and location as later review targets; immediate success does not establish durable recall.
+Combined publishing commands with readiness reasons: feminine-function **lo** needed **la**, while **lista** was correct. Then correctly used **No lo publiques porque no está listo** and **Publícalo porque está listo** for a logo. Introduced **primero / luego**. Sequence order was right twice; initial **probalo** needed **pruébalo**, then focused and full-sequence retries retained **ue**. Final **priemro** transposition and written command accents were supplied.
+
+Next: sequence another pair of familiar actions, recall **prueba** after intervening material, and recheck feminine **la**. Keep **un poco de**, purpose/reason and location as later review targets; immediate success does not establish durable recall.
 Review software vocabulary such as **probar**, **revisar**, **los logros**, and **ejecutar las pruebas**.
 Location with **estar** still needs independent recall. **Hablo** was recalled without a hint; the surrounding phrase needed **un poco de español** and spelling corrections.
 

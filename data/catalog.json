@@ -230,7 +230,8 @@
         "2026-11-10-08",
         "2026-11-10-11",
         "2026-11-10-12",
-        "2026-11-11-01"
+        "2026-11-11-01",
+        "2026-11-11-07"
       ],
       "observationIds": [
         "o-independent",
@@ -244,7 +245,10 @@
         "o-l11-reason",
         "o-l12-test-reason",
         "o-l12-need-review-reason",
-        "o-2026-11-11-01-understand-reason"
+        "o-2026-11-11-01-understand-reason",
+        "o-2026-11-11-07-feature-negative-reason",
+        "o-2026-11-11-07-logo-negative-reason",
+        "o-2026-11-11-07-logo-positive-reason"
       ]
     },
     {
@@ -623,13 +627,14 @@
       "status": "used_successfully",
       "note": "Correct masculine readiness chunk used after reminders; está accent supplied, with separate gender errors in other contexts.",
       "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-10",
+      "lastSeen": "2026-11-11",
       "sessionIds": [
         "2026-11-10-01",
         "2026-11-10-08",
         "2026-11-10-09",
         "2026-11-10-10",
-        "2026-11-10-11"
+        "2026-11-10-11",
+        "2026-11-11-07"
       ],
       "observationIds": [
         "o-l8-ready-logo",
@@ -640,7 +645,9 @@
         "o-l10-logo-question",
         "o-l10-ready-reason",
         "o-l10-not-yet-omitted",
-        "o-l11-not-yet-recall"
+        "o-l11-not-yet-recall",
+        "o-2026-11-11-07-logo-negative-reason",
+        "o-2026-11-11-07-logo-positive-reason"
       ]
     },
     {
@@ -836,7 +843,8 @@
         "2026-11-10-08",
         "2026-11-10-11",
         "2026-11-11-04",
-        "2026-11-11-06"
+        "2026-11-11-06",
+        "2026-11-11-07"
       ],
       "observationIds": [
         "o-object-pronouns",
@@ -853,7 +861,11 @@
         "o-2026-11-11-06-logo-negative-review",
         "o-2026-11-11-06-logo-negative-publish",
         "o-2026-11-11-06-publish-feminine",
-        "o-2026-11-11-06-publish-logo-retry"
+        "o-2026-11-11-06-publish-logo-retry",
+        "o-2026-11-11-07-feature-negative-reason",
+        "o-2026-11-11-07-logo-negative-reason",
+        "o-2026-11-11-07-logo-positive-reason",
+        "o-2026-11-11-07-test-logo-retry"
       ]
     },
     {
@@ -1001,7 +1013,8 @@
         "o-2026-11-11-06-create-negative-object",
         "o-2026-11-11-06-review-negative-object",
         "o-2026-11-11-06-review-positive-object",
-        "o-2026-11-11-06-publish-feminine"
+        "o-2026-11-11-06-publish-feminine",
+        "o-2026-11-11-07-feature-negative-reason"
       ],
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-11",
@@ -1012,7 +1025,8 @@
         "2026-11-10-12",
         "2026-11-10-13",
         "2026-11-11-04",
-        "2026-11-11-06"
+        "2026-11-11-06",
+        "2026-11-11-07"
       ]
     },
     {
@@ -1503,16 +1517,18 @@
         "o-l12-feature-retry",
         "o-l12-test-reason",
         "o-l12-but-not-yet",
-        "o-l12-ready-but-no-publish"
+        "o-l12-ready-but-no-publish",
+        "o-2026-11-11-07-feature-negative-reason"
       ],
       "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-10",
+      "lastSeen": "2026-11-11",
       "sessionIds": [
         "2026-11-10-08",
         "2026-11-10-09",
         "2026-11-10-10",
         "2026-11-10-11",
-        "2026-11-10-12"
+        "2026-11-10-12",
+        "2026-11-11-07"
       ]
     },
     {
@@ -1699,7 +1715,8 @@
         "2026-11-11-03",
         "2026-11-11-04",
         "2026-11-11-05",
-        "2026-11-11-06"
+        "2026-11-11-06",
+        "2026-11-11-07"
       ],
       "observationIds": [
         "o-2026-11-11-02-review-function",
@@ -1727,7 +1744,8 @@
         "o-2026-11-11-06-review-positive-object",
         "o-2026-11-11-06-logo-negative-review",
         "o-2026-11-11-06-logo-negative-publish",
-        "o-2026-11-11-06-publish-feminine"
+        "o-2026-11-11-06-publish-feminine",
+        "o-2026-11-11-07-test-logo-retry"
       ]
     },
     {
@@ -1909,10 +1927,13 @@
       "firstSeen": "2026-11-11",
       "lastSeen": "2026-11-11",
       "sessionIds": [
-        "2026-11-11-06"
+        "2026-11-11-06",
+        "2026-11-11-07"
       ],
       "observationIds": [
-        "o-2026-11-11-06-logo-negative-publish"
+        "o-2026-11-11-06-logo-negative-publish",
+        "o-2026-11-11-07-feature-negative-reason",
+        "o-2026-11-11-07-logo-negative-reason"
       ]
     },
     {
@@ -1939,11 +1960,64 @@
       "firstSeen": "2026-11-11",
       "lastSeen": "2026-11-11",
       "sessionIds": [
-        "2026-11-11-06"
+        "2026-11-11-06",
+        "2026-11-11-07"
       ],
       "observationIds": [
         "o-2026-11-11-06-publish-feminine",
-        "o-2026-11-11-06-publish-logo-retry"
+        "o-2026-11-11-06-publish-logo-retry",
+        "o-2026-11-11-07-logo-positive-reason",
+        "o-2026-11-11-07-sequence-first",
+        "o-2026-11-11-07-sequence-retry"
+      ]
+    },
+    {
+      "id": "v-primero",
+      "spanish": "primero",
+      "english": "first",
+      "status": "used_with_correction",
+      "note": "Introduced in a two-command sequence. Correct in first attempt; transposed as priemro in later retry and corrected. Sequence meaning appropriate both times.",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "sessionIds": [
+        "2026-11-11-07"
+      ],
+      "observationIds": [
+        "o-2026-11-11-07-sequence-first",
+        "o-2026-11-11-07-sequence-retry"
+      ]
+    },
+    {
+      "id": "v-luego",
+      "spanish": "luego",
+      "english": "then",
+      "status": "used_successfully",
+      "note": "Introduced with primero and correctly used in two immediate action sequences; longer-gap recall untested.",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "sessionIds": [
+        "2026-11-11-07"
+      ],
+      "observationIds": [
+        "o-2026-11-11-07-sequence-first",
+        "o-2026-11-11-07-sequence-retry"
+      ]
+    },
+    {
+      "id": "v-pruebalo",
+      "spanish": "pruébalo",
+      "english": "test it (affirmative tú; masculine object)",
+      "status": "used_with_correction",
+      "note": "First sequence reverted to probalo. After prueba + lo model, correctly retained ue in focused retry and full sequence. Written accents supplied; delayed recall remains a target.",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "sessionIds": [
+        "2026-11-11-07"
+      ],
+      "observationIds": [
+        "o-2026-11-11-07-sequence-first",
+        "o-2026-11-11-07-test-logo-retry",
+        "o-2026-11-11-07-sequence-retry"
       ]
     }
   ],
@@ -2012,7 +2086,10 @@
         "o-l11-reason",
         "o-l12-test-reason",
         "o-l12-need-review-reason",
-        "o-2026-11-11-01-understand-reason"
+        "o-2026-11-11-01-understand-reason",
+        "o-2026-11-11-07-feature-negative-reason",
+        "o-2026-11-11-07-logo-negative-reason",
+        "o-2026-11-11-07-logo-positive-reason"
       ],
       "nextReview": "Use a new work-related reason, then revisit after a gap.",
       "lastPractised": "2026-11-11",
@@ -2027,7 +2104,8 @@
         "2026-11-10-10",
         "2026-11-10-11",
         "2026-11-10-12",
-        "2026-11-11-01"
+        "2026-11-11-01",
+        "2026-11-11-07"
       ]
     },
     {
@@ -2230,7 +2308,13 @@
         "o-2026-11-11-05-negative-create",
         "o-2026-11-11-06-review-positive-object",
         "o-2026-11-11-06-publish-feminine",
-        "o-2026-11-11-06-publish-logo-retry"
+        "o-2026-11-11-06-publish-logo-retry",
+        "o-2026-11-11-07-feature-negative-reason",
+        "o-2026-11-11-07-logo-negative-reason",
+        "o-2026-11-11-07-logo-positive-reason",
+        "o-2026-11-11-07-sequence-first",
+        "o-2026-11-11-07-test-logo-retry",
+        "o-2026-11-11-07-sequence-retry"
       ],
       "nextReview": "Observe naturally; avoid repetitive spelling drills.",
       "lastPractised": "2026-11-11",
@@ -2253,7 +2337,8 @@
         "2026-11-11-03",
         "2026-11-11-04",
         "2026-11-11-05",
-        "2026-11-11-06"
+        "2026-11-11-06",
+        "2026-11-11-07"
       ]
     },
     {
@@ -2427,9 +2512,13 @@
         "o-2026-11-11-06-logo-negative-review",
         "o-2026-11-11-06-logo-negative-publish",
         "o-2026-11-11-06-publish-feminine",
-        "o-2026-11-11-06-publish-logo-retry"
+        "o-2026-11-11-06-publish-logo-retry",
+        "o-2026-11-11-07-feature-negative-reason",
+        "o-2026-11-11-07-logo-negative-reason",
+        "o-2026-11-11-07-logo-positive-reason",
+        "o-2026-11-11-07-test-logo-retry"
       ],
-      "nextReview": "Correct lo/la across several negative/positive contrasts; feminine publícala mismatched a logo target, then immediately corrected to publícalo with es un logo explanation. Recheck after a gap.",
+      "nextReview": "Latest feminine-function prompt used lo with correct lista; la supplied. Then correct lo/listo transfer for logo and positive instruction. Recheck feminine la independently later.",
       "lastPractised": "2026-11-11",
       "sessionIds": [
         "2026-11-10-03",
@@ -2441,7 +2530,8 @@
         "2026-11-10-13",
         "2026-11-11-04",
         "2026-11-11-05",
-        "2026-11-11-06"
+        "2026-11-11-06",
+        "2026-11-11-07"
       ]
     },
     {
@@ -2646,16 +2736,20 @@
         "o-l12-feature-retry",
         "o-l12-test-reason",
         "o-l12-but-not-yet",
-        "o-l12-ready-but-no-publish"
+        "o-l12-ready-but-no-publish",
+        "o-2026-11-11-07-feature-negative-reason",
+        "o-2026-11-11-07-logo-negative-reason",
+        "o-2026-11-11-07-logo-positive-reason"
       ],
       "nextReview": "Recheck readiness and location in separate familiar contexts after a gap.",
-      "lastPractised": "2026-11-10",
+      "lastPractised": "2026-11-11",
       "sessionIds": [
         "2026-11-10-08",
         "2026-11-10-09",
         "2026-11-10-10",
         "2026-11-10-11",
-        "2026-11-10-12"
+        "2026-11-10-12",
+        "2026-11-11-07"
       ]
     },
     {
@@ -2683,16 +2777,19 @@
         "o-l12-feature-retry",
         "o-l12-test-reason",
         "o-l12-but-not-yet",
-        "o-l12-ready-but-no-publish"
+        "o-l12-ready-but-no-publish",
+        "o-2026-11-11-07-feature-negative-reason",
+        "o-2026-11-11-07-logo-negative-reason"
       ],
       "nextReview": "After the session11 feminine error, correctly used lista in four readiness contexts in session12, including two contrast sentences. Recheck after a longer gap.",
-      "lastPractised": "2026-11-10",
+      "lastPractised": "2026-11-11",
       "sessionIds": [
         "2026-11-10-08",
         "2026-11-10-09",
         "2026-11-10-10",
         "2026-11-10-11",
-        "2026-11-10-12"
+        "2026-11-10-12",
+        "2026-11-11-07"
       ]
     },
     {
@@ -2849,7 +2946,8 @@
       "sessionIds": [
         "2026-11-11-03",
         "2026-11-11-04",
-        "2026-11-11-05"
+        "2026-11-11-05",
+        "2026-11-11-07"
       ],
       "observationIds": [
         "o-2026-11-11-03-test-function",
@@ -2858,10 +2956,13 @@
         "o-2026-11-11-03-test-this-retry",
         "o-2026-11-11-04-test-function-recall",
         "o-2026-11-11-04-test-feature",
-        "o-2026-11-11-05-test-command"
+        "o-2026-11-11-05-test-command",
+        "o-2026-11-11-07-sequence-first",
+        "o-2026-11-11-07-test-logo-retry",
+        "o-2026-11-11-07-sequence-retry"
       ],
       "lastPractised": "2026-11-11",
-      "nextReview": "After two earlier proba corrections and a supported retry, correctly recalled Prueba esta función without a stem hint, then used pruébala with accent supplied. Recheck after a longer gap."
+      "nextReview": "Probalo recurred in a longer sequence despite earlier correct prueba recall. Focused retry and sequence retry retained ue after a model. Recheck without an immediate model after other material."
     },
     {
       "id": "g-imperative-register",
@@ -2889,7 +2990,8 @@
       "sessionIds": [
         "2026-11-11-04",
         "2026-11-11-05",
-        "2026-11-11-06"
+        "2026-11-11-06",
+        "2026-11-11-07"
       ],
       "observationIds": [
         "o-2026-11-11-04-review-infinitive",
@@ -2900,7 +3002,11 @@
         "o-2026-11-11-05-read-command",
         "o-2026-11-11-06-review-positive-object",
         "o-2026-11-11-06-publish-feminine",
-        "o-2026-11-11-06-publish-logo-retry"
+        "o-2026-11-11-06-publish-logo-retry",
+        "o-2026-11-11-07-logo-positive-reason",
+        "o-2026-11-11-07-sequence-first",
+        "o-2026-11-11-07-test-logo-retry",
+        "o-2026-11-11-07-sequence-retry"
       ],
       "lastPractised": "2026-11-11",
       "nextReview": "Correct same-sequence contrasts Queremos probarla / Pruébala and Necesitamos leerla / Léela. Written command accents supplied; recheck after a longer gap."
@@ -2932,13 +3038,16 @@
       "status": "used_successfully",
       "explanation": "Contrasted Revísala and No la revises: affirmative object attached, negative object before the verb. First negative-create attempt creesla needed No la crees. Then correctly used No la revises, No lo revises and No lo publiques. This covers direct-object pronouns practised; other command pronouns not taught.",
       "sessionIds": [
-        "2026-11-11-06"
+        "2026-11-11-06",
+        "2026-11-11-07"
       ],
       "observationIds": [
         "o-2026-11-11-06-create-negative-object",
         "o-2026-11-11-06-review-negative-object",
         "o-2026-11-11-06-logo-negative-review",
-        "o-2026-11-11-06-logo-negative-publish"
+        "o-2026-11-11-06-logo-negative-publish",
+        "o-2026-11-11-07-feature-negative-reason",
+        "o-2026-11-11-07-logo-negative-reason"
       ],
       "lastPractised": "2026-11-11",
       "nextReview": "Recheck positive/negative placement with gender after intervening material; latest publish gender needed an immediate retry."
@@ -2950,15 +3059,35 @@
       "status": "used_successfully",
       "explanation": "Introduced publicar → publica and negative no publiques, explaining c → qu before e to preserve the sound. Correctly used no lo publiques. Affirmative publícala was grammatical for feminine but target logo needed masculine publícalo, then correctly retried. Written accents supplied.",
       "sessionIds": [
-        "2026-11-11-06"
+        "2026-11-11-06",
+        "2026-11-11-07"
       ],
       "observationIds": [
         "o-2026-11-11-06-logo-negative-publish",
         "o-2026-11-11-06-publish-feminine",
-        "o-2026-11-11-06-publish-logo-retry"
+        "o-2026-11-11-06-publish-logo-retry",
+        "o-2026-11-11-07-feature-negative-reason",
+        "o-2026-11-11-07-logo-negative-reason",
+        "o-2026-11-11-07-logo-positive-reason"
       ],
       "lastPractised": "2026-11-11",
       "nextReview": "Recheck no publiques and object gender without a fresh conjugated model."
+    },
+    {
+      "id": "g-sequenced-commands",
+      "pattern": "Primero + command; luego + command",
+      "meaning": "Give two instructions in order: first ..., then ...",
+      "status": "used_successfully",
+      "explanation": "Introduced Primero revísalo; luego pruébalo. Learner correctly sequenced test then publish twice. First sequence needed prueba stem correction; second retained ue but had a primero letter transposition. Sequencing success is separate from verb-form and spelling corrections.",
+      "sessionIds": [
+        "2026-11-11-07"
+      ],
+      "observationIds": [
+        "o-2026-11-11-07-sequence-first",
+        "o-2026-11-11-07-sequence-retry"
+      ],
+      "lastPractised": "2026-11-11",
+      "nextReview": "Use a different pair of familiar actions and recheck the prueba stem after intervening material."
     }
   ],
   "practiceUnits": [
@@ -3546,11 +3675,11 @@
       "seconds": 45,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 7,
+      "attemptCount": 10,
       "lastAttempt": "2026-11-11",
-      "lastAttemptSessionId": "2026-11-11-05",
-      "lastAttemptVariant": "Test it after Queremos probarla; accent supplied.",
-      "lastOutcome": "used_successfully",
+      "lastAttemptSessionId": "2026-11-11-07",
+      "lastAttemptVariant": "Test/publish sequence stem error; focused retry; complete sequence retry with ue retained.",
+      "lastOutcome": "used_with_correction",
       "nextReview": "after_a_gap"
     },
     {
@@ -3575,11 +3704,11 @@
       "seconds": 45,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 9,
+      "attemptCount": 11,
       "lastAttempt": "2026-11-11",
-      "lastAttemptSessionId": "2026-11-11-06",
-      "lastAttemptVariant": "Affirmative review-it, publish-it feminine mismatch, then masculine publish-it retry.",
-      "lastOutcome": "used_with_correction",
+      "lastAttemptSessionId": "2026-11-11-07",
+      "lastAttemptVariant": "Positive publish with reason; then focused test-it retry after model.",
+      "lastOutcome": "used_successfully",
       "nextReview": "after_a_gap"
     },
     {
@@ -3631,10 +3760,10 @@
       "seconds": 45,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 4,
+      "attemptCount": 6,
       "lastAttempt": "2026-11-11",
-      "lastAttemptSessionId": "2026-11-11-06",
-      "lastAttemptVariant": "Don't create it (suffix error), don't review it feminine then masculine, don't publish it masculine.",
+      "lastAttemptSessionId": "2026-11-11-07",
+      "lastAttemptVariant": "Negative publish with reason: function needed la, then logo lo correct.",
       "lastOutcome": "used_with_correction",
       "nextReview": "after_a_gap"
     },
@@ -3660,10 +3789,38 @@
       "seconds": 45,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 3,
+      "attemptCount": 6,
       "lastAttempt": "2026-11-11",
-      "lastAttemptSessionId": "2026-11-11-06",
-      "lastAttemptVariant": "Negative publish it, then positive with gender mismatch and correct masculine retry.",
+      "lastAttemptSessionId": "2026-11-11-07",
+      "lastAttemptVariant": "Don't publish it because not ready (function mismatch, then logo transfer), then publish logo because ready.",
+      "lastOutcome": "used_with_correction",
+      "nextReview": "after_a_gap"
+    },
+    {
+      "id": "u-sequenced-commands",
+      "title": "Give instructions in order",
+      "grammarIds": [
+        "g-sequenced-commands",
+        "g-imperative-objects",
+        "g-probar-imperative"
+      ],
+      "vocabularyIds": [
+        "v-primero",
+        "v-luego",
+        "v-pruebalo",
+        "v-publicalo"
+      ],
+      "prompt": "Using tú, say: First test it; then publish it. It refers to el logo.",
+      "modelAnswer": "Primero pruébalo; luego publícalo.",
+      "hint": "Use primero, then luego, and retain the prueba stem.",
+      "feedbackFocus": "Action order, command morphology and spelling assessed separately; hide model for recall.",
+      "seconds": 60,
+      "optional": true,
+      "selection": "enabled",
+      "attemptCount": 2,
+      "lastAttempt": "2026-11-11",
+      "lastAttemptSessionId": "2026-11-11-07",
+      "lastAttemptVariant": "Initial sequence and retry after a focused test-command correction.",
       "lastOutcome": "used_with_correction",
       "nextReview": "after_a_gap"
     }

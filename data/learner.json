@@ -113,14 +113,16 @@
     "g-imperative-objects",
     "g-negative-tu-ar",
     "g-negative-command-objects",
-    "g-publicar-command-spelling"
+    "g-publicar-command-spelling",
+    "g-sequenced-commands"
   ],
   "nextUnitIds": [
+    "u-sequenced-commands",
+    "u-prueba",
     "u-negative-command-object",
     "u-publicar-command",
     "u-negative-tu-ar",
     "u-imperative-object",
-    "u-prueba",
     "u-regular-imperative-tu",
     "u-un-poco-de",
     "u-para-vs-porque",
@@ -156,7 +158,7 @@
     ],
     "intervalsAreFlexible": true
   },
-  "latestSessionId": "2026-11-11-06",
+  "latestSessionId": "2026-11-11-07",
   "disclosureAuthorization": {
     "publicLearningRecord": true,
     "ongoingUpdatesAuthorized": true,
