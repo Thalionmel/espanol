@@ -40,6 +40,29 @@
       "refreshRemote": "At lesson/chat start and immediately before a batch save",
       "betweenExercises": "Use current conversation; no per-sentence repository reads or writes",
       "preferenceChanges": "May be saved immediately once"
+    },
+    "proactiveInitiation": {
+      "enabled": true,
+      "scope": "Ordinary work chats across projects on this laptop",
+      "waitForSpanishRequest": false,
+      "firstPhrase": "First suitable substantive work reply in a new or resumed chat with no Spanish yet",
+      "normalStartWithinReplies": 3,
+      "ongoingApproximateSuitableExchanges": {
+        "min": 3,
+        "max": 5
+      },
+      "format": "One short task-relevant phrase with an English gloss; optional recall instead when suitable",
+      "exceptions": [
+        "urgent troubleshooting",
+        "focused work",
+        "English-only request",
+        "deselected topic"
+      ],
+      "resumeAfterUrgency": "At the next suitable pause",
+      "practiceMustNotBlockWork": true,
+      "updatedOn": "2026-11-11",
+      "source": "Learner reported that other chats had not initiated Spanish; make the standing initiation preference explicit",
+      "verification": "Saved instructions; adoption by other chats has not been observed"
     }
   },
   "progression": [

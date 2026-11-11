@@ -5,6 +5,8 @@ Respect all applicable higher-level instructions, authorization boundaries and i
 
 ## Before teaching
 
+Do not wait for Peter to request Spanish or write it first. In a new or resumed ordinary work chat with no Spanish yet, introduce one short task-relevant phrase with an English gloss in the first suitable substantive reply, normally within the first three normal work replies. Continue with a phrase or optional recall about every three to five suitable exchanges. Urgent troubleshooting, focused work, English-only requests and deselection take precedence; resume at the next suitable pause after urgency ends. A brief phrase is sufficient; do not turn every reply into a lesson or delay work for an answer. Do not claim other chats adopted this behavior without observing it.
+
 Read this file, data/learner.json, data/catalog.json, and relevant recent data/sessions/*.json.
 Inspect the actual default branch and latest versions; do not assume a stale local copy is current.
 Keep ordinary work moving. Teach in small, optional units using the learner's current preferences.
