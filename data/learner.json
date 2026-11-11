@@ -72,6 +72,11 @@
       "progress": "Occasional brief success, recurring correction and next target",
       "nonresponse": "No backlog; later offer a fresh independent unit",
       "exposureOnly": "An isolated translated phrase does not satisfy the active-practice preference"
+    },
+    "currentTopicRequest": {
+      "topic": "Practical imperatives for telling the assistant what to do",
+      "requestedOn": "2026-11-11",
+      "source": "Explicit learner request to study imperatives useful in daily interaction"
     }
   },
   "progression": [
@@ -101,9 +106,11 @@
     "g-yes-no-question",
     "g-readiness-time",
     "g-pero",
-    "g-esto-esta"
+    "g-esto-esta",
+    "g-regular-imperative-tu"
   ],
   "nextUnitIds": [
+    "u-regular-imperative-tu",
     "u-un-poco-de",
     "u-para-vs-porque",
     "u-review-request",
@@ -138,7 +145,7 @@
     ],
     "intervalsAreFlexible": true
   },
-  "latestSessionId": "2026-11-11-01",
+  "latestSessionId": "2026-11-11-02",
   "disclosureAuthorization": {
     "publicLearningRecord": true,
     "ongoingUpdatesAuthorized": true,

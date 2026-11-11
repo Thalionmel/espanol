@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-11-02",
+  "date": "2026-11-11",
+  "source": "Six learner attempts saved as one batch",
+  "lessonTheme": "Practical affirmative tú commands and esto/esta contrast",
+  "duration": {
+    "requestedMinutes": null,
+    "measuredMinutes": null
+  },
+  "summary": "Learner explicitly requested practical imperatives. Introduced regular affirmative tú -ar → -a and -er → -e, with revisa, crea and lee. All five full-sentence attempts used the right command verb after models. Esto before función recurred twice; correct esta in a cued gap followed by correct Revisa esto por favor. Separate command success from demonstrative errors and spelling.",
+  "observations": [
+    {
+      "id": "o-2026-11-11-02-review-function",
+      "kind": "prompted_production",
+      "learnerText": "Revisa esto funcion por favor",
+      "correctedText": "Revisa esta función, por favor.",
+      "grammarIds": [
+        "g-regular-imperative-tu",
+        "g-esto-esta",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-revisa",
+        "v-revisar",
+        "v-esto",
+        "v-esta",
+        "v-funcion",
+        "v-por-favor"
+      ],
+      "outcome": "Affirmative tú command revisa correctly formed after a model and regular -ar explanation. Esto before función corrected to esta; accent supplied."
+    },
+    {
+      "id": "o-2026-11-11-02-create-function",
+      "kind": "prompted_production",
+      "learnerText": "Crea Una funcion, por favor",
+      "correctedText": "Crea una función, por favor.",
+      "grammarIds": [
+        "g-regular-imperative-tu",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-crea",
+        "v-crear",
+        "v-funcion",
+        "v-por-favor"
+      ],
+      "outcome": "Correct crea after crear → crea was provided. Una capitalization and función accent supplied. Tutor then introduced regular -er imperative ending -e with leer → lee."
+    },
+    {
+      "id": "o-2026-11-11-02-read-this",
+      "kind": "prompted_production",
+      "learnerText": "Lee esta por favor",
+      "correctedText": "Lee esto, por favor.",
+      "grammarIds": [
+        "g-regular-imperative-tu",
+        "g-esto-esta"
+      ],
+      "vocabularyIds": [
+        "v-lee",
+        "v-leer",
+        "v-esta",
+        "v-esto",
+        "v-por-favor"
+      ],
+      "outcome": "Correct lee after leer → lee explanation. For the practised general Read this target tutor supplied esto. Esta alone can refer to a known feminine item in other contexts; do not label the raw sentence universally ungrammatical."
+    },
+    {
+      "id": "o-2026-11-11-02-read-function",
+      "kind": "prompted_production",
+      "learnerText": "Lee esto funcion por favor",
+      "correctedText": "Lee esta función, por favor.",
+      "grammarIds": [
+        "g-regular-imperative-tu",
+        "g-esto-esta",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-lee",
+        "v-esto",
+        "v-esta",
+        "v-funcion",
+        "v-por-favor"
+      ],
+      "outcome": "Correct lee retained, but esto before función recurred and needed esta. Tutor narrowed practice to an esto/esta choice rather than adding another command rule."
+    },
+    {
+      "id": "o-2026-11-11-02-esta-gap",
+      "kind": "cued_choice",
+      "learnerText": "Esta",
+      "correctedText": null,
+      "grammarIds": [
+        "g-esto-esta"
+      ],
+      "vocabularyIds": [
+        "v-esta",
+        "v-funcion"
+      ],
+      "outcome": "Correct cued choice esta for Revisa ___ función, por favor. Recognition with two options, not independent full-sentence production."
+    },
+    {
+      "id": "o-2026-11-11-02-review-this",
+      "kind": "prompted_production",
+      "learnerText": "Revisa esto por favor",
+      "correctedText": null,
+      "grammarIds": [
+        "g-regular-imperative-tu",
+        "g-esto-esta"
+      ],
+      "vocabularyIds": [
+        "v-revisa",
+        "v-esto",
+        "v-por-favor"
+      ],
+      "outcome": "Correct full review-this command after feminine-noun gap practice. Correctly switched to standalone esto. Immediate prompted transfer; punctuation was modelled in feedback, with no grammatical correction."
+    }
+  ],
+  "nextSteps": [
+    "Recheck full esta función production after intervening material",
+    "Recall revisa, crea and lee without a fresh model",
+    "Keep new command units practical and individually skippable",
+    "Later introduce one further command pattern at a time"
+  ],
+  "skippedUnitIds": [],
+  "assessmentNote": "Model-supported commands, cued demonstrative recognition and immediate full-sentence transfer are recorded separately. No long-term retention claim."
+}

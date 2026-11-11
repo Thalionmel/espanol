@@ -21,6 +21,7 @@ A shared Spanish learning record for conversation-based teaching and future trai
 - [This, this function and not-yet reference](data/sessions/2026-11-10-13.json)
 - [A little Spanish and full-stem recall](data/sessions/2026-11-10-14.json)
 - [Understanding, reasons and purpose](data/sessions/2026-11-11-01.json)
+- [Practical commands: revisa, crea and lee](data/sessions/2026-11-11-02.json)
 - [Data format and update rules](docs/data-format.md)
 - [Instructions for future assistants](AGENTS.md)
 
@@ -65,7 +66,9 @@ Next practice correctly used **¿Puedes probar esto?**, then **¿Puedes revisar 
 
 Latest chunk review: **hablo** and **queremos aprender** were correct, but **de** was omitted twice from **un poco de español**. A cued gap was correct, followed by **Comprendemos un poco de español**. On the next client date, correctly produced **Comprendemos español porque leemos**. **Necesitamos comprender conversaciones** was grammatical and meant “We need to understand conversations”; requested read-to purpose was supplied as **Leemos para comprender conversaciones**.
 
-Next: recheck the full **un poco de** chunk and **para** purpose meaning, then revisit requests and location. Exact elapsed retention intervals are unknown; immediate/cued success is distinguished from independent recall.
+Learner then requested practical imperatives for directing the assistant. Introduced regular affirmative **tú** forms: **revisar → revisa**, **crear → crea**, **leer → lee**, with **por favor**. All five full command attempts used the right verb after models. **Esto función** recurred twice and needed **esta función**. A two-option **esta** gap was correct, followed by the full **Revisa esto por favor** switch.
+
+Next: recall command forms and full **esta función** after intervening material. Keep **un poco de**, purpose/reason and location as later review targets. Immediate models and cued success remain distinct from independent recall.
 Review software vocabulary such as **probar**, **revisar**, **los logros**, and **ejecutar las pruebas**.
 Location with **estar** still needs independent recall. **Hablo** was recalled without a hint; the surrounding phrase needed **un poco de español** and spelling corrections.
 

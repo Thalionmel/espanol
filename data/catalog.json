@@ -155,13 +155,14 @@
       "status": "used_successfully",
       "note": "Correctly recalled revisarla in Necesitamos revisarla porque es importante; earlier reviser error did not recur. Correct revisar used in the request and its immediate retry.",
       "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-10",
+      "lastSeen": "2026-11-11",
       "sessionIds": [
         "2026-11-10-01",
         "2026-11-10-03",
         "2026-11-10-06",
         "2026-11-10-12",
-        "2026-11-10-13"
+        "2026-11-10-13",
+        "2026-11-11-02"
       ],
       "observationIds": [
         "o-independent",
@@ -172,7 +173,8 @@
         "o-l12-request-first",
         "o-l12-request-retry",
         "o-l13-review-this-function",
-        "o-l13-need-this"
+        "o-l13-need-this",
+        "o-2026-11-11-02-review-function"
       ]
     },
     {
@@ -182,12 +184,13 @@
       "status": "used_successfully",
       "note": "Correct standalone esto in a test request and a need-to-review statement. Used esto grammatically for this when prompt requested it; tutor supplied feminine publicarla separately. Earlier esto/está confusion remains a distinct review target.",
       "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-10",
+      "lastSeen": "2026-11-11",
       "sessionIds": [
         "2026-11-10-01",
         "2026-11-10-10",
         "2026-11-10-12",
-        "2026-11-10-13"
+        "2026-11-10-13",
+        "2026-11-11-02"
       ],
       "observationIds": [
         "o-independent",
@@ -196,7 +199,11 @@
         "o-l12-request-retry",
         "o-l13-test-this",
         "o-l13-need-this",
-        "o-l13-publish-this-yet"
+        "o-l13-publish-this-yet",
+        "o-2026-11-11-02-review-function",
+        "o-2026-11-11-02-read-this",
+        "o-2026-11-11-02-read-function",
+        "o-2026-11-11-02-review-this"
       ]
     },
     {
@@ -416,7 +423,7 @@
       "status": "used_with_correction",
       "note": "Software feature meaning previously discussed; later wrote English function in a Spanish sentence, corrected to función.",
       "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-10",
+      "lastSeen": "2026-11-11",
       "sessionIds": [
         "2026-11-10-01",
         "2026-11-10-03",
@@ -425,7 +432,8 @@
         "2026-11-10-10",
         "2026-11-10-11",
         "2026-11-10-12",
-        "2026-11-10-13"
+        "2026-11-10-13",
+        "2026-11-11-02"
       ],
       "observationIds": [
         "o-probar",
@@ -438,7 +446,11 @@
         "o-l11-feature-not-yet",
         "o-l12-feature-retry",
         "o-l13-test-function",
-        "o-l13-review-this-function"
+        "o-l13-review-this-function",
+        "o-2026-11-11-02-review-function",
+        "o-2026-11-11-02-create-function",
+        "o-2026-11-11-02-read-function",
+        "o-2026-11-11-02-esta-gap"
       ]
     },
     {
@@ -1122,13 +1134,15 @@
         "o-l5-purpose",
         "o-l5-reason",
         "o-l5-queremos",
-        "o-l6-que-leer"
+        "o-l6-que-leer",
+        "o-2026-11-11-02-read-this"
       ],
       "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-10",
+      "lastSeen": "2026-11-11",
       "sessionIds": [
         "2026-11-10-05",
-        "2026-11-10-06"
+        "2026-11-10-06",
+        "2026-11-11-02"
       ]
     },
     {
@@ -1316,12 +1330,14 @@
       "status": "used_successfully",
       "note": "Supplied correctly in a real Spanish work request.",
       "observationIds": [
-        "o-l8-logo-request"
+        "o-l8-logo-request",
+        "o-2026-11-11-02-create-function"
       ],
       "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-10",
+      "lastSeen": "2026-11-11",
       "sessionIds": [
-        "2026-11-10-08"
+        "2026-11-10-08",
+        "2026-11-11-02"
       ]
     },
     {
@@ -1534,17 +1550,88 @@
       "spanish": "esta",
       "english": "this (before a feminine singular noun in the practised phrase)",
       "status": "used_successfully",
-      "note": "After modelled esta función and an initial grammatical the-function response, correctly produced ¿Puedes revisar esta función? in session13. Then correctly switched to standalone esto. Immediate cued use; delayed recall untested.",
+      "note": "Earlier correct model-supported esta función, but esto before función recurred in two command attempts. Correct esta choice in a cued gap, followed by correct standalone esto command. Independent delayed contrast still needs review.",
       "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-10",
+      "lastSeen": "2026-11-11",
       "sessionIds": [
         "2026-11-10-12",
-        "2026-11-10-13"
+        "2026-11-10-13",
+        "2026-11-11-02"
       ],
       "observationIds": [
         "o-l12-request-first",
         "o-l13-test-function",
-        "o-l13-review-this-function"
+        "o-l13-review-this-function",
+        "o-2026-11-11-02-review-function",
+        "o-2026-11-11-02-read-this",
+        "o-2026-11-11-02-read-function",
+        "o-2026-11-11-02-esta-gap"
+      ]
+    },
+    {
+      "id": "v-revisa",
+      "spanish": "revisa",
+      "english": "review / check (affirmative tú command)",
+      "note": "Correct command after revisar → revisa explanation; noun-reference errors assessed separately.",
+      "status": "used_successfully",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "sessionIds": [
+        "2026-11-11-02"
+      ],
+      "observationIds": [
+        "o-2026-11-11-02-review-function",
+        "o-2026-11-11-02-review-this"
+      ]
+    },
+    {
+      "id": "v-crea",
+      "spanish": "crea",
+      "english": "create (affirmative tú command)",
+      "note": "Correctly used after crear → crea model; delayed recall untested.",
+      "status": "used_successfully",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "sessionIds": [
+        "2026-11-11-02"
+      ],
+      "observationIds": [
+        "o-2026-11-11-02-create-function"
+      ]
+    },
+    {
+      "id": "v-lee",
+      "spanish": "lee",
+      "english": "read (affirmative tú command)",
+      "note": "Correctly used twice after leer → lee explanation; object-reference errors assessed separately.",
+      "status": "used_successfully",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "sessionIds": [
+        "2026-11-11-02"
+      ],
+      "observationIds": [
+        "o-2026-11-11-02-read-this",
+        "o-2026-11-11-02-read-function"
+      ]
+    },
+    {
+      "id": "v-por-favor",
+      "spanish": "por favor",
+      "english": "please",
+      "note": "Used in five prompted commands after phrase model; no independent long-gap recall established.",
+      "status": "used_successfully",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "sessionIds": [
+        "2026-11-11-02"
+      ],
+      "observationIds": [
+        "o-2026-11-11-02-review-function",
+        "o-2026-11-11-02-create-function",
+        "o-2026-11-11-02-read-this",
+        "o-2026-11-11-02-read-function",
+        "o-2026-11-11-02-review-this"
       ]
     }
   ],
@@ -1810,7 +1897,10 @@
         "o-2026-11-10-14-hablo",
         "o-2026-11-10-14-learn",
         "o-2026-11-10-14-understand-little",
-        "o-2026-11-11-01-understand-reason"
+        "o-2026-11-11-01-understand-reason",
+        "o-2026-11-11-02-review-function",
+        "o-2026-11-11-02-create-function",
+        "o-2026-11-11-02-read-function"
       ],
       "nextReview": "Observe naturally; avoid repetitive spelling drills.",
       "lastPractised": "2026-11-11",
@@ -1828,7 +1918,8 @@
         "2026-11-10-12",
         "2026-11-10-13",
         "2026-11-10-14",
-        "2026-11-11-01"
+        "2026-11-11-01",
+        "2026-11-11-02"
       ]
     },
     {
@@ -2328,10 +2419,11 @@
       "pattern": "esto / esta + feminine noun",
       "meaning": "Standalone this versus this function in the practised request.",
       "status": "used_successfully",
-      "explanation": "¿Puedes revisar esto? uses standalone esto. Esta función means this function. The learner corrected standalone esta to esto after a model; independent use before a noun remains untested. This is not a complete demonstrative-pronoun paradigm.",
+      "explanation": "In the practised general-this targets, esto stands alone: Revisa esto. Before feminine función, use esta función. Learner had correctly used esta función after a model in session13, but esto before función recurred twice during imperative practice; then correctly chose esta in a gap and used standalone esto in a full command. Esta may itself refer to a known feminine item in other contexts; no complete demonstrative paradigm taught.",
       "sessionIds": [
         "2026-11-10-12",
-        "2026-11-10-13"
+        "2026-11-10-13",
+        "2026-11-11-02"
       ],
       "observationIds": [
         "o-l12-request-first",
@@ -2340,10 +2432,34 @@
         "o-l13-test-function",
         "o-l13-review-this-function",
         "o-l13-need-this",
-        "o-l13-publish-this-yet"
+        "o-l13-publish-this-yet",
+        "o-2026-11-11-02-review-function",
+        "o-2026-11-11-02-read-this",
+        "o-2026-11-11-02-read-function",
+        "o-2026-11-11-02-esta-gap",
+        "o-2026-11-11-02-review-this"
       ],
-      "nextReview": "Correctly used esta función after a model, then switched to standalone esto. One earlier la función response was grammatical but meant the rather than requested this. Recheck later without an immediate contrast cue.",
-      "lastPractised": "2026-11-10"
+      "nextReview": "Recheck esta función in full sentence production without an immediate model. Latest correct esta was a two-option gap; full Revisa esto was a successful immediate switch.",
+      "lastPractised": "2026-11-11"
+    },
+    {
+      "id": "g-regular-imperative-tu",
+      "pattern": "regular affirmative tú commands: -ar → -a; -er → -e",
+      "meaning": "Give practical direct instructions using the familiar tú form.",
+      "status": "used_successfully",
+      "explanation": "Compared ¿Puedes revisar esto? with Revisa esto. Introduced revisar → revisa, crear → crea, leer → lee. Learner formed all practised command verbs correctly after models, while esto/esta needed separate correction. This rule covers the regular affirmative forms taught; negative, irregular and -ir commands have not been taught.",
+      "sessionIds": [
+        "2026-11-11-02"
+      ],
+      "observationIds": [
+        "o-2026-11-11-02-review-function",
+        "o-2026-11-11-02-create-function",
+        "o-2026-11-11-02-read-this",
+        "o-2026-11-11-02-read-function",
+        "o-2026-11-11-02-review-this"
+      ],
+      "lastPractised": "2026-11-11",
+      "nextReview": "Recall revisa, crea and lee after intervening material before adding pronoun attachment, negative commands or irregular forms."
     }
   ],
   "practiceUnits": [
@@ -2877,6 +2993,36 @@
       "lastAttempt": "2026-11-10",
       "lastAttemptSessionId": "2026-11-10-13",
       "lastAttemptVariant": "Test this; test this function (grammatical the-function response); review this function.",
+      "lastOutcome": "used_with_correction",
+      "nextReview": "after_a_gap"
+    },
+    {
+      "id": "u-regular-imperative-tu",
+      "title": "Tell the assistant what to do",
+      "grammarIds": [
+        "g-regular-imperative-tu",
+        "g-esto-esta"
+      ],
+      "vocabularyIds": [
+        "v-revisa",
+        "v-crea",
+        "v-lee",
+        "v-por-favor",
+        "v-esto",
+        "v-esta",
+        "v-funcion"
+      ],
+      "prompt": "Tell the assistant: Review this function, please.",
+      "modelAnswer": "Revisa esta función, por favor.",
+      "hint": "Regular affirmative tú: revisar → revisa; distinguish general this from this function.",
+      "feedbackFocus": "Command verb independently assessed from esto/esta and spelling; do not give the model before a recall attempt.",
+      "seconds": 45,
+      "optional": true,
+      "selection": "enabled",
+      "attemptCount": 5,
+      "lastAttempt": "2026-11-11",
+      "lastAttemptSessionId": "2026-11-11-02",
+      "lastAttemptVariant": "Review this function; create a function; read this; read this function; review this.",
       "lastOutcome": "used_with_correction",
       "nextReview": "after_a_gap"
     }
