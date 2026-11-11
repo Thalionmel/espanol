@@ -33,6 +33,7 @@ A shared Spanish learning record for conversation-based teaching and future trai
 - [Self-chosen first/then commands](data/sessions/2026-11-11-11.json)
 - [Image and problem instructions: investiga and arregla](data/sessions/2026-11-11-12.json)
 - [Este problema retry and opening files](data/sessions/2026-11-11-13.json)
+- [Checking whether: comprueba si](data/sessions/2026-11-11-14.json)
 - [Data format and update rules](docs/data-format.md)
 - [Instructions for future assistants](AGENTS.md)
 
@@ -101,7 +102,9 @@ A self-chosen mixed-language image instruction introduced **investiga**, **el pr
 
 After another **esto problema** attempt, correctly chose **este**, then produced full **Revisa este problema** and **Investiga este problema**, the first correct learner **investiga**. Introduced **abrir → abre**, regular affirmative **-ir → -e**, and **el archivo**. **Abre el archivo** was grammatical but meant “the file” rather than requested “this file”; **este archivo** supplied. A self-selected image command kept agreement; **inagen / adjuncta** needed **imagen / adjunta**.
 
-Next: revisit **este problema**, **este archivo** and regular commands after a gap. Retain **publiques**, **un poco de**, purpose/reason and location targets; immediate success does not establish durable recall.
+Introduced **comprobar → comprueba** and **Comprueba si…** (“Check whether…”). After a partial file-readiness clause and a full model, correctly used a feminine readiness check and **Comprueba si podemos publicarla**. In review/check sequences, first **revisa** left the object implicit; masculine transfer explicitly used **revísalo** and **listo** for **el archivo**. **Imagen** spelling was recalled correctly; **adjuncta** still needed **adjunta**.
+
+Next: use practical check requests after intervening material, retaining ability meaning and needed objects. Retain **este problema**, **este archivo**, **publiques**, **un poco de**, purpose/reason and location targets; immediate success does not establish durable recall.
 Review software vocabulary such as **probar**, **revisar**, **los logros**, and **ejecutar las pruebas**.
 Location with **estar** still needs independent recall. **Hablo** was recalled without a hint; the surrounding phrase needed **un poco de español** and spelling corrections.
 

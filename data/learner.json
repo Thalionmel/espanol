@@ -118,9 +118,11 @@
     "g-dime-si",
     "g-imperative-me",
     "g-indirect-why",
-    "g-problema-gender"
+    "g-problema-gender",
+    "g-comprueba-si"
   ],
   "nextUnitIds": [
+    "u-comprueba-si",
     "u-problema-instruction",
     "u-open-file",
     "u-image-instruction",
@@ -168,7 +170,7 @@
     ],
     "intervalsAreFlexible": true
   },
-  "latestSessionId": "2026-11-11-13",
+  "latestSessionId": "2026-11-11-14",
   "disclosureAuthorization": {
     "publicLearningRecord": true,
     "ongoingUpdatesAuthorized": true,

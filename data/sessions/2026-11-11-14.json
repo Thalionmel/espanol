@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-11-14",
+  "date": "2026-11-11",
+  "source": "Six learner attempts saved as one batch",
+  "lessonTheme": "Check whether with comprueba si and review/check sequences",
+  "duration": {
+    "requestedMinutes": null,
+    "measuredMinutes": null
+  },
+  "summary": "Image instruction retained imagen but adjuncta spelling recurred. Introduced comprueba si; partial readiness response followed by full model and correct function-readiness and ability-check transfers. Review/check sequence left first object implicit, then masculine archivo transfer explicitly kept lo and listo. Accents supplied.",
+  "observations": [
+    {
+      "id": "o-2026-11-11-14-image-spelling-recall",
+      "kind": "prompted_transfer",
+      "learnerText": "Revisa la imagen adjuncta",
+      "correctedText": "Revisa la imagen adjunta.",
+      "grammarIds": [
+        "g-regular-imperative-tu",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-revisa",
+        "v-imagen",
+        "v-adjunta"
+      ],
+      "outcome": "Correct command, imagen spelling and feminine agreement; adjuncta still had extra c and was corrected. Valid different instruction from current check/publish target. Tutor returned to introduced comprobar → comprueba and comprueba si chunk."
+    },
+    {
+      "id": "o-2026-11-11-14-partial-ready",
+      "kind": "partial_response",
+      "learnerText": "....el archivo esta listo",
+      "correctedText": "El archivo está listo.",
+      "grammarIds": [
+        "g-comprueba-si",
+        "g-estar-readiness",
+        "g-listo-lista",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-archivo",
+        "v-listo",
+        "v-comprobar",
+        "v-comprueba"
+      ],
+      "outcome": "Correct readiness clause as partial response; no learner check command yet. Tutor modelled full Comprueba si el archivo está listo. Do not score as an attempted incorrect conjugation."
+    },
+    {
+      "id": "o-2026-11-11-14-check-feature",
+      "kind": "prompted_transfer",
+      "learnerText": "Comprueba si la funcion esta lista",
+      "correctedText": "Comprueba si la función está lista.",
+      "grammarIds": [
+        "g-comprueba-si",
+        "g-estar-readiness",
+        "g-listo-lista",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-comprueba",
+        "v-si-whether",
+        "v-funcion",
+        "v-lista"
+      ],
+      "outcome": "Correct first complete comprueba-si instruction after model, transferred to explicit feminine function subject and lista. Accents supplied."
+    },
+    {
+      "id": "o-2026-11-11-14-check-can-publish",
+      "kind": "prompted_transfer",
+      "learnerText": "Comprueba si podemos publicarla",
+      "correctedText": null,
+      "grammarIds": [
+        "g-comprueba-si",
+        "g-podemos-infinitive",
+        "g-object-pronouns",
+        "g-object-gender"
+      ],
+      "vocabularyIds": [
+        "v-comprueba",
+        "v-si-whether",
+        "v-podemos",
+        "v-publicar",
+        "v-la"
+      ],
+      "outcome": "Correct ability meaning, infinitive publicarla and feminine object after podemos without a full target model."
+    },
+    {
+      "id": "o-2026-11-11-14-feature-review-check",
+      "kind": "prompted_transfer",
+      "learnerText": "Primero revisa; luego comprueba Si esta lista",
+      "correctedText": "Primero revísala; luego comprueba si está lista.",
+      "grammarIds": [
+        "g-sequenced-commands",
+        "g-comprueba-si",
+        "g-regular-imperative-tu",
+        "g-imperative-objects",
+        "g-estar-readiness",
+        "g-listo-lista",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-primero",
+        "v-revisa",
+        "v-revisala",
+        "v-luego",
+        "v-comprueba",
+        "v-lista"
+      ],
+      "outcome": "Understandable sequence with object left implicit in first revisa. Tutor supplied explicit requested it as revísala while acknowledging contextual omission; reporting clause and lista correct. Capitalization/accent supplied."
+    },
+    {
+      "id": "o-2026-11-11-14-file-review-check",
+      "kind": "prompted_transfer",
+      "learnerText": "Primero revisalo; luego comprueba Si esta listo",
+      "correctedText": "Primero revísalo; luego comprueba si está listo.",
+      "grammarIds": [
+        "g-sequenced-commands",
+        "g-comprueba-si",
+        "g-imperative-objects",
+        "g-object-gender",
+        "g-estar-readiness",
+        "g-listo-lista",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-primero",
+        "v-revisalo",
+        "v-luego",
+        "v-comprueba",
+        "v-archivo",
+        "v-listo"
+      ],
+      "outcome": "Correct transfer with explicit attached masculine lo for archivo and matching listo. Command base and check clause correct; accents and standard si capitalization supplied."
+    }
+  ],
+  "nextSteps": [
+    "Use a practical comprueba-si instruction after intervening material",
+    "Keep ability meaning and explicit objects where requested",
+    "Review adjunta spelling naturally"
+  ],
+  "skippedUnitIds": [],
+  "assessmentNote": "Partial responses and contextually implicit objects are not labelled wholly ungrammatical. Immediate transfers after models do not establish durable recall."
+}
