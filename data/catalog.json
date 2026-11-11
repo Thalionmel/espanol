@@ -199,7 +199,8 @@
         "2026-11-11-02",
         "2026-11-11-03",
         "2026-11-11-10",
-        "2026-11-11-12"
+        "2026-11-11-12",
+        "2026-11-11-13"
       ],
       "observationIds": [
         "o-independent",
@@ -217,7 +218,8 @@
         "o-2026-11-11-03-test-this-retry",
         "o-2026-11-11-03-read-formal",
         "o-2026-11-11-10-explain-to-me",
-        "o-2026-11-11-12-this-problem-sequence"
+        "o-2026-11-11-12-this-problem-sequence",
+        "o-2026-11-11-13-1"
       ]
     },
     {
@@ -1718,7 +1720,8 @@
         "2026-11-11-02",
         "2026-11-11-04",
         "2026-11-11-08",
-        "2026-11-11-12"
+        "2026-11-11-12",
+        "2026-11-11-13"
       ],
       "observationIds": [
         "o-2026-11-11-02-review-function",
@@ -1727,7 +1730,9 @@
         "o-2026-11-11-04-review-logo",
         "o-2026-11-11-08-review-tell-sequence",
         "o-2026-11-11-12-review-image",
-        "o-2026-11-11-12-this-problem-sequence"
+        "o-2026-11-11-12-this-problem-sequence",
+        "o-2026-11-11-13-3",
+        "o-2026-11-11-13-6"
       ]
     },
     {
@@ -1787,7 +1792,8 @@
         "2026-11-11-07",
         "2026-11-11-09",
         "2026-11-11-10",
-        "2026-11-11-12"
+        "2026-11-11-12",
+        "2026-11-11-13"
       ],
       "observationIds": [
         "o-2026-11-11-02-review-function",
@@ -1821,7 +1827,8 @@
         "o-2026-11-11-10-explain-function",
         "o-2026-11-11-10-explain-to-me",
         "o-2026-11-11-12-review-image",
-        "o-2026-11-11-12-explain-problem"
+        "o-2026-11-11-12-explain-problem",
+        "o-2026-11-11-13-1"
       ]
     },
     {
@@ -2293,15 +2300,17 @@
       "id": "v-investiga",
       "spanish": "investiga",
       "english": "investigate (affirmative tú command)",
-      "status": "used_with_correction",
-      "note": "Modelled after Investige; later prompts elicited review commands instead. Correct independent investiga production pending.",
+      "status": "used_successfully",
+      "note": "First correct Investiga este problema without a fresh conjugated model in session13. Longer-gap recall untested.",
       "firstSeen": "2026-11-11",
       "lastSeen": "2026-11-11",
       "sessionIds": [
-        "2026-11-11-12"
+        "2026-11-11-12",
+        "2026-11-11-13"
       ],
       "observationIds": [
-        "o-2026-11-11-12-self-chosen-image"
+        "o-2026-11-11-12-self-chosen-image",
+        "o-2026-11-11-13-4"
       ]
     },
     {
@@ -2309,50 +2318,59 @@
       "spanish": "problema",
       "english": "problem (masculine noun)",
       "status": "used_with_correction",
-      "note": "El problema was correct once after explicit reminder, but la problema recurred and esto problema later needed este problema. Do not infer gender mastery from correct lo alone.",
+      "note": "Esto problema recurred after correction; then correct este choice and two complete este problema instructions. Delayed gender recall untested.",
       "firstSeen": "2026-11-11",
       "lastSeen": "2026-11-11",
       "sessionIds": [
-        "2026-11-11-12"
+        "2026-11-11-12",
+        "2026-11-11-13"
       ],
       "observationIds": [
         "o-2026-11-11-12-self-chosen-image",
         "o-2026-11-11-12-explain-problem",
         "o-2026-11-11-12-fix-problem",
         "o-2026-11-11-12-review-fix-alternative",
-        "o-2026-11-11-12-this-problem-sequence"
+        "o-2026-11-11-12-this-problem-sequence",
+        "o-2026-11-11-13-1",
+        "o-2026-11-11-13-2",
+        "o-2026-11-11-13-3",
+        "o-2026-11-11-13-4"
       ]
     },
     {
       "id": "v-imagen",
       "spanish": "imagen",
       "english": "image (feminine noun)",
-      "status": "used_successfully",
-      "note": "Initial imago with el corrected to la imagen; then correctly used la imagen adjunta after model.",
+      "status": "used_with_correction",
+      "note": "Earlier correct after model; later self-selected image instruction retained feminine la but misspelled imagen as inagen.",
       "firstSeen": "2026-11-11",
       "lastSeen": "2026-11-11",
       "sessionIds": [
-        "2026-11-11-12"
+        "2026-11-11-12",
+        "2026-11-11-13"
       ],
       "observationIds": [
         "o-2026-11-11-12-self-chosen-image",
-        "o-2026-11-11-12-review-image"
+        "o-2026-11-11-12-review-image",
+        "o-2026-11-11-13-6"
       ]
     },
     {
       "id": "v-adjunta",
       "spanish": "adjunta",
       "english": "attached (feminine singular)",
-      "status": "used_successfully",
-      "note": "Supplied for English attached, then correctly reused with la imagen after model.",
+      "status": "used_with_correction",
+      "note": "Earlier correct after model; later recalled adjuncta with extra c. Feminine agreement retained; spelling supplied.",
       "firstSeen": "2026-11-11",
       "lastSeen": "2026-11-11",
       "sessionIds": [
-        "2026-11-11-12"
+        "2026-11-11-12",
+        "2026-11-11-13"
       ],
       "observationIds": [
         "o-2026-11-11-12-self-chosen-image",
-        "o-2026-11-11-12-review-image"
+        "o-2026-11-11-12-review-image",
+        "o-2026-11-11-13-6"
       ]
     },
     {
@@ -2379,10 +2397,12 @@
       "firstSeen": "2026-11-11",
       "lastSeen": "2026-11-11",
       "sessionIds": [
-        "2026-11-11-12"
+        "2026-11-11-12",
+        "2026-11-11-13"
       ],
       "observationIds": [
-        "o-2026-11-11-12-fix-problem"
+        "o-2026-11-11-12-fix-problem",
+        "o-2026-11-11-13-1"
       ]
     },
     {
@@ -2405,15 +2425,66 @@
       "id": "v-este",
       "spanish": "este",
       "english": "this (before a masculine singular noun in the practised phrase)",
-      "status": "introduced",
-      "note": "Introduced in correction este problema after esto problema. No correct learner retry yet; not a full demonstrative paradigm.",
+      "status": "used_successfully",
+      "note": "After recurrent esto problema, correct cued este and complete review/investigate commands. Immediate transfer; este archivo modelled but not produced.",
       "firstSeen": "2026-11-11",
       "lastSeen": "2026-11-11",
       "sessionIds": [
-        "2026-11-11-12"
+        "2026-11-11-12",
+        "2026-11-11-13"
       ],
       "observationIds": [
-        "o-2026-11-11-12-this-problem-sequence"
+        "o-2026-11-11-12-this-problem-sequence",
+        "o-2026-11-11-13-1",
+        "o-2026-11-11-13-2",
+        "o-2026-11-11-13-3",
+        "o-2026-11-11-13-4",
+        "o-2026-11-11-13-5"
+      ]
+    },
+    {
+      "id": "v-abrir",
+      "spanish": "abrir",
+      "english": "to open",
+      "status": "introduced",
+      "note": "Infinitive introduced with abrir → abre; no independent infinitive sentence observed.",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "sessionIds": [
+        "2026-11-11-13"
+      ],
+      "observationIds": [
+        "o-2026-11-11-13-5"
+      ]
+    },
+    {
+      "id": "v-abre",
+      "spanish": "abre",
+      "english": "open (affirmative tú command)",
+      "status": "used_successfully",
+      "note": "Correct Abre el archivo after model; attached-object ábrelo not yet attempted.",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "sessionIds": [
+        "2026-11-11-13"
+      ],
+      "observationIds": [
+        "o-2026-11-11-13-5"
+      ]
+    },
+    {
+      "id": "v-archivo",
+      "spanish": "archivo",
+      "english": "file (masculine noun)",
+      "status": "used_successfully",
+      "note": "Correct masculine el after introduction. Requested this file required modelled este archivo.",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "sessionIds": [
+        "2026-11-11-13"
+      ],
+      "observationIds": [
+        "o-2026-11-11-13-5"
       ]
     }
   ],
@@ -2733,7 +2804,9 @@
         "o-2026-11-11-12-review-image",
         "o-2026-11-11-12-explain-problem",
         "o-2026-11-11-12-review-fix-alternative",
-        "o-2026-11-11-12-this-problem-sequence"
+        "o-2026-11-11-12-this-problem-sequence",
+        "o-2026-11-11-13-1",
+        "o-2026-11-11-13-6"
       ],
       "nextReview": "Observe naturally; avoid repetitive spelling drills.",
       "lastPractised": "2026-11-11",
@@ -2762,7 +2835,8 @@
         "2026-11-11-09",
         "2026-11-11-10",
         "2026-11-11-11",
-        "2026-11-11-12"
+        "2026-11-11-12",
+        "2026-11-11-13"
       ]
     },
     {
@@ -3357,7 +3431,8 @@
         "2026-11-11-04",
         "2026-11-11-05",
         "2026-11-11-10",
-        "2026-11-11-12"
+        "2026-11-11-12",
+        "2026-11-11-13"
       ],
       "observationIds": [
         "o-l12-request-first",
@@ -3383,17 +3458,22 @@
         "o-2026-11-11-05-negative-create",
         "o-2026-11-11-10-explain-function",
         "o-2026-11-11-10-explain-to-me",
-        "o-2026-11-11-12-this-problem-sequence"
+        "o-2026-11-11-12-this-problem-sequence",
+        "o-2026-11-11-13-1",
+        "o-2026-11-11-13-2",
+        "o-2026-11-11-13-3",
+        "o-2026-11-11-13-4",
+        "o-2026-11-11-13-5"
       ],
-      "nextReview": "Contrast standalone esto, esta función and newly introduced este problema, without supplying all answers in the prompt.",
+      "nextReview": "Este problema correct after choice and in two full commands. El archivo was grammatical but differed from requested this file; este archivo supplied.",
       "lastPractised": "2026-11-11"
     },
     {
       "id": "g-regular-imperative-tu",
-      "pattern": "regular affirmative tú commands: -ar → -a; -er → -e",
+      "pattern": "regular affirmative tú: -ar → -a; -er/-ir → -e",
       "meaning": "Give practical direct instructions using the familiar tú form.",
       "status": "used_successfully",
-      "explanation": "Compared ¿Puedes revisar esto? with Revisa esto. Introduced revisar → revisa, crear → crea, leer → lee. These regular affirmative forms were used correctly after models; later crea was recalled, while a read prompt elicited valid formal lea. Demonstratives and spelling assessed separately. Irregular prueba is covered separately; regular negative -ar commands are covered separately; -ir commands have not been taught.",
+      "explanation": "Introduced revisar → revisa, crear → crea, leer → lee, then abrir → abre. Learner correctly used abre after model and recalled investiga without a fresh conjugated model. Negative commands, irregular prueba and formal lea are recorded separately. Not a complete imperative paradigm.",
       "sessionIds": [
         "2026-11-11-02",
         "2026-11-11-03",
@@ -3402,7 +3482,8 @@
         "2026-11-11-06",
         "2026-11-11-08",
         "2026-11-11-10",
-        "2026-11-11-12"
+        "2026-11-11-12",
+        "2026-11-11-13"
       ],
       "observationIds": [
         "o-2026-11-11-02-review-function",
@@ -3423,10 +3504,15 @@
         "o-2026-11-11-12-self-chosen-image",
         "o-2026-11-11-12-review-image",
         "o-2026-11-11-12-fix-problem",
-        "o-2026-11-11-12-this-problem-sequence"
+        "o-2026-11-11-12-this-problem-sequence",
+        "o-2026-11-11-13-1",
+        "o-2026-11-11-13-3",
+        "o-2026-11-11-13-4",
+        "o-2026-11-11-13-5",
+        "o-2026-11-11-13-6"
       ],
       "lastPractised": "2026-11-11",
-      "nextReview": "Correct informal lee recalled with tú explicit. Recheck regular command versus infinitive when attaching an object: revisa + la, not revisar + la, for the personal command target."
+      "nextReview": "Recheck familiar regular commands after a gap; ábrelo has been prompted but not attempted."
     },
     {
       "id": "g-probar-imperative",
@@ -3695,17 +3781,22 @@
       "status": "used_with_correction",
       "explanation": "Corrected la problema to el problema. Learner used el once after a reminder, then la recurred; tutor explicitly explained the masculine noun. Correct lo in review/fix sequences does not itself prove article recall. Latest esto problema was corrected to este problema; no correct este retry yet.",
       "sessionIds": [
-        "2026-11-11-12"
+        "2026-11-11-12",
+        "2026-11-11-13"
       ],
       "observationIds": [
         "o-2026-11-11-12-self-chosen-image",
         "o-2026-11-11-12-explain-problem",
         "o-2026-11-11-12-fix-problem",
         "o-2026-11-11-12-review-fix-alternative",
-        "o-2026-11-11-12-this-problem-sequence"
+        "o-2026-11-11-12-this-problem-sequence",
+        "o-2026-11-11-13-1",
+        "o-2026-11-11-13-2",
+        "o-2026-11-11-13-3",
+        "o-2026-11-11-13-4"
       ],
       "lastPractised": "2026-11-11",
-      "nextReview": "Recheck el problema and newly introduced este problema without a fresh answer model; separate verb-meaning recall from gender."
+      "nextReview": "Esto problema recurred, followed by correct cued este and complete revisa/investiga este problema instructions. Recheck later without a fresh contrast."
     }
   ],
   "practiceUnits": [
@@ -4552,10 +4643,10 @@
       "seconds": 45,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 2,
+      "attemptCount": 3,
       "lastAttempt": "2026-11-11",
-      "lastAttemptSessionId": "2026-11-11-12",
-      "lastAttemptVariant": "Self-chosen investigate-problem-with-image request, then review-attached-image transfer.",
+      "lastAttemptSessionId": "2026-11-11-13",
+      "lastAttemptVariant": "Self-selected review-attached-image instruction with two spelling corrections.",
       "lastOutcome": "used_with_correction",
       "nextReview": "after_a_gap"
     },
@@ -4581,10 +4672,37 @@
       "seconds": 60,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 4,
+      "attemptCount": 8,
       "lastAttempt": "2026-11-11",
-      "lastAttemptSessionId": "2026-11-11-12",
-      "lastAttemptVariant": "Explain the problem, fix the problem (la error), review/fix alternative, then esto problema correction.",
+      "lastAttemptSessionId": "2026-11-11-13",
+      "lastAttemptVariant": "Esto problema error, cued este, complete review/investigate commands.",
+      "lastOutcome": "used_with_correction",
+      "nextReview": "after_a_gap"
+    },
+    {
+      "id": "u-open-file",
+      "title": "Tell the assistant to open a file",
+      "grammarIds": [
+        "g-regular-imperative-tu",
+        "g-esto-esta"
+      ],
+      "vocabularyIds": [
+        "v-abrir",
+        "v-abre",
+        "v-archivo",
+        "v-este"
+      ],
+      "prompt": "Using tú, say: Open this file, please.",
+      "modelAnswer": "Abre este archivo, por favor.",
+      "hint": "Abrir → abre; file is masculine.",
+      "feedbackFocus": "Command and requested this/the meaning; acknowledge valid alternatives.",
+      "seconds": 45,
+      "optional": true,
+      "selection": "enabled",
+      "attemptCount": 1,
+      "lastAttempt": "2026-11-11",
+      "lastAttemptSessionId": "2026-11-11-13",
+      "lastAttemptVariant": "Requested this file, answered grammatically with el archivo.",
       "lastOutcome": "used_with_correction",
       "nextReview": "after_a_gap"
     }

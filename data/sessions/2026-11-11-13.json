@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-11-13",
+  "date": "2026-11-11",
+  "source": "Six learner attempts saved as one batch",
+  "lessonTheme": "Este problema retry, first investiga success and opening files",
+  "duration": {
+    "requestedMinutes": null,
+    "measuredMinutes": null
+  },
+  "summary": "Esto problema recurred, then correct cued este and complete revisa/investiga este problema. First correct investiga without fresh conjugated model. Introduced regular -ir affirmative abre and masculine archivo. Valid Abre el archivo differed from requested this file. Self-selected image command retained agreement but needed imagen/adjunta spelling corrections.",
+  "observations": [
+    {
+      "id": "o-2026-11-11-13-1",
+      "kind": "prompted_production",
+      "learnerText": "arregla esto problema pr favor",
+      "correctedText": "Arregla este problema, por favor.",
+      "grammarIds": [
+        "g-regular-imperative-tu",
+        "g-problema-gender",
+        "g-esto-esta",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-arregla",
+        "v-esto",
+        "v-este",
+        "v-problema",
+        "v-por-favor"
+      ],
+      "outcome": "Correct arregla; esto before masculine problema recurred. Tutor supplied este, contrasted standalone esto, and gave a two-option gap."
+    },
+    {
+      "id": "o-2026-11-11-13-2",
+      "kind": "cued_choice",
+      "learnerText": "este",
+      "correctedText": null,
+      "grammarIds": [
+        "g-problema-gender",
+        "g-esto-esta"
+      ],
+      "vocabularyIds": [
+        "v-este",
+        "v-problema"
+      ],
+      "outcome": "Correct cued choice este for ___ problema. Recognition after explicit contrast, not unaided full production."
+    },
+    {
+      "id": "o-2026-11-11-13-3",
+      "kind": "prompted_production",
+      "learnerText": "revisa este problema, por favor",
+      "correctedText": "Revisa este problema, por favor.",
+      "grammarIds": [
+        "g-regular-imperative-tu",
+        "g-problema-gender",
+        "g-esto-esta"
+      ],
+      "vocabularyIds": [
+        "v-revisa",
+        "v-este",
+        "v-problema"
+      ],
+      "outcome": "Correct full sentence after choice exercise; capitalization supplied."
+    },
+    {
+      "id": "o-2026-11-11-13-4",
+      "kind": "prompted_production",
+      "learnerText": "investiga este problema por favor",
+      "correctedText": "Investiga este problema, por favor.",
+      "grammarIds": [
+        "g-regular-imperative-tu",
+        "g-problema-gender",
+        "g-esto-esta"
+      ],
+      "vocabularyIds": [
+        "v-investiga",
+        "v-este",
+        "v-problema"
+      ],
+      "outcome": "First correct learner investiga, without fresh conjugated model. Correct este retained. Tutor then introduced abrir → abre, el archivo and regular affirmative -ir → -e."
+    },
+    {
+      "id": "o-2026-11-11-13-5",
+      "kind": "prompted_production",
+      "learnerText": "abre el archivo, por favor",
+      "correctedText": "Abre el archivo, por favor.",
+      "grammarIds": [
+        "g-regular-imperative-tu",
+        "g-esto-esta"
+      ],
+      "vocabularyIds": [
+        "v-abrir",
+        "v-abre",
+        "v-archivo",
+        "v-este"
+      ],
+      "outcome": "Correct command after model and masculine el archivo. Grammatical the file differed from requested this file; este archivo supplied. Open-it follow-up was not attempted; no ábrelo production observed."
+    },
+    {
+      "id": "o-2026-11-11-13-6",
+      "kind": "self_chosen_instruction",
+      "learnerText": "Revisa la inagen adjuncta, por favor",
+      "correctedText": "Revisa la imagen adjunta, por favor.",
+      "grammarIds": [
+        "g-regular-imperative-tu",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-revisa",
+        "v-imagen",
+        "v-adjunta"
+      ],
+      "outcome": "Valid self-selected instruction instead of open-it target. Command and feminine agreement correct; imagen and adjunta spellings supplied. No image attachment present or analysed."
+    }
+  ],
+  "nextSteps": [
+    "Recheck este problema after intervening material",
+    "Practise este archivo if selected; open-it prompt creates no backlog",
+    "Review image vocabulary spelling naturally during work"
+  ],
+  "skippedUnitIds": [],
+  "assessmentNote": "Cued choice and immediate transfer are distinguished from delayed recall. No image attached or analysed."
+}
