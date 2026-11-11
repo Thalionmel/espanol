@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-11-06",
+  "date": "2026-11-11",
+  "source": "Seven learner attempts saved as one batch, including the immediate final retry",
+  "lessonTheme": "Negative command objects, publicar spelling and gender repair",
+  "duration": {
+    "requestedMinutes": null,
+    "measuredMinutes": null
+  },
+  "summary": "Initial negative creesla corrected to No la crees, then correctly used no la revises, affirmative revísala and masculine no lo revises. Introduced publica/no publiques c → qu spelling; no lo publiques correct. Affirmative publícala was grammatical for feminine but mismatched logo target; immediately retried publícalo with es un logo explanation. Written command accents supplied.",
+  "observations": [
+    {
+      "id": "o-2026-11-11-06-create-negative-object",
+      "kind": "prompted_transfer",
+      "learnerText": "no creesla por favor",
+      "correctedText": "No la crees, por favor.",
+      "grammarIds": [
+        "g-negative-command-objects",
+        "g-negative-tu-ar"
+      ],
+      "vocabularyIds": [
+        "v-no-crees",
+        "v-la",
+        "v-por-favor"
+      ],
+      "outcome": "After negative-object placement model No la revises, learner attached la to negative crees. Corrected to no + la + crees; negative verb form and object gender were already right."
+    },
+    {
+      "id": "o-2026-11-11-06-review-negative-object",
+      "kind": "prompted_transfer",
+      "learnerText": "no la revises por favor",
+      "correctedText": "No la revises, por favor.",
+      "grammarIds": [
+        "g-negative-command-objects",
+        "g-negative-tu-ar",
+        "g-object-gender"
+      ],
+      "vocabularyIds": [
+        "v-no-revises",
+        "v-la",
+        "v-por-favor"
+      ],
+      "outcome": "Correct negative object placement after correction, with feminine la for función."
+    },
+    {
+      "id": "o-2026-11-11-06-review-positive-object",
+      "kind": "prompted_transfer",
+      "learnerText": "revisala por favor",
+      "correctedText": "Revísala, por favor.",
+      "grammarIds": [
+        "g-imperative-objects",
+        "g-regular-imperative-tu",
+        "g-object-gender",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-revisala",
+        "v-la",
+        "v-por-favor"
+      ],
+      "outcome": "Correct switch to affirmative command with attached la; accent/capitalization supplied."
+    },
+    {
+      "id": "o-2026-11-11-06-logo-negative-review",
+      "kind": "prompted_transfer",
+      "learnerText": "no lo revises por favor",
+      "correctedText": "No lo revises, por favor.",
+      "grammarIds": [
+        "g-negative-command-objects",
+        "g-negative-tu-ar",
+        "g-object-gender"
+      ],
+      "vocabularyIds": [
+        "v-no-revises",
+        "v-lo",
+        "v-por-favor"
+      ],
+      "outcome": "Correct transfer to masculine lo for stated el logo. Tutor then introduced publica / no publiques and c → qu to preserve sound before e."
+    },
+    {
+      "id": "o-2026-11-11-06-logo-negative-publish",
+      "kind": "prompted_transfer",
+      "learnerText": "no lo publiques por favor",
+      "correctedText": "No lo publiques, por favor.",
+      "grammarIds": [
+        "g-negative-command-objects",
+        "g-publicar-command-spelling",
+        "g-object-gender"
+      ],
+      "vocabularyIds": [
+        "v-no-publiques",
+        "v-publica",
+        "v-publicar",
+        "v-lo",
+        "v-por-favor"
+      ],
+      "outcome": "Correct no lo publiques after bare no publiques model: object placed before verb and qu spelling retained."
+    },
+    {
+      "id": "o-2026-11-11-06-publish-feminine",
+      "kind": "prompted_transfer",
+      "learnerText": "publicala por favor",
+      "correctedText": "Publícala, por favor.",
+      "grammarIds": [
+        "g-imperative-objects",
+        "g-publicar-command-spelling",
+        "g-object-gender",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-publicala",
+        "v-publica",
+        "v-publicalo",
+        "v-la",
+        "v-lo",
+        "v-por-favor"
+      ],
+      "outcome": "Grammatical affirmative command for a feminine object after accent supplied. Prompt still referred to el logo, so meaning did not match masculine target. Tutor acknowledged feminine form and supplied Publícalo; no command-formation error beyond accent."
+    },
+    {
+      "id": "o-2026-11-11-06-publish-logo-retry",
+      "kind": "prompted_transfer",
+      "learnerText": "publicalo -- es un logo",
+      "correctedText": "Publícalo — es un logo.",
+      "grammarIds": [
+        "g-imperative-objects",
+        "g-publicar-command-spelling",
+        "g-object-gender",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-publicalo",
+        "v-lo",
+        "v-logo"
+      ],
+      "outcome": "Correct immediate retry with masculine lo and explicit grammatical explanation es un logo. Accent/capitalization supplied. Actual publishing was neither requested nor performed; these are lesson examples."
+    }
+  ],
+  "nextSteps": [
+    "Combine negative publicar with a familiar reason clause and explicit feminine referent",
+    "Recheck placement and gender after intervening material",
+    "Retain earlier prueba/lee and command-versus-infinitive reviews"
+  ],
+  "skippedUnitIds": [],
+  "assessmentNote": "Grammatical different-meaning answers are distinct from exact target matches. Immediate correction/retry does not establish delayed mastery. No repository publication was performed in response to classroom commands."
+}

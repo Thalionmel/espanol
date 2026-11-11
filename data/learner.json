@@ -111,9 +111,13 @@
     "g-probar-imperative",
     "g-imperative-register",
     "g-imperative-objects",
-    "g-negative-tu-ar"
+    "g-negative-tu-ar",
+    "g-negative-command-objects",
+    "g-publicar-command-spelling"
   ],
   "nextUnitIds": [
+    "u-negative-command-object",
+    "u-publicar-command",
     "u-negative-tu-ar",
     "u-imperative-object",
     "u-prueba",
@@ -152,7 +156,7 @@
     ],
     "intervalsAreFlexible": true
   },
-  "latestSessionId": "2026-11-11-05",
+  "latestSessionId": "2026-11-11-06",
   "disclosureAuthorization": {
     "publicLearningRecord": true,
     "ongoingUpdatesAuthorized": true,
