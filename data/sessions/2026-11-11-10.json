@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-11-10",
+  "date": "2026-11-11",
+  "source": "Six learner attempts saved as one batch",
+  "lessonTheme": "Explica/Explícame and indirect why explanation requests",
+  "duration": {
+    "requestedMinutes": null,
+    "measuredMinutes": null
+  },
+  "summary": "Correct Explica esta función, then attached me in explícame. Accent first absent, then misplaced; corrected stress retained in three subsequent prompts. Correct indirect-why readiness, inability and need clauses. Publicarla/probarla remained infinitives after podemos/necesitamos. Final review/explain sequence retained object, command forms and feminine agreement; remaining accents supplied.",
+  "observations": [
+    {
+      "id": "o-2026-11-11-10-explain-function",
+      "kind": "prompted_transfer",
+      "learnerText": "explica esta funcion por favor",
+      "correctedText": "Explica esta función, por favor.",
+      "grammarIds": [
+        "g-regular-imperative-tu",
+        "g-esto-esta",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-explica",
+        "v-explicar",
+        "v-esta",
+        "v-funcion",
+        "v-por-favor"
+      ],
+      "outcome": "Correct explica after explicar → explica model, with appropriate esta función. Standard spelling supplied. Tutor then introduced explica + me → explícame and stress-preserving accent."
+    },
+    {
+      "id": "o-2026-11-11-10-explain-to-me",
+      "kind": "prompted_transfer",
+      "learnerText": "explicame esto por favor",
+      "correctedText": "Explícame esto, por favor.",
+      "grammarIds": [
+        "g-imperative-me",
+        "g-esto-esta",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-explicame",
+        "v-me",
+        "v-esto",
+        "v-por-favor"
+      ],
+      "outcome": "Correct attached me and standalone esto after the model. Accent supplied. Tutor next prompted explanation with por qué."
+    },
+    {
+      "id": "o-2026-11-11-10-explain-not-ready",
+      "kind": "prompted_transfer",
+      "learnerText": "Explicáme por que la funcion no esta lista",
+      "correctedText": "Explícame por qué la función no está lista.",
+      "grammarIds": [
+        "g-imperative-me",
+        "g-indirect-why",
+        "g-estar-readiness",
+        "g-listo-lista",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-explicame",
+        "v-me",
+        "v-por-que",
+        "v-funcion",
+        "v-lista"
+      ],
+      "outcome": "Correct explanation clause, subject and feminine agreement. Accent misplaced on explícame; tutor emphasized ex-PLÍ-ca-me. Supplied qué, función and está accents."
+    },
+    {
+      "id": "o-2026-11-11-10-explain-cannot-publish",
+      "kind": "prompted_transfer",
+      "learnerText": "Explícame por que no podemos publicarla",
+      "correctedText": "Explícame por qué no podemos publicarla.",
+      "grammarIds": [
+        "g-imperative-me",
+        "g-indirect-why",
+        "g-podemos-infinitive",
+        "g-negation",
+        "g-object-pronouns",
+        "g-object-gender",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-explicame",
+        "v-por-que",
+        "v-podemos",
+        "v-publicar",
+        "v-la"
+      ],
+      "outcome": "Correct explícame accent after correction, indirect why clause and no podemos + publicarla for feminine object. Only qué accent supplied."
+    },
+    {
+      "id": "o-2026-11-11-10-explain-need-test",
+      "kind": "prompted_transfer",
+      "learnerText": "Explícame por que necesitamos probarla",
+      "correctedText": "Explícame por qué necesitamos probarla.",
+      "grammarIds": [
+        "g-imperative-me",
+        "g-indirect-why",
+        "g-necesitamos-infinitive",
+        "g-object-pronouns",
+        "g-object-gender",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-explicame",
+        "v-por-que",
+        "v-necesitamos",
+        "v-probarla",
+        "v-la"
+      ],
+      "outcome": "Correct transfer to necesitamos + infinitive probarla, retaining proper explícame accent. Only qué accent supplied."
+    },
+    {
+      "id": "o-2026-11-11-10-review-explain-sequence",
+      "kind": "prompted_transfer",
+      "learnerText": "Primero revisala; luego explícame por que no esta lista",
+      "correctedText": "Primero revísala; luego explícame por qué no está lista.",
+      "grammarIds": [
+        "g-sequenced-commands",
+        "g-imperative-objects",
+        "g-imperative-me",
+        "g-indirect-why",
+        "g-estar-readiness",
+        "g-listo-lista",
+        "g-object-gender",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-primero",
+        "v-revisala",
+        "v-luego",
+        "v-explicame",
+        "v-por-que",
+        "v-lista"
+      ],
+      "outcome": "Correct two direct commands, explicit object retained in revísala, indirect explanation and feminine readiness agreement. Explícame accent retained; revísala, qué and está accents supplied."
+    }
+  ],
+  "nextSteps": [
+    "Use a self-chosen explanation or action instruction",
+    "Recheck explícame stress after intervening material",
+    "Continue earlier command and publishing-spelling reviews during work"
+  ],
+  "skippedUnitIds": [],
+  "assessmentNote": "Models, accent correction and transfer conditions explicit. Correct clause formation is separate from qué accent correction; no long-term mastery inferred."
+}

@@ -115,9 +115,13 @@
     "g-negative-command-objects",
     "g-publicar-command-spelling",
     "g-sequenced-commands",
-    "g-dime-si"
+    "g-dime-si",
+    "g-imperative-me",
+    "g-indirect-why"
   ],
   "nextUnitIds": [
+    "u-explain-why",
+    "u-explain-command",
     "u-sequenced-commands",
     "u-publicar-command",
     "u-dime-si",
@@ -160,7 +164,7 @@
     ],
     "intervalsAreFlexible": true
   },
-  "latestSessionId": "2026-11-11-09",
+  "latestSessionId": "2026-11-11-10",
   "disclosureAuthorization": {
     "publicLearningRecord": true,
     "ongoingUpdatesAuthorized": true,

@@ -197,7 +197,8 @@
         "2026-11-10-12",
         "2026-11-10-13",
         "2026-11-11-02",
-        "2026-11-11-03"
+        "2026-11-11-03",
+        "2026-11-11-10"
       ],
       "observationIds": [
         "o-independent",
@@ -213,7 +214,8 @@
         "o-2026-11-11-02-review-this",
         "o-2026-11-11-03-test-this-first",
         "o-2026-11-11-03-test-this-retry",
-        "o-2026-11-11-03-read-formal"
+        "o-2026-11-11-03-read-formal",
+        "o-2026-11-11-10-explain-to-me"
       ]
     },
     {
@@ -409,7 +411,8 @@
         "2026-11-10-12",
         "2026-11-10-13",
         "2026-11-11-06",
-        "2026-11-11-08"
+        "2026-11-11-08",
+        "2026-11-11-10"
       ],
       "observationIds": [
         "o-work-transfer",
@@ -421,7 +424,8 @@
         "o-l13-publish-this-yet",
         "o-l13-publish-it-yet",
         "o-2026-11-11-06-logo-negative-publish",
-        "o-2026-11-11-08-tell-publish"
+        "o-2026-11-11-08-tell-publish",
+        "o-2026-11-11-10-explain-cannot-publish"
       ]
     },
     {
@@ -459,7 +463,8 @@
         "2026-11-11-02",
         "2026-11-11-03",
         "2026-11-11-04",
-        "2026-11-11-05"
+        "2026-11-11-05",
+        "2026-11-11-10"
       ],
       "observationIds": [
         "o-probar",
@@ -482,7 +487,9 @@
         "o-2026-11-11-04-test-function-recall",
         "o-2026-11-11-04-read-function-recall",
         "o-2026-11-11-05-negative-review",
-        "o-2026-11-11-05-negative-create"
+        "o-2026-11-11-05-negative-create",
+        "o-2026-11-11-10-explain-function",
+        "o-2026-11-11-10-explain-not-ready"
       ]
     },
     {
@@ -934,16 +941,21 @@
       "spanish": "por qué",
       "english": "why",
       "status": "used_with_correction",
-      "note": "Learner wrote porque in a why-not question. The model supplied separate words and accented qué; keyboard constraints have not been assessed.",
+      "note": "Earlier why-question spacing corrected. In four explanation requests in session10, correctly used two words por que for intended why, with accented qué supplied. Clause meaning/formation correct; orthography separate.",
       "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-10",
+      "lastSeen": "2026-11-11",
       "sessionIds": [
         "2026-11-10-02",
-        "2026-11-10-04"
+        "2026-11-10-04",
+        "2026-11-11-10"
       ],
       "observationIds": [
         "o-why-three",
-        "o-l4-why"
+        "o-l4-why",
+        "o-2026-11-11-10-explain-not-ready",
+        "o-2026-11-11-10-explain-cannot-publish",
+        "o-2026-11-11-10-explain-need-test",
+        "o-2026-11-11-10-review-explain-sequence"
       ]
     },
     {
@@ -1033,7 +1045,9 @@
         "o-2026-11-11-07-feature-negative-reason",
         "o-2026-11-11-08-tell-need-review",
         "o-2026-11-11-09-test-feature-focused",
-        "o-2026-11-11-09-feature-review-no-publish"
+        "o-2026-11-11-09-feature-review-no-publish",
+        "o-2026-11-11-10-explain-cannot-publish",
+        "o-2026-11-11-10-explain-need-test"
       ],
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-11",
@@ -1047,7 +1061,8 @@
         "2026-11-11-06",
         "2026-11-11-07",
         "2026-11-11-08",
-        "2026-11-11-09"
+        "2026-11-11-09",
+        "2026-11-11-10"
       ]
     },
     {
@@ -1060,7 +1075,8 @@
         "o-l3-probarla",
         "o-l11-test-recall",
         "o-l12-test-reason",
-        "o-2026-11-11-05-want-test"
+        "o-2026-11-11-05-want-test",
+        "o-2026-11-11-10-explain-need-test"
       ],
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-11",
@@ -1068,7 +1084,8 @@
         "2026-11-10-03",
         "2026-11-10-11",
         "2026-11-10-12",
-        "2026-11-11-05"
+        "2026-11-11-05",
+        "2026-11-11-10"
       ]
     },
     {
@@ -1363,7 +1380,8 @@
         "o-l13-need-this",
         "o-2026-11-11-01-need-conversations",
         "o-2026-11-11-05-need-read",
-        "o-2026-11-11-08-tell-need-review"
+        "o-2026-11-11-08-tell-need-review",
+        "o-2026-11-11-10-explain-need-test"
       ],
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-11",
@@ -1375,7 +1393,8 @@
         "2026-11-10-13",
         "2026-11-11-01",
         "2026-11-11-05",
-        "2026-11-11-08"
+        "2026-11-11-08",
+        "2026-11-11-10"
       ]
     },
     {
@@ -1396,7 +1415,8 @@
         "o-l13-publish-this-yet",
         "o-l13-publish-it-yet",
         "o-2026-11-11-08-tell-publish",
-        "o-2026-11-11-08-tell-can-test"
+        "o-2026-11-11-08-tell-can-test",
+        "o-2026-11-11-10-explain-cannot-publish"
       ],
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-11",
@@ -1406,7 +1426,8 @@
         "2026-11-10-09",
         "2026-11-10-11",
         "2026-11-10-13",
-        "2026-11-11-08"
+        "2026-11-11-08",
+        "2026-11-11-10"
       ]
     },
     {
@@ -1549,7 +1570,9 @@
         "o-2026-11-11-07-feature-negative-reason",
         "o-2026-11-11-08-review-tell-sequence",
         "o-2026-11-11-09-mixed-command-sequence",
-        "o-2026-11-11-09-feature-sequence-retry"
+        "o-2026-11-11-09-feature-sequence-retry",
+        "o-2026-11-11-10-explain-not-ready",
+        "o-2026-11-11-10-review-explain-sequence"
       ],
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-11",
@@ -1561,7 +1584,8 @@
         "2026-11-10-12",
         "2026-11-11-07",
         "2026-11-11-08",
-        "2026-11-11-09"
+        "2026-11-11-09",
+        "2026-11-11-10"
       ]
     },
     {
@@ -1658,7 +1682,8 @@
         "2026-11-11-02",
         "2026-11-11-03",
         "2026-11-11-04",
-        "2026-11-11-05"
+        "2026-11-11-05",
+        "2026-11-11-10"
       ],
       "observationIds": [
         "o-l12-request-first",
@@ -1673,7 +1698,8 @@
         "o-2026-11-11-04-test-function-recall",
         "o-2026-11-11-04-read-function-recall",
         "o-2026-11-11-05-negative-review",
-        "o-2026-11-11-05-negative-create"
+        "o-2026-11-11-05-negative-create",
+        "o-2026-11-11-10-explain-function"
       ]
     },
     {
@@ -1752,7 +1778,8 @@
         "2026-11-11-05",
         "2026-11-11-06",
         "2026-11-11-07",
-        "2026-11-11-09"
+        "2026-11-11-09",
+        "2026-11-11-10"
       ],
       "observationIds": [
         "o-2026-11-11-02-review-function",
@@ -1782,7 +1809,9 @@
         "o-2026-11-11-06-logo-negative-publish",
         "o-2026-11-11-06-publish-feminine",
         "o-2026-11-11-07-test-logo-retry",
-        "o-2026-11-11-09-test-feature-focused"
+        "o-2026-11-11-09-test-feature-focused",
+        "o-2026-11-11-10-explain-function",
+        "o-2026-11-11-10-explain-to-me"
       ]
     },
     {
@@ -1835,14 +1864,16 @@
         "2026-11-11-04",
         "2026-11-11-06",
         "2026-11-11-08",
-        "2026-11-11-09"
+        "2026-11-11-09",
+        "2026-11-11-10"
       ],
       "observationIds": [
         "o-2026-11-11-04-review-infinitive",
         "o-2026-11-11-06-review-positive-object",
         "o-2026-11-11-08-read-review-sequence",
         "o-2026-11-11-08-review-tell-sequence",
-        "o-2026-11-11-09-feature-review-no-publish"
+        "o-2026-11-11-09-feature-review-no-publish",
+        "o-2026-11-11-10-review-explain-sequence"
       ]
     },
     {
@@ -2035,7 +2066,8 @@
       "sessionIds": [
         "2026-11-11-07",
         "2026-11-11-08",
-        "2026-11-11-09"
+        "2026-11-11-09",
+        "2026-11-11-10"
       ],
       "observationIds": [
         "o-2026-11-11-07-sequence-first",
@@ -2046,7 +2078,8 @@
         "o-2026-11-11-09-feature-sequence-retry",
         "o-2026-11-11-09-logo-sequence-transfer",
         "o-2026-11-11-09-logo-review-no-publish",
-        "o-2026-11-11-09-feature-review-no-publish"
+        "o-2026-11-11-09-feature-review-no-publish",
+        "o-2026-11-11-10-review-explain-sequence"
       ]
     },
     {
@@ -2060,7 +2093,8 @@
       "sessionIds": [
         "2026-11-11-07",
         "2026-11-11-08",
-        "2026-11-11-09"
+        "2026-11-11-09",
+        "2026-11-11-10"
       ],
       "observationIds": [
         "o-2026-11-11-07-sequence-first",
@@ -2068,7 +2102,8 @@
         "o-2026-11-11-08-read-review-sequence",
         "o-2026-11-11-08-review-tell-sequence",
         "o-2026-11-11-09-feature-sequence-retry",
-        "o-2026-11-11-09-logo-sequence-transfer"
+        "o-2026-11-11-09-logo-sequence-transfer",
+        "o-2026-11-11-10-review-explain-sequence"
       ]
     },
     {
@@ -2145,6 +2180,71 @@
       ],
       "observationIds": [
         "o-2026-11-11-08-tell-publish"
+      ]
+    },
+    {
+      "id": "v-explicar",
+      "spanish": "explicar",
+      "english": "to explain",
+      "status": "introduced",
+      "note": "Infinitive introduced with explicar → explica; learner produced command forms, not an independent explicar infinitive sentence.",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "sessionIds": [
+        "2026-11-11-10"
+      ],
+      "observationIds": [
+        "o-2026-11-11-10-explain-function"
+      ]
+    },
+    {
+      "id": "v-explica",
+      "spanish": "explica",
+      "english": "explain (affirmative tú command)",
+      "status": "used_successfully",
+      "note": "Correctly used in Explica esta función after regular command model.",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "sessionIds": [
+        "2026-11-11-10"
+      ],
+      "observationIds": [
+        "o-2026-11-11-10-explain-function"
+      ]
+    },
+    {
+      "id": "v-explicame",
+      "spanish": "explícame",
+      "english": "explain to me (affirmative tú command)",
+      "status": "used_successfully",
+      "note": "Attached me correctly; initial accent absent then misplaced as explicáme. After stress correction, explicitly used correct explícame accent in three consecutive prompts. Longer-gap recall untested.",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "sessionIds": [
+        "2026-11-11-10"
+      ],
+      "observationIds": [
+        "o-2026-11-11-10-explain-to-me",
+        "o-2026-11-11-10-explain-not-ready",
+        "o-2026-11-11-10-explain-cannot-publish",
+        "o-2026-11-11-10-explain-need-test",
+        "o-2026-11-11-10-review-explain-sequence"
+      ]
+    },
+    {
+      "id": "v-me",
+      "spanish": "me",
+      "english": "me / to me",
+      "status": "used_successfully",
+      "note": "Introduced as attached me in explica + me → explícame and correctly used. Full object-pronoun paradigm not taught.",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "sessionIds": [
+        "2026-11-11-10"
+      ],
+      "observationIds": [
+        "o-2026-11-11-10-explain-to-me",
+        "o-2026-11-11-10-explain-not-ready"
       ]
     }
   ],
@@ -2305,10 +2405,11 @@
         "o-l12-but-not-yet",
         "o-l12-ready-but-no-publish",
         "o-l13-publish-this-yet",
-        "o-l13-publish-it-yet"
+        "o-l13-publish-it-yet",
+        "o-2026-11-11-10-explain-cannot-publish"
       ],
       "nextReview": "Correctly placed no between an explicit noun subject and está in La función no está lista; adjective correction was separate. Recheck polarity in a new sentence.",
-      "lastPractised": "2026-11-10",
+      "lastPractised": "2026-11-11",
       "sessionIds": [
         "2026-11-10-01",
         "2026-11-10-03",
@@ -2318,7 +2419,8 @@
         "2026-11-10-10",
         "2026-11-10-11",
         "2026-11-10-12",
-        "2026-11-10-13"
+        "2026-11-10-13",
+        "2026-11-11-10"
       ]
     },
     {
@@ -2450,7 +2552,13 @@
         "o-2026-11-11-09-feature-sequence-retry",
         "o-2026-11-11-09-logo-sequence-transfer",
         "o-2026-11-11-09-logo-review-no-publish",
-        "o-2026-11-11-09-feature-review-no-publish"
+        "o-2026-11-11-09-feature-review-no-publish",
+        "o-2026-11-11-10-explain-function",
+        "o-2026-11-11-10-explain-to-me",
+        "o-2026-11-11-10-explain-not-ready",
+        "o-2026-11-11-10-explain-cannot-publish",
+        "o-2026-11-11-10-explain-need-test",
+        "o-2026-11-11-10-review-explain-sequence"
       ],
       "nextReview": "Observe naturally; avoid repetitive spelling drills.",
       "lastPractised": "2026-11-11",
@@ -2476,7 +2584,8 @@
         "2026-11-11-06",
         "2026-11-11-07",
         "2026-11-11-08",
-        "2026-11-11-09"
+        "2026-11-11-09",
+        "2026-11-11-10"
       ]
     },
     {
@@ -2557,7 +2666,9 @@
         "o-2026-11-11-05-need-read",
         "o-2026-11-11-08-tell-publish",
         "o-2026-11-11-08-tell-can-test",
-        "o-2026-11-11-08-tell-need-review"
+        "o-2026-11-11-08-tell-need-review",
+        "o-2026-11-11-10-explain-cannot-publish",
+        "o-2026-11-11-10-explain-need-test"
       ],
       "nextReview": "Both attached and before-conjugated-verb positions used successfully in a prompted negative transformation. Test choice of position without instructions after a gap.",
       "lastPractised": "2026-11-11",
@@ -2573,7 +2684,8 @@
         "2026-11-10-12",
         "2026-11-10-13",
         "2026-11-11-05",
-        "2026-11-11-08"
+        "2026-11-11-08",
+        "2026-11-11-10"
       ]
     },
     {
@@ -2667,7 +2779,10 @@
         "o-2026-11-11-09-feature-sequence-retry",
         "o-2026-11-11-09-logo-sequence-transfer",
         "o-2026-11-11-09-logo-review-no-publish",
-        "o-2026-11-11-09-feature-review-no-publish"
+        "o-2026-11-11-09-feature-review-no-publish",
+        "o-2026-11-11-10-explain-cannot-publish",
+        "o-2026-11-11-10-explain-need-test",
+        "o-2026-11-11-10-review-explain-sequence"
       ],
       "nextReview": "Feminine and masculine command/readiness transfers were correct in this batch. Preserve this evidence without assuming longer-term retention.",
       "lastPractised": "2026-11-11",
@@ -2684,7 +2799,8 @@
         "2026-11-11-06",
         "2026-11-11-07",
         "2026-11-11-08",
-        "2026-11-11-09"
+        "2026-11-11-09",
+        "2026-11-11-10"
       ]
     },
     {
@@ -2816,7 +2932,8 @@
         "o-l13-need-this",
         "o-2026-11-11-01-need-conversations",
         "o-2026-11-11-05-need-read",
-        "o-2026-11-11-08-tell-need-review"
+        "o-2026-11-11-08-tell-need-review",
+        "o-2026-11-11-10-explain-need-test"
       ],
       "nextReview": "Necesitamos revisarla porque es importante recalled correctly in session12; earlier reviser ending error did not recur. Recheck later.",
       "lastPractised": "2026-11-11",
@@ -2828,7 +2945,8 @@
         "2026-11-10-13",
         "2026-11-11-01",
         "2026-11-11-05",
-        "2026-11-11-08"
+        "2026-11-11-08",
+        "2026-11-11-10"
       ]
     },
     {
@@ -2854,7 +2972,8 @@
         "o-l13-publish-this-yet",
         "o-l13-publish-it-yet",
         "o-2026-11-11-08-tell-publish",
-        "o-2026-11-11-08-tell-can-test"
+        "o-2026-11-11-08-tell-can-test",
+        "o-2026-11-11-10-explain-cannot-publish"
       ],
       "nextReview": "Publicamos was grammatical but did not express requested can publish. After podemos-publicar model, correctly transferred Dime si podemos probarlo. Recheck ability meaning after a gap.",
       "lastPractised": "2026-11-11",
@@ -2865,7 +2984,8 @@
         "2026-11-10-10",
         "2026-11-10-11",
         "2026-11-10-13",
-        "2026-11-11-08"
+        "2026-11-11-08",
+        "2026-11-11-10"
       ]
     },
     {
@@ -2902,7 +3022,9 @@
         "o-2026-11-11-08-review-tell-sequence",
         "o-2026-11-11-09-mixed-command-sequence",
         "o-2026-11-11-09-feature-sequence-retry",
-        "o-2026-11-11-09-logo-sequence-transfer"
+        "o-2026-11-11-09-logo-sequence-transfer",
+        "o-2026-11-11-10-explain-not-ready",
+        "o-2026-11-11-10-review-explain-sequence"
       ],
       "nextReview": "Recheck readiness and location in separate familiar contexts after a gap.",
       "lastPractised": "2026-11-11",
@@ -2914,7 +3036,8 @@
         "2026-11-10-12",
         "2026-11-11-07",
         "2026-11-11-08",
-        "2026-11-11-09"
+        "2026-11-11-09",
+        "2026-11-11-10"
       ]
     },
     {
@@ -2949,7 +3072,9 @@
         "o-2026-11-11-08-review-tell-sequence",
         "o-2026-11-11-09-mixed-command-sequence",
         "o-2026-11-11-09-feature-sequence-retry",
-        "o-2026-11-11-09-logo-sequence-transfer"
+        "o-2026-11-11-09-logo-sequence-transfer",
+        "o-2026-11-11-10-explain-not-ready",
+        "o-2026-11-11-10-review-explain-sequence"
       ],
       "nextReview": "After the session11 feminine error, correctly used lista in four readiness contexts in session12, including two contrast sentences. Recheck after a longer gap.",
       "lastPractised": "2026-11-11",
@@ -2961,7 +3086,8 @@
         "2026-11-10-12",
         "2026-11-11-07",
         "2026-11-11-08",
-        "2026-11-11-09"
+        "2026-11-11-09",
+        "2026-11-11-10"
       ]
     },
     {
@@ -3050,7 +3176,8 @@
         "2026-11-11-02",
         "2026-11-11-03",
         "2026-11-11-04",
-        "2026-11-11-05"
+        "2026-11-11-05",
+        "2026-11-11-10"
       ],
       "observationIds": [
         "o-l12-request-first",
@@ -3073,7 +3200,9 @@
         "o-2026-11-11-04-test-function-recall",
         "o-2026-11-11-04-read-function-recall",
         "o-2026-11-11-05-negative-review",
-        "o-2026-11-11-05-negative-create"
+        "o-2026-11-11-05-negative-create",
+        "o-2026-11-11-10-explain-function",
+        "o-2026-11-11-10-explain-to-me"
       ],
       "nextReview": "Correct full Crea esta función after previous corrections, and correct esto throughout test/read requests in this batch. Longer-gap contrast still needs review.",
       "lastPractised": "2026-11-11"
@@ -3090,7 +3219,8 @@
         "2026-11-11-04",
         "2026-11-11-05",
         "2026-11-11-06",
-        "2026-11-11-08"
+        "2026-11-11-08",
+        "2026-11-11-10"
       ],
       "observationIds": [
         "o-2026-11-11-02-review-function",
@@ -3106,7 +3236,8 @@
         "o-2026-11-11-04-read-feature",
         "o-2026-11-11-05-read-command",
         "o-2026-11-11-06-review-positive-object",
-        "o-2026-11-11-08-review-tell-sequence"
+        "o-2026-11-11-08-review-tell-sequence",
+        "o-2026-11-11-10-explain-function"
       ],
       "lastPractised": "2026-11-11",
       "nextReview": "Correct informal lee recalled with tú explicit. Recheck regular command versus infinitive when attaching an object: revisa + la, not revisar + la, for the personal command target."
@@ -3172,7 +3303,8 @@
         "2026-11-11-06",
         "2026-11-11-07",
         "2026-11-11-08",
-        "2026-11-11-09"
+        "2026-11-11-09",
+        "2026-11-11-10"
       ],
       "observationIds": [
         "o-2026-11-11-04-review-infinitive",
@@ -3195,7 +3327,8 @@
         "o-2026-11-11-09-feature-sequence-retry",
         "o-2026-11-11-09-logo-sequence-transfer",
         "o-2026-11-11-09-logo-review-no-publish",
-        "o-2026-11-11-09-feature-review-no-publish"
+        "o-2026-11-11-09-feature-review-no-publish",
+        "o-2026-11-11-10-review-explain-sequence"
       ],
       "lastPractised": "2026-11-11",
       "nextReview": "Correct same-sequence contrasts Queremos probarla / Pruébala and Necesitamos leerla / Léela. Written command accents supplied; recheck after a longer gap."
@@ -3277,7 +3410,8 @@
       "sessionIds": [
         "2026-11-11-07",
         "2026-11-11-08",
-        "2026-11-11-09"
+        "2026-11-11-09",
+        "2026-11-11-10"
       ],
       "observationIds": [
         "o-2026-11-11-07-sequence-first",
@@ -3288,10 +3422,11 @@
         "o-2026-11-11-09-feature-sequence-retry",
         "o-2026-11-11-09-logo-sequence-transfer",
         "o-2026-11-11-09-logo-review-no-publish",
-        "o-2026-11-11-09-feature-review-no-publish"
+        "o-2026-11-11-09-feature-review-no-publish",
+        "o-2026-11-11-10-review-explain-sequence"
       ],
       "lastPractised": "2026-11-11",
-      "nextReview": "Initial probarla/puedes dime mixture needed two direct commands. Focused retry then complete feminine sequence and masculine transfer correct. Later positive/negative sequence had right pronoun placement. Recheck after a gap."
+      "nextReview": "Latest review/explain sequence correctly retained explicit la, both direct commands and readiness clause. Recheck with self-chosen practical instructions after a gap."
     },
     {
       "id": "g-dime-si",
@@ -3315,6 +3450,43 @@
       ],
       "lastPractised": "2026-11-11",
       "nextReview": "Recheck a practical dime-si instruction after intervening material, preserving requested ability or need meaning and object."
+    },
+    {
+      "id": "g-imperative-me",
+      "pattern": "explica + me → explícame",
+      "meaning": "Ask for an explanation directed to me.",
+      "status": "used_successfully",
+      "explanation": "Attached me to affirmative command explica to form explícame, preserving ex-PLÍ-ca-me stress with accent. Learner attached me correctly; initial absent/misplaced accent corrected, then correct explícame accent retained in three prompts. This extends practised affirmative attachment; not a full indirect-object pronoun paradigm.",
+      "sessionIds": [
+        "2026-11-11-10"
+      ],
+      "observationIds": [
+        "o-2026-11-11-10-explain-to-me",
+        "o-2026-11-11-10-explain-not-ready",
+        "o-2026-11-11-10-explain-cannot-publish",
+        "o-2026-11-11-10-explain-need-test",
+        "o-2026-11-11-10-review-explain-sequence"
+      ],
+      "lastPractised": "2026-11-11",
+      "nextReview": "Recheck explícame after a gap, including stress and practical use."
+    },
+    {
+      "id": "g-indirect-why",
+      "pattern": "Explícame por qué + clause",
+      "meaning": "Ask why something is the case using an explanation command.",
+      "status": "used_successfully",
+      "explanation": "Introduced Explícame por qué... for Explain to me why.... Learner correctly formed readiness, inability and need clauses. Separate words por que were consistently typed, with accented qué supplied. This indirect question has no surrounding question marks in the practised command.",
+      "sessionIds": [
+        "2026-11-11-10"
+      ],
+      "observationIds": [
+        "o-2026-11-11-10-explain-not-ready",
+        "o-2026-11-11-10-explain-cannot-publish",
+        "o-2026-11-11-10-explain-need-test",
+        "o-2026-11-11-10-review-explain-sequence"
+      ],
+      "lastPractised": "2026-11-11",
+      "nextReview": "Recheck requested meaning in a practical explanation prompt; supply standard qué spelling without confusing it with clause-formation success."
     }
   ],
   "practiceUnits": [
@@ -3627,10 +3799,10 @@
       "seconds": 45,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 8,
+      "attemptCount": 9,
       "lastAttempt": "2026-11-11",
-      "lastAttemptSessionId": "2026-11-11-08",
-      "lastAttemptVariant": "Dime si necesitamos revisarla, feminine feature referent.",
+      "lastAttemptSessionId": "2026-11-11-10",
+      "lastAttemptVariant": "Explícame por qué necesitamos probarla; infinitive retained.",
       "lastOutcome": "used_successfully",
       "nextReview": "after_a_gap"
     },
@@ -3931,11 +4103,11 @@
       "seconds": 45,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 18,
+      "attemptCount": 19,
       "lastAttempt": "2026-11-11",
-      "lastAttemptSessionId": "2026-11-11-09",
-      "lastAttemptVariant": "Longer sequences plus focused pruébala retry; initial infinitive corrected, later objects retained.",
-      "lastOutcome": "used_with_correction",
+      "lastAttemptSessionId": "2026-11-11-10",
+      "lastAttemptVariant": "Revísala in a longer review/explain sequence, accent supplied.",
+      "lastOutcome": "used_successfully",
       "nextReview": "after_a_gap"
     },
     {
@@ -4044,11 +4216,11 @@
       "seconds": 60,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 9,
+      "attemptCount": 10,
       "lastAttempt": "2026-11-11",
-      "lastAttemptSessionId": "2026-11-11-09",
-      "lastAttemptVariant": "Initial infinitive/puedes-dime mix, corrected feature sequence, masculine transfer, then positive/negative review-publish sequences.",
-      "lastOutcome": "used_with_correction",
+      "lastAttemptSessionId": "2026-11-11-10",
+      "lastAttemptVariant": "First review it, then explain why not ready; all meaning retained.",
+      "lastOutcome": "used_successfully",
       "nextReview": "after_a_gap"
     },
     {
@@ -4079,6 +4251,66 @@
       "lastAttempt": "2026-11-11",
       "lastAttemptSessionId": "2026-11-11-09",
       "lastAttemptVariant": "Initial puedes dime mix, then correct reporting clauses in feminine and masculine sequences.",
+      "lastOutcome": "used_with_correction",
+      "nextReview": "after_a_gap"
+    },
+    {
+      "id": "u-explain-command",
+      "title": "Ask for an explanation",
+      "grammarIds": [
+        "g-regular-imperative-tu",
+        "g-imperative-me",
+        "g-esto-esta"
+      ],
+      "vocabularyIds": [
+        "v-explica",
+        "v-explicame",
+        "v-me",
+        "v-esto",
+        "v-esta",
+        "v-funcion"
+      ],
+      "prompt": "Using tú, say: Explain this function to me, please.",
+      "modelAnswer": "Explícame esta función, por favor.",
+      "hint": "Build explica + me, preserving original stress.",
+      "feedbackFocus": "Affirmative command, attached me and this reference; accent separate from correct attachment.",
+      "seconds": 45,
+      "optional": true,
+      "selection": "enabled",
+      "attemptCount": 2,
+      "lastAttempt": "2026-11-11",
+      "lastAttemptSessionId": "2026-11-11-10",
+      "lastAttemptVariant": "Explain this function; then explain this to me.",
+      "lastOutcome": "used_with_correction",
+      "nextReview": "after_a_gap"
+    },
+    {
+      "id": "u-explain-why",
+      "title": "Ask why with explícame por qué",
+      "grammarIds": [
+        "g-imperative-me",
+        "g-indirect-why",
+        "g-podemos-infinitive",
+        "g-necesitamos-infinitive"
+      ],
+      "vocabularyIds": [
+        "v-explicame",
+        "v-por-que",
+        "v-podemos",
+        "v-necesitamos",
+        "v-probarla"
+      ],
+      "prompt": "Using tú, say: Explain to me why we need to test it. It refers to la función.",
+      "modelAnswer": "Explícame por qué necesitamos probarla.",
+      "hint": "Use por qué for why and an infinitive after necesitamos.",
+      "feedbackFocus": "Meaning, clause formation and command/infinitive distinctions; record supplied accents separately.",
+      "seconds": 60,
+      "optional": true,
+      "selection": "enabled",
+      "attemptCount": 4,
+      "lastAttempt": "2026-11-11",
+      "lastAttemptSessionId": "2026-11-11-10",
+      "lastAttemptVariant": "Not-ready clause, cannot-publish clause, need-test clause, then review/explain sequence.",
       "lastOutcome": "used_with_correction",
       "nextReview": "after_a_gap"
     }
