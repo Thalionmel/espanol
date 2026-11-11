@@ -31,6 +31,7 @@ A shared Spanish learning record for conversation-based teaching and future trai
 - [Command recall in positive and negative sequences](data/sessions/2026-11-11-09.json)
 - [Explain to me why: explícame requests](data/sessions/2026-11-11-10.json)
 - [Self-chosen first/then commands](data/sessions/2026-11-11-11.json)
+- [Image and problem instructions: investiga and arregla](data/sessions/2026-11-11-12.json)
 - [Data format and update rules](docs/data-format.md)
 - [Instructions for future assistants](AGENTS.md)
 
@@ -95,7 +96,9 @@ Introduced **explicar → explica**, then **explica + me → explícame**. Learn
 
 In a self-chosen instruction, **Primero publicalo luegoe pruebalo**, both affirmative command forms and attached **lo** were correct, including the **prueba** stem. Tutor supplied **Primero publícalo, luego pruébalo.** Written accents and **luego** spelling remain separate review targets; no immediate retry was observed.
 
-Next: use a self-chosen practical instruction and recheck **explícame** after a gap. Retain earlier **publiques**, **un poco de**, purpose/reason and location review targets; immediate success does not establish durable recall.
+A self-chosen mixed-language image instruction introduced **investiga**, **el problema** and **la imagen adjunta**. The image chunk was correctly reused. **El problema** was correct with a prompt reminder, but **la problema** recurred; masculine gender despite final **-a** was explained. Introduced **arreglar → arregla**; two self-adapted review/fix sequences correctly attached masculine **lo**. Latest **esto problema** needed newly introduced **este problema**, while **revista** was corrected to **revisa**. Independent **investiga** and **este** retries remain pending.
+
+Next: recheck **el / este problema** and **revisa / investiga**, then return to explanation and earlier command forms. Retain **publiques**, **un poco de**, purpose/reason and location review targets; immediate success does not establish durable recall.
 Review software vocabulary such as **probar**, **revisar**, **los logros**, and **ejecutar las pruebas**.
 Location with **estar** still needs independent recall. **Hablo** was recalled without a hint; the surrounding phrase needed **un poco de español** and spelling corrections.
 

@@ -198,7 +198,8 @@
         "2026-11-10-13",
         "2026-11-11-02",
         "2026-11-11-03",
-        "2026-11-11-10"
+        "2026-11-11-10",
+        "2026-11-11-12"
       ],
       "observationIds": [
         "o-independent",
@@ -215,7 +216,8 @@
         "o-2026-11-11-03-test-this-first",
         "o-2026-11-11-03-test-this-retry",
         "o-2026-11-11-03-read-formal",
-        "o-2026-11-11-10-explain-to-me"
+        "o-2026-11-11-10-explain-to-me",
+        "o-2026-11-11-12-this-problem-sequence"
       ]
     },
     {
@@ -865,7 +867,8 @@
         "2026-11-11-06",
         "2026-11-11-07",
         "2026-11-11-08",
-        "2026-11-11-09"
+        "2026-11-11-09",
+        "2026-11-11-12"
       ],
       "observationIds": [
         "o-object-pronouns",
@@ -888,7 +891,8 @@
         "o-2026-11-11-07-logo-positive-reason",
         "o-2026-11-11-07-test-logo-retry",
         "o-2026-11-11-08-tell-can-test",
-        "o-2026-11-11-09-logo-review-no-publish"
+        "o-2026-11-11-09-logo-review-no-publish",
+        "o-2026-11-11-12-review-fix-alternative"
       ]
     },
     {
@@ -1713,14 +1717,17 @@
       "sessionIds": [
         "2026-11-11-02",
         "2026-11-11-04",
-        "2026-11-11-08"
+        "2026-11-11-08",
+        "2026-11-11-12"
       ],
       "observationIds": [
         "o-2026-11-11-02-review-function",
         "o-2026-11-11-02-review-this",
         "o-2026-11-11-04-review-infinitive",
         "o-2026-11-11-04-review-logo",
-        "o-2026-11-11-08-review-tell-sequence"
+        "o-2026-11-11-08-review-tell-sequence",
+        "o-2026-11-11-12-review-image",
+        "o-2026-11-11-12-this-problem-sequence"
       ]
     },
     {
@@ -1779,7 +1786,8 @@
         "2026-11-11-06",
         "2026-11-11-07",
         "2026-11-11-09",
-        "2026-11-11-10"
+        "2026-11-11-10",
+        "2026-11-11-12"
       ],
       "observationIds": [
         "o-2026-11-11-02-review-function",
@@ -1811,7 +1819,9 @@
         "o-2026-11-11-07-test-logo-retry",
         "o-2026-11-11-09-test-feature-focused",
         "o-2026-11-11-10-explain-function",
-        "o-2026-11-11-10-explain-to-me"
+        "o-2026-11-11-10-explain-to-me",
+        "o-2026-11-11-12-review-image",
+        "o-2026-11-11-12-explain-problem"
       ]
     },
     {
@@ -1886,11 +1896,13 @@
       "lastSeen": "2026-11-11",
       "sessionIds": [
         "2026-11-11-04",
-        "2026-11-11-09"
+        "2026-11-11-09",
+        "2026-11-11-12"
       ],
       "observationIds": [
         "o-2026-11-11-04-review-logo",
-        "o-2026-11-11-09-logo-review-no-publish"
+        "o-2026-11-11-09-logo-review-no-publish",
+        "o-2026-11-11-12-review-fix-alternative"
       ]
     },
     {
@@ -2070,7 +2082,8 @@
         "2026-11-11-08",
         "2026-11-11-09",
         "2026-11-11-10",
-        "2026-11-11-11"
+        "2026-11-11-11",
+        "2026-11-11-12"
       ],
       "observationIds": [
         "o-2026-11-11-07-sequence-first",
@@ -2083,7 +2096,8 @@
         "o-2026-11-11-09-logo-review-no-publish",
         "o-2026-11-11-09-feature-review-no-publish",
         "o-2026-11-11-10-review-explain-sequence",
-        "o-2026-11-11-11-self-chosen-sequence"
+        "o-2026-11-11-11-self-chosen-sequence",
+        "o-2026-11-11-12-review-fix-alternative"
       ]
     },
     {
@@ -2099,7 +2113,8 @@
         "2026-11-11-08",
         "2026-11-11-09",
         "2026-11-11-10",
-        "2026-11-11-11"
+        "2026-11-11-11",
+        "2026-11-11-12"
       ],
       "observationIds": [
         "o-2026-11-11-07-sequence-first",
@@ -2109,7 +2124,9 @@
         "o-2026-11-11-09-feature-sequence-retry",
         "o-2026-11-11-09-logo-sequence-transfer",
         "o-2026-11-11-10-review-explain-sequence",
-        "o-2026-11-11-11-self-chosen-sequence"
+        "o-2026-11-11-11-self-chosen-sequence",
+        "o-2026-11-11-12-review-fix-alternative",
+        "o-2026-11-11-12-this-problem-sequence"
       ]
     },
     {
@@ -2225,18 +2242,20 @@
       "spanish": "explícame",
       "english": "explain to me (affirmative tú command)",
       "status": "used_successfully",
-      "note": "Attached me correctly; initial accent absent then misplaced as explicáme. After stress correction, explicitly used correct explícame accent in three consecutive prompts. Longer-gap recall untested.",
+      "note": "Attached me correctly; initial accent absent then misplaced as explicáme. After stress correction, explicitly used correct explícame accent in three consecutive prompts. Longer-gap recall untested. Later explain-the-problem request retained me but omitted the accent again; spelling supplied.",
       "firstSeen": "2026-11-11",
       "lastSeen": "2026-11-11",
       "sessionIds": [
-        "2026-11-11-10"
+        "2026-11-11-10",
+        "2026-11-11-12"
       ],
       "observationIds": [
         "o-2026-11-11-10-explain-to-me",
         "o-2026-11-11-10-explain-not-ready",
         "o-2026-11-11-10-explain-cannot-publish",
         "o-2026-11-11-10-explain-need-test",
-        "o-2026-11-11-10-review-explain-sequence"
+        "o-2026-11-11-10-review-explain-sequence",
+        "o-2026-11-11-12-explain-problem"
       ]
     },
     {
@@ -2253,6 +2272,148 @@
       "observationIds": [
         "o-2026-11-11-10-explain-to-me",
         "o-2026-11-11-10-explain-not-ready"
+      ]
+    },
+    {
+      "id": "v-investigar",
+      "spanish": "investigar",
+      "english": "to investigate",
+      "status": "introduced",
+      "note": "Introduced as infinitive in investigar → investiga; independent infinitive use not observed.",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "sessionIds": [
+        "2026-11-11-12"
+      ],
+      "observationIds": [
+        "o-2026-11-11-12-self-chosen-image"
+      ]
+    },
+    {
+      "id": "v-investiga",
+      "spanish": "investiga",
+      "english": "investigate (affirmative tú command)",
+      "status": "used_with_correction",
+      "note": "Modelled after Investige; later prompts elicited review commands instead. Correct independent investiga production pending.",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "sessionIds": [
+        "2026-11-11-12"
+      ],
+      "observationIds": [
+        "o-2026-11-11-12-self-chosen-image"
+      ]
+    },
+    {
+      "id": "v-problema",
+      "spanish": "problema",
+      "english": "problem (masculine noun)",
+      "status": "used_with_correction",
+      "note": "El problema was correct once after explicit reminder, but la problema recurred and esto problema later needed este problema. Do not infer gender mastery from correct lo alone.",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "sessionIds": [
+        "2026-11-11-12"
+      ],
+      "observationIds": [
+        "o-2026-11-11-12-self-chosen-image",
+        "o-2026-11-11-12-explain-problem",
+        "o-2026-11-11-12-fix-problem",
+        "o-2026-11-11-12-review-fix-alternative",
+        "o-2026-11-11-12-this-problem-sequence"
+      ]
+    },
+    {
+      "id": "v-imagen",
+      "spanish": "imagen",
+      "english": "image (feminine noun)",
+      "status": "used_successfully",
+      "note": "Initial imago with el corrected to la imagen; then correctly used la imagen adjunta after model.",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "sessionIds": [
+        "2026-11-11-12"
+      ],
+      "observationIds": [
+        "o-2026-11-11-12-self-chosen-image",
+        "o-2026-11-11-12-review-image"
+      ]
+    },
+    {
+      "id": "v-adjunta",
+      "spanish": "adjunta",
+      "english": "attached (feminine singular)",
+      "status": "used_successfully",
+      "note": "Supplied for English attached, then correctly reused with la imagen after model.",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "sessionIds": [
+        "2026-11-11-12"
+      ],
+      "observationIds": [
+        "o-2026-11-11-12-self-chosen-image",
+        "o-2026-11-11-12-review-image"
+      ]
+    },
+    {
+      "id": "v-arreglar",
+      "spanish": "arreglar",
+      "english": "to fix",
+      "status": "introduced",
+      "note": "Infinitive introduced in arreglar → arregla; independent infinitive use not observed.",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "sessionIds": [
+        "2026-11-11-12"
+      ],
+      "observationIds": [
+        "o-2026-11-11-12-fix-problem"
+      ]
+    },
+    {
+      "id": "v-arregla",
+      "spanish": "arregla",
+      "english": "fix (affirmative tú command)",
+      "status": "used_successfully",
+      "note": "Correct command after model, with separate noun-gender error.",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "sessionIds": [
+        "2026-11-11-12"
+      ],
+      "observationIds": [
+        "o-2026-11-11-12-fix-problem"
+      ]
+    },
+    {
+      "id": "v-arreglalo",
+      "spanish": "arréglalo",
+      "english": "fix it (affirmative tú; masculine object)",
+      "status": "used_with_correction",
+      "note": "Correctly built arregla + lo in two self-adapted sequences; accents supplied. Longer-gap recall untested.",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "sessionIds": [
+        "2026-11-11-12"
+      ],
+      "observationIds": [
+        "o-2026-11-11-12-review-fix-alternative",
+        "o-2026-11-11-12-this-problem-sequence"
+      ]
+    },
+    {
+      "id": "v-este",
+      "spanish": "este",
+      "english": "this (before a masculine singular noun in the practised phrase)",
+      "status": "introduced",
+      "note": "Introduced in correction este problema after esto problema. No correct learner retry yet; not a full demonstrative paradigm.",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "sessionIds": [
+        "2026-11-11-12"
+      ],
+      "observationIds": [
+        "o-2026-11-11-12-this-problem-sequence"
       ]
     }
   ],
@@ -2567,7 +2728,12 @@
         "o-2026-11-11-10-explain-cannot-publish",
         "o-2026-11-11-10-explain-need-test",
         "o-2026-11-11-10-review-explain-sequence",
-        "o-2026-11-11-11-self-chosen-sequence"
+        "o-2026-11-11-11-self-chosen-sequence",
+        "o-2026-11-11-12-self-chosen-image",
+        "o-2026-11-11-12-review-image",
+        "o-2026-11-11-12-explain-problem",
+        "o-2026-11-11-12-review-fix-alternative",
+        "o-2026-11-11-12-this-problem-sequence"
       ],
       "nextReview": "Observe naturally; avoid repetitive spelling drills.",
       "lastPractised": "2026-11-11",
@@ -2595,7 +2761,8 @@
         "2026-11-11-08",
         "2026-11-11-09",
         "2026-11-11-10",
-        "2026-11-11-11"
+        "2026-11-11-11",
+        "2026-11-11-12"
       ]
     },
     {
@@ -2792,7 +2959,8 @@
         "o-2026-11-11-09-feature-review-no-publish",
         "o-2026-11-11-10-explain-cannot-publish",
         "o-2026-11-11-10-explain-need-test",
-        "o-2026-11-11-10-review-explain-sequence"
+        "o-2026-11-11-10-review-explain-sequence",
+        "o-2026-11-11-12-review-fix-alternative"
       ],
       "nextReview": "Feminine and masculine command/readiness transfers were correct in this batch. Preserve this evidence without assuming longer-term retention.",
       "lastPractised": "2026-11-11",
@@ -2810,7 +2978,8 @@
         "2026-11-11-07",
         "2026-11-11-08",
         "2026-11-11-09",
-        "2026-11-11-10"
+        "2026-11-11-10",
+        "2026-11-11-12"
       ]
     },
     {
@@ -3176,10 +3345,10 @@
     },
     {
       "id": "g-esto-esta",
-      "pattern": "esto / esta + feminine noun",
+      "pattern": "esto / esta + feminine noun / este + masculine noun",
       "meaning": "Standalone this versus this function in the practised request.",
       "status": "used_successfully",
-      "explanation": "In the practised general-this targets, esto stands alone: Revisa esto. Before feminine función, use esta función. Learner had correctly used esta función after a model in session13, but esto before función recurred twice during imperative practice; then correctly chose esta in a gap and used standalone esto in a full command. Esta may itself refer to a known feminine item in other contexts; no complete demonstrative paradigm taught.",
+      "explanation": "In the practised general-this targets, esto stands alone: Revisa esto. Before feminine función, use esta función. Learner had correctly used esta función after a model in session13, but esto before función recurred twice during imperative practice; then correctly chose esta in a gap and used standalone esto in a full command. Esta may itself refer to a known feminine item in other contexts; no complete demonstrative paradigm taught. In session12, newly introduced este problema after learner esto problema, extending the practised contrast to a masculine noun. Independent este production pending.",
       "sessionIds": [
         "2026-11-10-12",
         "2026-11-10-13",
@@ -3187,7 +3356,8 @@
         "2026-11-11-03",
         "2026-11-11-04",
         "2026-11-11-05",
-        "2026-11-11-10"
+        "2026-11-11-10",
+        "2026-11-11-12"
       ],
       "observationIds": [
         "o-l12-request-first",
@@ -3212,9 +3382,10 @@
         "o-2026-11-11-05-negative-review",
         "o-2026-11-11-05-negative-create",
         "o-2026-11-11-10-explain-function",
-        "o-2026-11-11-10-explain-to-me"
+        "o-2026-11-11-10-explain-to-me",
+        "o-2026-11-11-12-this-problem-sequence"
       ],
-      "nextReview": "Correct full Crea esta función after previous corrections, and correct esto throughout test/read requests in this batch. Longer-gap contrast still needs review.",
+      "nextReview": "Contrast standalone esto, esta función and newly introduced este problema, without supplying all answers in the prompt.",
       "lastPractised": "2026-11-11"
     },
     {
@@ -3230,7 +3401,8 @@
         "2026-11-11-05",
         "2026-11-11-06",
         "2026-11-11-08",
-        "2026-11-11-10"
+        "2026-11-11-10",
+        "2026-11-11-12"
       ],
       "observationIds": [
         "o-2026-11-11-02-review-function",
@@ -3247,7 +3419,11 @@
         "o-2026-11-11-05-read-command",
         "o-2026-11-11-06-review-positive-object",
         "o-2026-11-11-08-review-tell-sequence",
-        "o-2026-11-11-10-explain-function"
+        "o-2026-11-11-10-explain-function",
+        "o-2026-11-11-12-self-chosen-image",
+        "o-2026-11-11-12-review-image",
+        "o-2026-11-11-12-fix-problem",
+        "o-2026-11-11-12-this-problem-sequence"
       ],
       "lastPractised": "2026-11-11",
       "nextReview": "Correct informal lee recalled with tú explicit. Recheck regular command versus infinitive when attaching an object: revisa + la, not revisar + la, for the personal command target."
@@ -3317,7 +3493,8 @@
         "2026-11-11-08",
         "2026-11-11-09",
         "2026-11-11-10",
-        "2026-11-11-11"
+        "2026-11-11-11",
+        "2026-11-11-12"
       ],
       "observationIds": [
         "o-2026-11-11-04-review-infinitive",
@@ -3342,7 +3519,9 @@
         "o-2026-11-11-09-logo-review-no-publish",
         "o-2026-11-11-09-feature-review-no-publish",
         "o-2026-11-11-10-review-explain-sequence",
-        "o-2026-11-11-11-self-chosen-sequence"
+        "o-2026-11-11-11-self-chosen-sequence",
+        "o-2026-11-11-12-review-fix-alternative",
+        "o-2026-11-11-12-this-problem-sequence"
       ],
       "lastPractised": "2026-11-11",
       "nextReview": "Correct same-sequence contrasts Queremos probarla / Pruébala and Necesitamos leerla / Léela. Written command accents supplied; recheck after a longer gap."
@@ -3426,7 +3605,8 @@
         "2026-11-11-08",
         "2026-11-11-09",
         "2026-11-11-10",
-        "2026-11-11-11"
+        "2026-11-11-11",
+        "2026-11-11-12"
       ],
       "observationIds": [
         "o-2026-11-11-07-sequence-first",
@@ -3439,7 +3619,9 @@
         "o-2026-11-11-09-logo-review-no-publish",
         "o-2026-11-11-09-feature-review-no-publish",
         "o-2026-11-11-10-review-explain-sequence",
-        "o-2026-11-11-11-self-chosen-sequence"
+        "o-2026-11-11-11-self-chosen-sequence",
+        "o-2026-11-11-12-review-fix-alternative",
+        "o-2026-11-11-12-this-problem-sequence"
       ],
       "lastPractised": "2026-11-11",
       "nextReview": "A self-chosen publish/test sequence retained action order and both command forms. Written accents and luego spelling supplied; revisit after a gap."
@@ -3474,14 +3656,16 @@
       "status": "used_successfully",
       "explanation": "Attached me to affirmative command explica to form explícame, preserving ex-PLÍ-ca-me stress with accent. Learner attached me correctly; initial absent/misplaced accent corrected, then correct explícame accent retained in three prompts. This extends practised affirmative attachment; not a full indirect-object pronoun paradigm.",
       "sessionIds": [
-        "2026-11-11-10"
+        "2026-11-11-10",
+        "2026-11-11-12"
       ],
       "observationIds": [
         "o-2026-11-11-10-explain-to-me",
         "o-2026-11-11-10-explain-not-ready",
         "o-2026-11-11-10-explain-cannot-publish",
         "o-2026-11-11-10-explain-need-test",
-        "o-2026-11-11-10-review-explain-sequence"
+        "o-2026-11-11-10-review-explain-sequence",
+        "o-2026-11-11-12-explain-problem"
       ],
       "lastPractised": "2026-11-11",
       "nextReview": "Recheck explícame after a gap, including stress and practical use."
@@ -3503,6 +3687,25 @@
       ],
       "lastPractised": "2026-11-11",
       "nextReview": "Recheck requested meaning in a practical explanation prompt; supply standard qué spelling without confusing it with clause-formation success."
+    },
+    {
+      "id": "g-problema-gender",
+      "pattern": "el problema / este problema / attached masculine lo",
+      "meaning": "Use masculine reference with problema despite its final -a.",
+      "status": "used_with_correction",
+      "explanation": "Corrected la problema to el problema. Learner used el once after a reminder, then la recurred; tutor explicitly explained the masculine noun. Correct lo in review/fix sequences does not itself prove article recall. Latest esto problema was corrected to este problema; no correct este retry yet.",
+      "sessionIds": [
+        "2026-11-11-12"
+      ],
+      "observationIds": [
+        "o-2026-11-11-12-self-chosen-image",
+        "o-2026-11-11-12-explain-problem",
+        "o-2026-11-11-12-fix-problem",
+        "o-2026-11-11-12-review-fix-alternative",
+        "o-2026-11-11-12-this-problem-sequence"
+      ],
+      "lastPractised": "2026-11-11",
+      "nextReview": "Recheck el problema and newly introduced este problema without a fresh answer model; separate verb-meaning recall from gender."
     }
   ],
   "practiceUnits": [
@@ -4119,11 +4322,11 @@
       "seconds": 45,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 19,
+      "attemptCount": 21,
       "lastAttempt": "2026-11-11",
-      "lastAttemptSessionId": "2026-11-11-10",
-      "lastAttemptVariant": "Revísala in a longer review/explain sequence, accent supplied.",
-      "lastOutcome": "used_successfully",
+      "lastAttemptSessionId": "2026-11-11-12",
+      "lastAttemptVariant": "Review/fix sequences retained masculine lo; written command accents supplied.",
+      "lastOutcome": "used_with_correction",
       "nextReview": "after_a_gap"
     },
     {
@@ -4232,10 +4435,10 @@
       "seconds": 60,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 11,
+      "attemptCount": 13,
       "lastAttempt": "2026-11-11",
-      "lastAttemptSessionId": "2026-11-11-11",
-      "lastAttemptVariant": "Self-chosen publish first, then test sequence; command forms correct, accents and luego spelling supplied.",
+      "lastAttemptSessionId": "2026-11-11-12",
+      "lastAttemptVariant": "Self-adapted review/fix sequences; final named-problem version needed este and revisa spelling.",
       "lastOutcome": "used_with_correction",
       "nextReview": "after_a_gap"
     },
@@ -4293,10 +4496,10 @@
       "seconds": 45,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 2,
+      "attemptCount": 3,
       "lastAttempt": "2026-11-11",
-      "lastAttemptSessionId": "2026-11-11-10",
-      "lastAttemptVariant": "Explain this function; then explain this to me.",
+      "lastAttemptSessionId": "2026-11-11-12",
+      "lastAttemptVariant": "Explain the problem to me; el supplied in prompt reminder, explícame accent corrected.",
       "lastOutcome": "used_with_correction",
       "nextReview": "after_a_gap"
     },
@@ -4327,6 +4530,61 @@
       "lastAttempt": "2026-11-11",
       "lastAttemptSessionId": "2026-11-11-10",
       "lastAttemptVariant": "Not-ready clause, cannot-publish clause, need-test clause, then review/explain sequence.",
+      "lastOutcome": "used_with_correction",
+      "nextReview": "after_a_gap"
+    },
+    {
+      "id": "u-image-instruction",
+      "title": "Give an instruction about the attached image",
+      "grammarIds": [
+        "g-regular-imperative-tu"
+      ],
+      "vocabularyIds": [
+        "v-investiga",
+        "v-revisa",
+        "v-imagen",
+        "v-adjunta"
+      ],
+      "prompt": "Using tú, say: Review the attached image, please.",
+      "modelAnswer": "Revisa la imagen adjunta, por favor.",
+      "hint": "Attached image = imagen adjunta; use feminine la.",
+      "feedbackFocus": "Command form and feminine image chunk; a classroom reference does not imply an image was attached or analysed.",
+      "seconds": 45,
+      "optional": true,
+      "selection": "enabled",
+      "attemptCount": 2,
+      "lastAttempt": "2026-11-11",
+      "lastAttemptSessionId": "2026-11-11-12",
+      "lastAttemptVariant": "Self-chosen investigate-problem-with-image request, then review-attached-image transfer.",
+      "lastOutcome": "used_with_correction",
+      "nextReview": "after_a_gap"
+    },
+    {
+      "id": "u-problema-instruction",
+      "title": "Keep problema masculine in work instructions",
+      "grammarIds": [
+        "g-problema-gender",
+        "g-esto-esta",
+        "g-imperative-objects"
+      ],
+      "vocabularyIds": [
+        "v-problema",
+        "v-este",
+        "v-investiga",
+        "v-arregla",
+        "v-arreglalo"
+      ],
+      "prompt": "Using tú, say: Review this problem; then fix it.",
+      "modelAnswer": "Revisa este problema; luego arréglalo.",
+      "hint": "Problema is masculine: el / este / lo.",
+      "feedbackFocus": "Noun reference and explicit meaning; distinguish review from investigate and acknowledge valid alternative instructions.",
+      "seconds": 60,
+      "optional": true,
+      "selection": "enabled",
+      "attemptCount": 4,
+      "lastAttempt": "2026-11-11",
+      "lastAttemptSessionId": "2026-11-11-12",
+      "lastAttemptVariant": "Explain the problem, fix the problem (la error), review/fix alternative, then esto problema correction.",
       "lastOutcome": "used_with_correction",
       "nextReview": "after_a_gap"
     }

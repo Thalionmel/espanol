@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-11-12",
+  "date": "2026-11-11",
+  "source": "Six learner attempts saved as one batch",
+  "lessonTheme": "Self-chosen image/problem instructions and masculine problema",
+  "duration": {
+    "requestedMinutes": null,
+    "measuredMinutes": null
+  },
+  "summary": "Self-chosen mixed-language instruction led to investiga, el problema and la imagen adjunta models. Correctly reused image chunk. El problema correct after reminder, but la problema recurred. Introduced arreglar/arregla; two valid review/fix sequences retained masculine lo. Latest esto problema needed newly introduced este problema; investigate target was not independently produced.",
+  "observations": [
+    {
+      "id": "o-2026-11-11-12-self-chosen-image",
+      "kind": "self_chosen_instruction",
+      "learnerText": "Investige que es la problema con el imago attached",
+      "correctedText": "Investiga el problema con la imagen adjunta.",
+      "grammarIds": [
+        "g-regular-imperative-tu",
+        "g-problema-gender",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-investigar",
+        "v-investiga",
+        "v-problema",
+        "v-imagen",
+        "v-adjunta"
+      ],
+      "outcome": "Self-chosen mixed-language work instruction in lesson context. Tutor modelled natural direct instruction, including tú investiga, masculine el problema and feminine la imagen adjunta. No image attachment was available or analysed; only language form assessed."
+    },
+    {
+      "id": "o-2026-11-11-12-review-image",
+      "kind": "prompted_production",
+      "learnerText": "revisa la imagen adjunta, por favor",
+      "correctedText": "Revisa la imagen adjunta, por favor.",
+      "grammarIds": [
+        "g-regular-imperative-tu",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-revisa",
+        "v-imagen",
+        "v-adjunta",
+        "v-por-favor"
+      ],
+      "outcome": "Correct full la imagen adjunta chunk and revisa after model; only sentence capitalization supplied."
+    },
+    {
+      "id": "o-2026-11-11-12-explain-problem",
+      "kind": "prompted_production",
+      "learnerText": "Explicame el problema por favor",
+      "correctedText": "Explícame el problema, por favor.",
+      "grammarIds": [
+        "g-imperative-me",
+        "g-problema-gender",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-explicame",
+        "v-problema",
+        "v-por-favor"
+      ],
+      "outcome": "Correct el problema after an explicit noun reminder in prompt. Me attachment correct; explícame accent supplied. Tutor next introduced arreglar → arregla."
+    },
+    {
+      "id": "o-2026-11-11-12-fix-problem",
+      "kind": "prompted_production",
+      "learnerText": "Arregla la problema, por favor",
+      "correctedText": "Arregla el problema, por favor.",
+      "grammarIds": [
+        "g-regular-imperative-tu",
+        "g-problema-gender"
+      ],
+      "vocabularyIds": [
+        "v-arreglar",
+        "v-arregla",
+        "v-problema"
+      ],
+      "outcome": "Correct command arregla after model; feminine la before masculine problema recurred. Tutor explicitly explained el problema despite final -a."
+    },
+    {
+      "id": "o-2026-11-11-12-review-fix-alternative",
+      "kind": "prompted_production",
+      "learnerText": "primero revisalo, luego arreglalo",
+      "correctedText": "Primero revísalo; luego arréglalo.",
+      "grammarIds": [
+        "g-sequenced-commands",
+        "g-imperative-objects",
+        "g-object-gender",
+        "g-problema-gender",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-primero",
+        "v-revisalo",
+        "v-luego",
+        "v-arreglalo",
+        "v-lo",
+        "v-problema"
+      ],
+      "outcome": "Valid self-chosen review-it/then-fix-it sequence, with attached masculine lo appropriate to problema; accents supplied. Prompt had requested First investigate the problem, so acknowledge changed meaning and do not count explicit article el or investigate recall as demonstrated."
+    },
+    {
+      "id": "o-2026-11-11-12-this-problem-sequence",
+      "kind": "prompted_production",
+      "learnerText": "revista esto problema; luego arreglalo",
+      "correctedText": "Revisa este problema; luego arréglalo.",
+      "grammarIds": [
+        "g-sequenced-commands",
+        "g-regular-imperative-tu",
+        "g-imperative-objects",
+        "g-esto-esta",
+        "g-problema-gender",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-revisa",
+        "v-esto",
+        "v-este",
+        "v-problema",
+        "v-luego",
+        "v-arreglalo"
+      ],
+      "outcome": "Learner supplied another review/fix sequence rather than requested investigate-the-problem target. Natural version corrected command spelling to revisa and esto before masculine noun to este problema; final arréglalo attachment appropriate, accent supplied. Tutor introduced este before masculine problema, esto standalone, and reminded investiga for investigate. No correct learner este or investiga retry yet."
+    }
+  ],
+  "nextSteps": [
+    "Produce este problema and el problema without a fresh model",
+    "Distinguish review revisa from investigate investiga in a practical instruction",
+    "Revisit masculine object attachment with arréglalo after intervening material"
+  ],
+  "skippedUnitIds": [],
+  "assessmentNote": "Valid self-adapted instructions are separate from exact target matches. Image mention was classroom language only; no unseen image analysis claimed. Noun reminders and immediate models are not evidence of independent recall."
+}
