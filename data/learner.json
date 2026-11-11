@@ -107,9 +107,12 @@
     "g-readiness-time",
     "g-pero",
     "g-esto-esta",
-    "g-regular-imperative-tu"
+    "g-regular-imperative-tu",
+    "g-probar-imperative",
+    "g-imperative-register"
   ],
   "nextUnitIds": [
+    "u-prueba",
     "u-regular-imperative-tu",
     "u-un-poco-de",
     "u-para-vs-porque",
@@ -145,7 +148,7 @@
     ],
     "intervalsAreFlexible": true
   },
-  "latestSessionId": "2026-11-11-02",
+  "latestSessionId": "2026-11-11-03",
   "disclosureAuthorization": {
     "publicLearningRecord": true,
     "ongoingUpdatesAuthorized": true,

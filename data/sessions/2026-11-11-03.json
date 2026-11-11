@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-11-03",
+  "date": "2026-11-11",
+  "source": "Six learner attempts saved as one batch",
+  "lessonTheme": "Prueba stem change and valid formal lea versus informal lee",
+  "duration": {
+    "requestedMinutes": null,
+    "measuredMinutes": null
+  },
+  "summary": "Correctly recalled Crea esta función. Introduced affirmative tú prueba; proba recurred twice, followed by correct ue recognition and full Prueba esto supported retry. Read-this prompt produced valid formal Lea esto. Tutor acknowledged usted form and supplied tú Lee esto. Demonstratives esto/esta función were correct throughout this batch.",
+  "observations": [
+    {
+      "id": "o-2026-11-11-03-create-this-function",
+      "kind": "prompted_production",
+      "learnerText": "Crea esta funcion por favor",
+      "correctedText": "Crea esta función, por favor.",
+      "grammarIds": [
+        "g-regular-imperative-tu",
+        "g-esto-esta",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-crea",
+        "v-esta",
+        "v-funcion",
+        "v-por-favor"
+      ],
+      "outcome": "Correct crea and complete esta función without a fresh command model. Función accent and conventional punctuation supplied. Tutor then introduced probar → prueba."
+    },
+    {
+      "id": "o-2026-11-11-03-test-function",
+      "kind": "prompted_production",
+      "learnerText": "Proba esta funcion por favor",
+      "correctedText": "Prueba esta función, por favor.",
+      "grammarIds": [
+        "g-probar-imperative",
+        "g-esto-esta",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-prueba",
+        "v-probar",
+        "v-esta",
+        "v-funcion",
+        "v-por-favor"
+      ],
+      "outcome": "Esta función correct. For the practised affirmative tú form, proba corrected to prueba; o → ue explicitly explained. Do not generalize this correction into a claim that no other regional form exists."
+    },
+    {
+      "id": "o-2026-11-11-03-test-this-first",
+      "kind": "prompted_production",
+      "learnerText": "Proba esto por favor",
+      "correctedText": "Prueba esto, por favor.",
+      "grammarIds": [
+        "g-probar-imperative",
+        "g-esto-esta"
+      ],
+      "vocabularyIds": [
+        "v-prueba",
+        "v-probar",
+        "v-esto",
+        "v-por-favor"
+      ],
+      "outcome": "Correct standalone esto, but proba recurred immediately after the prueba correction. Tutor emphasized ue and pronunciation PRUE-ba, then narrowed the exercise to pr__ba."
+    },
+    {
+      "id": "o-2026-11-11-03-ue-gap",
+      "kind": "cued_gap_selection",
+      "learnerText": "Ue",
+      "correctedText": null,
+      "grammarIds": [
+        "g-probar-imperative"
+      ],
+      "vocabularyIds": [
+        "v-prueba"
+      ],
+      "outcome": "Correct missing letters ue with the target explicitly cued. Recognition, not independent command recall."
+    },
+    {
+      "id": "o-2026-11-11-03-test-this-retry",
+      "kind": "prompted_production",
+      "learnerText": "Prueba esto por favor",
+      "correctedText": null,
+      "grammarIds": [
+        "g-probar-imperative",
+        "g-esto-esta"
+      ],
+      "vocabularyIds": [
+        "v-prueba",
+        "v-esto",
+        "v-por-favor"
+      ],
+      "outcome": "Correct full Prueba esto command after the stem gap and full-word model. Immediate supported retry; delayed retention untested."
+    },
+    {
+      "id": "o-2026-11-11-03-read-formal",
+      "kind": "prompted_production",
+      "learnerText": "Lea esto por favor",
+      "correctedText": null,
+      "grammarIds": [
+        "g-imperative-register",
+        "g-regular-imperative-tu",
+        "g-esto-esta"
+      ],
+      "vocabularyIds": [
+        "v-lea",
+        "v-lee",
+        "v-leer",
+        "v-esto",
+        "v-por-favor"
+      ],
+      "outcome": "Grammatical formal usted command Lea esto, por favor. The sequence had practised informal tú; tutor acknowledged formal sentence as valid and supplied informal Lee esto, por favor. Do not score the sentence as ungrammatical, infer deliberate register choice or count it as unaided tú lee recall."
+    }
+  ],
+  "nextSteps": [
+    "Recall prueba after intervening material without a stem hint",
+    "Recheck informal lee while explicitly specifying tú",
+    "Keep command verb, register, demonstrative and spelling assessments separate"
+  ],
+  "skippedUnitIds": [],
+  "assessmentNote": "Correct supported retry and cued recognition are not delayed recall. Formal Lea esto is valid; deliberate register choice was not established. No negative or pronoun-attached command rule taught."
+}

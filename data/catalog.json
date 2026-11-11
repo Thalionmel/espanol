@@ -190,7 +190,8 @@
         "2026-11-10-10",
         "2026-11-10-12",
         "2026-11-10-13",
-        "2026-11-11-02"
+        "2026-11-11-02",
+        "2026-11-11-03"
       ],
       "observationIds": [
         "o-independent",
@@ -203,7 +204,10 @@
         "o-2026-11-11-02-review-function",
         "o-2026-11-11-02-read-this",
         "o-2026-11-11-02-read-function",
-        "o-2026-11-11-02-review-this"
+        "o-2026-11-11-02-review-this",
+        "o-2026-11-11-03-test-this-first",
+        "o-2026-11-11-03-test-this-retry",
+        "o-2026-11-11-03-read-formal"
       ]
     },
     {
@@ -310,14 +314,15 @@
       "status": "used_successfully",
       "note": "Probar covers testing and trying out. Queremos probarla recalled in session11 without a Spanish form hint; earlier session03 supplied probar. Delayed retention unassessed.",
       "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-10",
+      "lastSeen": "2026-11-11",
       "sessionIds": [
         "2026-11-10-01",
         "2026-11-10-03",
         "2026-11-10-07",
         "2026-11-10-11",
         "2026-11-10-12",
-        "2026-11-10-13"
+        "2026-11-10-13",
+        "2026-11-11-03"
       ],
       "observationIds": [
         "o-probar",
@@ -327,7 +332,9 @@
         "o-l11-test-recall",
         "o-l12-test-reason",
         "o-l13-test-this",
-        "o-l13-test-function"
+        "o-l13-test-function",
+        "o-2026-11-11-03-test-function",
+        "o-2026-11-11-03-test-this-first"
       ]
     },
     {
@@ -433,7 +440,8 @@
         "2026-11-10-11",
         "2026-11-10-12",
         "2026-11-10-13",
-        "2026-11-11-02"
+        "2026-11-11-02",
+        "2026-11-11-03"
       ],
       "observationIds": [
         "o-probar",
@@ -450,7 +458,9 @@
         "o-2026-11-11-02-review-function",
         "o-2026-11-11-02-create-function",
         "o-2026-11-11-02-read-function",
-        "o-2026-11-11-02-esta-gap"
+        "o-2026-11-11-02-esta-gap",
+        "o-2026-11-11-03-create-this-function",
+        "o-2026-11-11-03-test-function"
       ]
     },
     {
@@ -1135,14 +1145,16 @@
         "o-l5-reason",
         "o-l5-queremos",
         "o-l6-que-leer",
-        "o-2026-11-11-02-read-this"
+        "o-2026-11-11-02-read-this",
+        "o-2026-11-11-03-read-formal"
       ],
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-11",
       "sessionIds": [
         "2026-11-10-05",
         "2026-11-10-06",
-        "2026-11-11-02"
+        "2026-11-11-02",
+        "2026-11-11-03"
       ]
     },
     {
@@ -1550,13 +1562,14 @@
       "spanish": "esta",
       "english": "this (before a feminine singular noun in the practised phrase)",
       "status": "used_successfully",
-      "note": "Earlier correct model-supported esta función, but esto before función recurred in two command attempts. Correct esta choice in a cued gap, followed by correct standalone esto command. Independent delayed contrast still needs review.",
+      "note": "After repeated esto función errors, correctly produced full Crea esta función without a fresh model, then retained esta función in the test command; exact long-term retention untested.",
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-11",
       "sessionIds": [
         "2026-11-10-12",
         "2026-11-10-13",
-        "2026-11-11-02"
+        "2026-11-11-02",
+        "2026-11-11-03"
       ],
       "observationIds": [
         "o-l12-request-first",
@@ -1565,7 +1578,9 @@
         "o-2026-11-11-02-review-function",
         "o-2026-11-11-02-read-this",
         "o-2026-11-11-02-read-function",
-        "o-2026-11-11-02-esta-gap"
+        "o-2026-11-11-02-esta-gap",
+        "o-2026-11-11-03-create-this-function",
+        "o-2026-11-11-03-test-function"
       ]
     },
     {
@@ -1593,26 +1608,30 @@
       "firstSeen": "2026-11-11",
       "lastSeen": "2026-11-11",
       "sessionIds": [
-        "2026-11-11-02"
+        "2026-11-11-02",
+        "2026-11-11-03"
       ],
       "observationIds": [
-        "o-2026-11-11-02-create-function"
+        "o-2026-11-11-02-create-function",
+        "o-2026-11-11-03-create-this-function"
       ]
     },
     {
       "id": "v-lee",
       "spanish": "lee",
       "english": "read (affirmative tú command)",
-      "note": "Correctly used twice after leer → lee explanation; object-reference errors assessed separately.",
+      "note": "Earlier twice correct after a model. Later read-this prompt produced grammatical formal lea; informal tú lee supplied again. Delayed unaided tú recall remains untested.",
       "status": "used_successfully",
       "firstSeen": "2026-11-11",
       "lastSeen": "2026-11-11",
       "sessionIds": [
-        "2026-11-11-02"
+        "2026-11-11-02",
+        "2026-11-11-03"
       ],
       "observationIds": [
         "o-2026-11-11-02-read-this",
-        "o-2026-11-11-02-read-function"
+        "o-2026-11-11-02-read-function",
+        "o-2026-11-11-03-read-formal"
       ]
     },
     {
@@ -1624,14 +1643,53 @@
       "firstSeen": "2026-11-11",
       "lastSeen": "2026-11-11",
       "sessionIds": [
-        "2026-11-11-02"
+        "2026-11-11-02",
+        "2026-11-11-03"
       ],
       "observationIds": [
         "o-2026-11-11-02-review-function",
         "o-2026-11-11-02-create-function",
         "o-2026-11-11-02-read-this",
         "o-2026-11-11-02-read-function",
-        "o-2026-11-11-02-review-this"
+        "o-2026-11-11-02-review-this",
+        "o-2026-11-11-03-create-this-function",
+        "o-2026-11-11-03-test-function",
+        "o-2026-11-11-03-test-this-first",
+        "o-2026-11-11-03-test-this-retry",
+        "o-2026-11-11-03-read-formal"
+      ]
+    },
+    {
+      "id": "v-prueba",
+      "spanish": "prueba",
+      "english": "test / try (affirmative tú command)",
+      "status": "used_successfully",
+      "note": "After probar → prueba introduction, proba recurred twice. Correct ue gap then full Prueba esto supported retry. Longer-gap recall pending.",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "sessionIds": [
+        "2026-11-11-03"
+      ],
+      "observationIds": [
+        "o-2026-11-11-03-test-function",
+        "o-2026-11-11-03-test-this-first",
+        "o-2026-11-11-03-ue-gap",
+        "o-2026-11-11-03-test-this-retry"
+      ]
+    },
+    {
+      "id": "v-lea",
+      "spanish": "lea",
+      "english": "read (formal usted command)",
+      "status": "used_successfully",
+      "note": "Produced grammatical Lea esto por favor when sequence expected informal tú. Formal meaning acknowledged and tú lee modelled. Intentional register choice and retention unassessed.",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11",
+      "sessionIds": [
+        "2026-11-11-03"
+      ],
+      "observationIds": [
+        "o-2026-11-11-03-read-formal"
       ]
     }
   ],
@@ -1900,7 +1958,9 @@
         "o-2026-11-11-01-understand-reason",
         "o-2026-11-11-02-review-function",
         "o-2026-11-11-02-create-function",
-        "o-2026-11-11-02-read-function"
+        "o-2026-11-11-02-read-function",
+        "o-2026-11-11-03-create-this-function",
+        "o-2026-11-11-03-test-function"
       ],
       "nextReview": "Observe naturally; avoid repetitive spelling drills.",
       "lastPractised": "2026-11-11",
@@ -1919,7 +1979,8 @@
         "2026-11-10-13",
         "2026-11-10-14",
         "2026-11-11-01",
-        "2026-11-11-02"
+        "2026-11-11-02",
+        "2026-11-11-03"
       ]
     },
     {
@@ -2423,7 +2484,8 @@
       "sessionIds": [
         "2026-11-10-12",
         "2026-11-10-13",
-        "2026-11-11-02"
+        "2026-11-11-02",
+        "2026-11-11-03"
       ],
       "observationIds": [
         "o-l12-request-first",
@@ -2437,9 +2499,14 @@
         "o-2026-11-11-02-read-this",
         "o-2026-11-11-02-read-function",
         "o-2026-11-11-02-esta-gap",
-        "o-2026-11-11-02-review-this"
+        "o-2026-11-11-02-review-this",
+        "o-2026-11-11-03-create-this-function",
+        "o-2026-11-11-03-test-function",
+        "o-2026-11-11-03-test-this-first",
+        "o-2026-11-11-03-test-this-retry",
+        "o-2026-11-11-03-read-formal"
       ],
-      "nextReview": "Recheck esta función in full sentence production without an immediate model. Latest correct esta was a two-option gap; full Revisa esto was a successful immediate switch.",
+      "nextReview": "Correct full Crea esta función after previous corrections, and correct esto throughout test/read requests in this batch. Longer-gap contrast still needs review.",
       "lastPractised": "2026-11-11"
     },
     {
@@ -2447,19 +2514,55 @@
       "pattern": "regular affirmative tú commands: -ar → -a; -er → -e",
       "meaning": "Give practical direct instructions using the familiar tú form.",
       "status": "used_successfully",
-      "explanation": "Compared ¿Puedes revisar esto? with Revisa esto. Introduced revisar → revisa, crear → crea, leer → lee. Learner formed all practised command verbs correctly after models, while esto/esta needed separate correction. This rule covers the regular affirmative forms taught; negative, irregular and -ir commands have not been taught.",
+      "explanation": "Compared ¿Puedes revisar esto? with Revisa esto. Introduced revisar → revisa, crear → crea, leer → lee. These regular affirmative forms were used correctly after models; later crea was recalled, while a read prompt elicited valid formal lea. Demonstratives and spelling assessed separately. Irregular prueba is covered separately; negative and -ir commands have not been taught.",
       "sessionIds": [
-        "2026-11-11-02"
+        "2026-11-11-02",
+        "2026-11-11-03"
       ],
       "observationIds": [
         "o-2026-11-11-02-review-function",
         "o-2026-11-11-02-create-function",
         "o-2026-11-11-02-read-this",
         "o-2026-11-11-02-read-function",
-        "o-2026-11-11-02-review-this"
+        "o-2026-11-11-02-review-this",
+        "o-2026-11-11-03-create-this-function",
+        "o-2026-11-11-03-read-formal"
       ],
       "lastPractised": "2026-11-11",
-      "nextReview": "Recall revisa, crea and lee after intervening material before adding pronoun attachment, negative commands or irregular forms."
+      "nextReview": "Crea esta función was recalled correctly; a read-this prompt produced valid formal lea rather than tú lee. Recheck lee with the target register explicit."
+    },
+    {
+      "id": "g-probar-imperative",
+      "pattern": "probar → prueba (affirmative tú)",
+      "meaning": "Tell the assistant to test something using the practised informal command.",
+      "status": "used_with_correction",
+      "explanation": "Probar changes o → ue in the affirmative tú command prueba. Learner omitted ue twice after introduction, then correctly selected ue and produced Prueba esto after a model. This example does not teach a full paradigm or all dialect forms.",
+      "sessionIds": [
+        "2026-11-11-03"
+      ],
+      "observationIds": [
+        "o-2026-11-11-03-test-function",
+        "o-2026-11-11-03-test-this-first",
+        "o-2026-11-11-03-ue-gap",
+        "o-2026-11-11-03-test-this-retry"
+      ],
+      "lastPractised": "2026-11-11",
+      "nextReview": "Recheck prueba after intervening commands without giving the stem or word first."
+    },
+    {
+      "id": "g-imperative-register",
+      "pattern": "lee (tú) / lea (usted)",
+      "meaning": "Two valid command forms for informal versus formal singular address.",
+      "status": "introduced",
+      "explanation": "Learner produced grammatical Lea esto por favor during a tú exercise. Tutor acknowledged the formal usted form and supplied informal Lee esto por favor. Only this comparison has been explained; no general formal-command formation rule taught and no intentional register choice established.",
+      "sessionIds": [
+        "2026-11-11-03"
+      ],
+      "observationIds": [
+        "o-2026-11-11-03-read-formal"
+      ],
+      "lastPractised": "2026-11-11",
+      "nextReview": "Keep the current exercises explicitly in tú; revisit deliberate register choice later if useful."
     }
   ],
   "practiceUnits": [
@@ -3019,10 +3122,38 @@
       "seconds": 45,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 5,
+      "attemptCount": 7,
       "lastAttempt": "2026-11-11",
-      "lastAttemptSessionId": "2026-11-11-02",
-      "lastAttemptVariant": "Review this function; create a function; read this; read this function; review this.",
+      "lastAttemptSessionId": "2026-11-11-03",
+      "lastAttemptVariant": "Create this function; then read this, answered with valid formal lea rather than informal lee.",
+      "lastOutcome": "used_with_correction",
+      "nextReview": "after_a_gap"
+    },
+    {
+      "id": "u-prueba",
+      "title": "Tell the assistant to test something",
+      "grammarIds": [
+        "g-probar-imperative",
+        "g-esto-esta"
+      ],
+      "vocabularyIds": [
+        "v-prueba",
+        "v-esto",
+        "v-esta",
+        "v-funcion",
+        "v-por-favor"
+      ],
+      "prompt": "Using tú, say: Test this function, please.",
+      "modelAnswer": "Prueba esta función, por favor.",
+      "hint": "Probar has the stem change o → ue here.",
+      "feedbackFocus": "Retain prueba; assess esta función versus standalone esto separately. Keep hint and model hidden for recall.",
+      "seconds": 45,
+      "optional": true,
+      "selection": "enabled",
+      "attemptCount": 4,
+      "lastAttempt": "2026-11-11",
+      "lastAttemptSessionId": "2026-11-11-03",
+      "lastAttemptVariant": "Test this function; test this; missing ue; full test-this retry.",
       "lastOutcome": "used_with_correction",
       "nextReview": "after_a_gap"
     }

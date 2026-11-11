@@ -22,6 +22,7 @@ A shared Spanish learning record for conversation-based teaching and future trai
 - [A little Spanish and full-stem recall](data/sessions/2026-11-10-14.json)
 - [Understanding, reasons and purpose](data/sessions/2026-11-11-01.json)
 - [Practical commands: revisa, crea and lee](data/sessions/2026-11-11-02.json)
+- [Prueba, and formal lea versus informal lee](data/sessions/2026-11-11-03.json)
 - [Data format and update rules](docs/data-format.md)
 - [Instructions for future assistants](AGENTS.md)
 
@@ -68,7 +69,9 @@ Latest chunk review: **hablo** and **queremos aprender** were correct, but **de*
 
 Learner then requested practical imperatives for directing the assistant. Introduced regular affirmative **tú** forms: **revisar → revisa**, **crear → crea**, **leer → lee**, with **por favor**. All five full command attempts used the right verb after models. **Esto función** recurred twice and needed **esta función**. A two-option **esta** gap was correct, followed by the full **Revisa esto por favor** switch.
 
-Next: recall command forms and full **esta función** after intervening material. Keep **un poco de**, purpose/reason and location as later review targets. Immediate models and cued success remain distinct from independent recall.
+Next round correctly recalled **Crea esta función** and kept **esto / esta función** appropriate throughout. Introduced **probar → prueba**: **proba** recurred twice, then a cued **ue** gap and full **Prueba esto** retry were correct. A later read-this prompt produced valid formal **Lea esto**; tutor acknowledged **usted** and supplied informal **tú: Lee esto**.
+
+Next: recall **prueba** without a stem hint and **lee** with tú explicit. Keep **un poco de**, purpose/reason and location as later review targets. Supported retries and cued success remain distinct from independent recall.
 Review software vocabulary such as **probar**, **revisar**, **los logros**, and **ejecutar las pruebas**.
 Location with **estar** still needs independent recall. **Hablo** was recalled without a hint; the surrounding phrase needed **un poco de español** and spelling corrections.
 
