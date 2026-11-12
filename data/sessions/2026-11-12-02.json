@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-12-02",
+  "date": "2026-11-12",
+  "source": "One optional recall attempt, saved at the end of the exchange",
+  "lessonTheme": "Opening a file: delayed agreement recall and forgotten command",
+  "duration": {
+    "requestedMinutes": null,
+    "measuredMinutes": null
+  },
+  "summary": "Correctly recalled este archivo; retained English Open and reported forgetting the Spanish command. Tutor supplied abre from abrir; no retry observed.",
+  "observations": [
+    {
+      "id": "o-2026-11-12-02-open-file",
+      "kind": "delayed_recall",
+      "learnerText": "Open este archivo - i just forgot open",
+      "correctedText": "Abre este archivo, por favor.",
+      "grammarIds": [
+        "g-regular-imperative-tu",
+        "g-esto-esta"
+      ],
+      "vocabularyIds": [
+        "v-abre",
+        "v-abrir",
+        "v-este",
+        "v-archivo"
+      ],
+      "outcome": "Masculine este archivo recalled correctly after earlier esta archivo correction in another recorded session. Spanish command was not recalled; learner explicitly reported forgetting it. Tutor supplied abre from abrir and acknowledged agreement success. No independent abre retry or mastery inferred."
+    }
+  ],
+  "nextSteps": [
+    "Recall abre after intervening material, without a new command model",
+    "Reuse este archivo in a complete practical instruction"
+  ],
+  "skippedUnitIds": [],
+  "assessmentNote": "Agreement success and forgotten verb are separate observations; mixed language accepted as a bridge."
+}

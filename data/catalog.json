@@ -2470,13 +2470,14 @@
       "spanish": "este",
       "english": "this (before a masculine singular noun in the practised phrase)",
       "status": "used_successfully",
-      "note": "After recurrent esto problema, correct cued este and complete review/investigate commands. Immediate transfer; este archivo modelled but not produced.",
+      "note": "After recurrent esto problema, correct cued este and complete review/investigate commands. Immediate transfer; este archivo modelled but not produced. Later delayed recall correctly used este archivo; command abre still needed supplying.",
       "firstSeen": "2026-11-11",
       "lastSeen": "2026-11-12",
       "sessionIds": [
         "2026-11-11-12",
         "2026-11-11-13",
-        "2026-11-12-01"
+        "2026-11-12-01",
+        "2026-11-12-02"
       ],
       "observationIds": [
         "o-2026-11-11-12-this-problem-sequence",
@@ -2485,7 +2486,8 @@
         "o-2026-11-11-13-3",
         "o-2026-11-11-13-4",
         "o-2026-11-11-13-5",
-        "o-2026-11-12-01-check-file"
+        "o-2026-11-12-01-check-file",
+        "o-2026-11-12-02-open-file"
       ]
     },
     {
@@ -2495,12 +2497,14 @@
       "status": "introduced",
       "note": "Infinitive introduced with abrir → abre; no independent infinitive sentence observed.",
       "firstSeen": "2026-11-11",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "sessionIds": [
-        "2026-11-11-13"
+        "2026-11-11-13",
+        "2026-11-12-02"
       ],
       "observationIds": [
-        "o-2026-11-11-13-5"
+        "o-2026-11-11-13-5",
+        "o-2026-11-12-02-open-file"
       ]
     },
     {
@@ -2508,14 +2512,16 @@
       "spanish": "abre",
       "english": "open (affirmative tú command)",
       "status": "used_successfully",
-      "note": "Correct Abre el archivo after model; attached-object ábrelo not yet attempted.",
+      "note": "Earlier Abre el archivo was correct after a model. Latest delayed recall used English Open; learner reported forgetting the Spanish command. Tutor supplied abre; no retry observed.",
       "firstSeen": "2026-11-11",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-12",
       "sessionIds": [
-        "2026-11-11-13"
+        "2026-11-11-13",
+        "2026-11-12-02"
       ],
       "observationIds": [
-        "o-2026-11-11-13-5"
+        "o-2026-11-11-13-5",
+        "o-2026-11-12-02-open-file"
       ]
     },
     {
@@ -2523,14 +2529,15 @@
       "spanish": "archivo",
       "english": "file (masculine noun)",
       "status": "used_successfully",
-      "note": "Correct masculine el after introduction. Requested this file required modelled este archivo.",
+      "note": "Correct masculine el after introduction. Requested this file required modelled este archivo. Correct este archivo recalled on 2026-11-12 after prior agreement correction.",
       "firstSeen": "2026-11-11",
       "lastSeen": "2026-11-12",
       "sessionIds": [
         "2026-11-11-13",
         "2026-11-11-14",
         "2026-11-11-15",
-        "2026-11-12-01"
+        "2026-11-12-01",
+        "2026-11-12-02"
       ],
       "observationIds": [
         "o-2026-11-11-13-5",
@@ -2539,7 +2546,8 @@
         "o-2026-11-11-15-tell-one-file-problem",
         "o-2026-11-11-15-singular-instead-plural",
         "o-2026-11-11-15-negative-existence-son",
-        "o-2026-11-12-01-check-file"
+        "o-2026-11-12-01-check-file",
+        "o-2026-11-12-02-open-file"
       ]
     },
     {
@@ -3616,7 +3624,8 @@
         "2026-11-11-10",
         "2026-11-11-12",
         "2026-11-11-13",
-        "2026-11-12-01"
+        "2026-11-12-01",
+        "2026-11-12-02"
       ],
       "observationIds": [
         "o-l12-request-first",
@@ -3648,10 +3657,12 @@
         "o-2026-11-11-13-3",
         "o-2026-11-11-13-4",
         "o-2026-11-11-13-5",
-        "o-2026-11-12-01-check-file"
+        "o-2026-11-12-01-check-file",
+        "o-2026-11-12-02-open-file"
       ],
       "nextReview": "Esta archivo recurred on 12 November; masculine este archivo was supplied, with no retry yet. Recall it after intervening material.",
-      "lastPractised": "2026-11-12"
+      "lastPractised": "2026-11-12",
+      "lastSeen": "2026-11-12"
     },
     {
       "id": "g-regular-imperative-tu",
@@ -3669,7 +3680,8 @@
         "2026-11-11-10",
         "2026-11-11-12",
         "2026-11-11-13",
-        "2026-11-11-14"
+        "2026-11-11-14",
+        "2026-11-12-02"
       ],
       "observationIds": [
         "o-2026-11-11-02-review-function",
@@ -3697,10 +3709,12 @@
         "o-2026-11-11-13-5",
         "o-2026-11-11-13-6",
         "o-2026-11-11-14-image-spelling-recall",
-        "o-2026-11-11-14-feature-review-check"
+        "o-2026-11-11-14-feature-review-check",
+        "o-2026-11-12-02-open-file"
       ],
       "lastPractised": "2026-11-11",
-      "nextReview": "Recheck familiar regular commands after a gap; ábrelo has been prompted but not attempted."
+      "nextReview": "Recheck familiar regular commands after a gap; ábrelo has been prompted but not attempted.",
+      "lastSeen": "2026-11-12"
     },
     {
       "id": "g-probar-imperative",
@@ -4945,10 +4959,10 @@
       "seconds": 45,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 1,
-      "lastAttempt": "2026-11-11",
-      "lastAttemptSessionId": "2026-11-11-13",
-      "lastAttemptVariant": "Requested this file, answered grammatically with el archivo.",
+      "attemptCount": 2,
+      "lastAttempt": "2026-11-12",
+      "lastAttemptSessionId": "2026-11-12-02",
+      "lastAttemptVariant": "Correct este archivo; English Open retained and learner reported forgetting abre. Tutor supplied model; no retry.",
       "lastOutcome": "used_with_correction",
       "nextReview": "after_a_gap"
     },
