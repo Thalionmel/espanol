@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-12-01",
+  "date": "2026-11-12",
+  "source": "One optional work-chat recall attempt, saved at a natural work pause",
+  "lessonTheme": "Delayed plural hay recall and masculine file agreement",
+  "duration": {
+    "requestedMinutes": null,
+    "measuredMinutes": null
+  },
+  "summary": "Plural existential hay and the check instruction recalled correctly; esta archivo corrected to este archivo.",
+  "observations": [
+    {
+      "id": "o-2026-11-12-01-check-file",
+      "kind": "delayed_recall",
+      "learnerText": "Comprueba si hay problemas con esta archivo",
+      "correctedText": "Comprueba si hay problemas con este archivo.",
+      "grammarIds": [
+        "g-comprueba-si",
+        "g-hay-existential",
+        "g-esto-esta"
+      ],
+      "vocabularyIds": [
+        "v-comprueba",
+        "v-hay",
+        "v-problemas",
+        "v-esta",
+        "v-este",
+        "v-archivo"
+      ],
+      "outcome": "Correctly recalled the complete comprueba si hay problemas clause without a fresh Spanish model. Chose this file instead of requested the file, a valid alternative reference, but feminine esta mismatched masculine archivo. Tutor supplied este archivo and one agreement explanation; no retry observed."
+    }
+  ],
+  "nextSteps": [
+    "Recall este archivo after intervening material",
+    "Check negative plural no hay in a complete practical instruction"
+  ],
+  "skippedUnitIds": [],
+  "assessmentNote": "Correct clause recall is evidence of use, not mastery. Demonstrative agreement still needs recall; no unobserved retry recorded."
+}

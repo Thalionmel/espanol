@@ -35,10 +35,11 @@ A shared Spanish learning record for conversation-based teaching and future trai
 - [Este problema retry and opening files](data/sessions/2026-11-11-13.json)
 - [Checking whether: comprueba si](data/sessions/2026-11-11-14.json)
 - [There is/are: hay and no hay](data/sessions/2026-11-11-15.json)
+- [Plural hay recall and this-file agreement](data/sessions/2026-11-12-01.json)
 - [Data format and update rules](docs/data-format.md)
 - [Instructions for future assistants](AGENTS.md)
 
-## Current learning position — 11 November 2026
+## Current learning position — 12 November 2026
 
 The learner reports speaking a little Spanish. No formal level assessment has been performed.
 
@@ -106,6 +107,8 @@ After another **esto problema** attempt, correctly chose **este**, then produced
 Introduced **comprobar → comprueba** and **Comprueba si…** (“Check whether…”). After a partial file-readiness clause and a full model, correctly used a feminine readiness check and **Comprueba si podemos publicarla**. In review/check sequences, first **revisa** left the object implicit; masculine transfer explicitly used **revísalo** and **listo** for **el archivo**. **Imagen** spelling was recalled correctly; **adjuncta** still needed **adjunta**.
 
 Introduced **Hay un problema** (“There is a problem”), then **no hay** and unchanged **hay** with plural **problemas**. Singular check/report sentences were correct after a noun-ending correction **problemo → problema**. A singular response was grammatical but differed from requested plural. **No son problemas con el archivo** needed existential **No hay problemas con el archivo**. Final **Hay problemas** was correct after focused correction.
+
+On the next day, recalled **Comprueba si hay problemas** in a complete instruction without a fresh Spanish model. **Esta archivo** needed masculine **este archivo**; no correction retry was observed.
 
 Next: recall **hay / no hay** with plural problems without a fresh model, then use it in a practical command. Retain **este problema**, **este archivo**, **publiques**, **un poco de**, purpose/reason and location targets; immediate success does not establish durable recall.
 Review software vocabulary such as **probar**, **revisar**, **los logros**, and **ejecutar las pruebas**.
