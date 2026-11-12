@@ -37,6 +37,7 @@ A shared Spanish learning record for conversation-based teaching and future trai
 - [There is/are: hay and no hay](data/sessions/2026-11-11-15.json)
 - [Plural hay recall and this-file agreement](data/sessions/2026-11-12-01.json)
 - [Opening-file recall: este archivo and abre](data/sessions/2026-11-12-02.json)
+- [Publishing a design: publica and el diseño](data/sessions/2026-11-12-03.json)
 - [Data format and update rules](docs/data-format.md)
 - [Instructions for future assistants](AGENTS.md)
 
@@ -112,6 +113,8 @@ Introduced **Hay un problema** (“There is a problem”), then **no hay** and u
 On the next day, recalled **Comprueba si hay problemas** in a complete instruction without a fresh Spanish model. **Esta archivo** needed masculine **este archivo**; no correction retry was observed.
 
 Later correctly recalled **este archivo** in **Open este archivo**, explicitly reporting that the Spanish command was forgotten. Tutor supplied **Abre este archivo, por favor** and **abrir → abre**. No retry was observed; agreement success and verb recall remain separate.
+
+In a spontaneous instruction, **Publica la layout**, correctly used the bare **tú** command **publica** without a fresh form hint. Tutor supplied **Publica el diseño** as the natural Spanish wording. **El diseño** is introduced; no independent noun retry was observed.
 
 Next: recall **abre** after intervening material, alongside **hay / no hay** with plural problems without a fresh model, then use it in a practical command. Retain **este problema**, **este archivo**, **publiques**, **un poco de**, purpose/reason and location targets; immediate success does not establish durable recall.
 Review software vocabulary such as **probar**, **revisar**, **los logros**, and **ejecutar las pruebas**.

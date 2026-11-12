@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-12-03",
+  "date": "2026-11-12",
+  "source": "Spontaneous practical instruction, saved at a work milestone",
+  "lessonTheme": "Publishing a design: correct command with a mixed-language noun",
+  "duration": {
+    "requestedMinutes": null,
+    "measuredMinutes": null
+  },
+  "summary": "Correctly used bare publica without a fresh form hint. The English noun layout was replaced with el diseño; no independent noun retry was observed.",
+  "observations": [
+    {
+      "id": "o-2026-11-12-03-publish-design",
+      "kind": "spontaneous_instruction",
+      "learnerText": "Publica la layout",
+      "correctedText": "Publica el diseño.",
+      "grammarIds": [
+        "g-regular-imperative-tu"
+      ],
+      "vocabularyIds": [
+        "v-publica",
+        "v-diseno"
+      ],
+      "outcome": "Publica was a correct affirmative tú command. Tutor supplied the natural Spanish noun phrase el diseño. Mixed language accepted as a bridge; no design-noun recall or durable mastery inferred."
+    }
+  ],
+  "nextSteps": [
+    "Reuse el diseño after intervening material",
+    "Continue delayed recall of abre and este archivo"
+  ],
+  "skippedUnitIds": [],
+  "assessmentNote": "Correct verb production and supplied noun translation are distinct evidence."
+}
