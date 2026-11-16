@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-16-03",
+  "date": "2026-11-16",
+  "source": "Two practical Spanish instructions during ordinary work; saved together",
+  "lessonTheme": "Revisa versus revise; publica este diseño",
+  "duration": {
+    "requestedMinutes": null,
+    "measuredMinutes": null
+  },
+  "summary": "Used valid formal revise during an informal tú recall prompt. Tutor supplied revisa for tú and explained the register difference. Then independently used publica este diseno, por favor; command and masculine este were correct, and diseño spelling was supplied.",
+  "observations": [
+    {
+      "id": "o-2026-11-16-03-review-design",
+      "kind": "prompted_recall",
+      "learnerText": "Revise este diseno por favor",
+      "correctedText": "Revisa este diseño, por favor.",
+      "grammarIds": [
+        "g-regular-imperative-tu",
+        "g-imperative-register",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-revisa",
+        "v-este",
+        "v-diseno",
+        "v-por-favor"
+      ],
+      "outcome": "Revise is a valid usted command, but the prompt requested tú. Tutor explained revise / revisa and supplied ñ in diseño. Este and the intended noun were correct; no corrected revisa retry observed."
+    },
+    {
+      "id": "o-2026-11-16-03-publish-design",
+      "kind": "spontaneous_work_instruction",
+      "learnerText": "Publica este diseno, por favor",
+      "correctedText": "Publica este diseño, por favor.",
+      "grammarIds": [
+        "g-regular-imperative-tu",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-publica",
+        "v-este",
+        "v-diseno",
+        "v-por-favor"
+      ],
+      "outcome": "Correct bare affirmative tú command publica, masculine este and por favor without a fresh publica model. Reused the Spanish noun with n instead of ñ; tutor supplied diseño. No mastery or keyboard limitation inferred."
+    }
+  ],
+  "nextSteps": [
+    "Recall Revisa este diseño using tú after a gap.",
+    "Keep successful publica este ... in use; review ñ spelling separately from command grammar."
+  ],
+  "skippedUnitIds": [],
+  "assessmentNote": "A valid formal command is a register mismatch for an explicit tú prompt, not a generally ungrammatical form. Written spelling and verb recall are assessed separately."
+}
