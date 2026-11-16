@@ -39,10 +39,13 @@ A shared Spanish learning record for conversation-based teaching and future trai
 - [Opening-file recall: este archivo and abre](data/sessions/2026-11-12-02.json)
 - [Publishing a design: publica and el diseño](data/sessions/2026-11-12-03.json)
 - [Opening a profile: abre recalled, el article corrected](data/sessions/2026-11-16-01.json)
+- [Create-game commands and repository vocabulary](data/sessions/2026-11-16-02.json)
 - [Data format and update rules](docs/data-format.md)
 - [Instructions for future assistants](AGENTS.md)
 
 ## Current learning position — 16 November 2026
+
+On 16 November, correctly used **Crea este juego, por favor** in a practical instruction after a recall invitation. **En un repositorio separado** and the natural alternative **Sí, créalo en este repositorio** were supplied; no corrected retry was observed.
 
 The learner reports speaking a little Spanish. No formal level assessment has been performed.
 

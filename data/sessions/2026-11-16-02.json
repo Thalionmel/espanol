@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-16-02",
+  "date": "2026-11-16",
+  "source": "Two brief Spanish instructions during ordinary work; saved together",
+  "lessonTheme": "Crea este juego and en un repositorio separado",
+  "duration": {
+    "requestedMinutes": null,
+    "measuredMinutes": null
+  },
+  "summary": "Correctly used crea este juego, por favor after a recall invitation. English repository wording and in were supplied as repositorio separado and en. No corrected retry was observed.",
+  "observations": [
+    {
+      "id": "o-2026-11-16-02-create-game",
+      "kind": "prompted_recall",
+      "learnerText": "Crea este juego, por favor en un separate repository",
+      "correctedText": "Crea este juego en un repositorio separado, por favor.",
+      "grammarIds": [
+        "g-regular-imperative-tu"
+      ],
+      "vocabularyIds": [
+        "v-crea",
+        "v-este",
+        "v-por-favor",
+        "v-juego",
+        "v-repositorio",
+        "v-separado",
+        "v-en"
+      ],
+      "outcome": "Correct crea este juego and por favor; juego was supplied with the prompt. Tutor supplied repositorio separado for the mixed English phrase and a natural word order. No mastery inferred."
+    },
+    {
+      "id": "o-2026-11-16-02-location",
+      "kind": "spontaneous_work_instruction",
+      "learnerText": "si crea in este repository",
+      "correctedText": "Sí, créalo en este repositorio.",
+      "grammarIds": [
+        "g-regular-imperative-tu",
+        "g-imperative-objects",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-si",
+        "v-crea",
+        "v-este",
+        "v-en",
+        "v-repositorio",
+        "v-lo"
+      ],
+      "outcome": "Reused crea and este. Tutor supplied en and repositorio, accented sí, and offered créalo as a natural explicit-object alternative. The learner did not produce or retry créalo."
+    }
+  ],
+  "nextSteps": [
+    "Recall en un repositorio separado after a gap.",
+    "Keep successful crea este ... commands in use; offer an optional attached-object contrast later."
+  ],
+  "skippedUnitIds": [],
+  "assessmentNote": "Separate correct command use from tutor-supplied vocabulary, written accents, and the unattempted créalo alternative."
+}

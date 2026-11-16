@@ -773,14 +773,16 @@
       "status": "used_with_correction",
       "note": "Typed Si; tutor supplied the accent for affirmative sí. No separate lesson on si (if) yet.",
       "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-10",
+      "lastSeen": "2026-11-16",
       "sessionIds": [
         "2026-11-10-01",
-        "2026-11-10-10"
+        "2026-11-10-10",
+        "2026-11-16-02"
       ],
       "observationIds": [
         "o-permission",
-        "o-l10-ready-reason"
+        "o-l10-ready-reason",
+        "o-2026-11-16-02-location"
       ]
     },
     {
@@ -865,7 +867,7 @@
       "note": "Introduced by breaking publicarlo into publicar + lo; gender distinctions not yet taught.",
       "status": "used_successfully",
       "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-16",
       "sessionIds": [
         "2026-11-10-01",
         "2026-11-10-03",
@@ -877,7 +879,8 @@
         "2026-11-11-07",
         "2026-11-11-08",
         "2026-11-11-09",
-        "2026-11-11-12"
+        "2026-11-11-12",
+        "2026-11-16-02"
       ],
       "observationIds": [
         "o-object-pronouns",
@@ -901,7 +904,8 @@
         "o-2026-11-11-07-test-logo-retry",
         "o-2026-11-11-08-tell-can-test",
         "o-2026-11-11-09-logo-review-no-publish",
-        "o-2026-11-11-12-review-fix-alternative"
+        "o-2026-11-11-12-review-fix-alternative",
+        "o-2026-11-16-02-location"
       ]
     },
     {
@@ -1758,17 +1762,20 @@
       "id": "v-crea",
       "spanish": "crea",
       "english": "create (affirmative tú command)",
-      "note": "Correctly used after crear → crea model; delayed recall untested.",
+      "note": "Correctly used after crear → crea model; delayed recall untested. Later recalled crea in a practical game instruction without a fresh conjugated model; mixed surrounding vocabulary was corrected.",
       "status": "used_successfully",
       "firstSeen": "2026-11-11",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-16",
       "sessionIds": [
         "2026-11-11-02",
-        "2026-11-11-03"
+        "2026-11-11-03",
+        "2026-11-16-02"
       ],
       "observationIds": [
         "o-2026-11-11-02-create-function",
-        "o-2026-11-11-03-create-this-function"
+        "o-2026-11-11-03-create-this-function",
+        "o-2026-11-16-02-create-game",
+        "o-2026-11-16-02-location"
       ]
     },
     {
@@ -1801,7 +1808,7 @@
       "note": "Used in five prompted commands after phrase model; no independent long-gap recall established.",
       "status": "used_successfully",
       "firstSeen": "2026-11-11",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-16",
       "sessionIds": [
         "2026-11-11-02",
         "2026-11-11-03",
@@ -1812,7 +1819,8 @@
         "2026-11-11-09",
         "2026-11-11-10",
         "2026-11-11-12",
-        "2026-11-11-13"
+        "2026-11-11-13",
+        "2026-11-16-02"
       ],
       "observationIds": [
         "o-2026-11-11-02-review-function",
@@ -1847,7 +1855,8 @@
         "o-2026-11-11-10-explain-to-me",
         "o-2026-11-11-12-review-image",
         "o-2026-11-11-12-explain-problem",
-        "o-2026-11-11-13-1"
+        "o-2026-11-11-13-1",
+        "o-2026-11-16-02-create-game"
       ]
     },
     {
@@ -2474,12 +2483,13 @@
       "status": "used_successfully",
       "note": "After recurrent esto problema, correct cued este and complete review/investigate commands. Immediate transfer; este archivo modelled but not produced. Later delayed recall correctly used este archivo; command abre still needed supplying.",
       "firstSeen": "2026-11-11",
-      "lastSeen": "2026-11-12",
+      "lastSeen": "2026-11-16",
       "sessionIds": [
         "2026-11-11-12",
         "2026-11-11-13",
         "2026-11-12-01",
-        "2026-11-12-02"
+        "2026-11-12-02",
+        "2026-11-16-02"
       ],
       "observationIds": [
         "o-2026-11-11-12-this-problem-sequence",
@@ -2489,7 +2499,9 @@
         "o-2026-11-11-13-4",
         "o-2026-11-11-13-5",
         "o-2026-11-12-01-check-file",
-        "o-2026-11-12-02-open-file"
+        "o-2026-11-12-02-open-file",
+        "o-2026-11-16-02-create-game",
+        "o-2026-11-16-02-location"
       ]
     },
     {
@@ -2678,6 +2690,68 @@
       ],
       "observationIds": [
         "o-2026-11-16-01-open-profile"
+      ]
+    },
+    {
+      "id": "v-juego",
+      "spanish": "juego",
+      "english": "game",
+      "status": "used_successfully",
+      "note": "Supplied in an optional prompt, then correctly used in crea este juego; independent vocabulary recall untested.",
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-16",
+      "sessionIds": [
+        "2026-11-16-02"
+      ],
+      "observationIds": [
+        "o-2026-11-16-02-create-game"
+      ]
+    },
+    {
+      "id": "v-repositorio",
+      "spanish": "repositorio",
+      "english": "repository",
+      "status": "introduced",
+      "note": "Tutor supplied the Spanish noun for mixed English repository in two work instructions. No Spanish retry observed.",
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-16",
+      "sessionIds": [
+        "2026-11-16-02"
+      ],
+      "observationIds": [
+        "o-2026-11-16-02-create-game",
+        "o-2026-11-16-02-location"
+      ]
+    },
+    {
+      "id": "v-separado",
+      "spanish": "separado",
+      "english": "separate (masculine singular)",
+      "status": "introduced",
+      "note": "Tutor supplied un repositorio separado; no retry observed.",
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-16",
+      "sessionIds": [
+        "2026-11-16-02"
+      ],
+      "observationIds": [
+        "o-2026-11-16-02-create-game"
+      ]
+    },
+    {
+      "id": "v-en",
+      "spanish": "en",
+      "english": "in / at (location)",
+      "status": "used_with_correction",
+      "note": "Used en before a mixed-language phrase; later English in was corrected to en. No corrected retry observed.",
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-16",
+      "sessionIds": [
+        "2026-11-16-02"
+      ],
+      "observationIds": [
+        "o-2026-11-16-02-create-game",
+        "o-2026-11-16-02-location"
       ]
     }
   ],
@@ -3012,7 +3086,8 @@
         "o-2026-11-11-15-tell-one-file-problem",
         "o-2026-11-11-15-check-no-one-problem",
         "o-2026-11-11-15-singular-instead-plural",
-        "o-2026-11-11-15-negative-existence-son"
+        "o-2026-11-11-15-negative-existence-son",
+        "o-2026-11-16-02-location"
       ],
       "nextReview": "Observe naturally; avoid repetitive spelling drills.",
       "lastPractised": "2026-11-11",
@@ -3044,8 +3119,10 @@
         "2026-11-11-12",
         "2026-11-11-13",
         "2026-11-11-14",
-        "2026-11-11-15"
-      ]
+        "2026-11-11-15",
+        "2026-11-16-02"
+      ],
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "g-poder-permission",
@@ -3717,7 +3794,8 @@
         "2026-11-11-14",
         "2026-11-12-02",
         "2026-11-12-03",
-        "2026-11-16-01"
+        "2026-11-16-01",
+        "2026-11-16-02"
       ],
       "observationIds": [
         "o-2026-11-11-02-review-function",
@@ -3748,7 +3826,9 @@
         "o-2026-11-11-14-feature-review-check",
         "o-2026-11-12-02-open-file",
         "o-2026-11-12-03-publish-design",
-        "o-2026-11-16-01-open-profile"
+        "o-2026-11-16-01-open-profile",
+        "o-2026-11-16-02-create-game",
+        "o-2026-11-16-02-location"
       ],
       "lastPractised": "2026-11-16",
       "nextReview": "Recheck familiar regular commands after a gap; ábrelo has been prompted but not attempted.",
@@ -3821,7 +3901,8 @@
         "2026-11-11-10",
         "2026-11-11-11",
         "2026-11-11-12",
-        "2026-11-11-14"
+        "2026-11-11-14",
+        "2026-11-16-02"
       ],
       "observationIds": [
         "o-2026-11-11-04-review-infinitive",
@@ -3850,10 +3931,12 @@
         "o-2026-11-11-12-review-fix-alternative",
         "o-2026-11-11-12-this-problem-sequence",
         "o-2026-11-11-14-feature-review-check",
-        "o-2026-11-11-14-file-review-check"
+        "o-2026-11-11-14-file-review-check",
+        "o-2026-11-16-02-location"
       ],
       "lastPractised": "2026-11-11",
-      "nextReview": "Correct same-sequence contrasts Queremos probarla / Pruébala and Necesitamos leerla / Léela. Written command accents supplied; recheck after a longer gap."
+      "nextReview": "Correct same-sequence contrasts Queremos probarla / Pruébala and Necesitamos leerla / Léela. Written command accents supplied; recheck after a longer gap.",
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "g-negative-tu-ar",
