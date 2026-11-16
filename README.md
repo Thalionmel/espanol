@@ -38,10 +38,11 @@ A shared Spanish learning record for conversation-based teaching and future trai
 - [Plural hay recall and this-file agreement](data/sessions/2026-11-12-01.json)
 - [Opening-file recall: este archivo and abre](data/sessions/2026-11-12-02.json)
 - [Publishing a design: publica and el diseño](data/sessions/2026-11-12-03.json)
+- [Opening a profile: abre recalled, el article corrected](data/sessions/2026-11-16-01.json)
 - [Data format and update rules](docs/data-format.md)
 - [Instructions for future assistants](AGENTS.md)
 
-## Current learning position — 12 November 2026
+## Current learning position — 16 November 2026
 
 The learner reports speaking a little Spanish. No formal level assessment has been performed.
 
@@ -116,7 +117,9 @@ Later correctly recalled **este archivo** in **Open este archivo**, explicitly r
 
 In a spontaneous instruction, **Publica la layout**, correctly used the bare **tú** command **publica** without a fresh form hint. Tutor supplied **Publica el diseño** as the natural Spanish wording. **El diseño** is introduced; no independent noun retry was observed.
 
-Next: recall **abre** after intervening material, alongside **hay / no hay** with plural problems without a fresh model, then use it in a practical command. Retain **este problema**, **este archivo**, **publiques**, **un poco de**, purpose/reason and location targets; immediate success does not establish durable recall.
+Latest short recall: **Abre il perfil, por favor** correctly recalled **abre** without a fresh verb model. Tutor corrected the Spanish article to **el perfil**; no corrected retry was observed.
+
+Next: recall **el perfil** after intervening material, alongside **hay / no hay** with plural problems without a fresh model, then reuse **abre** in a practical command. Retain **este problema**, **este archivo**, **publiques**, **un poco de**, purpose/reason and location targets; immediate success does not establish durable recall.
 Review software vocabulary such as **probar**, **revisar**, **los logros**, and **ejecutar las pruebas**.
 Location with **estar** still needs independent recall. **Hablo** was recalled without a hint; the surrounding phrase needed **un poco de español** and spelling corrections.
 

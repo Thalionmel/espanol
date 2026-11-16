@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "learnerId": "primary",
-  "lastUpdated": "2026-11-12",
+  "lastUpdated": "2026-11-16",
   "interfaceLanguage": "en",
   "targetLanguage": "es",
   "selfReportedLevel": "Speaks a little Spanish",
@@ -123,6 +123,7 @@
     "g-hay-existential"
   ],
   "nextUnitIds": [
+    "u-open-profile",
     "u-open-file",
     "u-hay-existence",
     "u-comprueba-si",
@@ -172,7 +173,7 @@
     ],
     "intervalsAreFlexible": true
   },
-  "latestSessionId": "2026-11-12-03",
+  "latestSessionId": "2026-11-16-01",
   "disclosureAuthorization": {
     "publicLearningRecord": true,
     "ongoingUpdatesAuthorized": true,

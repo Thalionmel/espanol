@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-11-12",
+  "lastUpdated": "2026-11-16",
   "vocabulary": [
     {
       "id": "v-quiero",
@@ -2514,16 +2514,18 @@
       "spanish": "abre",
       "english": "open (affirmative tú command)",
       "status": "used_successfully",
-      "note": "Earlier Abre el archivo was correct after a model. Latest delayed recall used English Open; learner reported forgetting the Spanish command. Tutor supplied abre; no retry observed.",
+      "note": "Delayed command recall was correct in Abre il perfil, por favor, without a fresh verb model. The article il was corrected separately to el; no retry or durable mastery inferred.",
       "firstSeen": "2026-11-11",
-      "lastSeen": "2026-11-12",
+      "lastSeen": "2026-11-16",
       "sessionIds": [
         "2026-11-11-13",
-        "2026-11-12-02"
+        "2026-11-12-02",
+        "2026-11-16-01"
       ],
       "observationIds": [
         "o-2026-11-11-13-5",
-        "o-2026-11-12-02-open-file"
+        "o-2026-11-12-02-open-file",
+        "o-2026-11-16-01-open-profile"
       ]
     },
     {
@@ -2661,6 +2663,21 @@
       ],
       "observationIds": [
         "o-2026-11-12-03-publish-design"
+      ]
+    },
+    {
+      "id": "v-perfil",
+      "spanish": "el perfil",
+      "english": "the profile",
+      "status": "used_with_correction",
+      "note": "Perfil was supplied in the prompt. Learner used il perfil; tutor corrected the article to el perfil. No independent corrected retry observed.",
+      "firstSeen": "2026-11-16",
+      "lastSeen": "2026-11-16",
+      "sessionIds": [
+        "2026-11-16-01"
+      ],
+      "observationIds": [
+        "o-2026-11-16-01-open-profile"
       ]
     }
   ],
@@ -3699,7 +3716,8 @@
         "2026-11-11-13",
         "2026-11-11-14",
         "2026-11-12-02",
-        "2026-11-12-03"
+        "2026-11-12-03",
+        "2026-11-16-01"
       ],
       "observationIds": [
         "o-2026-11-11-02-review-function",
@@ -3729,11 +3747,12 @@
         "o-2026-11-11-14-image-spelling-recall",
         "o-2026-11-11-14-feature-review-check",
         "o-2026-11-12-02-open-file",
-        "o-2026-11-12-03-publish-design"
+        "o-2026-11-12-03-publish-design",
+        "o-2026-11-16-01-open-profile"
       ],
-      "lastPractised": "2026-11-12",
+      "lastPractised": "2026-11-16",
       "nextReview": "Recheck familiar regular commands after a gap; ábrelo has been prompted but not attempted.",
-      "lastSeen": "2026-11-12"
+      "lastSeen": "2026-11-16"
     },
     {
       "id": "g-probar-imperative",
@@ -5042,6 +5061,31 @@
       "lastAttempt": "2026-11-12",
       "lastAttemptSessionId": "2026-11-12-01",
       "lastAttemptVariant": "Complete plural hay check recalled; esta archivo agreement corrected.",
+      "lastOutcome": "used_with_correction",
+      "nextReview": "after_a_gap"
+    },
+    {
+      "id": "u-open-profile",
+      "title": "Open the profile using the Spanish article",
+      "grammarIds": [
+        "g-regular-imperative-tu"
+      ],
+      "vocabularyIds": [
+        "v-abre",
+        "v-perfil",
+        "v-por-favor"
+      ],
+      "prompt": "Using tú, say: Open the profile, please.",
+      "modelAnswer": "Abre el perfil, por favor.",
+      "hint": "The profile is el perfil.",
+      "feedbackFocus": "Recall abre and use Spanish el; do not infer retention from a single correction.",
+      "seconds": 45,
+      "optional": true,
+      "selection": "enabled",
+      "attemptCount": 1,
+      "lastAttempt": "2026-11-16",
+      "lastAttemptSessionId": "2026-11-16-01",
+      "lastAttemptVariant": "Correct delayed abre recall; il corrected to el. No corrected retry.",
       "lastOutcome": "used_with_correction",
       "nextReview": "after_a_gap"
     }

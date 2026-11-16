@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-16-01",
+  "date": "2026-11-16",
+  "source": "Optional practical command recall, saved as one small session",
+  "lessonTheme": "Opening a profile: recalled abre and corrected Spanish article",
+  "duration": {
+    "requestedMinutes": null,
+    "measuredMinutes": null
+  },
+  "summary": "Correctly recalled abre without a fresh verb model; il perfil was corrected to el perfil. No correction retry observed.",
+  "observations": [
+    {
+      "id": "o-2026-11-16-01-open-profile",
+      "kind": "prompted_recall",
+      "learnerText": "Abre il perfil, por favor",
+      "correctedText": "Abre el perfil, por favor.",
+      "grammarIds": [
+        "g-regular-imperative-tu"
+      ],
+      "vocabularyIds": [
+        "v-abre",
+        "v-perfil",
+        "v-por-favor"
+      ],
+      "outcome": "Abre was independently recalled after a gap. The noun phrase el perfil was supplied in the prompt; the learner's il article was corrected to Spanish el. No retry or mastery inferred."
+    }
+  ],
+  "nextSteps": [
+    "Recall el perfil after intervening material",
+    "Reuse abre in a short practical command"
+  ],
+  "skippedUnitIds": [],
+  "assessmentNote": "Correct command recall and article correction are distinct evidence."
+}
