@@ -41,6 +41,7 @@ A shared Spanish learning record for conversation-based teaching and future trai
 - [Opening a profile: abre recalled, el article corrected](data/sessions/2026-11-16-01.json)
 - [Create-game commands and repository vocabulary](data/sessions/2026-11-16-02.json)
 - [Review/publish commands: register and diseño spelling](data/sessions/2026-11-16-03.json)
+- [Opening-file recall: abre and este archivo, por favor spelling](data/sessions/2026-11-16-04.json)
 - [Data format and update rules](docs/data-format.md)
 - [Instructions for future assistants](AGENTS.md)
 
@@ -49,6 +50,8 @@ A shared Spanish learning record for conversation-based teaching and future trai
 On 16 November, correctly used **Crea este juego, por favor** in a practical instruction after a recall invitation. **En un repositorio separado** and the natural alternative **Sí, créalo en este repositorio** were supplied; no corrected retry was observed.
 
 Later used valid formal **Revise este diseno por favor** during a **tú** recall prompt. Tutor supplied **Revisa este diseño, por favor** and explained the register difference. Then independently used **Publica este diseno, por favor**: **publica**, **este** and **por favor** were correct; **ñ** in **diseño** was supplied. No corrected **revisa** retry or spelling retention is inferred.
+
+In a later recall, **abre este archivo pr favor** correctly retrieved **abre** and masculine **este archivo** without a fresh Spanish model. Tutor corrected only **pr → por** in **por favor**; no corrected retry or durable mastery is inferred.
 
 The learner reports speaking a little Spanish. No formal level assessment has been performed.
 
@@ -125,7 +128,7 @@ In a spontaneous instruction, **Publica la layout**, correctly used the bare **t
 
 Latest short recall: **Abre il perfil, por favor** correctly recalled **abre** without a fresh verb model. Tutor corrected the Spanish article to **el perfil**; no corrected retry was observed.
 
-Next: recall **el perfil** after intervening material, alongside **hay / no hay** with plural problems without a fresh model, then reuse **abre** in a practical command. Retain **este problema**, **este archivo**, **publiques**, **un poco de**, purpose/reason and location targets; immediate success does not establish durable recall.
+Next: recall **el perfil** after intervening material, alongside **hay / no hay** with plural problems without a fresh model, reuse **abre** after a gap. Retain **este problema**, **este archivo**, **publiques**, **un poco de**, purpose/reason and location targets; immediate success does not establish durable recall.
 Review software vocabulary such as **probar**, **revisar**, **los logros**, and **ejecutar las pruebas**.
 Location with **estar** still needs independent recall. **Hablo** was recalled without a hint; the surrounding phrase needed **un poco de español** and spelling corrections.
 

@@ -124,7 +124,6 @@
   ],
   "nextUnitIds": [
     "u-open-profile",
-    "u-open-file",
     "u-hay-existence",
     "u-comprueba-si",
     "u-problema-instruction",
@@ -157,7 +156,8 @@
     "u-que-question",
     "u-regular-er-we",
     "u-necesitamos",
-    "u-usar-logo"
+    "u-usar-logo",
+    "u-open-file"
   ],
   "reviewPolicy": {
     "mode": "During suitable conversations; no reminders or background scheduling",
@@ -173,7 +173,7 @@
     ],
     "intervalsAreFlexible": true
   },
-  "latestSessionId": "2026-11-16-03",
+  "latestSessionId": "2026-11-16-04",
   "disclosureAuthorization": {
     "publicLearningRecord": true,
     "ongoingUpdatesAuthorized": true,

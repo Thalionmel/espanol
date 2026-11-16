@@ -1807,8 +1807,8 @@
       "id": "v-por-favor",
       "spanish": "por favor",
       "english": "please",
-      "note": "Used in five prompted commands after phrase model; no independent long-gap recall established.",
-      "status": "used_successfully",
+      "note": "Used in five prompted commands after phrase model; no independent long-gap recall established. Later typed pr favor; tutor corrected por favor. No corrected retry observed.",
+      "status": "used_with_correction",
       "firstSeen": "2026-11-11",
       "lastSeen": "2026-11-16",
       "sessionIds": [
@@ -1823,7 +1823,8 @@
         "2026-11-11-12",
         "2026-11-11-13",
         "2026-11-16-02",
-        "2026-11-16-03"
+        "2026-11-16-03",
+        "2026-11-16-04"
       ],
       "observationIds": [
         "o-2026-11-11-02-review-function",
@@ -1861,7 +1862,8 @@
         "o-2026-11-11-13-1",
         "o-2026-11-16-02-create-game",
         "o-2026-11-16-03-review-design",
-        "o-2026-11-16-03-publish-design"
+        "o-2026-11-16-03-publish-design",
+        "o-2026-11-16-04-open-file"
       ]
     },
     {
@@ -2488,7 +2490,7 @@
       "spanish": "este",
       "english": "this (before a masculine singular noun in the practised phrase)",
       "status": "used_successfully",
-      "note": "After recurrent esto problema, correct cued este and complete review/investigate commands. Immediate transfer; este archivo modelled but not produced. Later delayed recall correctly used este archivo; command abre still needed supplying.",
+      "note": "After recurrent esto problema, correct cued este and complete review/investigate commands. Immediate transfer; este archivo modelled but not produced. Later delayed recall correctly used este archivo; command abre still needed supplying. Correctly recalled in abre este archivo on 2026-11-16 without a fresh model; por favor spelling was corrected separately.",
       "firstSeen": "2026-11-11",
       "lastSeen": "2026-11-16",
       "sessionIds": [
@@ -2497,7 +2499,8 @@
         "2026-11-12-01",
         "2026-11-12-02",
         "2026-11-16-02",
-        "2026-11-16-03"
+        "2026-11-16-03",
+        "2026-11-16-04"
       ],
       "observationIds": [
         "o-2026-11-11-12-this-problem-sequence",
@@ -2511,7 +2514,8 @@
         "o-2026-11-16-02-create-game",
         "o-2026-11-16-02-location",
         "o-2026-11-16-03-review-design",
-        "o-2026-11-16-03-publish-design"
+        "o-2026-11-16-03-publish-design",
+        "o-2026-11-16-04-open-file"
       ]
     },
     {
@@ -2536,18 +2540,20 @@
       "spanish": "abre",
       "english": "open (affirmative tú command)",
       "status": "used_successfully",
-      "note": "Delayed command recall was correct in Abre il perfil, por favor, without a fresh verb model. The article il was corrected separately to el; no retry or durable mastery inferred.",
+      "note": "Delayed command recall was correct in Abre il perfil, por favor, without a fresh verb model. The article il was corrected separately to el; no retry or durable mastery inferred. Correctly recalled in abre este archivo on 2026-11-16 without a fresh model; por favor spelling was corrected separately.",
       "firstSeen": "2026-11-11",
       "lastSeen": "2026-11-16",
       "sessionIds": [
         "2026-11-11-13",
         "2026-11-12-02",
-        "2026-11-16-01"
+        "2026-11-16-01",
+        "2026-11-16-04"
       ],
       "observationIds": [
         "o-2026-11-11-13-5",
         "o-2026-11-12-02-open-file",
-        "o-2026-11-16-01-open-profile"
+        "o-2026-11-16-01-open-profile",
+        "o-2026-11-16-04-open-file"
       ]
     },
     {
@@ -2555,15 +2561,16 @@
       "spanish": "archivo",
       "english": "file (masculine noun)",
       "status": "used_successfully",
-      "note": "Correct masculine el after introduction. Requested this file required modelled este archivo. Correct este archivo recalled on 2026-11-12 after prior agreement correction.",
+      "note": "Correct masculine el after introduction. Requested this file required modelled este archivo. Correct este archivo recalled on 2026-11-12 after prior agreement correction. Correctly recalled in abre este archivo on 2026-11-16 without a fresh model; por favor spelling was corrected separately.",
       "firstSeen": "2026-11-11",
-      "lastSeen": "2026-11-12",
+      "lastSeen": "2026-11-16",
       "sessionIds": [
         "2026-11-11-13",
         "2026-11-11-14",
         "2026-11-11-15",
         "2026-11-12-01",
-        "2026-11-12-02"
+        "2026-11-12-02",
+        "2026-11-16-04"
       ],
       "observationIds": [
         "o-2026-11-11-13-5",
@@ -2573,7 +2580,8 @@
         "o-2026-11-11-15-singular-instead-plural",
         "o-2026-11-11-15-negative-existence-son",
         "o-2026-11-12-01-check-file",
-        "o-2026-11-12-02-open-file"
+        "o-2026-11-12-02-open-file",
+        "o-2026-11-16-04-open-file"
       ]
     },
     {
@@ -3102,7 +3110,8 @@
         "o-2026-11-11-15-negative-existence-son",
         "o-2026-11-16-02-location",
         "o-2026-11-16-03-review-design",
-        "o-2026-11-16-03-publish-design"
+        "o-2026-11-16-03-publish-design",
+        "o-2026-11-16-04-open-file"
       ],
       "nextReview": "Observe naturally; avoid repetitive spelling drills.",
       "lastPractised": "2026-11-16",
@@ -3136,9 +3145,11 @@
         "2026-11-11-14",
         "2026-11-11-15",
         "2026-11-16-02",
-        "2026-11-16-03"
+        "2026-11-16-03",
+        "2026-11-16-04"
       ],
-      "lastSeen": "2026-11-16"
+      "lastSeen": "2026-11-16",
+      "note": "pr favor was corrected to por favor."
     },
     {
       "id": "g-poder-permission",
@@ -3752,7 +3763,8 @@
         "2026-11-11-12",
         "2026-11-11-13",
         "2026-11-12-01",
-        "2026-11-12-02"
+        "2026-11-12-02",
+        "2026-11-16-04"
       ],
       "observationIds": [
         "o-l12-request-first",
@@ -3785,11 +3797,13 @@
         "o-2026-11-11-13-4",
         "o-2026-11-11-13-5",
         "o-2026-11-12-01-check-file",
-        "o-2026-11-12-02-open-file"
+        "o-2026-11-12-02-open-file",
+        "o-2026-11-16-04-open-file"
       ],
       "nextReview": "Esta archivo recurred on 12 November; masculine este archivo was supplied, with no retry yet. Recall it after intervening material.",
       "lastPractised": "2026-11-12",
-      "lastSeen": "2026-11-12"
+      "lastSeen": "2026-11-16",
+      "note": "Correct delayed abre este archivo recall; no durable mastery inferred."
     },
     {
       "id": "g-regular-imperative-tu",
@@ -3812,7 +3826,8 @@
         "2026-11-12-03",
         "2026-11-16-01",
         "2026-11-16-02",
-        "2026-11-16-03"
+        "2026-11-16-03",
+        "2026-11-16-04"
       ],
       "observationIds": [
         "o-2026-11-11-02-review-function",
@@ -3847,11 +3862,13 @@
         "o-2026-11-16-02-create-game",
         "o-2026-11-16-02-location",
         "o-2026-11-16-03-review-design",
-        "o-2026-11-16-03-publish-design"
+        "o-2026-11-16-03-publish-design",
+        "o-2026-11-16-04-open-file"
       ],
       "lastPractised": "2026-11-16",
       "nextReview": "Recheck familiar regular commands after a gap; ábrelo has been prompted but not attempted.",
-      "lastSeen": "2026-11-16"
+      "lastSeen": "2026-11-16",
+      "note": "Correct delayed abre este archivo recall; no durable mastery inferred."
     },
     {
       "id": "g-probar-imperative",
@@ -5102,10 +5119,10 @@
       "seconds": 45,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 2,
-      "lastAttempt": "2026-11-12",
-      "lastAttemptSessionId": "2026-11-12-02",
-      "lastAttemptVariant": "Correct este archivo; English Open retained and learner reported forgetting abre. Tutor supplied model; no retry.",
+      "attemptCount": 3,
+      "lastAttempt": "2026-11-16",
+      "lastAttemptSessionId": "2026-11-16-04",
+      "lastAttemptVariant": "abre este archivo pr favor; command and este archivo correct without a model, por favor spelling corrected.",
       "lastOutcome": "used_with_correction",
       "nextReview": "after_a_gap"
     },

@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-16-04",
+  "date": "2026-11-16",
+  "source": "One optional command recall during ordinary conversation",
+  "lessonTheme": "Abre este archivo; por favor spelling",
+  "duration": {
+    "requestedMinutes": null,
+    "measuredMinutes": null
+  },
+  "summary": "Recalled abre and masculine este archivo without a fresh Spanish model. Typed pr favor; tutor supplied por favor. No corrected retry was observed.",
+  "observations": [
+    {
+      "id": "o-2026-11-16-04-open-file",
+      "kind": "prompted_recall",
+      "learnerText": "abre este archivo pr favor",
+      "correctedText": "Abre este archivo, por favor.",
+      "grammarIds": [
+        "g-regular-imperative-tu",
+        "g-esto-esta",
+        "g-spelling"
+      ],
+      "vocabularyIds": [
+        "v-abre",
+        "v-este",
+        "v-archivo",
+        "v-por-favor"
+      ],
+      "outcome": "Correct delayed command and noun agreement. Only pr → por needed correction; no mastery or keyboard limitation inferred."
+    }
+  ],
+  "nextSteps": [
+    "Recall por favor in a later practical command.",
+    "Reuse abre este archivo after a gap; keep the successful command separate from the spelling slip."
+  ],
+  "skippedUnitIds": [],
+  "assessmentNote": "A single correct delayed use supports recall, not durable mastery."
+}
