@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-17-01",
+  "date": "2026-11-17",
+  "source": "One optional delayed command recall during an ordinary conversation",
+  "lessonTheme": "Abre este archivo, por favor: delayed recall",
+  "duration": {
+    "requestedMinutes": null,
+    "measuredMinutes": null
+  },
+  "summary": "Correctly recalled abre, masculine este archivo and por favor without a fresh Spanish model. The previous por favor spelling slip did not recur; punctuation was supplied. One successful recall is not mastery.",
+  "observations": [
+    {
+      "id": "o-2026-11-17-01-open-file",
+      "kind": "prompted_recall",
+      "learnerText": "abre este archivo por favor",
+      "correctedText": "Abre este archivo, por favor.",
+      "grammarIds": [
+        "g-regular-imperative-tu",
+        "g-esto-esta"
+      ],
+      "vocabularyIds": [
+        "v-abre",
+        "v-este",
+        "v-archivo",
+        "v-por-favor"
+      ],
+      "outcome": "Command, masculine demonstrative and polite phrase used successfully after a gap; only punctuation and sentence capitalization normalized."
+    }
+  ],
+  "nextSteps": [
+    "Reuse the polite command after another gap.",
+    "Continue recorded review of el perfil and plural hay without assuming mastery."
+  ],
+  "skippedUnitIds": [],
+  "assessmentNote": "One correct delayed recall supports retention evidence, not durable mastery."
+}
