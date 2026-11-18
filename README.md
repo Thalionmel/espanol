@@ -43,10 +43,13 @@ A shared Spanish learning record for conversation-based teaching and future trai
 - [Review/publish commands: register and diseño spelling](data/sessions/2026-11-16-03.json)
 - [Opening-file recall: abre and este archivo, por favor spelling](data/sessions/2026-11-16-04.json)
 - [Delayed opening-file recall: abre, este archivo and por favor](data/sessions/2026-11-17-01.json)
+- [Customer offers and prices: 250 and 258](data/sessions/2026-11-18-01.json)
 - [Data format and update rules](docs/data-format.md)
 - [Instructions for future assistants](AGENTS.md)
 
-## Current learning position — 17 November 2026
+## Current learning position — 18 November 2026
+
+On 18 November, practised customer offers. **Cree** was valid formal **usted** but requested **tú** required **crea**; **por** for the recipient needed **para**. Then correctly reused **Crea una oferta para nuestros clientes** and **para nuestro cliente nuevo** after feedback. **Soporto technico** was corrected to **soporte técnico**, with no spelling retry. Correctly stated prices using **200** in digits, then **doscientos cincuenta** and **doscientos cincuenta y ocho** after models. Immediate number construction was successful; delayed recall is untested. The learner explicitly requested numbers in ordinary conversations. Next: recall the price pattern after a gap and revisit **soporte técnico**.
 
 On 17 November, correctly recalled **Abre este archivo, por favor** without a fresh Spanish model. The command, masculine **este archivo**, and **por favor** were correct after a gap; the earlier **pr favor** slip did not recur. Punctuation was supplied. This is one successful recall, not a mastery assessment.
 

@@ -1,0 +1,157 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-18-01",
+  "date": "2026-11-18",
+  "source": "Requested short lesson on customer offers, expanded at learner request to numbers",
+  "lessonTheme": "Customer offers, recipient para and prices with 200 plus tens and units",
+  "duration": {
+    "requestedMinutes": null,
+    "measuredMinutes": null
+  },
+  "summary": "Formal cree was valid but differed from requested tú; crea and recipient para were then reused correctly. Soporte técnico spelling needed correction. Correct price statements used 200 in digits, then doscientos cincuenta and doscientos cincuenta y ocho after models. Learner requested numbers in everyday conversational practice.",
+  "observations": [
+    {
+      "id": "o-2026-11-18-01-offer-first",
+      "kind": "prompted_practice",
+      "learnerText": "cree una oferta por nuestros clientes, por favor",
+      "correctedText": "Crea una oferta para nuestros clientes, por favor.",
+      "grammarIds": [
+        "g-regular-imperative-tu",
+        "g-imperative-register",
+        "g-para-recipient"
+      ],
+      "vocabularyIds": [
+        "v-crea",
+        "v-oferta",
+        "v-para",
+        "v-nuestros-clientes",
+        "v-por-favor"
+      ],
+      "outcome": "Cree is a valid formal usted command, but tú was requested. Recipient por corrected to para."
+    },
+    {
+      "id": "o-2026-11-18-01-offer-repeat",
+      "kind": "prompted_practice",
+      "learnerText": "crea una oferta para nuestros clientes por favor",
+      "correctedText": "Crea una oferta para nuestros clientes, por favor.",
+      "grammarIds": [
+        "g-regular-imperative-tu",
+        "g-para-recipient"
+      ],
+      "vocabularyIds": [
+        "v-crea",
+        "v-oferta",
+        "v-para",
+        "v-nuestros-clientes",
+        "v-por-favor"
+      ],
+      "outcome": "Correctly reused crea and para after correction; repeated the plural sentence rather than requested a new customer. Turn interrupted before tutor feedback; no new correction inferred."
+    },
+    {
+      "id": "o-2026-11-18-01-offer-new",
+      "kind": "prompted_practice",
+      "learnerText": "crea una oferta para nuestro cliente nuevo por favor",
+      "correctedText": "Crea una oferta para nuestro cliente nuevo, por favor.",
+      "grammarIds": [
+        "g-regular-imperative-tu",
+        "g-para-recipient"
+      ],
+      "vocabularyIds": [
+        "v-crea",
+        "v-oferta",
+        "v-para",
+        "v-cliente-nuevo",
+        "v-por-favor"
+      ],
+      "outcome": "Correct grammar and immediate reuse of crea and para. Nuestro means our rather than requested a; tutor acknowledged the valid meaning."
+    },
+    {
+      "id": "o-2026-11-18-01-includes",
+      "kind": "prompted_practice",
+      "learnerText": "La oferta incluye soporto technico",
+      "correctedText": "La oferta incluye soporte técnico.",
+      "grammarIds": [
+        "g-oferta-incluye"
+      ],
+      "vocabularyIds": [
+        "v-oferta",
+        "v-incluye",
+        "v-soporte-tecnico"
+      ],
+      "outcome": "Incluye and offer sentence correct after model. Soporto technico corrected to soporte técnico; no corrected spelling retry observed."
+    },
+    {
+      "id": "o-2026-11-18-01-price-digits",
+      "kind": "prompted_practice",
+      "learnerText": "El precio es de 200 euros.",
+      "correctedText": "El precio es de 200 euros.",
+      "grammarIds": [
+        "g-price-es-de"
+      ],
+      "vocabularyIds": [
+        "v-precio-es-de",
+        "v-euros"
+      ],
+      "outcome": "Correct complete price statement after phrase model, using digits. Learner then explicitly requested number practice for everyday conversations."
+    },
+    {
+      "id": "o-2026-11-18-01-price-250",
+      "kind": "prompted_practice",
+      "learnerText": "El precio es de doscientos cincuenta euros",
+      "correctedText": "El precio es de doscientos cincuenta euros.",
+      "grammarIds": [
+        "g-price-es-de",
+        "g-cardinal-hundreds-tens"
+      ],
+      "vocabularyIds": [
+        "v-precio-es-de",
+        "v-doscientos",
+        "v-cincuenta",
+        "v-euros"
+      ],
+      "outcome": "Correct immediate construction of 250 after doscientos, cincuenta and a 230 model; no y between hundreds and tens."
+    },
+    {
+      "id": "o-2026-11-18-01-price-258",
+      "kind": "prompted_practice",
+      "learnerText": "el precio es de doscientos cincuenta y ocho euros",
+      "correctedText": "El precio es de doscientos cincuenta y ocho euros.",
+      "grammarIds": [
+        "g-price-es-de",
+        "g-cardinal-hundreds-tens"
+      ],
+      "vocabularyIds": [
+        "v-precio-es-de",
+        "v-doscientos",
+        "v-cincuenta",
+        "v-ocho",
+        "v-euros"
+      ],
+      "outcome": "Correct immediate construction of 258 after a 253 model and supplied ocho. Y correctly placed between tens and units; capitalization and punctuation normalized."
+    },
+    {
+      "id": "o-2026-11-18-01-number-models",
+      "kind": "tutor_model",
+      "learnerText": null,
+      "tutorText": "200 = doscientos; 30 = treinta; 50 = cincuenta; 230 = doscientos treinta; 53 = cincuenta y tres; 253 = doscientos cincuenta y tres; eight = ocho.",
+      "grammarIds": [
+        "g-cardinal-hundreds-tens"
+      ],
+      "vocabularyIds": [
+        "v-doscientos",
+        "v-treinta",
+        "v-cincuenta",
+        "v-tres",
+        "v-ocho"
+      ],
+      "outcome": "Models supplied. Treinta and tres were not attempted by learner; no independent retention assessment."
+    }
+  ],
+  "nextSteps": [
+    "Recall crea ... para ... after intervening material; keep usted cree valid in formal contexts.",
+    "Revisit soporte técnico spelling without a fresh model.",
+    "Recall 250 and 258 after a gap, then broaden numbers for ordinary conversations; current evidence is immediate use after models."
+  ],
+  "skippedUnitIds": [],
+  "assessmentNote": "Immediate corrected reuse and successful transfer are evidence of practice, not durable mastery."
+}

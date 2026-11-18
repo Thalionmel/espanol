@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-11-17",
+  "lastUpdated": "2026-11-18",
   "vocabulary": [
     {
       "id": "v-quiero",
@@ -1164,22 +1164,26 @@
       "spanish": "para",
       "english": "to / in order to (purpose)",
       "status": "used_successfully",
-      "note": "Used para + infinitive after a model and selected it correctly in a cued choice.",
+      "note": "Used para + infinitive after a model and selected it correctly in a cued choice. Recipient use introduced in oferta para nuestros clientes: por corrected first, then para reused correctly twice.",
       "observationIds": [
         "o-l4-purpose-plural",
         "o-l4-para-choice",
         "o-l5-purpose",
         "o-l5-leo",
         "o-l11-purpose",
-        "o-2026-11-11-01-need-conversations"
+        "o-2026-11-11-01-need-conversations",
+        "o-2026-11-18-01-offer-first",
+        "o-2026-11-18-01-offer-repeat",
+        "o-2026-11-18-01-offer-new"
       ],
       "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-18",
       "sessionIds": [
         "2026-11-10-04",
         "2026-11-10-05",
         "2026-11-10-11",
-        "2026-11-11-01"
+        "2026-11-11-01",
+        "2026-11-18-01"
       ]
     },
     {
@@ -1764,20 +1768,24 @@
       "id": "v-crea",
       "spanish": "crea",
       "english": "create (affirmative tú command)",
-      "note": "Correctly used after crear → crea model; delayed recall untested. Later recalled crea in a practical game instruction without a fresh conjugated model; mixed surrounding vocabulary was corrected.",
+      "note": "Correctly used after crear → crea model; delayed recall untested. Later recalled crea in a practical game instruction without a fresh conjugated model; mixed surrounding vocabulary was corrected. On 2026-11-18, formal cree appeared first; then crea was used correctly twice after register feedback. Immediate corrected reuse; delayed recall still pending.",
       "status": "used_successfully",
       "firstSeen": "2026-11-11",
-      "lastSeen": "2026-11-16",
+      "lastSeen": "2026-11-18",
       "sessionIds": [
         "2026-11-11-02",
         "2026-11-11-03",
-        "2026-11-16-02"
+        "2026-11-16-02",
+        "2026-11-18-01"
       ],
       "observationIds": [
         "o-2026-11-11-02-create-function",
         "o-2026-11-11-03-create-this-function",
         "o-2026-11-16-02-create-game",
-        "o-2026-11-16-02-location"
+        "o-2026-11-16-02-location",
+        "o-2026-11-18-01-offer-first",
+        "o-2026-11-18-01-offer-repeat",
+        "o-2026-11-18-01-offer-new"
       ]
     },
     {
@@ -1810,7 +1818,7 @@
       "note": "Used in five prompted commands after phrase model; no independent long-gap recall established. Later typed pr favor; tutor corrected por favor. No corrected retry observed. On 2026-11-17, delayed prompted recall produced abre este archivo por favor without a fresh Spanish model; command, masculine reference and por favor were correct. Punctuation was supplied; one successful recall does not establish mastery.",
       "status": "used_successfully",
       "firstSeen": "2026-11-11",
-      "lastSeen": "2026-11-17",
+      "lastSeen": "2026-11-18",
       "sessionIds": [
         "2026-11-11-02",
         "2026-11-11-03",
@@ -1825,7 +1833,8 @@
         "2026-11-16-02",
         "2026-11-16-03",
         "2026-11-16-04",
-        "2026-11-17-01"
+        "2026-11-17-01",
+        "2026-11-18-01"
       ],
       "observationIds": [
         "o-2026-11-11-02-review-function",
@@ -1865,7 +1874,10 @@
         "o-2026-11-16-03-review-design",
         "o-2026-11-16-03-publish-design",
         "o-2026-11-16-04-open-file",
-        "o-2026-11-17-01-open-file"
+        "o-2026-11-17-01-open-file",
+        "o-2026-11-18-01-offer-first",
+        "o-2026-11-18-01-offer-repeat",
+        "o-2026-11-18-01-offer-new"
       ]
     },
     {
@@ -2781,6 +2793,199 @@
       "observationIds": [
         "o-2026-11-16-02-create-game",
         "o-2026-11-16-02-location"
+      ]
+    },
+    {
+      "id": "v-oferta",
+      "spanish": "una oferta",
+      "english": "an offer",
+      "status": "used_successfully",
+      "note": "Correctly used after supplied vocabulary.",
+      "firstSeen": "2026-11-18",
+      "lastSeen": "2026-11-18",
+      "sessionIds": [
+        "2026-11-18-01"
+      ],
+      "observationIds": [
+        "o-2026-11-18-01-offer-first",
+        "o-2026-11-18-01-offer-repeat",
+        "o-2026-11-18-01-offer-new",
+        "o-2026-11-18-01-includes"
+      ]
+    },
+    {
+      "id": "v-nuestros-clientes",
+      "spanish": "nuestros clientes",
+      "english": "our customers",
+      "status": "used_successfully",
+      "note": "Correct supplied phrase; para needed correction on first use, then reused correctly.",
+      "firstSeen": "2026-11-18",
+      "lastSeen": "2026-11-18",
+      "sessionIds": [
+        "2026-11-18-01"
+      ],
+      "observationIds": [
+        "o-2026-11-18-01-offer-first",
+        "o-2026-11-18-01-offer-repeat"
+      ]
+    },
+    {
+      "id": "v-cliente-nuevo",
+      "spanish": "nuestro cliente nuevo / un cliente nuevo",
+      "english": "our new customer / a new customer",
+      "status": "used_successfully",
+      "note": "Produced nuestro cliente nuevo correctly; different from requested un cliente nuevo, acknowledged explicitly.",
+      "firstSeen": "2026-11-18",
+      "lastSeen": "2026-11-18",
+      "sessionIds": [
+        "2026-11-18-01"
+      ],
+      "observationIds": [
+        "o-2026-11-18-01-offer-new"
+      ]
+    },
+    {
+      "id": "v-incluye",
+      "spanish": "incluye",
+      "english": "includes",
+      "status": "used_successfully",
+      "note": "Correct immediate use in La oferta incluye after phrase model.",
+      "firstSeen": "2026-11-18",
+      "lastSeen": "2026-11-18",
+      "sessionIds": [
+        "2026-11-18-01"
+      ],
+      "observationIds": [
+        "o-2026-11-18-01-includes"
+      ]
+    },
+    {
+      "id": "v-soporte-tecnico",
+      "spanish": "soporte técnico",
+      "english": "technical support",
+      "status": "used_with_correction",
+      "note": "Attempted soporto technico; spelling corrected. No corrected retry.",
+      "firstSeen": "2026-11-18",
+      "lastSeen": "2026-11-18",
+      "sessionIds": [
+        "2026-11-18-01"
+      ],
+      "observationIds": [
+        "o-2026-11-18-01-includes"
+      ]
+    },
+    {
+      "id": "v-precio-es-de",
+      "spanish": "El precio es de…",
+      "english": "The price is…",
+      "status": "used_successfully",
+      "note": "Correct price statements with digits and written-out numbers after phrase model.",
+      "firstSeen": "2026-11-18",
+      "lastSeen": "2026-11-18",
+      "sessionIds": [
+        "2026-11-18-01"
+      ],
+      "observationIds": [
+        "o-2026-11-18-01-price-digits",
+        "o-2026-11-18-01-price-250",
+        "o-2026-11-18-01-price-258"
+      ]
+    },
+    {
+      "id": "v-euros",
+      "spanish": "euros",
+      "english": "euros",
+      "status": "used_successfully",
+      "note": "Correct plural currency form in price sentences.",
+      "firstSeen": "2026-11-18",
+      "lastSeen": "2026-11-18",
+      "sessionIds": [
+        "2026-11-18-01"
+      ],
+      "observationIds": [
+        "o-2026-11-18-01-price-digits",
+        "o-2026-11-18-01-price-250",
+        "o-2026-11-18-01-price-258"
+      ]
+    },
+    {
+      "id": "v-doscientos",
+      "spanish": "doscientos",
+      "english": "two hundred",
+      "status": "used_successfully",
+      "note": "Correct in 250 and 258 immediately after models; delayed recall untested.",
+      "firstSeen": "2026-11-18",
+      "lastSeen": "2026-11-18",
+      "sessionIds": [
+        "2026-11-18-01"
+      ],
+      "observationIds": [
+        "o-2026-11-18-01-price-250",
+        "o-2026-11-18-01-price-258",
+        "o-2026-11-18-01-number-models"
+      ]
+    },
+    {
+      "id": "v-cincuenta",
+      "spanish": "cincuenta",
+      "english": "fifty",
+      "status": "used_successfully",
+      "note": "Correct in 250 and 258 immediately after models; delayed recall untested.",
+      "firstSeen": "2026-11-18",
+      "lastSeen": "2026-11-18",
+      "sessionIds": [
+        "2026-11-18-01"
+      ],
+      "observationIds": [
+        "o-2026-11-18-01-price-250",
+        "o-2026-11-18-01-price-258",
+        "o-2026-11-18-01-number-models"
+      ]
+    },
+    {
+      "id": "v-ocho",
+      "spanish": "ocho",
+      "english": "eight",
+      "status": "used_successfully",
+      "note": "Correct in 258 with ocho supplied as a hint; independent recall untested.",
+      "firstSeen": "2026-11-18",
+      "lastSeen": "2026-11-18",
+      "sessionIds": [
+        "2026-11-18-01"
+      ],
+      "observationIds": [
+        "o-2026-11-18-01-price-258",
+        "o-2026-11-18-01-number-models"
+      ]
+    },
+    {
+      "id": "v-treinta",
+      "spanish": "treinta",
+      "english": "thirty",
+      "status": "introduced",
+      "note": "Shown in vocabulary and 230 model; not attempted.",
+      "firstSeen": "2026-11-18",
+      "lastSeen": "2026-11-18",
+      "sessionIds": [
+        "2026-11-18-01"
+      ],
+      "observationIds": [
+        "o-2026-11-18-01-number-models"
+      ]
+    },
+    {
+      "id": "v-tres",
+      "spanish": "tres",
+      "english": "three",
+      "status": "introduced",
+      "note": "Shown in 53 and 253 models; not attempted.",
+      "firstSeen": "2026-11-18",
+      "lastSeen": "2026-11-18",
+      "sessionIds": [
+        "2026-11-18-01"
+      ],
+      "observationIds": [
+        "o-2026-11-18-01-number-models"
       ]
     }
   ],
@@ -3838,7 +4043,8 @@
         "2026-11-16-02",
         "2026-11-16-03",
         "2026-11-16-04",
-        "2026-11-17-01"
+        "2026-11-17-01",
+        "2026-11-18-01"
       ],
       "observationIds": [
         "o-2026-11-11-02-review-function",
@@ -3875,12 +4081,15 @@
         "o-2026-11-16-03-review-design",
         "o-2026-11-16-03-publish-design",
         "o-2026-11-16-04-open-file",
-        "o-2026-11-17-01-open-file"
+        "o-2026-11-17-01-open-file",
+        "o-2026-11-18-01-offer-first",
+        "o-2026-11-18-01-offer-repeat",
+        "o-2026-11-18-01-offer-new"
       ],
-      "lastPractised": "2026-11-16",
+      "lastPractised": "2026-11-18",
       "nextReview": "Recheck familiar regular commands after a gap; ábrelo has been prompted but not attempted.",
-      "lastSeen": "2026-11-17",
-      "note": "Correct delayed abre este archivo recall; no durable mastery inferred. On 2026-11-17, delayed prompted recall produced abre este archivo por favor without a fresh Spanish model; command, masculine reference and por favor were correct. Punctuation was supplied; one successful recall does not establish mastery."
+      "lastSeen": "2026-11-18",
+      "note": "Correct delayed abre este archivo recall; no durable mastery inferred. On 2026-11-17, delayed prompted recall produced abre este archivo por favor without a fresh Spanish model; command, masculine reference and por favor were correct. Punctuation was supplied; one successful recall does not establish mastery. On 2026-11-18 cree was valid formal usted but tú was requested; crea reused correctly after correction."
     },
     {
       "id": "g-probar-imperative",
@@ -3925,16 +4134,19 @@
       "sessionIds": [
         "2026-11-11-03",
         "2026-11-11-04",
-        "2026-11-16-03"
+        "2026-11-16-03",
+        "2026-11-18-01"
       ],
       "observationIds": [
         "o-2026-11-11-03-read-formal",
         "o-2026-11-11-04-read-function-recall",
-        "o-2026-11-16-03-review-design"
+        "o-2026-11-16-03-review-design",
+        "o-2026-11-18-01-offer-first"
       ],
-      "lastPractised": "2026-11-16",
+      "lastPractised": "2026-11-18",
       "nextReview": "Learner correctly used lee with tú explicitly requested; deliberate formal/informal switching remains untested.",
-      "lastSeen": "2026-11-16"
+      "lastSeen": "2026-11-18",
+      "note": " On 2026-11-18 cree was valid formal usted but tú was requested; crea reused correctly after correction."
     },
     {
       "id": "g-imperative-objects",
@@ -4229,6 +4441,76 @@
       ],
       "lastPractised": "2026-11-12",
       "nextReview": "Affirmative plural hay correctly recalled in a whole check instruction on 12 November without a new model. Next check negative plural no hay after a gap."
+    },
+    {
+      "id": "g-para-recipient",
+      "pattern": "una oferta para + recipient",
+      "meaning": "Say who an offer is for.",
+      "explanation": "Para identifies the recipient in oferta para nuestros clientes. First por corrected; correct immediate reuse followed.",
+      "status": "used_successfully",
+      "sessionIds": [
+        "2026-11-18-01"
+      ],
+      "observationIds": [
+        "o-2026-11-18-01-offer-first",
+        "o-2026-11-18-01-offer-repeat",
+        "o-2026-11-18-01-offer-new"
+      ],
+      "lastPractised": "2026-11-18",
+      "nextReview": "after_a_gap",
+      "lastSeen": "2026-11-18"
+    },
+    {
+      "id": "g-oferta-incluye",
+      "pattern": "La oferta incluye + service",
+      "meaning": "Describe what an offer includes.",
+      "explanation": "Incluye was correct after a model; support phrase spelling corrected separately.",
+      "status": "used_successfully",
+      "sessionIds": [
+        "2026-11-18-01"
+      ],
+      "observationIds": [
+        "o-2026-11-18-01-includes"
+      ],
+      "lastPractised": "2026-11-18",
+      "nextReview": "after_a_gap",
+      "lastSeen": "2026-11-18"
+    },
+    {
+      "id": "g-price-es-de",
+      "pattern": "El precio es de + amount + euros",
+      "meaning": "State a price.",
+      "explanation": "Correct in three immediate price statements, first digits then written-out numbers.",
+      "status": "used_successfully",
+      "sessionIds": [
+        "2026-11-18-01"
+      ],
+      "observationIds": [
+        "o-2026-11-18-01-price-digits",
+        "o-2026-11-18-01-price-250",
+        "o-2026-11-18-01-price-258"
+      ],
+      "lastPractised": "2026-11-18",
+      "nextReview": "after_a_gap",
+      "lastSeen": "2026-11-18"
+    },
+    {
+      "id": "g-cardinal-hundreds-tens",
+      "pattern": "doscientos + tens; tens + y + units",
+      "meaning": "Construct the practised numbers 250 and 258.",
+      "explanation": "No y between hundreds and tens: doscientos cincuenta. Use y between tens and units: doscientos cincuenta y ocho. Correct immediate use after models; no general number mastery inferred.",
+      "status": "used_successfully",
+      "sessionIds": [
+        "2026-11-18-01"
+      ],
+      "observationIds": [
+        "o-2026-11-18-01-price-250",
+        "o-2026-11-18-01-price-258",
+        "o-2026-11-18-01-number-models"
+      ],
+      "lastPractised": "2026-11-18",
+      "nextReview": "after_a_gap",
+      "lastSeen": "2026-11-18"
     }
   ],
   "practiceUnits": [
@@ -5221,6 +5503,81 @@
       "lastAttemptSessionId": "2026-11-16-01",
       "lastAttemptVariant": "Correct delayed abre recall; il corrected to el. No corrected retry.",
       "lastOutcome": "used_with_correction",
+      "nextReview": "after_a_gap"
+    },
+    {
+      "id": "u-customer-offer",
+      "title": "Create an offer for a customer",
+      "prompt": "Using tú, say: Create an offer for our new customer, please.",
+      "modelAnswer": "Crea una oferta para nuestro cliente nuevo, por favor.",
+      "grammarIds": [
+        "g-regular-imperative-tu",
+        "g-para-recipient"
+      ],
+      "vocabularyIds": [
+        "v-crea",
+        "v-oferta",
+        "v-para",
+        "v-cliente-nuevo",
+        "v-por-favor"
+      ],
+      "feedbackFocus": "Command register and recipient para; distinguish valid variants in meaning.",
+      "attemptCount": 3,
+      "lastOutcome": "used_successfully",
+      "seconds": 60,
+      "optional": true,
+      "selection": "enabled",
+      "lastAttempt": "2026-11-18",
+      "lastAttemptSessionId": "2026-11-18-01",
+      "nextReview": "after_a_gap"
+    },
+    {
+      "id": "u-offer-includes",
+      "title": "Describe what an offer includes",
+      "prompt": "Say: The offer includes technical support.",
+      "modelAnswer": "La oferta incluye soporte técnico.",
+      "grammarIds": [
+        "g-oferta-incluye"
+      ],
+      "vocabularyIds": [
+        "v-oferta",
+        "v-incluye",
+        "v-soporte-tecnico"
+      ],
+      "feedbackFocus": "Recall soporte técnico spelling separately from correct incluye.",
+      "attemptCount": 1,
+      "lastOutcome": "used_with_correction",
+      "seconds": 60,
+      "optional": true,
+      "selection": "enabled",
+      "lastAttempt": "2026-11-18",
+      "lastAttemptSessionId": "2026-11-18-01",
+      "nextReview": "after_a_gap"
+    },
+    {
+      "id": "u-price-hundreds-tens",
+      "title": "State a price with hundreds, tens and units",
+      "prompt": "Say the price is 258 euros, spelling out the number.",
+      "modelAnswer": "El precio es de doscientos cincuenta y ocho euros.",
+      "grammarIds": [
+        "g-price-es-de",
+        "g-cardinal-hundreds-tens"
+      ],
+      "vocabularyIds": [
+        "v-precio-es-de",
+        "v-doscientos",
+        "v-cincuenta",
+        "v-ocho",
+        "v-euros"
+      ],
+      "feedbackFocus": "Recall number words after a gap and place y only between tens and units in the practised construction.",
+      "attemptCount": 2,
+      "lastOutcome": "used_successfully",
+      "seconds": 60,
+      "optional": true,
+      "selection": "enabled",
+      "lastAttempt": "2026-11-18",
+      "lastAttemptSessionId": "2026-11-18-01",
       "nextReview": "after_a_gap"
     }
   ]

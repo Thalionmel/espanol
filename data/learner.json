@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "learnerId": "primary",
-  "lastUpdated": "2026-11-17",
+  "lastUpdated": "2026-11-18",
   "interfaceLanguage": "en",
   "targetLanguage": "es",
   "selfReportedLevel": "Speaks a little Spanish",
@@ -74,9 +74,15 @@
       "exposureOnly": "An isolated translated phrase does not satisfy the active-practice preference"
     },
     "currentTopicRequest": {
-      "topic": "Practical imperatives for telling the assistant what to do",
-      "requestedOn": "2026-11-11",
-      "source": "Explicit learner request to study imperatives useful in daily interaction"
+      "topic": "Customer offers and practical numbers for everyday conversations",
+      "requestedOn": "2026-11-18",
+      "source": "Explicit learner requests in this lesson; retain earlier practical command practice."
+    },
+    "numberPractice": {
+      "enabled": true,
+      "requestedOn": "2026-11-18",
+      "context": "Include numbers in ordinary conversations, including prices",
+      "source": "Learner explicitly requested numbers because they regularly arise in conversations."
     }
   },
   "progression": [
@@ -120,9 +126,16 @@
     "g-indirect-why",
     "g-problema-gender",
     "g-comprueba-si",
-    "g-hay-existential"
+    "g-hay-existential",
+    "g-para-recipient",
+    "g-oferta-incluye",
+    "g-price-es-de",
+    "g-cardinal-hundreds-tens"
   ],
   "nextUnitIds": [
+    "u-customer-offer",
+    "u-offer-includes",
+    "u-price-hundreds-tens",
     "u-open-profile",
     "u-hay-existence",
     "u-comprueba-si",
@@ -173,7 +186,7 @@
     ],
     "intervalsAreFlexible": true
   },
-  "latestSessionId": "2026-11-17-01",
+  "latestSessionId": "2026-11-18-01",
   "disclosureAuthorization": {
     "publicLearningRecord": true,
     "ongoingUpdatesAuthorized": true,
