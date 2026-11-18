@@ -456,7 +456,7 @@
       "status": "used_with_correction",
       "note": "Software feature meaning previously discussed; later wrote English function in a Spanish sentence, corrected to función.",
       "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-11",
+      "lastSeen": "2026-11-18",
       "sessionIds": [
         "2026-11-10-01",
         "2026-11-10-03",
@@ -471,7 +471,8 @@
         "2026-11-11-04",
         "2026-11-11-05",
         "2026-11-11-10",
-        "2026-11-11-14"
+        "2026-11-11-14",
+        "2026-11-18-02"
       ],
       "observationIds": [
         "o-probar",
@@ -497,7 +498,8 @@
         "o-2026-11-11-05-negative-create",
         "o-2026-11-11-10-explain-function",
         "o-2026-11-11-10-explain-not-ready",
-        "o-2026-11-11-14-check-feature"
+        "o-2026-11-11-14-check-feature",
+        "o-2026-11-18-02-review-function"
       ]
     },
     {
@@ -1703,7 +1705,7 @@
       "status": "used_successfully",
       "note": "After repeated esto función errors, correctly produced full Crea esta función without a fresh model, then retained esta función in the test command; exact long-term retention untested.",
       "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-12",
+      "lastSeen": "2026-11-18",
       "sessionIds": [
         "2026-11-10-12",
         "2026-11-10-13",
@@ -1712,7 +1714,8 @@
         "2026-11-11-04",
         "2026-11-11-05",
         "2026-11-11-10",
-        "2026-11-12-01"
+        "2026-11-12-01",
+        "2026-11-18-02"
       ],
       "observationIds": [
         "o-l12-request-first",
@@ -1729,7 +1732,8 @@
         "o-2026-11-11-05-negative-review",
         "o-2026-11-11-05-negative-create",
         "o-2026-11-11-10-explain-function",
-        "o-2026-11-12-01-check-file"
+        "o-2026-11-12-01-check-file",
+        "o-2026-11-18-02-review-function"
       ]
     },
     {
@@ -1739,7 +1743,7 @@
       "note": "Correct command after revisar → revisa explanation; noun-reference errors assessed separately.",
       "status": "used_successfully",
       "firstSeen": "2026-11-11",
-      "lastSeen": "2026-11-16",
+      "lastSeen": "2026-11-18",
       "sessionIds": [
         "2026-11-11-02",
         "2026-11-11-04",
@@ -1747,7 +1751,8 @@
         "2026-11-11-12",
         "2026-11-11-13",
         "2026-11-11-14",
-        "2026-11-16-03"
+        "2026-11-16-03",
+        "2026-11-18-02"
       ],
       "observationIds": [
         "o-2026-11-11-02-review-function",
@@ -1761,7 +1766,8 @@
         "o-2026-11-11-13-6",
         "o-2026-11-11-14-image-spelling-recall",
         "o-2026-11-11-14-feature-review-check",
-        "o-2026-11-16-03-review-design"
+        "o-2026-11-16-03-review-design",
+        "o-2026-11-18-02-review-function"
       ]
     },
     {
@@ -1834,7 +1840,8 @@
         "2026-11-16-03",
         "2026-11-16-04",
         "2026-11-17-01",
-        "2026-11-18-01"
+        "2026-11-18-01",
+        "2026-11-18-02"
       ],
       "observationIds": [
         "o-2026-11-11-02-review-function",
@@ -1877,7 +1884,8 @@
         "o-2026-11-17-01-open-file",
         "o-2026-11-18-01-offer-first",
         "o-2026-11-18-01-offer-repeat",
-        "o-2026-11-18-01-offer-new"
+        "o-2026-11-18-01-offer-new",
+        "o-2026-11-18-02-review-function"
       ]
     },
     {
@@ -3978,7 +3986,8 @@
         "2026-11-12-01",
         "2026-11-12-02",
         "2026-11-16-04",
-        "2026-11-17-01"
+        "2026-11-17-01",
+        "2026-11-18-02"
       ],
       "observationIds": [
         "o-l12-request-first",
@@ -4013,11 +4022,12 @@
         "o-2026-11-12-01-check-file",
         "o-2026-11-12-02-open-file",
         "o-2026-11-16-04-open-file",
-        "o-2026-11-17-01-open-file"
+        "o-2026-11-17-01-open-file",
+        "o-2026-11-18-02-review-function"
       ],
       "nextReview": "Esta archivo recurred on 12 November; masculine este archivo was supplied, with no retry yet. Recall it after intervening material.",
       "lastPractised": "2026-11-12",
-      "lastSeen": "2026-11-17",
+      "lastSeen": "2026-11-18",
       "note": "Correct delayed abre este archivo recall; no durable mastery inferred. On 2026-11-17, delayed prompted recall produced abre este archivo por favor without a fresh Spanish model; command, masculine reference and por favor were correct. Punctuation was supplied; one successful recall does not establish mastery."
     },
     {
@@ -4044,7 +4054,8 @@
         "2026-11-16-03",
         "2026-11-16-04",
         "2026-11-17-01",
-        "2026-11-18-01"
+        "2026-11-18-01",
+        "2026-11-18-02"
       ],
       "observationIds": [
         "o-2026-11-11-02-review-function",
@@ -4084,7 +4095,8 @@
         "o-2026-11-17-01-open-file",
         "o-2026-11-18-01-offer-first",
         "o-2026-11-18-01-offer-repeat",
-        "o-2026-11-18-01-offer-new"
+        "o-2026-11-18-01-offer-new",
+        "o-2026-11-18-02-review-function"
       ],
       "lastPractised": "2026-11-18",
       "nextReview": "Recheck familiar regular commands after a gap; ábrelo has been prompted but not attempted.",
@@ -4135,13 +4147,15 @@
         "2026-11-11-03",
         "2026-11-11-04",
         "2026-11-16-03",
-        "2026-11-18-01"
+        "2026-11-18-01",
+        "2026-11-18-02"
       ],
       "observationIds": [
         "o-2026-11-11-03-read-formal",
         "o-2026-11-11-04-read-function-recall",
         "o-2026-11-16-03-review-design",
-        "o-2026-11-18-01-offer-first"
+        "o-2026-11-18-01-offer-first",
+        "o-2026-11-18-02-review-function"
       ],
       "lastPractised": "2026-11-18",
       "nextReview": "Learner correctly used lee with tú explicitly requested; deliberate formal/informal switching remains untested.",
@@ -5070,11 +5084,11 @@
       "seconds": 45,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 8,
-      "lastAttempt": "2026-11-11",
-      "lastAttemptSessionId": "2026-11-11-04",
-      "lastAttemptVariant": "Read this function, with informal tú explicit.",
-      "lastOutcome": "used_successfully",
+      "attemptCount": 9,
+      "lastAttempt": "2026-11-18",
+      "lastAttemptSessionId": "2026-11-18-02",
+      "lastAttemptVariant": "Review this function, please: valid formal revise in a tú prompt; este función corrected to esta función; accent supplied, with no retry.",
+      "lastOutcome": "used_with_correction",
       "nextReview": "after_a_gap"
     },
     {

@@ -44,10 +44,13 @@ A shared Spanish learning record for conversation-based teaching and future trai
 - [Opening-file recall: abre and este archivo, por favor spelling](data/sessions/2026-11-16-04.json)
 - [Delayed opening-file recall: abre, este archivo and por favor](data/sessions/2026-11-17-01.json)
 - [Customer offers and prices: 250 and 258](data/sessions/2026-11-18-01.json)
+- [Review-function recall: tú revisa and feminine esta función](data/sessions/2026-11-18-02.json)
 - [Data format and update rules](docs/data-format.md)
 - [Instructions for future assistants](AGENTS.md)
 
 ## Current learning position — 18 November 2026
+
+Later recalled **revise este funcion, por favor** for an explicit **tú** prompt. **Revise** is valid formal **usted**; tutor supplied **Revisa esta función, por favor** for **tú** and feminine **esta función**. **Por favor** was correct. No corrected retry or durable recall is inferred.
 
 On 18 November, practised customer offers. **Cree** was valid formal **usted** but requested **tú** required **crea**; **por** for the recipient needed **para**. Then correctly reused **Crea una oferta para nuestros clientes** and **para nuestro cliente nuevo** after feedback. **Soporto technico** was corrected to **soporte técnico**, with no spelling retry. Correctly stated prices using **200** in digits, then **doscientos cincuenta** and **doscientos cincuenta y ocho** after models. Immediate number construction was successful; delayed recall is untested. The learner explicitly requested numbers in ordinary conversations. Next: recall the price pattern after a gap and revisit **soporte técnico**.
 

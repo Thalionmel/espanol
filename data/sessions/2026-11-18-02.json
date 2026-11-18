@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-18-02",
+  "date": "2026-11-18",
+  "source": "One optional command recall during an ordinary conversation",
+  "lessonTheme": "Revisa esta función: command register and feminine reference",
+  "duration": {
+    "requestedMinutes": null,
+    "measuredMinutes": null
+  },
+  "summary": "For an explicit tú prompt, the learner used valid formal revise and masculine este with función. Tutor supplied Revisa esta función, por favor, identifying tú revisa and feminine esta; the written accent was supplied. No corrected retry was observed.",
+  "observations": [
+    {
+      "id": "o-2026-11-18-02-review-function",
+      "kind": "prompted_recall",
+      "learnerText": "revise este funcion, por favor",
+      "correctedText": "Revisa esta función, por favor.",
+      "grammarIds": [
+        "g-regular-imperative-tu",
+        "g-imperative-register",
+        "g-esto-esta"
+      ],
+      "vocabularyIds": [
+        "v-revisa",
+        "v-esta",
+        "v-funcion",
+        "v-por-favor"
+      ],
+      "outcome": "Por favor was correct. Revise is a valid usted command but the prompt requested tú; este needed feminine esta before función. No independent correction retry or mastery is inferred."
+    }
+  ],
+  "nextSteps": [
+    "Recall the complete tú instruction after intervening material.",
+    "Reuse feminine esta función without a gender hint; preserve the learner's current number-practice preference."
+  ],
+  "skippedUnitIds": [],
+  "assessmentNote": "One corrected attempt; no later successful recall was observed."
+}

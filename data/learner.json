@@ -136,6 +136,7 @@
     "u-customer-offer",
     "u-offer-includes",
     "u-price-hundreds-tens",
+    "u-regular-imperative-tu",
     "u-open-profile",
     "u-hay-existence",
     "u-comprueba-si",
@@ -150,7 +151,6 @@
     "u-negative-command-object",
     "u-negative-tu-ar",
     "u-imperative-object",
-    "u-regular-imperative-tu",
     "u-un-poco-de",
     "u-para-vs-porque",
     "u-review-request",
@@ -186,7 +186,7 @@
     ],
     "intervalsAreFlexible": true
   },
-  "latestSessionId": "2026-11-18-01",
+  "latestSessionId": "2026-11-18-02",
   "disclosureAuthorization": {
     "publicLearningRecord": true,
     "ongoingUpdatesAuthorized": true,
