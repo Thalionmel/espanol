@@ -2892,7 +2892,8 @@
       "lastSeen": "2026-11-18",
       "sessionIds": [
         "2026-11-18-01",
-        "2026-11-18-03"
+        "2026-11-18-03",
+        "2026-11-18-04"
       ],
       "observationIds": [
         "o-2026-11-18-01-price-digits",
@@ -2905,7 +2906,13 @@
         "o-2026-11-18-03-750-first",
         "o-2026-11-18-03-750-retry",
         "o-2026-11-18-03-650",
-        "o-2026-11-18-03-550"
+        "o-2026-11-18-03-550",
+        "o-2026-11-18-04-958",
+        "o-2026-11-18-04-850",
+        "o-2026-11-18-04-1650",
+        "o-2026-11-18-04-1670",
+        "o-2026-11-18-04-1890",
+        "o-2026-11-18-04-1980"
       ]
     },
     {
@@ -2918,7 +2925,8 @@
       "lastSeen": "2026-11-18",
       "sessionIds": [
         "2026-11-18-01",
-        "2026-11-18-03"
+        "2026-11-18-03",
+        "2026-11-18-04"
       ],
       "observationIds": [
         "o-2026-11-18-01-price-digits",
@@ -2931,7 +2939,13 @@
         "o-2026-11-18-03-750-first",
         "o-2026-11-18-03-750-retry",
         "o-2026-11-18-03-650",
-        "o-2026-11-18-03-550"
+        "o-2026-11-18-03-550",
+        "o-2026-11-18-04-958",
+        "o-2026-11-18-04-850",
+        "o-2026-11-18-04-1650",
+        "o-2026-11-18-04-1670",
+        "o-2026-11-18-04-1890",
+        "o-2026-11-18-04-1980"
       ]
     },
     {
@@ -2959,12 +2973,13 @@
       "spanish": "cincuenta",
       "english": "fifty",
       "status": "used_successfully",
-      "note": "Correct in 250 and 258 immediately after models; delayed recall untested. Later cinquenta needed spelling correction; correctly retained cincuenta in two following sentences for 650 and 550.",
+      "note": "Correct in 250 and 258 immediately after models; delayed recall untested. Later cinquenta needed spelling correction; correctly retained cincuenta in two following sentences for 650 and 550. Later cinuenta omitted c; corrected cincuenta retained in following 850 and 1650. Recurring spelling target, despite successful uses.",
       "firstSeen": "2026-11-18",
       "lastSeen": "2026-11-18",
       "sessionIds": [
         "2026-11-18-01",
-        "2026-11-18-03"
+        "2026-11-18-03",
+        "2026-11-18-04"
       ],
       "observationIds": [
         "o-2026-11-18-01-price-250",
@@ -2972,7 +2987,10 @@
         "o-2026-11-18-01-number-models",
         "o-2026-11-18-03-750-retry",
         "o-2026-11-18-03-650",
-        "o-2026-11-18-03-550"
+        "o-2026-11-18-03-550",
+        "o-2026-11-18-04-958",
+        "o-2026-11-18-04-850",
+        "o-2026-11-18-04-1650"
       ]
     },
     {
@@ -2985,14 +3003,16 @@
       "lastSeen": "2026-11-18",
       "sessionIds": [
         "2026-11-18-01",
-        "2026-11-18-03"
+        "2026-11-18-03",
+        "2026-11-18-04"
       ],
       "observationIds": [
         "o-2026-11-18-01-price-258",
         "o-2026-11-18-01-number-models",
         "o-2026-11-18-03-268",
         "o-2026-11-18-03-478",
-        "o-2026-11-18-03-568"
+        "o-2026-11-18-03-568",
+        "o-2026-11-18-04-958"
       ]
     },
     {
@@ -3034,12 +3054,14 @@
       "firstSeen": "2026-11-18",
       "lastSeen": "2026-11-18",
       "sessionIds": [
-        "2026-11-18-03"
+        "2026-11-18-03",
+        "2026-11-18-04"
       ],
       "observationIds": [
         "o-2026-11-18-03-268",
         "o-2026-11-18-03-568",
-        "o-2026-11-18-03-hundred-models"
+        "o-2026-11-18-03-hundred-models",
+        "o-2026-11-18-04-models"
       ]
     },
     {
@@ -3051,12 +3073,14 @@
       "firstSeen": "2026-11-18",
       "lastSeen": "2026-11-18",
       "sessionIds": [
-        "2026-11-18-03"
+        "2026-11-18-03",
+        "2026-11-18-04"
       ],
       "observationIds": [
         "o-2026-11-18-03-270",
         "o-2026-11-18-03-478",
-        "o-2026-11-18-03-hundred-models"
+        "o-2026-11-18-03-hundred-models",
+        "o-2026-11-18-04-1670"
       ]
     },
     {
@@ -3099,28 +3123,35 @@
       "firstSeen": "2026-11-18",
       "lastSeen": "2026-11-18",
       "sessionIds": [
-        "2026-11-18-03"
+        "2026-11-18-03",
+        "2026-11-18-04"
       ],
       "observationIds": [
         "o-2026-11-18-03-568",
         "o-2026-11-18-03-550",
-        "o-2026-11-18-03-hundred-models"
+        "o-2026-11-18-03-hundred-models",
+        "o-2026-11-18-04-models"
       ]
     },
     {
       "id": "v-seiscientos",
       "spanish": "seiscientos",
       "english": "six hundred",
-      "status": "used_with_correction",
-      "note": "Attempted seicientos; corrected to seiscientos with seis + cientos explanation. No corrected retry yet.",
+      "status": "used_successfully",
+      "note": "Attempted seicientos; corrected to seiscientos with seis + cientos explanation. No corrected retry yet. Later seiscenta was corrected to seiscientos; focused retry seiscientos then full mil seiscientos setenta were correct immediately after feedback. Delayed recall remains pending.",
       "firstSeen": "2026-11-18",
       "lastSeen": "2026-11-18",
       "sessionIds": [
-        "2026-11-18-03"
+        "2026-11-18-03",
+        "2026-11-18-04"
       ],
       "observationIds": [
         "o-2026-11-18-03-650",
-        "o-2026-11-18-03-hundred-models"
+        "o-2026-11-18-03-hundred-models",
+        "o-2026-11-18-04-1650",
+        "o-2026-11-18-04-600",
+        "o-2026-11-18-04-1670",
+        "o-2026-11-18-04-models"
       ]
     },
     {
@@ -3138,6 +3169,91 @@
         "o-2026-11-18-03-750-first",
         "o-2026-11-18-03-750-retry",
         "o-2026-11-18-03-hundred-models"
+      ]
+    },
+    {
+      "id": "v-ochocientos",
+      "spanish": "ochocientos",
+      "english": "eight hundred",
+      "status": "used_successfully",
+      "note": "Correct in 850 then 1890 after introduction.",
+      "firstSeen": "2026-11-18",
+      "lastSeen": "2026-11-18",
+      "sessionIds": [
+        "2026-11-18-04"
+      ],
+      "observationIds": [
+        "o-2026-11-18-04-850",
+        "o-2026-11-18-04-1890",
+        "o-2026-11-18-04-models"
+      ]
+    },
+    {
+      "id": "v-novecientos",
+      "spanish": "novecientos",
+      "english": "nine hundred",
+      "status": "used_successfully",
+      "note": "Correct in 958 despite separate cincuenta typo, then in 1980.",
+      "firstSeen": "2026-11-18",
+      "lastSeen": "2026-11-18",
+      "sessionIds": [
+        "2026-11-18-04"
+      ],
+      "observationIds": [
+        "o-2026-11-18-04-958",
+        "o-2026-11-18-04-1980",
+        "o-2026-11-18-04-models"
+      ]
+    },
+    {
+      "id": "v-mil",
+      "spanish": "mil",
+      "english": "one thousand",
+      "status": "used_successfully",
+      "note": "Correct in 1650 despite separate hundreds error; correct subsequent full statements 1670, 1890 and 1980. Model showed mil without un.",
+      "firstSeen": "2026-11-18",
+      "lastSeen": "2026-11-18",
+      "sessionIds": [
+        "2026-11-18-04"
+      ],
+      "observationIds": [
+        "o-2026-11-18-04-1650",
+        "o-2026-11-18-04-1670",
+        "o-2026-11-18-04-1890",
+        "o-2026-11-18-04-1980",
+        "o-2026-11-18-04-models"
+      ]
+    },
+    {
+      "id": "v-ochenta",
+      "spanish": "ochenta",
+      "english": "eighty",
+      "status": "used_successfully",
+      "note": "Correct in 1980 after vocabulary supplied and intervening 1890 exercise.",
+      "firstSeen": "2026-11-18",
+      "lastSeen": "2026-11-18",
+      "sessionIds": [
+        "2026-11-18-04"
+      ],
+      "observationIds": [
+        "o-2026-11-18-04-1980",
+        "o-2026-11-18-04-models"
+      ]
+    },
+    {
+      "id": "v-noventa",
+      "spanish": "noventa",
+      "english": "ninety",
+      "status": "used_successfully",
+      "note": "Correct in 1890 immediately after vocabulary supplied.",
+      "firstSeen": "2026-11-18",
+      "lastSeen": "2026-11-18",
+      "sessionIds": [
+        "2026-11-18-04"
+      ],
+      "observationIds": [
+        "o-2026-11-18-04-1890",
+        "o-2026-11-18-04-models"
       ]
     }
   ],
@@ -4642,7 +4758,8 @@
       "status": "used_successfully",
       "sessionIds": [
         "2026-11-18-01",
-        "2026-11-18-03"
+        "2026-11-18-03",
+        "2026-11-18-04"
       ],
       "observationIds": [
         "o-2026-11-18-01-price-digits",
@@ -4655,7 +4772,13 @@
         "o-2026-11-18-03-750-first",
         "o-2026-11-18-03-750-retry",
         "o-2026-11-18-03-650",
-        "o-2026-11-18-03-550"
+        "o-2026-11-18-03-550",
+        "o-2026-11-18-04-958",
+        "o-2026-11-18-04-850",
+        "o-2026-11-18-04-1650",
+        "o-2026-11-18-04-1670",
+        "o-2026-11-18-04-1890",
+        "o-2026-11-18-04-1980"
       ],
       "lastPractised": "2026-11-18",
       "nextReview": "after_a_gap",
@@ -4669,7 +4792,8 @@
       "status": "used_successfully",
       "sessionIds": [
         "2026-11-18-01",
-        "2026-11-18-03"
+        "2026-11-18-03",
+        "2026-11-18-04"
       ],
       "observationIds": [
         "o-2026-11-18-01-price-250",
@@ -4683,10 +4807,39 @@
         "o-2026-11-18-03-750-retry",
         "o-2026-11-18-03-650",
         "o-2026-11-18-03-550",
-        "o-2026-11-18-03-hundred-models"
+        "o-2026-11-18-03-hundred-models",
+        "o-2026-11-18-04-958",
+        "o-2026-11-18-04-850",
+        "o-2026-11-18-04-1650",
+        "o-2026-11-18-04-600",
+        "o-2026-11-18-04-1670",
+        "o-2026-11-18-04-1890",
+        "o-2026-11-18-04-1980",
+        "o-2026-11-18-04-models"
       ],
       "lastPractised": "2026-11-18",
       "nextReview": "Recall seiscientos and setecientos spelling after a gap; retain exact 700 versus 750 meaning.",
+      "lastSeen": "2026-11-18",
+      "note": " Extended to 800/900 and tens 80/90. Seiscenta corrected, then immediate seiscientos and full 1670 retry correct; 1890/1980 contrast correct."
+    },
+    {
+      "id": "g-mil-cardinals",
+      "pattern": "mil + hundreds + tens (+ y + units)",
+      "meaning": "Construct the practised prices between 1000 and 1999.",
+      "explanation": "1000 is mil, without un. No y between mil and hundreds or hundreds and tens. Correct mil in 1650 with separate seiscientos correction; full 1670, 1890 and 1980 correct after models.",
+      "status": "used_successfully",
+      "sessionIds": [
+        "2026-11-18-04"
+      ],
+      "observationIds": [
+        "o-2026-11-18-04-1650",
+        "o-2026-11-18-04-1670",
+        "o-2026-11-18-04-1890",
+        "o-2026-11-18-04-1980",
+        "o-2026-11-18-04-models"
+      ],
+      "lastPractised": "2026-11-18",
+      "nextReview": "Recall after a gap; immediate use is not durable mastery.",
       "lastSeen": "2026-11-18"
     }
   ],
@@ -5777,11 +5930,39 @@
       "seconds": 60,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 6,
+      "attemptCount": 8,
       "lastAttempt": "2026-11-18",
-      "lastAttemptSessionId": "2026-11-18-03",
+      "lastAttemptSessionId": "2026-11-18-04",
       "lastOutcome": "used_successfully",
-      "lastAttemptVariant": "478 and 568 correct after models; 750 meaning then spelling corrected; 650 seiscientos corrected, 550 quinientos cincuenta correct after intervening material.",
+      "lastAttemptVariant": "958 needed cinuenta → cincuenta; 850 correct on next prompt. Seiscientos also corrected separately in 1650, then 600 and 1670 correct.",
+      "nextReview": "after_a_gap"
+    },
+    {
+      "id": "u-price-thousands",
+      "title": "Prices with mil and hundreds",
+      "prompt": "Say: The price is 1670 euros. Spell out the number.",
+      "modelAnswer": "El precio es de mil seiscientos setenta euros.",
+      "grammarIds": [
+        "g-price-es-de",
+        "g-mil-cardinals",
+        "g-cardinal-hundreds-tens"
+      ],
+      "vocabularyIds": [
+        "v-precio-es-de",
+        "v-mil",
+        "v-seiscientos",
+        "v-setenta",
+        "v-euros"
+      ],
+      "feedbackFocus": "Recall mil without un, retain seiscientos spelling and distinguish hundreds from tens.",
+      "seconds": 60,
+      "optional": true,
+      "selection": "enabled",
+      "attemptCount": 4,
+      "lastAttempt": "2026-11-18",
+      "lastAttemptSessionId": "2026-11-18-04",
+      "lastOutcome": "used_successfully",
+      "lastAttemptVariant": "1650 needed seiscientos; focused 600 retry and 1670 full transfer correct, followed by correct 1890 and 1980.",
       "nextReview": "after_a_gap"
     }
   ]

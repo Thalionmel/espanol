@@ -1,0 +1,166 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-18-04",
+  "date": "2026-11-18",
+  "source": "Continued requested number practice using prices",
+  "lessonTheme": "800/900, mil, 80/90 and seiscientos correction",
+  "duration": {
+    "requestedMinutes": null,
+    "measuredMinutes": null
+  },
+  "summary": "Correct hundreds 800/900 after introduction. Cinuenta needed cincuenta, then retained on next use. Mil used correctly; seiscenta corrected to seiscientos, followed by correct focused retry and full 1670 transfer. Correctly distinguished 1890 and 1980 after tens vocabulary supplied.",
+  "observations": [
+    {
+      "id": "o-2026-11-18-04-958",
+      "kind": "prompted_practice",
+      "learnerText": "el precio es de novecientos cinuenta y ocho euros",
+      "correctedText": "El precio es de novecientos cincuenta y ocho euros.",
+      "grammarIds": [
+        "g-price-es-de",
+        "g-cardinal-hundreds-tens"
+      ],
+      "vocabularyIds": [
+        "v-precio-es-de",
+        "v-euros",
+        "v-novecientos",
+        "v-cincuenta",
+        "v-ocho"
+      ],
+      "outcome": "Novecientos and y ocho correct; cinuenta corrected to cincuenta, restoring c after cin."
+    },
+    {
+      "id": "o-2026-11-18-04-850",
+      "kind": "prompted_practice",
+      "learnerText": "el precio es de ochocientos cincuenta euros",
+      "correctedText": "El precio es de ochocientos cincuenta euros.",
+      "grammarIds": [
+        "g-price-es-de",
+        "g-cardinal-hundreds-tens"
+      ],
+      "vocabularyIds": [
+        "v-precio-es-de",
+        "v-euros",
+        "v-ochocientos",
+        "v-cincuenta"
+      ],
+      "outcome": "Ochocientos and corrected cincuenta correct immediately after feedback."
+    },
+    {
+      "id": "o-2026-11-18-04-1650",
+      "kind": "prompted_practice",
+      "learnerText": "el precio es de mil seiscenta cincuenta euros",
+      "correctedText": "El precio es de mil seiscientos cincuenta euros.",
+      "grammarIds": [
+        "g-price-es-de",
+        "g-cardinal-hundreds-tens",
+        "g-mil-cardinals"
+      ],
+      "vocabularyIds": [
+        "v-precio-es-de",
+        "v-euros",
+        "v-mil",
+        "v-seiscientos",
+        "v-cincuenta"
+      ],
+      "outcome": "Mil and cincuenta correct; seiscenta corrected to seiscientos. Contrasted 60 sesenta and 600 seiscientos = seis + cientos."
+    },
+    {
+      "id": "o-2026-11-18-04-600",
+      "kind": "prompted_practice",
+      "learnerText": "seiscientos",
+      "correctedText": "seiscientos",
+      "grammarIds": [
+        "g-cardinal-hundreds-tens"
+      ],
+      "vocabularyIds": [
+        "v-seiscientos"
+      ],
+      "outcome": "Correct focused immediate retry after full model; does not alone prove independent recall."
+    },
+    {
+      "id": "o-2026-11-18-04-1670",
+      "kind": "prompted_practice",
+      "learnerText": "el precio es de mil seiscientos setenta euros",
+      "correctedText": "El precio es de mil seiscientos setenta euros.",
+      "grammarIds": [
+        "g-price-es-de",
+        "g-cardinal-hundreds-tens",
+        "g-mil-cardinals"
+      ],
+      "vocabularyIds": [
+        "v-precio-es-de",
+        "v-euros",
+        "v-mil",
+        "v-seiscientos",
+        "v-setenta"
+      ],
+      "outcome": "Correct full-sentence transfer after focused seiscientos retry."
+    },
+    {
+      "id": "o-2026-11-18-04-1890",
+      "kind": "prompted_practice",
+      "learnerText": "el precio es de mil ochocientos noventa euros",
+      "correctedText": "El precio es de mil ochocientos noventa euros.",
+      "grammarIds": [
+        "g-price-es-de",
+        "g-cardinal-hundreds-tens",
+        "g-mil-cardinals"
+      ],
+      "vocabularyIds": [
+        "v-precio-es-de",
+        "v-euros",
+        "v-mil",
+        "v-ochocientos",
+        "v-noventa"
+      ],
+      "outcome": "Correct 1890 after ochenta/noventa vocabulary and 90/900 contrast supplied."
+    },
+    {
+      "id": "o-2026-11-18-04-1980",
+      "kind": "prompted_practice",
+      "learnerText": "El precio es de mil novecientos ochenta euros",
+      "correctedText": "El precio es de mil novecientos ochenta euros.",
+      "grammarIds": [
+        "g-price-es-de",
+        "g-cardinal-hundreds-tens",
+        "g-mil-cardinals"
+      ],
+      "vocabularyIds": [
+        "v-precio-es-de",
+        "v-euros",
+        "v-mil",
+        "v-novecientos",
+        "v-ochenta"
+      ],
+      "outcome": "Correct switch to 1980 after 1890, distinguishing hundreds from tens. Immediate transfer; delayed retention untested."
+    },
+    {
+      "id": "o-2026-11-18-04-models",
+      "kind": "tutor_model",
+      "learnerText": null,
+      "tutorText": "800 ochocientos; 900 novecientos; 1000 mil; 1500 mil quinientos. Use mil directly without un. 80 ochenta; 90 noventa; compare noventa with novecientos. Reinforced 60 sesenta versus 600 seiscientos = seis + cientos.",
+      "grammarIds": [
+        "g-mil-cardinals",
+        "g-cardinal-hundreds-tens"
+      ],
+      "vocabularyIds": [
+        "v-ochocientos",
+        "v-novecientos",
+        "v-mil",
+        "v-ochenta",
+        "v-noventa",
+        "v-quinientos",
+        "v-sesenta",
+        "v-seiscientos"
+      ],
+      "outcome": "Examples and explanations actually supplied in this batch."
+    }
+  ],
+  "nextSteps": [
+    "Recall seiscientos and cincuenta after a gap, and revisit setecientos spelling from earlier practice.",
+    "Recall 1890 versus 1980 without a fresh model.",
+    "Continue useful numbers; 100 versus 101–199 have not yet been introduced in this chat."
+  ],
+  "skippedUnitIds": [],
+  "assessmentNote": "Introduced vocabulary, immediate corrected reuse and within-session transfer recorded; no long-term mastery inferred."
+}

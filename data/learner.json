@@ -130,9 +130,11 @@
     "g-para-recipient",
     "g-oferta-incluye",
     "g-price-es-de",
-    "g-cardinal-hundreds-tens"
+    "g-cardinal-hundreds-tens",
+    "g-mil-cardinals"
   ],
   "nextUnitIds": [
+    "u-price-thousands",
     "u-price-hundreds-recall",
     "u-customer-offer",
     "u-offer-includes",
@@ -187,7 +189,7 @@
     ],
     "intervalsAreFlexible": true
   },
-  "latestSessionId": "2026-11-18-03",
+  "latestSessionId": "2026-11-18-04",
   "disclosureAuthorization": {
     "publicLearningRecord": true,
     "ongoingUpdatesAuthorized": true,
