@@ -131,9 +131,11 @@
     "g-oferta-incluye",
     "g-price-es-de",
     "g-cardinal-hundreds-tens",
-    "g-mil-cardinals"
+    "g-mil-cardinals",
+    "g-cien-ciento"
   ],
   "nextUnitIds": [
+    "u-cien-ciento",
     "u-price-thousands",
     "u-price-hundreds-recall",
     "u-customer-offer",
@@ -189,7 +191,7 @@
     ],
     "intervalsAreFlexible": true
   },
-  "latestSessionId": "2026-11-18-04",
+  "latestSessionId": "2026-11-18-05",
   "disclosureAuthorization": {
     "publicLearningRecord": true,
     "ongoingUpdatesAuthorized": true,

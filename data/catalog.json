@@ -2893,7 +2893,8 @@
       "sessionIds": [
         "2026-11-18-01",
         "2026-11-18-03",
-        "2026-11-18-04"
+        "2026-11-18-04",
+        "2026-11-18-05"
       ],
       "observationIds": [
         "o-2026-11-18-01-price-digits",
@@ -2912,7 +2913,12 @@
         "o-2026-11-18-04-1650",
         "o-2026-11-18-04-1670",
         "o-2026-11-18-04-1890",
-        "o-2026-11-18-04-1980"
+        "o-2026-11-18-04-1980",
+        "o-2026-11-18-05-170",
+        "o-2026-11-18-05-180-first",
+        "o-2026-11-18-05-190",
+        "o-2026-11-18-05-100",
+        "o-2026-11-18-05-1180"
       ]
     },
     {
@@ -2926,7 +2932,8 @@
       "sessionIds": [
         "2026-11-18-01",
         "2026-11-18-03",
-        "2026-11-18-04"
+        "2026-11-18-04",
+        "2026-11-18-05"
       ],
       "observationIds": [
         "o-2026-11-18-01-price-digits",
@@ -2945,7 +2952,12 @@
         "o-2026-11-18-04-1650",
         "o-2026-11-18-04-1670",
         "o-2026-11-18-04-1890",
-        "o-2026-11-18-04-1980"
+        "o-2026-11-18-04-1980",
+        "o-2026-11-18-05-170",
+        "o-2026-11-18-05-180-first",
+        "o-2026-11-18-05-190",
+        "o-2026-11-18-05-100",
+        "o-2026-11-18-05-1180"
       ]
     },
     {
@@ -3074,13 +3086,15 @@
       "lastSeen": "2026-11-18",
       "sessionIds": [
         "2026-11-18-03",
-        "2026-11-18-04"
+        "2026-11-18-04",
+        "2026-11-18-05"
       ],
       "observationIds": [
         "o-2026-11-18-03-270",
         "o-2026-11-18-03-478",
         "o-2026-11-18-03-hundred-models",
-        "o-2026-11-18-04-1670"
+        "o-2026-11-18-04-1670",
+        "o-2026-11-18-05-170"
       ]
     },
     {
@@ -3214,14 +3228,16 @@
       "firstSeen": "2026-11-18",
       "lastSeen": "2026-11-18",
       "sessionIds": [
-        "2026-11-18-04"
+        "2026-11-18-04",
+        "2026-11-18-05"
       ],
       "observationIds": [
         "o-2026-11-18-04-1650",
         "o-2026-11-18-04-1670",
         "o-2026-11-18-04-1890",
         "o-2026-11-18-04-1980",
-        "o-2026-11-18-04-models"
+        "o-2026-11-18-04-models",
+        "o-2026-11-18-05-1180"
       ]
     },
     {
@@ -3233,11 +3249,15 @@
       "firstSeen": "2026-11-18",
       "lastSeen": "2026-11-18",
       "sessionIds": [
-        "2026-11-18-04"
+        "2026-11-18-04",
+        "2026-11-18-05"
       ],
       "observationIds": [
         "o-2026-11-18-04-1980",
-        "o-2026-11-18-04-models"
+        "o-2026-11-18-04-models",
+        "o-2026-11-18-05-180-first",
+        "o-2026-11-18-05-180-retry",
+        "o-2026-11-18-05-1180"
       ]
     },
     {
@@ -3249,11 +3269,49 @@
       "firstSeen": "2026-11-18",
       "lastSeen": "2026-11-18",
       "sessionIds": [
-        "2026-11-18-04"
+        "2026-11-18-04",
+        "2026-11-18-05"
       ],
       "observationIds": [
         "o-2026-11-18-04-1890",
-        "o-2026-11-18-04-models"
+        "o-2026-11-18-04-models",
+        "o-2026-11-18-05-190"
+      ]
+    },
+    {
+      "id": "v-cien",
+      "spanish": "cien",
+      "english": "one hundred (exact hundred)",
+      "status": "used_successfully",
+      "note": "Incorrectly used before setenta and ochenta; corrected to ciento. Then correctly used cien for exactly 100. Model mil cien for 1100 was supplied, not attempted.",
+      "firstSeen": "2026-11-18",
+      "lastSeen": "2026-11-18",
+      "sessionIds": [
+        "2026-11-18-05"
+      ],
+      "observationIds": [
+        "o-2026-11-18-05-170",
+        "o-2026-11-18-05-180-first",
+        "o-2026-11-18-05-100"
+      ]
+    },
+    {
+      "id": "v-ciento",
+      "spanish": "ciento",
+      "english": "one hundred followed by more within the hundred",
+      "status": "used_successfully",
+      "note": "Needed twice in 170 and 180; focused ciento ochenta retry, full 190 and transfer to 1180 correct after feedback. Immediate success, not long-term mastery.",
+      "firstSeen": "2026-11-18",
+      "lastSeen": "2026-11-18",
+      "sessionIds": [
+        "2026-11-18-05"
+      ],
+      "observationIds": [
+        "o-2026-11-18-05-170",
+        "o-2026-11-18-05-180-first",
+        "o-2026-11-18-05-180-retry",
+        "o-2026-11-18-05-190",
+        "o-2026-11-18-05-1180"
       ]
     }
   ],
@@ -4759,7 +4817,8 @@
       "sessionIds": [
         "2026-11-18-01",
         "2026-11-18-03",
-        "2026-11-18-04"
+        "2026-11-18-04",
+        "2026-11-18-05"
       ],
       "observationIds": [
         "o-2026-11-18-01-price-digits",
@@ -4778,7 +4837,12 @@
         "o-2026-11-18-04-1650",
         "o-2026-11-18-04-1670",
         "o-2026-11-18-04-1890",
-        "o-2026-11-18-04-1980"
+        "o-2026-11-18-04-1980",
+        "o-2026-11-18-05-170",
+        "o-2026-11-18-05-180-first",
+        "o-2026-11-18-05-190",
+        "o-2026-11-18-05-100",
+        "o-2026-11-18-05-1180"
       ],
       "lastPractised": "2026-11-18",
       "nextReview": "after_a_gap",
@@ -4829,17 +4893,40 @@
       "explanation": "1000 is mil, without un. No y between mil and hundreds or hundreds and tens. Correct mil in 1650 with separate seiscientos correction; full 1670, 1890 and 1980 correct after models.",
       "status": "used_successfully",
       "sessionIds": [
-        "2026-11-18-04"
+        "2026-11-18-04",
+        "2026-11-18-05"
       ],
       "observationIds": [
         "o-2026-11-18-04-1650",
         "o-2026-11-18-04-1670",
         "o-2026-11-18-04-1890",
         "o-2026-11-18-04-1980",
-        "o-2026-11-18-04-models"
+        "o-2026-11-18-04-models",
+        "o-2026-11-18-05-1180"
       ],
       "lastPractised": "2026-11-18",
       "nextReview": "Recall after a gap; immediate use is not durable mastery.",
+      "lastSeen": "2026-11-18"
+    },
+    {
+      "id": "g-cien-ciento",
+      "pattern": "cien for exact 100; ciento for 101–199, also after mil",
+      "meaning": "Distinguish 100 from 100 plus tens/units.",
+      "explanation": "Cien setenta and cien ochenta corrected to ciento setenta and ciento ochenta. Focused retry then 190, exact 100 contrast and 1180 transfer correct. Models: mil cien (1100), mil ciento noventa (1190).",
+      "status": "used_successfully",
+      "sessionIds": [
+        "2026-11-18-05"
+      ],
+      "observationIds": [
+        "o-2026-11-18-05-170",
+        "o-2026-11-18-05-180-first",
+        "o-2026-11-18-05-180-retry",
+        "o-2026-11-18-05-190",
+        "o-2026-11-18-05-100",
+        "o-2026-11-18-05-1180"
+      ],
+      "lastPractised": "2026-11-18",
+      "nextReview": "Recall 100 versus 180 and 1100 versus 1180 after a gap; early repeated error remains review evidence.",
       "lastSeen": "2026-11-18"
     }
   ],
@@ -5963,6 +6050,33 @@
       "lastAttemptSessionId": "2026-11-18-04",
       "lastOutcome": "used_successfully",
       "lastAttemptVariant": "1650 needed seiscientos; focused 600 retry and 1670 full transfer correct, followed by correct 1890 and 1980.",
+      "nextReview": "after_a_gap"
+    },
+    {
+      "id": "u-cien-ciento",
+      "title": "Distinguish cien and ciento",
+      "prompt": "Say: The price is 180 euros. Spell out the number.",
+      "modelAnswer": "El precio es de ciento ochenta euros.",
+      "grammarIds": [
+        "g-cien-ciento",
+        "g-price-es-de"
+      ],
+      "vocabularyIds": [
+        "v-cien",
+        "v-ciento",
+        "v-ochenta",
+        "v-precio-es-de",
+        "v-euros"
+      ],
+      "feedbackFocus": "Use ciento within 101–199 and cien for an exact hundred; recheck after a gap.",
+      "seconds": 60,
+      "optional": true,
+      "selection": "enabled",
+      "attemptCount": 6,
+      "lastAttempt": "2026-11-18",
+      "lastAttemptSessionId": "2026-11-18-05",
+      "lastOutcome": "used_successfully",
+      "lastAttemptVariant": "Cien in 170 and 180 corrected; cued focused retry, full 190, exact 100 contrast and 1180 transfer correct.",
       "nextReview": "after_a_gap"
     }
   ]

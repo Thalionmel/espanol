@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-18-05",
+  "date": "2026-11-18",
+  "source": "Continuation of requested conversational number practice",
+  "lessonTheme": "Cien versus ciento in prices and after mil",
+  "duration": {
+    "requestedMinutes": null,
+    "measuredMinutes": null
+  },
+  "summary": "Cien before tens recurred in 170 and 180 despite a correction; focused ciento ochenta retry then full 190 were correct. Correct contrast with exactly cien euros, followed by mil ciento ochenta transfer after thousand models.",
+  "observations": [
+    {
+      "id": "o-2026-11-18-05-170",
+      "kind": "prompted_practice",
+      "learnerText": "el precio es de cien setenta euros",
+      "correctedText": "El precio es de ciento setenta euros.",
+      "grammarIds": [
+        "g-cien-ciento",
+        "g-price-es-de"
+      ],
+      "vocabularyIds": [
+        "v-cien",
+        "v-ciento",
+        "v-setenta",
+        "v-precio-es-de",
+        "v-euros"
+      ],
+      "outcome": "Cien used for 170; corrected to ciento before the rest of the number."
+    },
+    {
+      "id": "o-2026-11-18-05-180-first",
+      "kind": "prompted_practice",
+      "learnerText": "el precio es de cien ochenta euros",
+      "correctedText": "El precio es de ciento ochenta euros.",
+      "grammarIds": [
+        "g-cien-ciento",
+        "g-price-es-de"
+      ],
+      "vocabularyIds": [
+        "v-cien",
+        "v-ciento",
+        "v-ochenta",
+        "v-precio-es-de",
+        "v-euros"
+      ],
+      "outcome": "Cien error recurred for 180 after correction; ciento explained and focused retry requested."
+    },
+    {
+      "id": "o-2026-11-18-05-180-retry",
+      "kind": "prompted_practice",
+      "learnerText": "ciento ochenta",
+      "correctedText": "ciento ochenta",
+      "grammarIds": [
+        "g-cien-ciento"
+      ],
+      "vocabularyIds": [
+        "v-ciento",
+        "v-ochenta"
+      ],
+      "outcome": "Correct focused immediate retry with starting word ciento supplied; not independent recall."
+    },
+    {
+      "id": "o-2026-11-18-05-190",
+      "kind": "prompted_practice",
+      "learnerText": "el precio es de ciento noventa euros",
+      "correctedText": "El precio es de ciento noventa euros.",
+      "grammarIds": [
+        "g-cien-ciento",
+        "g-price-es-de"
+      ],
+      "vocabularyIds": [
+        "v-ciento",
+        "v-noventa",
+        "v-precio-es-de",
+        "v-euros"
+      ],
+      "outcome": "Correct full-sentence transfer to 190 after focused retry."
+    },
+    {
+      "id": "o-2026-11-18-05-100",
+      "kind": "prompted_practice",
+      "learnerText": "el precio es de cien euros",
+      "correctedText": "El precio es de cien euros.",
+      "grammarIds": [
+        "g-cien-ciento",
+        "g-price-es-de"
+      ],
+      "vocabularyIds": [
+        "v-cien",
+        "v-precio-es-de",
+        "v-euros"
+      ],
+      "outcome": "Correct contrast with exactly 100 following 190."
+    },
+    {
+      "id": "o-2026-11-18-05-1180",
+      "kind": "prompted_practice",
+      "learnerText": "el precio es de mil ciento ochenta euros",
+      "correctedText": "El precio es de mil ciento ochenta euros.",
+      "grammarIds": [
+        "g-cien-ciento",
+        "g-price-es-de",
+        "g-mil-cardinals"
+      ],
+      "vocabularyIds": [
+        "v-mil",
+        "v-ciento",
+        "v-ochenta",
+        "v-precio-es-de",
+        "v-euros"
+      ],
+      "outcome": "Correct transfer to 1180 after models mil cien for 1100 and mil ciento noventa for 1190."
+    }
+  ],
+  "nextSteps": [
+    "Recheck cien versus ciento after a gap, including 100/180 and 1100/1180.",
+    "Retain earlier spelling reviews seiscientos, setecientos and cincuenta.",
+    "Continue task-relevant number practice without assuming long-term mastery."
+  ],
+  "skippedUnitIds": [],
+  "assessmentNote": "Focused retry used a supplied starting word. Full-sentence transfers were immediate; no independent delayed retention inferred."
+}

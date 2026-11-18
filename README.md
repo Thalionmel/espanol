@@ -47,10 +47,13 @@ A shared Spanish learning record for conversation-based teaching and future trai
 - [Review-function recall: tú revisa and feminine esta función](data/sessions/2026-11-18-02.json)
 - [Number continuation: tens and hundreds 300–700](data/sessions/2026-11-18-03.json)
 - [Thousands and 800/900: 1890 versus 1980](data/sessions/2026-11-18-04.json)
+- [Cien versus ciento: correction and full-sentence transfer](data/sessions/2026-11-18-05.json)
 - [Data format and update rules](docs/data-format.md)
 - [Instructions for future assistants](AGENTS.md)
 
 ## Current learning position — 18 November 2026
+
+Cien/ciento practice on 18 November: **cien setenta** and **cien ochenta** both needed **ciento**. After a focused **ciento ochenta** retry with the starting word supplied, correctly used **ciento noventa**, contrasted exactly **cien euros**, and transferred to **mil ciento ochenta** after models. Recheck after a gap; repeated initial error and immediate successful transfers are both retained.
 
 Further number practice on 18 November introduced **ochocientos, novecientos, mil, ochenta and noventa**. Correctly used **850** after a **cinuenta → cincuenta** correction. **Seiscenta** in **1650** needed **seiscientos**, followed by a correct focused retry and correct full **mil seiscientos setenta**. Correctly distinguished **mil ochocientos noventa** (1890) and **mil novecientos ochenta** (1980) after models. Revisit spelling after a gap; immediate success does not establish long-term mastery.
 
