@@ -2891,12 +2891,21 @@
       "firstSeen": "2026-11-18",
       "lastSeen": "2026-11-18",
       "sessionIds": [
-        "2026-11-18-01"
+        "2026-11-18-01",
+        "2026-11-18-03"
       ],
       "observationIds": [
         "o-2026-11-18-01-price-digits",
         "o-2026-11-18-01-price-250",
-        "o-2026-11-18-01-price-258"
+        "o-2026-11-18-01-price-258",
+        "o-2026-11-18-03-270",
+        "o-2026-11-18-03-268",
+        "o-2026-11-18-03-478",
+        "o-2026-11-18-03-568",
+        "o-2026-11-18-03-750-first",
+        "o-2026-11-18-03-750-retry",
+        "o-2026-11-18-03-650",
+        "o-2026-11-18-03-550"
       ]
     },
     {
@@ -2908,12 +2917,21 @@
       "firstSeen": "2026-11-18",
       "lastSeen": "2026-11-18",
       "sessionIds": [
-        "2026-11-18-01"
+        "2026-11-18-01",
+        "2026-11-18-03"
       ],
       "observationIds": [
         "o-2026-11-18-01-price-digits",
         "o-2026-11-18-01-price-250",
-        "o-2026-11-18-01-price-258"
+        "o-2026-11-18-01-price-258",
+        "o-2026-11-18-03-270",
+        "o-2026-11-18-03-268",
+        "o-2026-11-18-03-478",
+        "o-2026-11-18-03-568",
+        "o-2026-11-18-03-750-first",
+        "o-2026-11-18-03-750-retry",
+        "o-2026-11-18-03-650",
+        "o-2026-11-18-03-550"
       ]
     },
     {
@@ -2925,12 +2943,15 @@
       "firstSeen": "2026-11-18",
       "lastSeen": "2026-11-18",
       "sessionIds": [
-        "2026-11-18-01"
+        "2026-11-18-01",
+        "2026-11-18-03"
       ],
       "observationIds": [
         "o-2026-11-18-01-price-250",
         "o-2026-11-18-01-price-258",
-        "o-2026-11-18-01-number-models"
+        "o-2026-11-18-01-number-models",
+        "o-2026-11-18-03-270",
+        "o-2026-11-18-03-268"
       ]
     },
     {
@@ -2938,16 +2959,20 @@
       "spanish": "cincuenta",
       "english": "fifty",
       "status": "used_successfully",
-      "note": "Correct in 250 and 258 immediately after models; delayed recall untested.",
+      "note": "Correct in 250 and 258 immediately after models; delayed recall untested. Later cinquenta needed spelling correction; correctly retained cincuenta in two following sentences for 650 and 550.",
       "firstSeen": "2026-11-18",
       "lastSeen": "2026-11-18",
       "sessionIds": [
-        "2026-11-18-01"
+        "2026-11-18-01",
+        "2026-11-18-03"
       ],
       "observationIds": [
         "o-2026-11-18-01-price-250",
         "o-2026-11-18-01-price-258",
-        "o-2026-11-18-01-number-models"
+        "o-2026-11-18-01-number-models",
+        "o-2026-11-18-03-750-retry",
+        "o-2026-11-18-03-650",
+        "o-2026-11-18-03-550"
       ]
     },
     {
@@ -2959,11 +2984,15 @@
       "firstSeen": "2026-11-18",
       "lastSeen": "2026-11-18",
       "sessionIds": [
-        "2026-11-18-01"
+        "2026-11-18-01",
+        "2026-11-18-03"
       ],
       "observationIds": [
         "o-2026-11-18-01-price-258",
-        "o-2026-11-18-01-number-models"
+        "o-2026-11-18-01-number-models",
+        "o-2026-11-18-03-268",
+        "o-2026-11-18-03-478",
+        "o-2026-11-18-03-568"
       ]
     },
     {
@@ -2994,6 +3023,121 @@
       ],
       "observationIds": [
         "o-2026-11-18-01-number-models"
+      ]
+    },
+    {
+      "id": "v-sesenta",
+      "spanish": "sesenta",
+      "english": "sixty",
+      "status": "used_successfully",
+      "note": "Used correctly for 268 and 568 after introduction; later recall untested.",
+      "firstSeen": "2026-11-18",
+      "lastSeen": "2026-11-18",
+      "sessionIds": [
+        "2026-11-18-03"
+      ],
+      "observationIds": [
+        "o-2026-11-18-03-268",
+        "o-2026-11-18-03-568",
+        "o-2026-11-18-03-hundred-models"
+      ]
+    },
+    {
+      "id": "v-setenta",
+      "spanish": "setenta",
+      "english": "seventy",
+      "status": "used_successfully",
+      "note": "Correct in 270 and 478 after introduction.",
+      "firstSeen": "2026-11-18",
+      "lastSeen": "2026-11-18",
+      "sessionIds": [
+        "2026-11-18-03"
+      ],
+      "observationIds": [
+        "o-2026-11-18-03-270",
+        "o-2026-11-18-03-478",
+        "o-2026-11-18-03-hundred-models"
+      ]
+    },
+    {
+      "id": "v-trescientos",
+      "spanish": "trescientos",
+      "english": "three hundred",
+      "status": "introduced",
+      "note": "Shown but not attempted.",
+      "firstSeen": "2026-11-18",
+      "lastSeen": "2026-11-18",
+      "sessionIds": [
+        "2026-11-18-03"
+      ],
+      "observationIds": [
+        "o-2026-11-18-03-hundred-models"
+      ]
+    },
+    {
+      "id": "v-cuatrocientos",
+      "spanish": "cuatrocientos",
+      "english": "four hundred",
+      "status": "used_successfully",
+      "note": "Correct in 478 immediately after vocabulary supplied.",
+      "firstSeen": "2026-11-18",
+      "lastSeen": "2026-11-18",
+      "sessionIds": [
+        "2026-11-18-03"
+      ],
+      "observationIds": [
+        "o-2026-11-18-03-478",
+        "o-2026-11-18-03-hundred-models"
+      ]
+    },
+    {
+      "id": "v-quinientos",
+      "spanish": "quinientos",
+      "english": "five hundred",
+      "status": "used_successfully",
+      "note": "Correct immediate use in 568, then correct within-session recall in 550 after intervening numbers without a fresh hint. Long-term retention untested.",
+      "firstSeen": "2026-11-18",
+      "lastSeen": "2026-11-18",
+      "sessionIds": [
+        "2026-11-18-03"
+      ],
+      "observationIds": [
+        "o-2026-11-18-03-568",
+        "o-2026-11-18-03-550",
+        "o-2026-11-18-03-hundred-models"
+      ]
+    },
+    {
+      "id": "v-seiscientos",
+      "spanish": "seiscientos",
+      "english": "six hundred",
+      "status": "used_with_correction",
+      "note": "Attempted seicientos; corrected to seiscientos with seis + cientos explanation. No corrected retry yet.",
+      "firstSeen": "2026-11-18",
+      "lastSeen": "2026-11-18",
+      "sessionIds": [
+        "2026-11-18-03"
+      ],
+      "observationIds": [
+        "o-2026-11-18-03-650",
+        "o-2026-11-18-03-hundred-models"
+      ]
+    },
+    {
+      "id": "v-setecientos",
+      "spanish": "setecientos",
+      "english": "seven hundred",
+      "status": "used_with_correction",
+      "note": "First correct setecientos in a 700 sentence when 750 requested; then seteciento omitted final s. Full 750 model supplied; corrected retry pending.",
+      "firstSeen": "2026-11-18",
+      "lastSeen": "2026-11-18",
+      "sessionIds": [
+        "2026-11-18-03"
+      ],
+      "observationIds": [
+        "o-2026-11-18-03-750-first",
+        "o-2026-11-18-03-750-retry",
+        "o-2026-11-18-03-hundred-models"
       ]
     }
   ],
@@ -4497,12 +4641,21 @@
       "explanation": "Correct in three immediate price statements, first digits then written-out numbers.",
       "status": "used_successfully",
       "sessionIds": [
-        "2026-11-18-01"
+        "2026-11-18-01",
+        "2026-11-18-03"
       ],
       "observationIds": [
         "o-2026-11-18-01-price-digits",
         "o-2026-11-18-01-price-250",
-        "o-2026-11-18-01-price-258"
+        "o-2026-11-18-01-price-258",
+        "o-2026-11-18-03-270",
+        "o-2026-11-18-03-268",
+        "o-2026-11-18-03-478",
+        "o-2026-11-18-03-568",
+        "o-2026-11-18-03-750-first",
+        "o-2026-11-18-03-750-retry",
+        "o-2026-11-18-03-650",
+        "o-2026-11-18-03-550"
       ],
       "lastPractised": "2026-11-18",
       "nextReview": "after_a_gap",
@@ -4512,18 +4665,28 @@
       "id": "g-cardinal-hundreds-tens",
       "pattern": "doscientos + tens; tens + y + units",
       "meaning": "Construct the practised numbers 250 and 258.",
-      "explanation": "No y between hundreds and tens: doscientos cincuenta. Use y between tens and units: doscientos cincuenta y ocho. Correct immediate use after models; no general number mastery inferred.",
+      "explanation": "No y between hundreds and tens: doscientos cincuenta. Use y between tens and units: doscientos cincuenta y ocho. Correct immediate use after models; no general number mastery inferred. Extended to 300–700. Correct 270, 268, 478 and 568 after vocabulary models; target 750 initially answered as 700, then seteciento cinquenta needed spelling correction. Seicientos corrected with seis + cientos. Quinientos cincuenta then correctly recalled within the session.",
       "status": "used_successfully",
       "sessionIds": [
-        "2026-11-18-01"
+        "2026-11-18-01",
+        "2026-11-18-03"
       ],
       "observationIds": [
         "o-2026-11-18-01-price-250",
         "o-2026-11-18-01-price-258",
-        "o-2026-11-18-01-number-models"
+        "o-2026-11-18-01-number-models",
+        "o-2026-11-18-03-270",
+        "o-2026-11-18-03-268",
+        "o-2026-11-18-03-478",
+        "o-2026-11-18-03-568",
+        "o-2026-11-18-03-750-first",
+        "o-2026-11-18-03-750-retry",
+        "o-2026-11-18-03-650",
+        "o-2026-11-18-03-550",
+        "o-2026-11-18-03-hundred-models"
       ],
       "lastPractised": "2026-11-18",
-      "nextReview": "after_a_gap",
+      "nextReview": "Recall seiscientos and setecientos spelling after a gap; retain exact 700 versus 750 meaning.",
       "lastSeen": "2026-11-18"
     }
   ],
@@ -5585,13 +5748,40 @@
         "v-euros"
       ],
       "feedbackFocus": "Recall number words after a gap and place y only between tens and units in the practised construction.",
-      "attemptCount": 2,
+      "attemptCount": 4,
       "lastOutcome": "used_successfully",
       "seconds": 60,
       "optional": true,
       "selection": "enabled",
       "lastAttempt": "2026-11-18",
-      "lastAttemptSessionId": "2026-11-18-01",
+      "lastAttemptSessionId": "2026-11-18-03",
+      "nextReview": "after_a_gap",
+      "lastAttemptVariant": "270 and 268 correct after new tens vocabulary; y correctly placed."
+    },
+    {
+      "id": "u-price-hundreds-recall",
+      "title": "Recall hundreds in practical prices",
+      "prompt": "Say: The price is 650 euros. Spell out the number.",
+      "modelAnswer": "El precio es de seiscientos cincuenta euros.",
+      "grammarIds": [
+        "g-price-es-de",
+        "g-cardinal-hundreds-tens"
+      ],
+      "vocabularyIds": [
+        "v-precio-es-de",
+        "v-seiscientos",
+        "v-cincuenta",
+        "v-euros"
+      ],
+      "feedbackFocus": "Preserve seis in seiscientos, final s in setecientos and c in cincuenta; distinguish 700 from 750 and test recall after intervening material.",
+      "seconds": 60,
+      "optional": true,
+      "selection": "enabled",
+      "attemptCount": 6,
+      "lastAttempt": "2026-11-18",
+      "lastAttemptSessionId": "2026-11-18-03",
+      "lastOutcome": "used_successfully",
+      "lastAttemptVariant": "478 and 568 correct after models; 750 meaning then spelling corrected; 650 seiscientos corrected, 550 quinientos cincuenta correct after intervening material.",
       "nextReview": "after_a_gap"
     }
   ]

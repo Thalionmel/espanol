@@ -45,10 +45,13 @@ A shared Spanish learning record for conversation-based teaching and future trai
 - [Delayed opening-file recall: abre, este archivo and por favor](data/sessions/2026-11-17-01.json)
 - [Customer offers and prices: 250 and 258](data/sessions/2026-11-18-01.json)
 - [Review-function recall: tú revisa and feminine esta función](data/sessions/2026-11-18-02.json)
+- [Number continuation: tens and hundreds 300–700](data/sessions/2026-11-18-03.json)
 - [Data format and update rules](docs/data-format.md)
 - [Instructions for future assistants](AGENTS.md)
 
 ## Current learning position — 18 November 2026
+
+Number continuation on 18 November: correctly formed **270, 268, 478 and 568** after vocabulary models. Target **750** was first answered as valid **700**, then **seteciento cinquenta** needed **setecientos cincuenta**. In **650**, corrected **cincuenta** was retained, but **seicientos** needed **seiscientos**. Finally recalled **quinientos cincuenta** for **550** after intervening material without a fresh hundred hint. Revisit **seiscientos / setecientos** spelling and exact amounts; these are immediate and within-session results, not long-term mastery. **Trescientos** was introduced only.
 
 Later recalled **revise este funcion, por favor** for an explicit **tú** prompt. **Revise** is valid formal **usted**; tutor supplied **Revisa esta función, por favor** for **tú** and feminine **esta función**. **Por favor** was correct. No corrected retry or durable recall is inferred.
 

@@ -133,6 +133,7 @@
     "g-cardinal-hundreds-tens"
   ],
   "nextUnitIds": [
+    "u-price-hundreds-recall",
     "u-customer-offer",
     "u-offer-includes",
     "u-price-hundreds-tens",
@@ -186,7 +187,7 @@
     ],
     "intervalsAreFlexible": true
   },
-  "latestSessionId": "2026-11-18-02",
+  "latestSessionId": "2026-11-18-03",
   "disclosureAuthorization": {
     "publicLearningRecord": true,
     "ongoingUpdatesAuthorized": true,

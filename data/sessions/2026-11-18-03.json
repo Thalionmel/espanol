@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-18-03",
+  "date": "2026-11-18",
+  "source": "Continuation of requested numbers lesson using offer prices",
+  "lessonTheme": "Tens 60/70 and hundreds 300–700",
+  "duration": {
+    "requestedMinutes": null,
+    "measuredMinutes": null
+  },
+  "summary": "Correctly formed 270, 268, 478 and 568 after vocabulary models. Initially answered target 750 as valid 700; retry seteciento cinquenta needed spelling corrections. Next seicientos cincuenta retained corrected cincuenta but needed seiscientos. Correctly recalled quinientos cincuenta after intervening exercises. No long-term retention inferred.",
+  "observations": [
+    {
+      "id": "o-2026-11-18-03-270",
+      "kind": "prompted_practice",
+      "learnerText": "El precio es de doscientos setenta euros",
+      "correctedText": "El precio es de doscientos setenta euros.",
+      "grammarIds": [
+        "g-price-es-de",
+        "g-cardinal-hundreds-tens"
+      ],
+      "vocabularyIds": [
+        "v-precio-es-de",
+        "v-doscientos",
+        "v-setenta",
+        "v-euros"
+      ],
+      "outcome": "Correct immediate use of setenta after vocabulary supplied.",
+      "evidenceState": "used_successfully"
+    },
+    {
+      "id": "o-2026-11-18-03-268",
+      "kind": "prompted_practice",
+      "learnerText": "El precio es de doscientos sesenta y ocho euros",
+      "correctedText": "El precio es de doscientos sesenta y ocho euros.",
+      "grammarIds": [
+        "g-price-es-de",
+        "g-cardinal-hundreds-tens"
+      ],
+      "vocabularyIds": [
+        "v-precio-es-de",
+        "v-doscientos",
+        "v-sesenta",
+        "v-ocho",
+        "v-euros"
+      ],
+      "outcome": "Correct transfer to 268; sesenta and y placement correct after prior vocabulary.",
+      "evidenceState": "used_successfully"
+    },
+    {
+      "id": "o-2026-11-18-03-478",
+      "kind": "prompted_practice",
+      "learnerText": "El precio es de cuatrocientos setenta y ocho euros",
+      "correctedText": "El precio es de cuatrocientos setenta y ocho euros.",
+      "grammarIds": [
+        "g-price-es-de",
+        "g-cardinal-hundreds-tens"
+      ],
+      "vocabularyIds": [
+        "v-precio-es-de",
+        "v-cuatrocientos",
+        "v-setenta",
+        "v-ocho",
+        "v-euros"
+      ],
+      "outcome": "Correct transfer to 478 after cuatrocientos supplied.",
+      "evidenceState": "used_successfully"
+    },
+    {
+      "id": "o-2026-11-18-03-568",
+      "kind": "prompted_practice",
+      "learnerText": "el precio es de quinientos sesenta y ocho euros",
+      "correctedText": "El precio es de quinientos sesenta y ocho euros.",
+      "grammarIds": [
+        "g-price-es-de",
+        "g-cardinal-hundreds-tens"
+      ],
+      "vocabularyIds": [
+        "v-precio-es-de",
+        "v-quinientos",
+        "v-sesenta",
+        "v-ocho",
+        "v-euros"
+      ],
+      "outcome": "Correct immediate quinientos use after model; sentence capitalization normalized.",
+      "evidenceState": "used_successfully"
+    },
+    {
+      "id": "o-2026-11-18-03-750-first",
+      "kind": "prompted_practice",
+      "learnerText": "El precio es de setecientos euros",
+      "correctedText": null,
+      "grammarIds": [
+        "g-price-es-de",
+        "g-cardinal-hundreds-tens"
+      ],
+      "vocabularyIds": [
+        "v-precio-es-de",
+        "v-setecientos",
+        "v-euros"
+      ],
+      "outcome": "Valid 700 price statement, but target was 750. Tutor acknowledged meaning and asked learner to recall 50 without showing a fresh model.",
+      "evidenceState": "used_with_correction"
+    },
+    {
+      "id": "o-2026-11-18-03-750-retry",
+      "kind": "prompted_practice",
+      "learnerText": "El precio es de seteciento cinquenta euros",
+      "correctedText": "El precio es de setecientos cincuenta euros.",
+      "grammarIds": [
+        "g-price-es-de",
+        "g-cardinal-hundreds-tens"
+      ],
+      "vocabularyIds": [
+        "v-precio-es-de",
+        "v-setecientos",
+        "v-cincuenta",
+        "v-euros"
+      ],
+      "outcome": "Hundreds-plus-tens structure correct; missing final s in setecientos and q in cinquenta corrected.",
+      "evidenceState": "used_with_correction"
+    },
+    {
+      "id": "o-2026-11-18-03-650",
+      "kind": "prompted_practice",
+      "learnerText": "el precio es de seicientos cincuenta euros",
+      "correctedText": "El precio es de seiscientos cincuenta euros.",
+      "grammarIds": [
+        "g-price-es-de",
+        "g-cardinal-hundreds-tens"
+      ],
+      "vocabularyIds": [
+        "v-precio-es-de",
+        "v-seiscientos",
+        "v-cincuenta",
+        "v-euros"
+      ],
+      "outcome": "Cincuenta spelling correction retained; seicientos corrected to seiscientos, retaining seis + cientos. No corrected seiscientos retry yet.",
+      "evidenceState": "used_with_correction"
+    },
+    {
+      "id": "o-2026-11-18-03-550",
+      "kind": "prompted_practice",
+      "learnerText": "el precio es de quinientos cincuenta euros",
+      "correctedText": "El precio es de quinientos cincuenta euros.",
+      "grammarIds": [
+        "g-price-es-de",
+        "g-cardinal-hundreds-tens"
+      ],
+      "vocabularyIds": [
+        "v-precio-es-de",
+        "v-quinientos",
+        "v-cincuenta",
+        "v-euros"
+      ],
+      "outcome": "Quinientos recalled correctly after several intervening number exercises without a fresh hint; corrected cincuenta retained. Within-session recall, not long-term mastery.",
+      "evidenceState": "used_successfully"
+    },
+    {
+      "id": "o-2026-11-18-03-hundred-models",
+      "kind": "tutor_model",
+      "learnerText": null,
+      "tutorText": "60 sesenta; 70 setenta; 300 trescientos; 400 cuatrocientos; 500 quinientos; 600 seiscientos; 700 setecientos. Setecientos has sete-, not siete-. Seiscientos retains seis + cientos.",
+      "grammarIds": [
+        "g-cardinal-hundreds-tens"
+      ],
+      "vocabularyIds": [
+        "v-sesenta",
+        "v-setenta",
+        "v-trescientos",
+        "v-cuatrocientos",
+        "v-quinientos",
+        "v-seiscientos",
+        "v-setecientos"
+      ],
+      "outcome": "Vocabulary supplied; trescientos introduced only and not attempted."
+    }
+  ],
+  "nextSteps": [
+    "Recall seiscientos and setecientos after a gap, keeping final s and complete seis.",
+    "Retest 700 versus 750 and spelling cincuenta.",
+    "Continue numbers for conversational prices; next hundreds 800/900 have not yet been taught in this batch.",
+    "Keep earlier soporte técnico spelling review."
+  ],
+  "skippedUnitIds": [],
+  "assessmentNote": "Immediate practice and within-session recall recorded separately; trescientos remains introduced only."
+}
