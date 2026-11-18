@@ -132,9 +132,11 @@
     "g-price-es-de",
     "g-cardinal-hundreds-tens",
     "g-mil-cardinals",
-    "g-cien-ciento"
+    "g-cien-ciento",
+    "g-discount-percentage"
   ],
   "nextUnitIds": [
+    "u-discount-percentage",
     "u-cien-ciento",
     "u-price-thousands",
     "u-price-hundreds-recall",
@@ -191,7 +193,7 @@
     ],
     "intervalsAreFlexible": true
   },
-  "latestSessionId": "2026-11-18-05",
+  "latestSessionId": "2026-11-18-06",
   "disclosureAuthorization": {
     "publicLearningRecord": true,
     "ongoingUpdatesAuthorized": true,

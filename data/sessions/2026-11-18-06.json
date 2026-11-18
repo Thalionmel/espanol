@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-18-06",
+  "date": "2026-11-18",
+  "source": "Requested customer-offer and number lesson, continued with discounts",
+  "lessonTheme": "Discount percentages and a complete two-sentence offer",
+  "duration": {
+    "requestedMinutes": null,
+    "measuredMinutes": null
+  },
+  "summary": "Explained percentage components after diez veinte was combined for 20%. Trecento for 30 corrected to treinta; focused and full retry retained treinta. Discuento recurred twice, then final price 250 euros plus discount 20% was entirely correct, including descuento spelling. Sí, claro accent supplied separately.",
+  "observations": [
+    {
+      "id": "o-2026-11-18-06-discount-first",
+      "kind": "prompted_practice",
+      "learnerText": "El descuento es del diez veinte por ciento",
+      "correctedText": "El descuento es del veinte por ciento.",
+      "grammarIds": [
+        "g-discount-percentage"
+      ],
+      "vocabularyIds": [
+        "v-descuento",
+        "v-diez",
+        "v-veinte",
+        "v-por-ciento"
+      ],
+      "outcome": "Combined diez and veinte for requested 20%. Asked whether del diez por ciento was the percentage. Tutor separated diez=10, veinte=20, por ciento=percent and explained del = de + el in this discount pattern."
+    },
+    {
+      "id": "o-2026-11-18-06-si-claro",
+      "kind": "spontaneous_use",
+      "learnerText": "si claro",
+      "correctedText": "Sí, claro.",
+      "grammarIds": [],
+      "vocabularyIds": [
+        "v-si",
+        "v-si-claro"
+      ],
+      "outcome": "Affirmative meaning understood; accent on sí and punctuation supplied. No independent accented retry."
+    },
+    {
+      "id": "o-2026-11-18-06-30-first",
+      "kind": "prompted_recall",
+      "learnerText": "el discuento es del trecento por ciento",
+      "correctedText": "El descuento es del treinta por ciento.",
+      "grammarIds": [
+        "g-discount-percentage"
+      ],
+      "vocabularyIds": [
+        "v-descuento",
+        "v-treinta",
+        "v-por-ciento"
+      ],
+      "outcome": "Es del ... por ciento structure correct. Discuento corrected to descuento; trecento corrected to treinta. Contrasted treinta=30 and trescientos=300."
+    },
+    {
+      "id": "o-2026-11-18-06-30-retry",
+      "kind": "prompted_practice",
+      "learnerText": "treinta",
+      "correctedText": "treinta",
+      "grammarIds": [],
+      "vocabularyIds": [
+        "v-treinta"
+      ],
+      "outcome": "Correct focused immediate retry after treinta model; not independent delayed recall."
+    },
+    {
+      "id": "o-2026-11-18-06-30-full",
+      "kind": "prompted_practice",
+      "learnerText": "El discuento es del treinta por ciento",
+      "correctedText": "El descuento es del treinta por ciento.",
+      "grammarIds": [
+        "g-discount-percentage"
+      ],
+      "vocabularyIds": [
+        "v-descuento",
+        "v-treinta",
+        "v-por-ciento"
+      ],
+      "outcome": "Treinta por ciento correct in full sentence; discuento recurred. Descuento corrected again with des-cuen-to spelling breakdown."
+    },
+    {
+      "id": "o-2026-11-18-06-mini-offer",
+      "kind": "prompted_practice",
+      "learnerText": "El precio es de doscientos cincuenta euros. El descuento es del veinte por ciento.",
+      "correctedText": "El precio es de doscientos cincuenta euros. El descuento es del veinte por ciento.",
+      "grammarIds": [
+        "g-price-es-de",
+        "g-cardinal-hundreds-tens",
+        "g-discount-percentage"
+      ],
+      "vocabularyIds": [
+        "v-precio-es-de",
+        "v-doscientos",
+        "v-cincuenta",
+        "v-euros",
+        "v-descuento",
+        "v-veinte",
+        "v-por-ciento"
+      ],
+      "outcome": "Both requested sentences correct. Recalled price 250 after intervening material, used veinte for 20%, and retained corrected descuento spelling. Immediate lesson transfer, not long-term mastery."
+    }
+  ],
+  "nextSteps": [
+    "Recall the complete 250-euro/20% offer after a gap.",
+    "Review descuento spelling, treinta versus trescientos and one number before por ciento.",
+    "Continue earlier cien/ciento, seiscientos and setecientos recall; immediate success is not long-term mastery."
+  ],
+  "skippedUnitIds": [],
+  "assessmentNote": "Final combined offer correct after explanations and intervening practice; no long-term retention assessment."
+}

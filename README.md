@@ -48,10 +48,13 @@ A shared Spanish learning record for conversation-based teaching and future trai
 - [Number continuation: tens and hundreds 300–700](data/sessions/2026-11-18-03.json)
 - [Thousands and 800/900: 1890 versus 1980](data/sessions/2026-11-18-04.json)
 - [Cien versus ciento: correction and full-sentence transfer](data/sessions/2026-11-18-05.json)
+- [Discount percentages and a complete customer offer](data/sessions/2026-11-18-06.json)
 - [Data format and update rules](docs/data-format.md)
 - [Instructions for future assistants](AGENTS.md)
 
 ## Current learning position — 18 November 2026
+
+Discount practice on 18 November: clarified **por ciento** and a single number after an initial **diez veinte** for 20%. **Trecento** needed **treinta**; focused and full retry were correct for the number. **Discuento** recurred twice, then final **El precio es de doscientos cincuenta euros. El descuento es del veinte por ciento.** was entirely correct, including corrected **descuento** spelling. Revisit after a gap; no long-term mastery is inferred. Spontaneous **si claro** was corrected to **Sí, claro.**
 
 Cien/ciento practice on 18 November: **cien setenta** and **cien ochenta** both needed **ciento**. After a focused **ciento ochenta** retry with the starting word supplied, correctly used **ciento noventa**, contrasted exactly **cien euros**, and transferred to **mil ciento ochenta** after models. Recheck after a gap; repeated initial error and immediate successful transfers are both retained.
 
