@@ -49,10 +49,13 @@ A shared Spanish learning record for conversation-based teaching and future trai
 - [Thousands and 800/900: 1890 versus 1980](data/sessions/2026-11-18-04.json)
 - [Cien versus ciento: correction and full-sentence transfer](data/sessions/2026-11-18-05.json)
 - [Discount percentages and a complete customer offer](data/sessions/2026-11-18-06.json)
+- [Fifty-percent discount recall: del correction](data/sessions/2026-11-19-01.json)
 - [Data format and update rules](docs/data-format.md)
 - [Instructions for future assistants](AGENTS.md)
 
-## Current learning position — 18 November 2026
+## Current learning position — 19 November 2026
+
+On 19 November, correctly recalled **descuento** and **cincuenta** in **el descuento es de cincuenta por ciento**. Tutor corrected **de → del**: **El descuento es del cincuenta por ciento.** No corrected retry was observed. Revisit the complete percentage pattern after a gap.
 
 Discount practice on 18 November: clarified **por ciento** and a single number after an initial **diez veinte** for 20%. **Trecento** needed **treinta**; focused and full retry were correct for the number. **Discuento** recurred twice, then final **El precio es de doscientos cincuenta euros. El descuento es del veinte por ciento.** was entirely correct, including corrected **descuento** spelling. Revisit after a gap; no long-term mastery is inferred. Spontaneous **si claro** was corrected to **Sí, claro.**
 

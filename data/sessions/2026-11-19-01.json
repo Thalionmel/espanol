@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-19-01",
+  "date": "2026-11-19",
+  "source": "Optional practical Spanish recall during ordinary conversation",
+  "lessonTheme": "Recall a fifty-percent discount",
+  "duration": {
+    "requestedMinutes": null,
+    "measuredMinutes": null
+  },
+  "summary": "After a gap, correctly spelled descuento and cincuenta in a 50% sentence; de needed del (de + el). Corrected sentence supplied; no corrected retry observed.",
+  "observations": [
+    {
+      "id": "o-2026-11-19-01-discount-50",
+      "kind": "prompted_recall",
+      "learnerText": "el descuento es de cincuenta por ciento",
+      "correctedText": "El descuento es del cincuenta por ciento.",
+      "grammarIds": [
+        "g-discount-percentage"
+      ],
+      "vocabularyIds": [
+        "v-descuento",
+        "v-cincuenta",
+        "v-por-ciento"
+      ],
+      "outcome": "After a gap, correctly spelled descuento and cincuenta in a 50% sentence; de needed del (de + el). Corrected sentence supplied; no corrected retry observed."
+    }
+  ],
+  "nextSteps": [
+    "Recall the complete percentage sentence after a gap, paying attention to del."
+  ],
+  "skippedUnitIds": [],
+  "assessmentNote": "One delayed recall with a grammatical correction; no corrected retry or mastery inferred."
+}

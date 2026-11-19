@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-11-18",
+  "lastUpdated": "2026-11-19",
   "vocabulary": [
     {
       "id": "v-quiero",
@@ -2993,14 +2993,15 @@
       "spanish": "cincuenta",
       "english": "fifty",
       "status": "used_successfully",
-      "note": "Correct in 250 and 258 immediately after models; delayed recall untested. Later cinquenta needed spelling correction; correctly retained cincuenta in two following sentences for 650 and 550. Later cinuenta omitted c; corrected cincuenta retained in following 850 and 1650. Recurring spelling target, despite successful uses.",
+      "note": "Correct in 250 and 258 immediately after models; delayed recall untested. Later cinquenta needed spelling correction; correctly retained cincuenta in two following sentences for 650 and 550. Later cinuenta omitted c; corrected cincuenta retained in following 850 and 1650. Recurring spelling target, despite successful uses. Correctly recalled cincuenta for 50% on 19 November without a fresh number model; surrounding grammar needed correction.",
       "firstSeen": "2026-11-18",
-      "lastSeen": "2026-11-18",
+      "lastSeen": "2026-11-19",
       "sessionIds": [
         "2026-11-18-01",
         "2026-11-18-03",
         "2026-11-18-04",
-        "2026-11-18-06"
+        "2026-11-18-06",
+        "2026-11-19-01"
       ],
       "observationIds": [
         "o-2026-11-18-01-price-250",
@@ -3012,7 +3013,8 @@
         "o-2026-11-18-04-958",
         "o-2026-11-18-04-850",
         "o-2026-11-18-04-1650",
-        "o-2026-11-18-06-mini-offer"
+        "o-2026-11-18-06-mini-offer",
+        "o-2026-11-19-01-discount-50"
       ]
     },
     {
@@ -3333,17 +3335,19 @@
       "spanish": "descuento",
       "english": "discount",
       "status": "used_successfully",
-      "note": "Initially copied correctly, then discuento recurred twice. Corrected with des-cuen-to breakdown; final two-sentence offer spelled descuento correctly.",
+      "note": "Initially copied correctly, then discuento recurred twice. Corrected with des-cuen-to breakdown; final two-sentence offer spelled descuento correctly. Correct spelling recalled on 19 November; sentence still needed de → del.",
       "firstSeen": "2026-11-18",
-      "lastSeen": "2026-11-18",
+      "lastSeen": "2026-11-19",
       "sessionIds": [
-        "2026-11-18-06"
+        "2026-11-18-06",
+        "2026-11-19-01"
       ],
       "observationIds": [
         "o-2026-11-18-06-discount-first",
         "o-2026-11-18-06-30-first",
         "o-2026-11-18-06-30-full",
-        "o-2026-11-18-06-mini-offer"
+        "o-2026-11-18-06-mini-offer",
+        "o-2026-11-19-01-discount-50"
       ]
     },
     {
@@ -3382,17 +3386,19 @@
       "spanish": "por ciento",
       "english": "percent",
       "status": "used_successfully",
-      "note": "Learner asked about the percentage expression. Explained por ciento = percent and separate number slot; final 20% phrase correct.",
+      "note": "Learner asked about the percentage expression. Explained por ciento = percent and separate number slot; final 20% phrase correct. Correctly used por ciento on 19 November; de → del corrected separately.",
       "firstSeen": "2026-11-18",
-      "lastSeen": "2026-11-18",
+      "lastSeen": "2026-11-19",
       "sessionIds": [
-        "2026-11-18-06"
+        "2026-11-18-06",
+        "2026-11-19-01"
       ],
       "observationIds": [
         "o-2026-11-18-06-discount-first",
         "o-2026-11-18-06-30-first",
         "o-2026-11-18-06-30-full",
-        "o-2026-11-18-06-mini-offer"
+        "o-2026-11-18-06-mini-offer",
+        "o-2026-11-19-01-discount-50"
       ]
     },
     {
@@ -5033,20 +5039,22 @@
       "id": "g-discount-percentage",
       "pattern": "El descuento es del + number + por ciento",
       "meaning": "State a customer discount percentage.",
-      "explanation": "Por ciento means percent; diez=10 and veinte=20 occupy a single number slot. Del combines de + el in this pattern. First diez veinte needed number clarification; es del ... por ciento structure then correct in 30% attempts and final 20% offer.",
-      "status": "used_successfully",
+      "explanation": "Por ciento means percent; diez=10 and veinte=20 occupy a single number slot. Del combines de + el in this pattern. First diez veinte needed number clarification; es del ... por ciento structure then correct in 30% attempts and final 20% offer. After a gap, correctly spelled descuento and cincuenta in a 50% sentence; de needed del (de + el). Corrected sentence supplied; no corrected retry observed.",
+      "status": "used_with_correction",
       "sessionIds": [
-        "2026-11-18-06"
+        "2026-11-18-06",
+        "2026-11-19-01"
       ],
       "observationIds": [
         "o-2026-11-18-06-discount-first",
         "o-2026-11-18-06-30-first",
         "o-2026-11-18-06-30-full",
-        "o-2026-11-18-06-mini-offer"
+        "o-2026-11-18-06-mini-offer",
+        "o-2026-11-19-01-discount-50"
       ],
-      "lastPractised": "2026-11-18",
-      "nextReview": "Recall 20%/30% pattern after a gap; review descuento and treinta spelling.",
-      "lastSeen": "2026-11-18"
+      "lastPractised": "2026-11-19",
+      "nextReview": "Recall del in a complete percentage sentence after intervening material.",
+      "lastSeen": "2026-11-19"
     }
   ],
   "practiceUnits": [
@@ -6211,15 +6219,15 @@
         "v-veinte",
         "v-por-ciento"
       ],
-      "feedbackFocus": "Keep one number before por ciento, retain descuento spelling and distinguish treinta from trescientos.",
+      "feedbackFocus": "Recall del = de + el; retain descuento, cincuenta and one number before por ciento.",
       "seconds": 60,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 4,
-      "lastAttempt": "2026-11-18",
-      "lastAttemptSessionId": "2026-11-18-06",
-      "lastOutcome": "used_successfully",
-      "lastAttemptVariant": "Initial 20% combined diez veinte; 30% needed number and descuento spelling corrections. Final price 250 plus discount 20% both correct.",
+      "attemptCount": 5,
+      "lastAttempt": "2026-11-19",
+      "lastAttemptSessionId": "2026-11-19-01",
+      "lastOutcome": "used_with_correction",
+      "lastAttemptVariant": "After a gap, correctly spelled descuento and cincuenta in a 50% sentence; de needed del (de + el). Corrected sentence supplied; no corrected retry observed.",
       "nextReview": "after_a_gap"
     }
   ]
