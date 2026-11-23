@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-23-offer-f13dad",
+  "date": "2026-11-23",
+  "source": "Optional Spanish recall during ordinary conversation",
+  "lessonTheme": "Create an offer for a recipient",
+  "duration": {
+    "requestedMinutes": null,
+    "measuredMinutes": null
+  },
+  "summary": "Recalled crea una oferta and por favor. Recipient por needed para; nosotros uarios nuevos was corrected to nuestro cliente nuevo. A plural-users alternative was also supplied. No corrected retry observed.",
+  "observations": [
+    {
+      "id": "o-2026-11-23-offer-f13dad-recall",
+      "kind": "prompted_recall",
+      "learnerText": "crea una oferta por nosotros uarios nuevos, por favor",
+      "correctedText": "Crea una oferta para nuestro cliente nuevo, por favor.",
+      "grammarIds": [
+        "g-regular-imperative-tu",
+        "g-para-recipient"
+      ],
+      "vocabularyIds": [
+        "v-crea",
+        "v-oferta",
+        "v-para",
+        "v-cliente-nuevo",
+        "v-por-favor"
+      ],
+      "outcome": "used_with_correction",
+      "feedback": "Crea una oferta recalled correctly. Para marks the recipient. Nuestro cliente means our customer; for our new users, para nuestros usuarios nuevos."
+    }
+  ],
+  "nextSteps": [
+    "Recall una oferta para + recipient after intervening material; practise nuestro/nuestros with the intended noun."
+  ],
+  "skippedUnitIds": [],
+  "assessmentNote": "Command recalled successfully; recurring recipient-preposition error needs delayed review. No mastery or corrected retry inferred."
+}

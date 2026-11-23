@@ -1168,7 +1168,7 @@
       "spanish": "para",
       "english": "to / in order to (purpose)",
       "status": "used_successfully",
-      "note": "Used para + infinitive after a model and selected it correctly in a cued choice. Recipient use introduced in oferta para nuestros clientes: por corrected first, then para reused correctly twice.",
+      "note": "Used para + infinitive after a model and selected it correctly in a cued choice. Recipient use introduced in oferta para nuestros clientes: por corrected first, then para reused correctly twice. On 23 November recipient por recurred and was corrected to para; no corrected retry observed.",
       "observationIds": [
         "o-l4-purpose-plural",
         "o-l4-para-choice",
@@ -1178,16 +1178,18 @@
         "o-2026-11-11-01-need-conversations",
         "o-2026-11-18-01-offer-first",
         "o-2026-11-18-01-offer-repeat",
-        "o-2026-11-18-01-offer-new"
+        "o-2026-11-18-01-offer-new",
+        "o-2026-11-23-offer-f13dad-recall"
       ],
       "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-18",
+      "lastSeen": "2026-11-23",
       "sessionIds": [
         "2026-11-10-04",
         "2026-11-10-05",
         "2026-11-10-11",
         "2026-11-11-01",
-        "2026-11-18-01"
+        "2026-11-18-01",
+        "2026-11-23-offer-f13dad"
       ]
     },
     {
@@ -1779,12 +1781,13 @@
       "note": "Correctly used after crear → crea model; delayed recall untested. Later recalled crea in a practical game instruction without a fresh conjugated model; mixed surrounding vocabulary was corrected. On 2026-11-18, formal cree appeared first; then crea was used correctly twice after register feedback. Immediate corrected reuse; delayed recall still pending.",
       "status": "used_successfully",
       "firstSeen": "2026-11-11",
-      "lastSeen": "2026-11-18",
+      "lastSeen": "2026-11-23",
       "sessionIds": [
         "2026-11-11-02",
         "2026-11-11-03",
         "2026-11-16-02",
-        "2026-11-18-01"
+        "2026-11-18-01",
+        "2026-11-23-offer-f13dad"
       ],
       "observationIds": [
         "o-2026-11-11-02-create-function",
@@ -1793,7 +1796,8 @@
         "o-2026-11-16-02-location",
         "o-2026-11-18-01-offer-first",
         "o-2026-11-18-01-offer-repeat",
-        "o-2026-11-18-01-offer-new"
+        "o-2026-11-18-01-offer-new",
+        "o-2026-11-23-offer-f13dad-recall"
       ]
     },
     {
@@ -1826,7 +1830,7 @@
       "note": "Used in five prompted commands after phrase model; no independent long-gap recall established. Later typed pr favor; tutor corrected por favor. No corrected retry observed. On 2026-11-17, delayed prompted recall produced abre este archivo por favor without a fresh Spanish model; command, masculine reference and por favor were correct. Punctuation was supplied; one successful recall does not establish mastery.",
       "status": "used_successfully",
       "firstSeen": "2026-11-11",
-      "lastSeen": "2026-11-18",
+      "lastSeen": "2026-11-23",
       "sessionIds": [
         "2026-11-11-02",
         "2026-11-11-03",
@@ -1843,7 +1847,8 @@
         "2026-11-16-04",
         "2026-11-17-01",
         "2026-11-18-01",
-        "2026-11-18-02"
+        "2026-11-18-02",
+        "2026-11-23-offer-f13dad"
       ],
       "observationIds": [
         "o-2026-11-11-02-review-function",
@@ -1887,7 +1892,8 @@
         "o-2026-11-18-01-offer-first",
         "o-2026-11-18-01-offer-repeat",
         "o-2026-11-18-01-offer-new",
-        "o-2026-11-18-02-review-function"
+        "o-2026-11-18-02-review-function",
+        "o-2026-11-23-offer-f13dad-recall"
       ]
     },
     {
@@ -2812,15 +2818,17 @@
       "status": "used_successfully",
       "note": "Correctly used after supplied vocabulary.",
       "firstSeen": "2026-11-18",
-      "lastSeen": "2026-11-18",
+      "lastSeen": "2026-11-23",
       "sessionIds": [
-        "2026-11-18-01"
+        "2026-11-18-01",
+        "2026-11-23-offer-f13dad"
       ],
       "observationIds": [
         "o-2026-11-18-01-offer-first",
         "o-2026-11-18-01-offer-repeat",
         "o-2026-11-18-01-offer-new",
-        "o-2026-11-18-01-includes"
+        "o-2026-11-18-01-includes",
+        "o-2026-11-23-offer-f13dad-recall"
       ]
     },
     {
@@ -2846,12 +2854,14 @@
       "status": "used_successfully",
       "note": "Produced nuestro cliente nuevo correctly; different from requested un cliente nuevo, acknowledged explicitly.",
       "firstSeen": "2026-11-18",
-      "lastSeen": "2026-11-18",
+      "lastSeen": "2026-11-23",
       "sessionIds": [
-        "2026-11-18-01"
+        "2026-11-18-01",
+        "2026-11-23-offer-f13dad"
       ],
       "observationIds": [
-        "o-2026-11-18-01-offer-new"
+        "o-2026-11-18-01-offer-new",
+        "o-2026-11-23-offer-f13dad-recall"
       ]
     },
     {
@@ -4481,7 +4491,8 @@
         "2026-11-16-04",
         "2026-11-17-01",
         "2026-11-18-01",
-        "2026-11-18-02"
+        "2026-11-18-02",
+        "2026-11-23-offer-f13dad"
       ],
       "observationIds": [
         "o-2026-11-11-02-review-function",
@@ -4522,11 +4533,12 @@
         "o-2026-11-18-01-offer-first",
         "o-2026-11-18-01-offer-repeat",
         "o-2026-11-18-01-offer-new",
-        "o-2026-11-18-02-review-function"
+        "o-2026-11-18-02-review-function",
+        "o-2026-11-23-offer-f13dad-recall"
       ],
-      "lastPractised": "2026-11-18",
+      "lastPractised": "2026-11-23",
       "nextReview": "Recheck familiar regular commands after a gap; ábrelo has been prompted but not attempted.",
-      "lastSeen": "2026-11-18",
+      "lastSeen": "2026-11-23",
       "note": "Correct delayed abre este archivo recall; no durable mastery inferred. On 2026-11-17, delayed prompted recall produced abre este archivo por favor without a fresh Spanish model; command, masculine reference and por favor were correct. Punctuation was supplied; one successful recall does not establish mastery. On 2026-11-18 cree was valid formal usted but tú was requested; crea reused correctly after correction."
     },
     {
@@ -4886,19 +4898,21 @@
       "id": "g-para-recipient",
       "pattern": "una oferta para + recipient",
       "meaning": "Say who an offer is for.",
-      "explanation": "Para identifies the recipient in oferta para nuestros clientes. First por corrected; correct immediate reuse followed.",
-      "status": "used_successfully",
+      "explanation": "Para identifies the recipient in oferta para nuestros clientes. First por corrected; correct immediate reuse followed. On 23 November delayed recall used por again; para and recipient agreement were corrected. No corrected retry observed.",
+      "status": "used_with_correction",
       "sessionIds": [
-        "2026-11-18-01"
+        "2026-11-18-01",
+        "2026-11-23-offer-f13dad"
       ],
       "observationIds": [
         "o-2026-11-18-01-offer-first",
         "o-2026-11-18-01-offer-repeat",
-        "o-2026-11-18-01-offer-new"
+        "o-2026-11-18-01-offer-new",
+        "o-2026-11-23-offer-f13dad-recall"
       ],
-      "lastPractised": "2026-11-18",
-      "nextReview": "after_a_gap",
-      "lastSeen": "2026-11-18"
+      "lastPractised": "2026-11-23",
+      "nextReview": "Recall oferta para + recipient after a gap.",
+      "lastSeen": "2026-11-23"
     },
     {
       "id": "g-oferta-incluye",
@@ -6074,13 +6088,13 @@
         "v-por-favor"
       ],
       "feedbackFocus": "Command register and recipient para; distinguish valid variants in meaning.",
-      "attemptCount": 3,
-      "lastOutcome": "used_successfully",
+      "attemptCount": 4,
+      "lastOutcome": "used_with_correction",
       "seconds": 60,
       "optional": true,
       "selection": "enabled",
-      "lastAttempt": "2026-11-18",
-      "lastAttemptSessionId": "2026-11-18-01",
+      "lastAttempt": "2026-11-23",
+      "lastAttemptSessionId": "2026-11-23-offer-f13dad",
       "nextReview": "after_a_gap"
     },
     {

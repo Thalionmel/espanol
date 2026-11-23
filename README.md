@@ -51,6 +51,7 @@ A shared Spanish learning record for conversation-based teaching and future trai
 - [Discount percentages and a complete customer offer](data/sessions/2026-11-18-06.json)
 - [Fifty-percent discount recall: del correction](data/sessions/2026-11-19-01.json)
 - [Thirty-percent discount recall: recurring del correction](data/sessions/2026-11-23-01.json)
+- [Offer recall: crea retained, recipient para corrected](data/sessions/2026-11-23-offer-f13dad.json)
 - [Data format and update rules](docs/data-format.md)
 - [Instructions for future assistants](AGENTS.md)
 
@@ -165,6 +166,8 @@ Successful use once does not establish durable mastery.
 Recent additions: **puedes publicarlo** (you may publish it), affirmative **sí** (yes), **Estás autorizado** (you're authorized), and **autorizo / yo autorizo** (I authorize). These have been modelled or corrected; independent recall is still pending.
 
 Also observed: spontaneous **Muy bien** and **los tres**. **¿Por qué no los tres?** was supplied as a spelling/punctuation correction; later independent recall is pending.
+
+Latest offer recall: **crea una oferta** and **por favor** were retained. Recipient **por** needed **para**; **nuestro cliente nuevo** and the alternative **nuestros usuarios nuevos** were supplied. No corrected retry was observed.
 
 ## How practice works
 
