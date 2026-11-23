@@ -50,10 +50,13 @@ A shared Spanish learning record for conversation-based teaching and future trai
 - [Cien versus ciento: correction and full-sentence transfer](data/sessions/2026-11-18-05.json)
 - [Discount percentages and a complete customer offer](data/sessions/2026-11-18-06.json)
 - [Fifty-percent discount recall: del correction](data/sessions/2026-11-19-01.json)
+- [Thirty-percent discount recall: recurring del correction](data/sessions/2026-11-23-01.json)
 - [Data format and update rules](docs/data-format.md)
 - [Instructions for future assistants](AGENTS.md)
 
-## Current learning position — 19 November 2026
+## Current learning position — 23 November 2026
+
+Correctly recalled **descuento**, **treinta** and **por ciento** in a full 30% sentence. **De → del** remains a recurring correction, even with a reminder in the prompt. Correct model: **El descuento es del treinta por ciento.** No corrected retry was observed; revisit after intervening material.
 
 On 19 November, correctly recalled **descuento** and **cincuenta** in **el descuento es de cincuenta por ciento**. Tutor corrected **de → del**: **El descuento es del cincuenta por ciento.** No corrected retry was observed. Revisit the complete percentage pattern after a gap.
 
