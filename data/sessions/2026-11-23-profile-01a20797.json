@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-23-profile-01a20797",
+  "date": "2026-11-23",
+  "source": "Optional Spanish recall during ordinary conversation",
+  "lessonTheme": "Open the profile",
+  "duration": {
+    "requestedMinutes": null,
+    "measuredMinutes": null
+  },
+  "summary": "Abre recalled correctly. The recurring article il needed Spanish el; por facor corrected to por favor. No corrected retry observed.",
+  "observations": [
+    {
+      "id": "o-2026-11-23-profile-01a20797-recall",
+      "kind": "prompted_recall",
+      "learnerText": "Abre il perfil por facor",
+      "correctedText": "Abre el perfil, por favor.",
+      "grammarIds": [
+        "g-regular-imperative-tu"
+      ],
+      "vocabularyIds": [
+        "v-abre",
+        "v-perfil",
+        "v-por-favor"
+      ],
+      "outcome": "used_with_correction",
+      "feedback": "Abre is correct. Spanish article is el, and the polite phrase is por favor."
+    }
+  ],
+  "nextSteps": [
+    "Recall el perfil and por favor after intervening material; no mastery inferred."
+  ],
+  "skippedUnitIds": [],
+  "assessmentNote": "Correct command recall; repeated article error and a spelling correction. No corrected retry observed."
+}
