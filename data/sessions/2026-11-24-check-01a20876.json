@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-24-check-01a20876",
+  "date": "2026-11-24",
+  "source": "Optional Spanish recall during ordinary conversation",
+  "lessonTheme": "Check whether there are more problems",
+  "duration": {
+    "requestedMinutes": null,
+    "measuredMinutes": null
+  },
+  "summary": "On 24 November, si hay and plural problemas were recalled correctly; comprueby needed comprueba and mas needed más. Corrected model supplied; no corrected retry observed.",
+  "observations": [
+    {
+      "id": "o-2026-11-24-check-01a20876-recall",
+      "kind": "prompted_recall",
+      "learnerText": "comprueby si hay mas problemas",
+      "correctedText": "Comprueba si hay más problemas.",
+      "grammarIds": [
+        "g-comprueba-si",
+        "g-hay-existential"
+      ],
+      "vocabularyIds": [
+        "v-comprueba",
+        "v-si-whether",
+        "v-hay",
+        "v-problemas"
+      ],
+      "outcome": "used_with_correction",
+      "feedback": "si hay was correct. The tú command is comprueba, and más takes an accent."
+    }
+  ],
+  "nextSteps": [
+    "Recall comprueba si after intervening material, keeping hay unchanged with plural problemas. No corrected retry or mastery inferred."
+  ],
+  "skippedUnitIds": [],
+  "assessmentNote": "Correct si hay and plural noun; command ending and accent corrected."
+}

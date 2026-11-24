@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "learnerId": "primary",
-  "lastUpdated": "2026-11-23",
+  "lastUpdated": "2026-11-24",
   "interfaceLanguage": "en",
   "targetLanguage": "es",
   "selfReportedLevel": "Speaks a little Spanish",
@@ -136,6 +136,7 @@
     "g-discount-percentage"
   ],
   "nextUnitIds": [
+    "u-comprueba-si",
     "u-discount-percentage",
     "u-cien-ciento",
     "u-price-thousands",
@@ -146,7 +147,6 @@
     "u-regular-imperative-tu",
     "u-open-profile",
     "u-hay-existence",
-    "u-comprueba-si",
     "u-problema-instruction",
     "u-image-instruction",
     "u-explain-why",
@@ -193,7 +193,7 @@
     ],
     "intervalsAreFlexible": true
   },
-  "latestSessionId": "2026-11-23-profile-01a20797",
+  "latestSessionId": "2026-11-24-check-01a20876",
   "disclosureAuthorization": {
     "publicLearningRecord": true,
     "ongoingUpdatesAuthorized": true,

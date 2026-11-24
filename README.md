@@ -55,7 +55,11 @@ A shared Spanish learning record for conversation-based teaching and future trai
 - [Data format and update rules](docs/data-format.md)
 - [Instructions for future assistants](AGENTS.md)
 
-## Current learning position — 23 November 2026
+- [Checking for more problems: comprueba ending and más accent](data/sessions/2026-11-24-check-01a20876.json)
+
+## Current learning position — 24 November 2026
+
+On 24 November, **si hay** and plural **problemas** were recalled correctly. **Comprueby → comprueba** and **mas → más** were corrected: **Comprueba si hay más problemas.** No corrected retry was observed. Revisit the full command after intervening material; no mastery is inferred.
 
 Correctly recalled **descuento**, **treinta** and **por ciento** in a full 30% sentence. **De → del** remains a recurring correction, even with a reminder in the prompt. Correct model: **El descuento es del treinta por ciento.** No corrected retry was observed; revisit after intervening material.
 
