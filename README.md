@@ -59,7 +59,7 @@ A shared Spanish learning record for conversation-based teaching and future trai
 
 ## Current learning position — 24 November 2026
 
-On 24 November, **si hay** and plural **problemas** were recalled correctly. **Comprueby → comprueba** and **mas → más** were corrected: **Comprueba si hay más problemas.** No corrected retry was observed. Revisit the full command after intervening material; no mastery is inferred.
+On 24 November, **si hay** and plural **problemas** were recalled correctly. **Comprueby → comprueba** and **mas → más** were corrected: **Comprueba si hay más problemas.** In a later conversation the command and clause were recalled correctly: **comprueba si hay mas problemas**. Only **mas → más** needed correction. Revisit after a longer gap; no mastery is inferred.
 
 Correctly recalled **descuento**, **treinta** and **por ciento** in a full 30% sentence. **De → del** remains a recurring correction, even with a reminder in the prompt. Correct model: **El descuento es del treinta por ciento.** No corrected retry was observed; revisit after intervening material.
 
