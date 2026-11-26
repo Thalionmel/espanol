@@ -173,6 +173,8 @@ Also observed: spontaneous **Muy bien** and **los tres**. **¿Por qué no los tr
 
 Latest offer recall: **crea una oferta** and **por favor** were retained. Recipient **por** needed **para**; **nuestro cliente nuevo** and the alternative **nuestros usuarios nuevos** were supplied. No corrected retry was observed.
 
+Latest command recall (26 November): **comprueba si hay** and plural **problemas** were correct after a gap. **Más** still needed its accent; no corrected retry was observed. [Session evidence](data/sessions/2026-11-26-recall-01a21887.json).
+
 ## How practice works
 
 Initiate active Spanish practice during ordinary work chats without waiting for a lesson request. Offer a 30–60 second unit early, normally within two normal work replies, and continue about every two to three suitable exchanges. Each unit has one objective and at most one optional production or recall prompt, followed by concise feedback and later reuse of corrections. An isolated translated phrase is insufficient. Defer during urgency or an explicit request for uninterrupted focus and honor English-only requests and skipped topics. Work continues without waiting for an answer; an ignored prompt creates no backlog. Saved instructions do not prove adoption by other chats.

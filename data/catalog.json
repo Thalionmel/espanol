@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "lastUpdated": "2026-11-24",
+  "lastUpdated": "2026-11-26",
   "vocabulary": [
     {
       "id": "v-quiero",
@@ -2267,14 +2267,15 @@
       "spanish": "si",
       "english": "whether / if (in an indirect yes/no question)",
       "status": "used_successfully",
-      "note": "Explained unaccented si in Dime si está lista, distinct from affirmative sí. Correctly used throughout dime-si attempts; full conditional grammar not taught. On 24 November, si hay and plural problemas were recalled correctly; comprueby needed comprueba and mas needed más. Corrected model supplied; no corrected retry observed. Later same-day recall: comprueba si hay más problemas had correct command and clause; only más needed an accent.",
+      "note": "Explained unaccented si in Dime si está lista, distinct from affirmative sí. Correctly used throughout dime-si attempts; full conditional grammar not taught. On 24 November, si hay and plural problemas were recalled correctly; comprueby needed comprueba and mas needed más. Corrected model supplied; no corrected retry observed. Later same-day recall: comprueba si hay más problemas had correct command and clause; only más needed an accent. On 26 November, recalled comprueba si hay and plural problemas after a two-day gap. Más still needed its accent; no corrected retry observed.",
       "firstSeen": "2026-11-11",
-      "lastSeen": "2026-11-24",
+      "lastSeen": "2026-11-26",
       "sessionIds": [
         "2026-11-11-08",
         "2026-11-11-14",
         "2026-11-24-check-01a20876",
-        "2026-11-24-recall-01a20dba"
+        "2026-11-24-recall-01a20dba",
+        "2026-11-26-recall-01a21887"
       ],
       "observationIds": [
         "o-2026-11-11-08-tell-ready",
@@ -2285,7 +2286,8 @@
         "o-2026-11-11-14-check-feature",
         "o-2026-11-11-14-check-can-publish",
         "o-2026-11-24-check-01a20876-recall",
-        "o-2026-11-24-recall-01a20dba-check"
+        "o-2026-11-24-recall-01a20dba-check",
+        "o-2026-11-26-recall-01a21887-check"
       ]
     },
     {
@@ -2644,15 +2646,16 @@
       "spanish": "comprueba",
       "english": "check / verify (affirmative tú command)",
       "status": "used_successfully",
-      "note": "Correctly used after a readiness model, then with ability clause and two sequences. Longer-gap recall untested. On 24 November, si hay and plural problemas were recalled correctly; comprueby needed comprueba and mas needed más. Corrected model supplied; no corrected retry observed. Later same-day recall: comprueba si hay más problemas had correct command and clause; only más needed an accent.",
+      "note": "Correctly used after a readiness model, then with ability clause and two sequences. Longer-gap recall untested. On 24 November, si hay and plural problemas were recalled correctly; comprueby needed comprueba and mas needed más. Corrected model supplied; no corrected retry observed. Later same-day recall: comprueba si hay más problemas had correct command and clause; only más needed an accent. On 26 November, recalled comprueba si hay and plural problemas after a two-day gap. Más still needed its accent; no corrected retry observed.",
       "firstSeen": "2026-11-11",
-      "lastSeen": "2026-11-24",
+      "lastSeen": "2026-11-26",
       "sessionIds": [
         "2026-11-11-14",
         "2026-11-11-15",
         "2026-11-12-01",
         "2026-11-24-check-01a20876",
-        "2026-11-24-recall-01a20dba"
+        "2026-11-24-recall-01a20dba",
+        "2026-11-26-recall-01a21887"
       ],
       "observationIds": [
         "o-2026-11-11-14-partial-ready",
@@ -2664,7 +2667,8 @@
         "o-2026-11-11-15-check-no-one-problem",
         "o-2026-11-12-01-check-file",
         "o-2026-11-24-check-01a20876-recall",
-        "o-2026-11-24-recall-01a20dba-check"
+        "o-2026-11-24-recall-01a20dba-check",
+        "o-2026-11-26-recall-01a21887-check"
       ]
     },
     {
@@ -2672,14 +2676,15 @@
       "spanish": "hay",
       "english": "there is / there are",
       "status": "used_successfully",
-      "note": "Correct singular existence requests and a negative check after models. Plural target first answered with singular, then son used for existential are; corrected. Hay problemas correct in focused retry. On 24 November, si hay and plural problemas were recalled correctly; comprueby needed comprueba and mas needed más. Corrected model supplied; no corrected retry observed. Later same-day recall: comprueba si hay más problemas had correct command and clause; only más needed an accent.",
+      "note": "Correct singular existence requests and a negative check after models. Plural target first answered with singular, then son used for existential are; corrected. Hay problemas correct in focused retry. On 24 November, si hay and plural problemas were recalled correctly; comprueby needed comprueba and mas needed más. Corrected model supplied; no corrected retry observed. Later same-day recall: comprueba si hay más problemas had correct command and clause; only más needed an accent. On 26 November, recalled comprueba si hay and plural problemas after a two-day gap. Más still needed its accent; no corrected retry observed.",
       "firstSeen": "2026-11-11",
-      "lastSeen": "2026-11-24",
+      "lastSeen": "2026-11-26",
       "sessionIds": [
         "2026-11-11-15",
         "2026-11-12-01",
         "2026-11-24-check-01a20876",
-        "2026-11-24-recall-01a20dba"
+        "2026-11-24-recall-01a20dba",
+        "2026-11-26-recall-01a21887"
       ],
       "observationIds": [
         "o-2026-11-11-15-check-one-problem",
@@ -2690,7 +2695,8 @@
         "o-2026-11-11-15-plural-focused-retry",
         "o-2026-11-12-01-check-file",
         "o-2026-11-24-check-01a20876-recall",
-        "o-2026-11-24-recall-01a20dba-check"
+        "o-2026-11-24-recall-01a20dba-check",
+        "o-2026-11-26-recall-01a21887-check"
       ]
     },
     {
@@ -2714,14 +2720,15 @@
       "spanish": "problemas",
       "english": "problems",
       "status": "used_successfully",
-      "note": "Plural form modelled by adding -s and omitting un for general problems. Correct noun plural in No son problemas and Hay problemas; verb-choice issue assessed separately. On 24 November, si hay and plural problemas were recalled correctly; comprueby needed comprueba and mas needed más. Corrected model supplied; no corrected retry observed. Later same-day recall: comprueba si hay más problemas had correct command and clause; only más needed an accent.",
+      "note": "Plural form modelled by adding -s and omitting un for general problems. Correct noun plural in No son problemas and Hay problemas; verb-choice issue assessed separately. On 24 November, si hay and plural problemas were recalled correctly; comprueby needed comprueba and mas needed más. Corrected model supplied; no corrected retry observed. Later same-day recall: comprueba si hay más problemas had correct command and clause; only más needed an accent. On 26 November, recalled comprueba si hay and plural problemas after a two-day gap. Más still needed its accent; no corrected retry observed.",
       "firstSeen": "2026-11-11",
-      "lastSeen": "2026-11-24",
+      "lastSeen": "2026-11-26",
       "sessionIds": [
         "2026-11-11-15",
         "2026-11-12-01",
         "2026-11-24-check-01a20876",
-        "2026-11-24-recall-01a20dba"
+        "2026-11-24-recall-01a20dba",
+        "2026-11-26-recall-01a21887"
       ],
       "observationIds": [
         "o-2026-11-11-15-singular-instead-plural",
@@ -2729,7 +2736,8 @@
         "o-2026-11-11-15-plural-focused-retry",
         "o-2026-11-12-01-check-file",
         "o-2026-11-24-check-01a20876-recall",
-        "o-2026-11-24-recall-01a20dba-check"
+        "o-2026-11-24-recall-01a20dba-check",
+        "o-2026-11-26-recall-01a21887-check"
       ]
     },
     {
@@ -4875,7 +4883,8 @@
         "2026-11-11-15",
         "2026-11-12-01",
         "2026-11-24-check-01a20876",
-        "2026-11-24-recall-01a20dba"
+        "2026-11-24-recall-01a20dba",
+        "2026-11-26-recall-01a21887"
       ],
       "observationIds": [
         "o-2026-11-11-14-partial-ready",
@@ -4887,10 +4896,11 @@
         "o-2026-11-11-15-check-no-one-problem",
         "o-2026-11-12-01-check-file",
         "o-2026-11-24-check-01a20876-recall",
-        "o-2026-11-24-recall-01a20dba-check"
+        "o-2026-11-24-recall-01a20dba-check",
+        "o-2026-11-26-recall-01a21887-check"
       ],
-      "lastPractised": "2026-11-24",
-      "nextReview": "Full command recalled later the same day; revisit after a longer gap. Más accent still needed correction."
+      "lastPractised": "2026-11-26",
+      "nextReview": "Recall after a gap, preserving más; no corrected accent retry observed."
     },
     {
       "id": "g-hay-existential",
@@ -4902,7 +4912,8 @@
         "2026-11-11-15",
         "2026-11-12-01",
         "2026-11-24-check-01a20876",
-        "2026-11-24-recall-01a20dba"
+        "2026-11-24-recall-01a20dba",
+        "2026-11-26-recall-01a21887"
       ],
       "observationIds": [
         "o-2026-11-11-15-check-one-problem",
@@ -4913,10 +4924,11 @@
         "o-2026-11-11-15-plural-focused-retry",
         "o-2026-11-12-01-check-file",
         "o-2026-11-24-check-01a20876-recall",
-        "o-2026-11-24-recall-01a20dba-check"
+        "o-2026-11-24-recall-01a20dba-check",
+        "o-2026-11-26-recall-01a21887-check"
       ],
-      "lastPractised": "2026-11-24",
-      "nextReview": "Full command recalled later the same day; revisit after a longer gap. Más accent still needed correction."
+      "lastPractised": "2026-11-26",
+      "nextReview": "Recall after a gap, preserving más; no corrected accent retry observed."
     },
     {
       "id": "g-para-recipient",
@@ -6034,10 +6046,10 @@
       "seconds": 60,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 10,
-      "lastAttempt": "2026-11-24",
-      "lastAttemptSessionId": "2026-11-24-recall-01a20dba",
-      "lastAttemptVariant": "Recalled comprueba si hay and plural problemas correctly after earlier same-day practice in another conversation. Only mas needed the accent más; no mastery inferred.",
+      "attemptCount": 11,
+      "lastAttempt": "2026-11-26",
+      "lastAttemptSessionId": "2026-11-26-recall-01a21887",
+      "lastAttemptVariant": "On 26 November, recalled comprueba si hay and plural problemas after a two-day gap. Más still needed its accent; no corrected retry observed.",
       "lastOutcome": "used_with_correction",
       "nextReview": "after_a_gap"
     },

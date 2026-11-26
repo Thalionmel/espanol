@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "learnerId": "primary",
-  "lastUpdated": "2026-11-24",
+  "lastUpdated": "2026-11-26",
   "interfaceLanguage": "en",
   "targetLanguage": "es",
   "selfReportedLevel": "Speaks a little Spanish",
@@ -193,7 +193,7 @@
     ],
     "intervalsAreFlexible": true
   },
-  "latestSessionId": "2026-11-24-recall-01a20dba",
+  "latestSessionId": "2026-11-26-recall-01a21887",
   "disclosureAuthorization": {
     "publicLearningRecord": true,
     "ongoingUpdatesAuthorized": true,
