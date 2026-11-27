@@ -2267,7 +2267,7 @@
       "spanish": "si",
       "english": "whether / if (in an indirect yes/no question)",
       "status": "used_successfully",
-      "note": "Explained unaccented si in Dime si está lista, distinct from affirmative sí. Correctly used throughout dime-si attempts; full conditional grammar not taught. On 24 November, si hay and plural problemas were recalled correctly; comprueby needed comprueba and mas needed más. Corrected model supplied; no corrected retry observed. Later same-day recall: comprueba si hay más problemas had correct command and clause; only más needed an accent. On 26 November, recalled comprueba si hay and plural problemas after a two-day gap. Más still needed its accent; no corrected retry observed.",
+      "note": "Explained unaccented si in Dime si está lista, distinct from affirmative sí. Correctly used throughout dime-si attempts; full conditional grammar not taught. On 24 November, si hay and plural problemas were recalled correctly; comprueby needed comprueba and mas needed más. Corrected model supplied; no corrected retry observed. Later same-day recall: comprueba si hay más problemas had correct command and clause; only más needed an accent. On 26 November, recalled comprueba si hay and plural problemas after a two-day gap. Más still needed its accent; no corrected retry observed. Recipe recall on 27 November: si hay and recetas were correct. Compruepa needed comprueba; mas needed más. A corrected model was given; no corrected retry observed.",
       "firstSeen": "2026-11-11",
       "lastSeen": "2026-11-27",
       "sessionIds": [
@@ -2276,7 +2276,8 @@
         "2026-11-24-check-01a20876",
         "2026-11-24-recall-01a20dba",
         "2026-11-26-recall-01a21887",
-        "2026-11-27-recall-01a21c0d"
+        "2026-11-27-recall-01a21c0d",
+        "2026-11-27-recipes-01a21c6e"
       ],
       "observationIds": [
         "o-2026-11-11-08-tell-ready",
@@ -2289,7 +2290,8 @@
         "o-2026-11-24-check-01a20876-recall",
         "o-2026-11-24-recall-01a20dba-check",
         "o-2026-11-26-recall-01a21887-check",
-        "o-2026-11-27-recall-01a21c0d-check"
+        "o-2026-11-27-recall-01a21c0d-check",
+        "o-2026-11-27-recipes-01a21c6e-check"
       ]
     },
     {
@@ -2648,7 +2650,7 @@
       "spanish": "comprueba",
       "english": "check / verify (affirmative tú command)",
       "status": "used_successfully",
-      "note": "Correctly used after a readiness model, then with ability clause and two sequences. Longer-gap recall untested. On 24 November, si hay and plural problemas were recalled correctly; comprueby needed comprueba and mas needed más. Corrected model supplied; no corrected retry observed. Later same-day recall: comprueba si hay más problemas had correct command and clause; only más needed an accent. On 26 November, recalled comprueba si hay and plural problemas after a two-day gap. Más still needed its accent; no corrected retry observed.",
+      "note": "Correctly used after a readiness model, then with ability clause and two sequences. Longer-gap recall untested. On 24 November, si hay and plural problemas were recalled correctly; comprueby needed comprueba and mas needed más. Corrected model supplied; no corrected retry observed. Later same-day recall: comprueba si hay más problemas had correct command and clause; only más needed an accent. On 26 November, recalled comprueba si hay and plural problemas after a two-day gap. Más still needed its accent; no corrected retry observed. Recipe recall on 27 November: si hay and recetas were correct. Compruepa needed comprueba; mas needed más. A corrected model was given; no corrected retry observed.",
       "firstSeen": "2026-11-11",
       "lastSeen": "2026-11-27",
       "sessionIds": [
@@ -2658,7 +2660,8 @@
         "2026-11-24-check-01a20876",
         "2026-11-24-recall-01a20dba",
         "2026-11-26-recall-01a21887",
-        "2026-11-27-recall-01a21c0d"
+        "2026-11-27-recall-01a21c0d",
+        "2026-11-27-recipes-01a21c6e"
       ],
       "observationIds": [
         "o-2026-11-11-14-partial-ready",
@@ -2672,7 +2675,8 @@
         "o-2026-11-24-check-01a20876-recall",
         "o-2026-11-24-recall-01a20dba-check",
         "o-2026-11-26-recall-01a21887-check",
-        "o-2026-11-27-recall-01a21c0d-check"
+        "o-2026-11-27-recall-01a21c0d-check",
+        "o-2026-11-27-recipes-01a21c6e-check"
       ]
     },
     {
@@ -2680,7 +2684,7 @@
       "spanish": "hay",
       "english": "there is / there are",
       "status": "used_successfully",
-      "note": "Correct singular existence requests and a negative check after models. Plural target first answered with singular, then son used for existential are; corrected. Hay problemas correct in focused retry. On 24 November, si hay and plural problemas were recalled correctly; comprueby needed comprueba and mas needed más. Corrected model supplied; no corrected retry observed. Later same-day recall: comprueba si hay más problemas had correct command and clause; only más needed an accent. On 26 November, recalled comprueba si hay and plural problemas after a two-day gap. Más still needed its accent; no corrected retry observed.",
+      "note": "Correct singular existence requests and a negative check after models. Plural target first answered with singular, then son used for existential are; corrected. Hay problemas correct in focused retry. On 24 November, si hay and plural problemas were recalled correctly; comprueby needed comprueba and mas needed más. Corrected model supplied; no corrected retry observed. Later same-day recall: comprueba si hay más problemas had correct command and clause; only más needed an accent. On 26 November, recalled comprueba si hay and plural problemas after a two-day gap. Más still needed its accent; no corrected retry observed. Recipe recall on 27 November: si hay and recetas were correct. Compruepa needed comprueba; mas needed más. A corrected model was given; no corrected retry observed.",
       "firstSeen": "2026-11-11",
       "lastSeen": "2026-11-27",
       "sessionIds": [
@@ -2689,7 +2693,8 @@
         "2026-11-24-check-01a20876",
         "2026-11-24-recall-01a20dba",
         "2026-11-26-recall-01a21887",
-        "2026-11-27-recall-01a21c0d"
+        "2026-11-27-recall-01a21c0d",
+        "2026-11-27-recipes-01a21c6e"
       ],
       "observationIds": [
         "o-2026-11-11-15-check-one-problem",
@@ -2702,7 +2707,8 @@
         "o-2026-11-24-check-01a20876-recall",
         "o-2026-11-24-recall-01a20dba-check",
         "o-2026-11-26-recall-01a21887-check",
-        "o-2026-11-27-recall-01a21c0d-check"
+        "o-2026-11-27-recall-01a21c0d-check",
+        "o-2026-11-27-recipes-01a21c6e-check"
       ]
     },
     {
@@ -3462,6 +3468,36 @@
       ],
       "observationIds": [
         "o-2026-11-18-06-si-claro"
+      ]
+    },
+    {
+      "id": "v-recetas",
+      "spanish": "recetas",
+      "english": "recipes",
+      "status": "used_successfully",
+      "note": "Used correctly in a prompted sentence; the vocabulary was supplied in the prompt, so independent recall is untested.",
+      "firstSeen": "2026-11-27",
+      "lastSeen": "2026-11-27",
+      "sessionIds": [
+        "2026-11-27-recipes-01a21c6e"
+      ],
+      "observationIds": [
+        "o-2026-11-27-recipes-01a21c6e-check"
+      ]
+    },
+    {
+      "id": "v-mas-more",
+      "spanish": "más",
+      "english": "more",
+      "status": "used_with_correction",
+      "note": "Written mas; corrected to más. No corrected retry observed.",
+      "firstSeen": "2026-11-27",
+      "lastSeen": "2026-11-27",
+      "sessionIds": [
+        "2026-11-27-recipes-01a21c6e"
+      ],
+      "observationIds": [
+        "o-2026-11-27-recipes-01a21c6e-check"
       ]
     }
   ],
@@ -4893,7 +4929,8 @@
         "2026-11-24-check-01a20876",
         "2026-11-24-recall-01a20dba",
         "2026-11-26-recall-01a21887",
-        "2026-11-27-recall-01a21c0d"
+        "2026-11-27-recall-01a21c0d",
+        "2026-11-27-recipes-01a21c6e"
       ],
       "observationIds": [
         "o-2026-11-11-14-partial-ready",
@@ -4907,11 +4944,13 @@
         "o-2026-11-24-check-01a20876-recall",
         "o-2026-11-24-recall-01a20dba-check",
         "o-2026-11-26-recall-01a21887-check",
-        "o-2026-11-27-recall-01a21c0d-check"
+        "o-2026-11-27-recall-01a21c0d-check",
+        "o-2026-11-27-recipes-01a21c6e-check"
       ],
       "lastPractised": "2026-11-26",
       "nextReview": "Recall after a gap, preserving más; no corrected accent retry observed.",
-      "lastSeen": "2026-11-27"
+      "lastSeen": "2026-11-27",
+      "note": "Recipe recall on 27 November: si hay and recetas were correct. Compruepa needed comprueba; mas needed más. A corrected model was given; no corrected retry observed."
     },
     {
       "id": "g-hay-existential",
@@ -4925,7 +4964,8 @@
         "2026-11-24-check-01a20876",
         "2026-11-24-recall-01a20dba",
         "2026-11-26-recall-01a21887",
-        "2026-11-27-recall-01a21c0d"
+        "2026-11-27-recall-01a21c0d",
+        "2026-11-27-recipes-01a21c6e"
       ],
       "observationIds": [
         "o-2026-11-11-15-check-one-problem",
@@ -4938,11 +4978,13 @@
         "o-2026-11-24-check-01a20876-recall",
         "o-2026-11-24-recall-01a20dba-check",
         "o-2026-11-26-recall-01a21887-check",
-        "o-2026-11-27-recall-01a21c0d-check"
+        "o-2026-11-27-recall-01a21c0d-check",
+        "o-2026-11-27-recipes-01a21c6e-check"
       ],
       "lastPractised": "2026-11-26",
       "nextReview": "Recall after a gap, preserving más; no corrected accent retry observed.",
-      "lastSeen": "2026-11-27"
+      "lastSeen": "2026-11-27",
+      "note": "Recipe recall on 27 November: si hay and recetas were correct. Compruepa needed comprueba; mas needed más. A corrected model was given; no corrected retry observed."
     },
     {
       "id": "g-para-recipient",
@@ -6060,10 +6102,10 @@
       "seconds": 60,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 12,
+      "attemptCount": 13,
       "lastAttempt": "2026-11-27",
-      "lastAttemptSessionId": "2026-11-27-recall-01a21c0d",
-      "lastAttemptVariant": "Recalled the check command and existential plural clause correctly. Más still needed its accent; no corrected retry observed.",
+      "lastAttemptSessionId": "2026-11-27-recipes-01a21c6e",
+      "lastAttemptVariant": "Recipe recall on 27 November: si hay and recetas were correct. Compruepa needed comprueba; mas needed más. A corrected model was given; no corrected retry observed.",
       "lastOutcome": "used_with_correction",
       "nextReview": "after_a_gap"
     },

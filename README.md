@@ -195,3 +195,5 @@ Keep examples connected to real work while recording only language-learning evid
 This public repository excludes unrelated work contents and personal circumstances.
 
 No application, dependency installation, server, or deployment is needed to use these records.
+
+- [Recipe recall: comprueba and más spelling](data/sessions/2026-11-27-recipes-01a21c6e.json) — Correct sentence pattern; command spelling and accent corrected, with delayed recall still to revisit.

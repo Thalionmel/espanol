@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-27-recipes-01a21c6e",
+  "date": "2026-11-27",
+  "source": "Optional Spanish recall during ordinary conversation",
+  "lessonTheme": "Checking whether there are more recipes",
+  "duration": {
+    "requestedMinutes": null,
+    "measuredMinutes": null
+  },
+  "summary": "Recipe recall on 27 November: si hay and recetas were correct. Compruepa needed comprueba; mas needed más. A corrected model was given; no corrected retry observed.",
+  "observations": [
+    {
+      "id": "o-2026-11-27-recipes-01a21c6e-check",
+      "kind": "prompted_recall",
+      "learnerText": "Compruepa si hay mas recetas",
+      "correctedText": "Comprueba si hay más recetas.",
+      "grammarIds": [
+        "g-comprueba-si",
+        "g-hay-existential"
+      ],
+      "vocabularyIds": [
+        "v-comprueba",
+        "v-si-whether",
+        "v-hay",
+        "v-recetas",
+        "v-mas-more"
+      ],
+      "outcome": "used_with_correction",
+      "feedback": "Comprueba has b; más needs its accent. The sentence pattern was correct. Recetas had been supplied in the prompt."
+    }
+  ],
+  "nextSteps": [
+    "Recall comprueba spelling and the accent in más after intervening material."
+  ],
+  "skippedUnitIds": [],
+  "assessmentNote": "Prompted sentence with two corrections; no mastery or corrected-form retention inferred."
+}
