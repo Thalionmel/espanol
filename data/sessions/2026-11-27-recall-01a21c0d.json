@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-27-recall-01a21c0d",
+  "date": "2026-11-27",
+  "source": "Optional Spanish recall during ordinary conversation",
+  "lessonTheme": "Recall comprueba si hay más problemas",
+  "duration": {
+    "requestedMinutes": null,
+    "measuredMinutes": null
+  },
+  "summary": "Recalled the check command and existential plural clause correctly. Más still needed its accent; no corrected retry observed.",
+  "observations": [
+    {
+      "id": "o-2026-11-27-recall-01a21c0d-check",
+      "kind": "prompted_recall",
+      "learnerText": "Comprueba si hay mas problemas",
+      "correctedText": "Comprueba si hay más problemas.",
+      "grammarIds": [
+        "g-comprueba-si",
+        "g-hay-existential"
+      ],
+      "vocabularyIds": [
+        "v-comprueba",
+        "v-si-whether",
+        "v-hay",
+        "v-problemas"
+      ],
+      "outcome": "used_with_correction",
+      "feedback": "Correct wording; add the accent in más (more)."
+    }
+  ],
+  "nextSteps": [
+    "Recall after a gap while retaining the accent in más."
+  ],
+  "skippedUnitIds": [],
+  "assessmentNote": "One correct command/clause recall with an accent correction; no mastery or corrected-accent retention inferred."
+}

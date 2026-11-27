@@ -57,7 +57,7 @@ A shared Spanish learning record for conversation-based teaching and future trai
 
 - [Checking for more problems: comprueba ending and más accent](data/sessions/2026-11-24-check-01a20876.json)
 
-## Current learning position — 24 November 2026
+## Current learning position — 27 November 2026
 
 On 24 November, **si hay** and plural **problemas** were recalled correctly. **Comprueby → comprueba** and **mas → más** were corrected: **Comprueba si hay más problemas.** In a later conversation the command and clause were recalled correctly: **comprueba si hay mas problemas**. Only **mas → más** needed correction. Revisit after a longer gap; no mastery is inferred.
 
@@ -174,6 +174,8 @@ Also observed: spontaneous **Muy bien** and **los tres**. **¿Por qué no los tr
 Latest offer recall: **crea una oferta** and **por favor** were retained. Recipient **por** needed **para**; **nuestro cliente nuevo** and the alternative **nuestros usuarios nuevos** were supplied. No corrected retry was observed.
 
 Latest command recall (26 November): **comprueba si hay** and plural **problemas** were correct after a gap. **Más** still needed its accent; no corrected retry was observed. [Session evidence](data/sessions/2026-11-26-recall-01a21887.json).
+
+Latest command recall (27 November): **Comprueba si hay** and plural **problemas** were correct without a fresh model. **Mas → más** was corrected again; no corrected retry was observed. [Session evidence](data/sessions/2026-11-27-recall-01a21c0d.json).
 
 ## How practice works
 
