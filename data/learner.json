@@ -136,11 +136,11 @@
     "g-discount-percentage"
   ],
   "nextUnitIds": [
-    "u-comprueba-si",
     "u-discount-percentage",
-    "u-cien-ciento",
     "u-price-thousands",
     "u-price-hundreds-recall",
+    "u-comprueba-si",
+    "u-cien-ciento",
     "u-customer-offer",
     "u-offer-includes",
     "u-price-hundreds-tens",
@@ -193,7 +193,7 @@
     ],
     "intervalsAreFlexible": true
   },
-  "latestSessionId": "2026-11-27-recipes-01a21c6e",
+  "latestSessionId": "2026-11-27-numbers-01a21ca0",
   "disclosureAuthorization": {
     "publicLearningRecord": true,
     "ongoingUpdatesAuthorized": true,

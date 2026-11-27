@@ -59,6 +59,8 @@ A shared Spanish learning record for conversation-based teaching and future trai
 
 ## Current learning position — 27 November 2026
 
+Latest dedicated number practice: **del** was retained after an initial correction, and **El descuento es del cincuenta por ciento** was completely correct. **Descuente → descuento** recurred once before later correct uses. **Veinta → veinte** was retained after a price interruption; final **treinte → treinta** still needed correction. **El precio es de ciento ochenta euros** was correct after a gap. **Seisciento → seiscientos** was retained in the following **1670** sentence, where **setanta → setenta** needed correction. Next: recall these number endings after a gap. Within-session improvement does not establish mastery. [Session evidence](data/sessions/2026-11-27-numbers-01a21ca0.json).
+
 On 24 November, **si hay** and plural **problemas** were recalled correctly. **Comprueby → comprueba** and **mas → más** were corrected: **Comprueba si hay más problemas.** In a later conversation the command and clause were recalled correctly: **comprueba si hay mas problemas**. Only **mas → más** needed correction. Revisit after a longer gap; no mastery is inferred.
 
 Correctly recalled **descuento**, **treinta** and **por ciento** in a full 30% sentence. **De → del** remains a recurring correction, even with a reminder in the prompt. Correct model: **El descuento es del treinta por ciento.** No corrected retry was observed; revisit after intervening material.

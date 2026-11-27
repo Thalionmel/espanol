@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-11-27-numbers-01a21ca0",
+  "date": "2026-11-27",
+  "source": "Dedicated Spanish practice requested by the learner",
+  "lessonTheme": "Recall prices and discount percentages",
+  "duration": {
+    "requestedMinutes": null,
+    "measuredMinutes": null
+  },
+  "summary": "Eight sentence attempts. Initial 30% prompt answered with 50%; descuente and de corrected to descuento and del. Later del retained throughout and complete 50% sentence correct. Veinta corrected to veinte, retained after a price interruption; descuente recurred once before two correct descuento uses. Price 180 fully correct after a gap. Seisciento corrected to seiscientos, retained in 1670; setanta corrected to setenta. Final 30% sentence needed treinte → treinta. Within-session improvements are not mastery.",
+  "observations": [
+    {
+      "id": "o-2026-11-27-numbers-01a21ca0-discount-30-first",
+      "kind": "prompted_recall",
+      "prompt": "The discount is 30%. Spell out the number.",
+      "learnerText": "el descuente es de cincuenta por ciento",
+      "correctedText": "El descuento es del treinta por ciento.",
+      "grammarIds": [
+        "g-discount-percentage"
+      ],
+      "vocabularyIds": [
+        "v-descuento",
+        "v-por-ciento",
+        "v-cincuenta",
+        "v-treinta"
+      ],
+      "outcome": "used_with_correction",
+      "feedback": "Cincuenta correctly spells 50 but differs from requested 30; descuento spelling and del = de + el corrected."
+    },
+    {
+      "id": "o-2026-11-27-numbers-01a21ca0-discount-20-first",
+      "kind": "prompted_recall",
+      "prompt": "The discount is 20%.",
+      "learnerText": "El descuento es del veinta por ciento",
+      "correctedText": "El descuento es del veinte por ciento.",
+      "grammarIds": [
+        "g-discount-percentage"
+      ],
+      "vocabularyIds": [
+        "v-descuento",
+        "v-por-ciento",
+        "v-veinte"
+      ],
+      "outcome": "used_with_correction",
+      "feedback": "Descuento and del correct immediately after feedback. Veinta needed veinte, ending in e."
+    },
+    {
+      "id": "o-2026-11-27-numbers-01a21ca0-price-180",
+      "kind": "prompted_recall",
+      "prompt": "The price is 180 euros. Spell out the number.",
+      "learnerText": "el precio es de ciento ochenta euros",
+      "correctedText": "El precio es de ciento ochenta euros.",
+      "grammarIds": [
+        "g-price-es-de",
+        "g-cien-ciento"
+      ],
+      "vocabularyIds": [
+        "v-precio-es-de",
+        "v-euros",
+        "v-ciento",
+        "v-ochenta"
+      ],
+      "outcome": "used_successfully",
+      "feedback": "Complete sentence correct without a fresh model; ciento appropriate for 180. Punctuation and initial capitalization supplied."
+    },
+    {
+      "id": "o-2026-11-27-numbers-01a21ca0-discount-20-recall",
+      "kind": "prompted_recall",
+      "prompt": "The discount is 20%. Spell out the number again.",
+      "learnerText": "el descuente es del veinte por ciento",
+      "correctedText": "El descuento es del veinte por ciento.",
+      "grammarIds": [
+        "g-discount-percentage"
+      ],
+      "vocabularyIds": [
+        "v-descuento",
+        "v-por-ciento",
+        "v-veinte"
+      ],
+      "outcome": "used_with_correction",
+      "feedback": "Del and corrected veinte retained after price practice. Descuente recurred; descuento ending in o supplied."
+    },
+    {
+      "id": "o-2026-11-27-numbers-01a21ca0-discount-50",
+      "kind": "prompted_recall",
+      "prompt": "The discount is 50%.",
+      "learnerText": "el descuento es del cincuenta por ciento",
+      "correctedText": "El descuento es del cincuenta por ciento.",
+      "grammarIds": [
+        "g-discount-percentage"
+      ],
+      "vocabularyIds": [
+        "v-descuento",
+        "v-por-ciento",
+        "v-cincuenta"
+      ],
+      "outcome": "used_successfully",
+      "feedback": "All requested words and grammar correct after prior feedback; punctuation and initial capitalization supplied."
+    },
+    {
+      "id": "o-2026-11-27-numbers-01a21ca0-price-650",
+      "kind": "prompted_recall",
+      "prompt": "The price is 650 euros. Spell out the number.",
+      "learnerText": "El precio es de seisciento cincuenta euros",
+      "correctedText": "El precio es de seiscientos cincuenta euros.",
+      "grammarIds": [
+        "g-price-es-de",
+        "g-cardinal-hundreds-tens"
+      ],
+      "vocabularyIds": [
+        "v-precio-es-de",
+        "v-euros",
+        "v-seiscientos",
+        "v-cincuenta"
+      ],
+      "outcome": "used_with_correction",
+      "feedback": "Final s in seiscientos needed correction; other words and structure correct."
+    },
+    {
+      "id": "o-2026-11-27-numbers-01a21ca0-price-1670",
+      "kind": "prompted_recall",
+      "prompt": "The price is 1670 euros. Spell out the number.",
+      "learnerText": "El precio es de mil seiscientos setanta euros",
+      "correctedText": "El precio es de mil seiscientos setenta euros.",
+      "grammarIds": [
+        "g-price-es-de",
+        "g-cardinal-hundreds-tens",
+        "g-mil-cardinals"
+      ],
+      "vocabularyIds": [
+        "v-precio-es-de",
+        "v-euros",
+        "v-mil",
+        "v-seiscientos",
+        "v-setenta"
+      ],
+      "outcome": "used_with_correction",
+      "feedback": "Mil and corrected seiscientos retained. Setanta needed setenta."
+    },
+    {
+      "id": "o-2026-11-27-numbers-01a21ca0-discount-30-final",
+      "kind": "prompted_recall",
+      "prompt": "The discount is 30%. Spell out the number.",
+      "learnerText": "el descuento es del treinte por ciento",
+      "correctedText": "El descuento es del treinta por ciento.",
+      "grammarIds": [
+        "g-discount-percentage"
+      ],
+      "vocabularyIds": [
+        "v-descuento",
+        "v-por-ciento",
+        "v-treinta"
+      ],
+      "outcome": "used_with_correction",
+      "feedback": "Descuento and del retained after intervening price practice; treinte needed treinta ending in a."
+    }
+  ],
+  "nextSteps": [
+    "Recall veinte ending in e versus treinta ending in a after a gap.",
+    "Recall full discount sentence, including descuento ending in o and del.",
+    "Revisit seiscientos final s and setenta spelling after a gap.",
+    "Retain successful delayed ciento ochenta recall; do not infer general number mastery."
+  ],
+  "skippedUnitIds": [],
+  "assessmentNote": "Eight observed attempts, two entirely correct sentences. Successful components and recurring spelling corrections retained separately; no unattempted prompt recorded."
+}

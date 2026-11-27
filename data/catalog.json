@@ -2939,13 +2939,14 @@
       "status": "used_successfully",
       "note": "Correct price statements with digits and written-out numbers after phrase model.",
       "firstSeen": "2026-11-18",
-      "lastSeen": "2026-11-18",
+      "lastSeen": "2026-11-27",
       "sessionIds": [
         "2026-11-18-01",
         "2026-11-18-03",
         "2026-11-18-04",
         "2026-11-18-05",
-        "2026-11-18-06"
+        "2026-11-18-06",
+        "2026-11-27-numbers-01a21ca0"
       ],
       "observationIds": [
         "o-2026-11-18-01-price-digits",
@@ -2970,7 +2971,10 @@
         "o-2026-11-18-05-190",
         "o-2026-11-18-05-100",
         "o-2026-11-18-05-1180",
-        "o-2026-11-18-06-mini-offer"
+        "o-2026-11-18-06-mini-offer",
+        "o-2026-11-27-numbers-01a21ca0-price-180",
+        "o-2026-11-27-numbers-01a21ca0-price-650",
+        "o-2026-11-27-numbers-01a21ca0-price-1670"
       ]
     },
     {
@@ -2980,13 +2984,14 @@
       "status": "used_successfully",
       "note": "Correct plural currency form in price sentences.",
       "firstSeen": "2026-11-18",
-      "lastSeen": "2026-11-18",
+      "lastSeen": "2026-11-27",
       "sessionIds": [
         "2026-11-18-01",
         "2026-11-18-03",
         "2026-11-18-04",
         "2026-11-18-05",
-        "2026-11-18-06"
+        "2026-11-18-06",
+        "2026-11-27-numbers-01a21ca0"
       ],
       "observationIds": [
         "o-2026-11-18-01-price-digits",
@@ -3011,7 +3016,10 @@
         "o-2026-11-18-05-190",
         "o-2026-11-18-05-100",
         "o-2026-11-18-05-1180",
-        "o-2026-11-18-06-mini-offer"
+        "o-2026-11-18-06-mini-offer",
+        "o-2026-11-27-numbers-01a21ca0-price-180",
+        "o-2026-11-27-numbers-01a21ca0-price-650",
+        "o-2026-11-27-numbers-01a21ca0-price-1670"
       ]
     },
     {
@@ -3043,13 +3051,14 @@
       "status": "used_successfully",
       "note": "Correct in 250 and 258 immediately after models; delayed recall untested. Later cinquenta needed spelling correction; correctly retained cincuenta in two following sentences for 650 and 550. Later cinuenta omitted c; corrected cincuenta retained in following 850 and 1650. Recurring spelling target, despite successful uses. Correctly recalled cincuenta for 50% on 19 November without a fresh number model; surrounding grammar needed correction.",
       "firstSeen": "2026-11-18",
-      "lastSeen": "2026-11-19",
+      "lastSeen": "2026-11-27",
       "sessionIds": [
         "2026-11-18-01",
         "2026-11-18-03",
         "2026-11-18-04",
         "2026-11-18-06",
-        "2026-11-19-01"
+        "2026-11-19-01",
+        "2026-11-27-numbers-01a21ca0"
       ],
       "observationIds": [
         "o-2026-11-18-01-price-250",
@@ -3062,7 +3071,10 @@
         "o-2026-11-18-04-850",
         "o-2026-11-18-04-1650",
         "o-2026-11-18-06-mini-offer",
-        "o-2026-11-19-01-discount-50"
+        "o-2026-11-19-01-discount-50",
+        "o-2026-11-27-numbers-01a21ca0-discount-30-first",
+        "o-2026-11-27-numbers-01a21ca0-discount-50",
+        "o-2026-11-27-numbers-01a21ca0-price-650"
       ]
     },
     {
@@ -3091,21 +3103,24 @@
       "id": "v-treinta",
       "spanish": "treinta",
       "english": "thirty",
-      "status": "used_successfully",
-      "note": "Shown in vocabulary and 230 model; not attempted. Later trecento for 30 needed treinta; focused retry and full treinta por ciento then correct. Long-term spelling recall pending. On 23 November, recalled descuento, treinta and por ciento correctly in a full 30% sentence. De again needed del, despite a reminder in the prompt. Corrected model supplied; no corrected retry observed.",
+      "status": "used_with_correction",
+      "note": "Shown in vocabulary and 230 model; not attempted. Later trecento for 30 needed treinta; focused retry and full treinta por ciento then correct. Long-term spelling recall pending. On 23 November, recalled descuento, treinta and por ciento correctly in a full 30% sentence. De again needed del, despite a reminder in the prompt. Corrected model supplied; no corrected retry observed. On 27 November initial requested 30% was answered with valid 50%; final treinte needed treinta. No corrected treinta retry observed.",
       "firstSeen": "2026-11-18",
-      "lastSeen": "2026-11-23",
+      "lastSeen": "2026-11-27",
       "sessionIds": [
         "2026-11-18-01",
         "2026-11-18-06",
-        "2026-11-23-01"
+        "2026-11-23-01",
+        "2026-11-27-numbers-01a21ca0"
       ],
       "observationIds": [
         "o-2026-11-18-01-number-models",
         "o-2026-11-18-06-30-first",
         "o-2026-11-18-06-30-retry",
         "o-2026-11-18-06-30-full",
-        "o-2026-11-23-01-discount-30"
+        "o-2026-11-23-01-discount-30",
+        "o-2026-11-27-numbers-01a21ca0-discount-30-first",
+        "o-2026-11-27-numbers-01a21ca0-discount-30-final"
       ]
     },
     {
@@ -3146,21 +3161,23 @@
       "id": "v-setenta",
       "spanish": "setenta",
       "english": "seventy",
-      "status": "used_successfully",
-      "note": "Correct in 270 and 478 after introduction.",
+      "status": "used_with_correction",
+      "note": "Correct in 270 and 478 after introduction. On 27 November setanta needed setenta; no corrected retry observed.",
       "firstSeen": "2026-11-18",
-      "lastSeen": "2026-11-18",
+      "lastSeen": "2026-11-27",
       "sessionIds": [
         "2026-11-18-03",
         "2026-11-18-04",
-        "2026-11-18-05"
+        "2026-11-18-05",
+        "2026-11-27-numbers-01a21ca0"
       ],
       "observationIds": [
         "o-2026-11-18-03-270",
         "o-2026-11-18-03-478",
         "o-2026-11-18-03-hundred-models",
         "o-2026-11-18-04-1670",
-        "o-2026-11-18-05-170"
+        "o-2026-11-18-05-170",
+        "o-2026-11-27-numbers-01a21ca0-price-1670"
       ]
     },
     {
@@ -3218,12 +3235,13 @@
       "spanish": "seiscientos",
       "english": "six hundred",
       "status": "used_successfully",
-      "note": "Attempted seicientos; corrected to seiscientos with seis + cientos explanation. No corrected retry yet. Later seiscenta was corrected to seiscientos; focused retry seiscientos then full mil seiscientos setenta were correct immediately after feedback. Delayed recall remains pending.",
+      "note": "Attempted seicientos; corrected to seiscientos with seis + cientos explanation. No corrected retry yet. Later seiscenta was corrected to seiscientos; focused retry seiscientos then full mil seiscientos setenta were correct immediately after feedback. Delayed recall remains pending. On 27 November seisciento lacked final s; seiscientos correctly reused in following 1670 sentence after feedback.",
       "firstSeen": "2026-11-18",
-      "lastSeen": "2026-11-18",
+      "lastSeen": "2026-11-27",
       "sessionIds": [
         "2026-11-18-03",
-        "2026-11-18-04"
+        "2026-11-18-04",
+        "2026-11-27-numbers-01a21ca0"
       ],
       "observationIds": [
         "o-2026-11-18-03-650",
@@ -3231,7 +3249,9 @@
         "o-2026-11-18-04-1650",
         "o-2026-11-18-04-600",
         "o-2026-11-18-04-1670",
-        "o-2026-11-18-04-models"
+        "o-2026-11-18-04-models",
+        "o-2026-11-27-numbers-01a21ca0-price-650",
+        "o-2026-11-27-numbers-01a21ca0-price-1670"
       ]
     },
     {
@@ -3290,12 +3310,13 @@
       "spanish": "mil",
       "english": "one thousand",
       "status": "used_successfully",
-      "note": "Correct in 1650 despite separate hundreds error; correct subsequent full statements 1670, 1890 and 1980. Model showed mil without un.",
+      "note": "Correct in 1650 despite separate hundreds error; correct subsequent full statements 1670, 1890 and 1980. Model showed mil without un. On 27 November correctly recalled mil in 1670; surrounding number needed setenta spelling correction.",
       "firstSeen": "2026-11-18",
-      "lastSeen": "2026-11-18",
+      "lastSeen": "2026-11-27",
       "sessionIds": [
         "2026-11-18-04",
-        "2026-11-18-05"
+        "2026-11-18-05",
+        "2026-11-27-numbers-01a21ca0"
       ],
       "observationIds": [
         "o-2026-11-18-04-1650",
@@ -3303,7 +3324,8 @@
         "o-2026-11-18-04-1890",
         "o-2026-11-18-04-1980",
         "o-2026-11-18-04-models",
-        "o-2026-11-18-05-1180"
+        "o-2026-11-18-05-1180",
+        "o-2026-11-27-numbers-01a21ca0-price-1670"
       ]
     },
     {
@@ -3313,17 +3335,19 @@
       "status": "used_successfully",
       "note": "Correct in 1980 after vocabulary supplied and intervening 1890 exercise.",
       "firstSeen": "2026-11-18",
-      "lastSeen": "2026-11-18",
+      "lastSeen": "2026-11-27",
       "sessionIds": [
         "2026-11-18-04",
-        "2026-11-18-05"
+        "2026-11-18-05",
+        "2026-11-27-numbers-01a21ca0"
       ],
       "observationIds": [
         "o-2026-11-18-04-1980",
         "o-2026-11-18-04-models",
         "o-2026-11-18-05-180-first",
         "o-2026-11-18-05-180-retry",
-        "o-2026-11-18-05-1180"
+        "o-2026-11-18-05-1180",
+        "o-2026-11-27-numbers-01a21ca0-price-180"
       ]
     },
     {
@@ -3366,18 +3390,20 @@
       "spanish": "ciento",
       "english": "one hundred followed by more within the hundred",
       "status": "used_successfully",
-      "note": "Needed twice in 170 and 180; focused ciento ochenta retry, full 190 and transfer to 1180 correct after feedback. Immediate success, not long-term mastery.",
+      "note": "Needed twice in 170 and 180; focused ciento ochenta retry, full 190 and transfer to 1180 correct after feedback. Immediate success, not long-term mastery. On 27 November independently recalled ciento ochenta for 180 after a gap, without a fresh model.",
       "firstSeen": "2026-11-18",
-      "lastSeen": "2026-11-18",
+      "lastSeen": "2026-11-27",
       "sessionIds": [
-        "2026-11-18-05"
+        "2026-11-18-05",
+        "2026-11-27-numbers-01a21ca0"
       ],
       "observationIds": [
         "o-2026-11-18-05-170",
         "o-2026-11-18-05-180-first",
         "o-2026-11-18-05-180-retry",
         "o-2026-11-18-05-190",
-        "o-2026-11-18-05-1180"
+        "o-2026-11-18-05-1180",
+        "o-2026-11-27-numbers-01a21ca0-price-180"
       ]
     },
     {
@@ -3385,13 +3411,14 @@
       "spanish": "descuento",
       "english": "discount",
       "status": "used_successfully",
-      "note": "Initially copied correctly, then discuento recurred twice. Corrected with des-cuen-to breakdown; final two-sentence offer spelled descuento correctly. Correct spelling recalled on 19 November; sentence still needed de → del. On 23 November, recalled descuento, treinta and por ciento correctly in a full 30% sentence. De again needed del, despite a reminder in the prompt. Corrected model supplied; no corrected retry observed.",
+      "note": "Initially copied correctly, then discuento recurred twice. Corrected with des-cuen-to breakdown; final two-sentence offer spelled descuento correctly. Correct spelling recalled on 19 November; sentence still needed de → del. On 23 November, recalled descuento, treinta and por ciento correctly in a full 30% sentence. De again needed del, despite a reminder in the prompt. Corrected model supplied; no corrected retry observed. On 27 November descuente recurred in two attempts; descuento was correct in three others, including the last two discount attempts. Revisit final o after a gap.",
       "firstSeen": "2026-11-18",
-      "lastSeen": "2026-11-23",
+      "lastSeen": "2026-11-27",
       "sessionIds": [
         "2026-11-18-06",
         "2026-11-19-01",
-        "2026-11-23-01"
+        "2026-11-23-01",
+        "2026-11-27-numbers-01a21ca0"
       ],
       "observationIds": [
         "o-2026-11-18-06-discount-first",
@@ -3399,7 +3426,12 @@
         "o-2026-11-18-06-30-full",
         "o-2026-11-18-06-mini-offer",
         "o-2026-11-19-01-discount-50",
-        "o-2026-11-23-01-discount-30"
+        "o-2026-11-23-01-discount-30",
+        "o-2026-11-27-numbers-01a21ca0-discount-30-first",
+        "o-2026-11-27-numbers-01a21ca0-discount-20-first",
+        "o-2026-11-27-numbers-01a21ca0-discount-20-recall",
+        "o-2026-11-27-numbers-01a21ca0-discount-50",
+        "o-2026-11-27-numbers-01a21ca0-discount-30-final"
       ]
     },
     {
@@ -3422,15 +3454,18 @@
       "spanish": "veinte",
       "english": "twenty",
       "status": "used_successfully",
-      "note": "Initially joined diez and veinte for requested 20%. After clarification, final veinte por ciento was correct.",
+      "note": "Initially joined diez and veinte for requested 20%. After clarification, final veinte por ciento was correct. On 27 November veinta needed veinte; correctly recalled veinte after intervening price practice.",
       "firstSeen": "2026-11-18",
-      "lastSeen": "2026-11-18",
+      "lastSeen": "2026-11-27",
       "sessionIds": [
-        "2026-11-18-06"
+        "2026-11-18-06",
+        "2026-11-27-numbers-01a21ca0"
       ],
       "observationIds": [
         "o-2026-11-18-06-discount-first",
-        "o-2026-11-18-06-mini-offer"
+        "o-2026-11-18-06-mini-offer",
+        "o-2026-11-27-numbers-01a21ca0-discount-20-first",
+        "o-2026-11-27-numbers-01a21ca0-discount-20-recall"
       ]
     },
     {
@@ -3440,11 +3475,12 @@
       "status": "used_successfully",
       "note": "Learner asked about the percentage expression. Explained por ciento = percent and separate number slot; final 20% phrase correct. Correctly used por ciento on 19 November; de → del corrected separately. On 23 November, recalled descuento, treinta and por ciento correctly in a full 30% sentence. De again needed del, despite a reminder in the prompt. Corrected model supplied; no corrected retry observed.",
       "firstSeen": "2026-11-18",
-      "lastSeen": "2026-11-23",
+      "lastSeen": "2026-11-27",
       "sessionIds": [
         "2026-11-18-06",
         "2026-11-19-01",
-        "2026-11-23-01"
+        "2026-11-23-01",
+        "2026-11-27-numbers-01a21ca0"
       ],
       "observationIds": [
         "o-2026-11-18-06-discount-first",
@@ -3452,7 +3488,12 @@
         "o-2026-11-18-06-30-full",
         "o-2026-11-18-06-mini-offer",
         "o-2026-11-19-01-discount-50",
-        "o-2026-11-23-01-discount-30"
+        "o-2026-11-23-01-discount-30",
+        "o-2026-11-27-numbers-01a21ca0-discount-30-first",
+        "o-2026-11-27-numbers-01a21ca0-discount-20-first",
+        "o-2026-11-27-numbers-01a21ca0-discount-20-recall",
+        "o-2026-11-27-numbers-01a21ca0-discount-50",
+        "o-2026-11-27-numbers-01a21ca0-discount-30-final"
       ]
     },
     {
@@ -5033,7 +5074,8 @@
         "2026-11-18-03",
         "2026-11-18-04",
         "2026-11-18-05",
-        "2026-11-18-06"
+        "2026-11-18-06",
+        "2026-11-27-numbers-01a21ca0"
       ],
       "observationIds": [
         "o-2026-11-18-01-price-digits",
@@ -5058,11 +5100,14 @@
         "o-2026-11-18-05-190",
         "o-2026-11-18-05-100",
         "o-2026-11-18-05-1180",
-        "o-2026-11-18-06-mini-offer"
+        "o-2026-11-18-06-mini-offer",
+        "o-2026-11-27-numbers-01a21ca0-price-180",
+        "o-2026-11-27-numbers-01a21ca0-price-650",
+        "o-2026-11-27-numbers-01a21ca0-price-1670"
       ],
-      "lastPractised": "2026-11-18",
+      "lastPractised": "2026-11-27",
       "nextReview": "after_a_gap",
-      "lastSeen": "2026-11-18"
+      "lastSeen": "2026-11-27"
     },
     {
       "id": "g-cardinal-hundreds-tens",
@@ -5074,7 +5119,8 @@
         "2026-11-18-01",
         "2026-11-18-03",
         "2026-11-18-04",
-        "2026-11-18-06"
+        "2026-11-18-06",
+        "2026-11-27-numbers-01a21ca0"
       ],
       "observationIds": [
         "o-2026-11-18-01-price-250",
@@ -5097,12 +5143,14 @@
         "o-2026-11-18-04-1890",
         "o-2026-11-18-04-1980",
         "o-2026-11-18-04-models",
-        "o-2026-11-18-06-mini-offer"
+        "o-2026-11-18-06-mini-offer",
+        "o-2026-11-27-numbers-01a21ca0-price-650",
+        "o-2026-11-27-numbers-01a21ca0-price-1670"
       ],
-      "lastPractised": "2026-11-18",
+      "lastPractised": "2026-11-27",
       "nextReview": "Recall seiscientos and setecientos spelling after a gap; retain exact 700 versus 750 meaning.",
-      "lastSeen": "2026-11-18",
-      "note": " Extended to 800/900 and tens 80/90. Seiscenta corrected, then immediate seiscientos and full 1670 retry correct; 1890/1980 contrast correct."
+      "lastSeen": "2026-11-27",
+      "note": "Extended to 800/900 and tens 80/90. Seiscenta corrected, then immediate seiscientos and full 1670 retry correct; 1890/1980 contrast correct. On 27 November number structure correct for 650 and 1670; seisciento final s and setanta spelling corrected separately."
     },
     {
       "id": "g-mil-cardinals",
@@ -5112,7 +5160,8 @@
       "status": "used_successfully",
       "sessionIds": [
         "2026-11-18-04",
-        "2026-11-18-05"
+        "2026-11-18-05",
+        "2026-11-27-numbers-01a21ca0"
       ],
       "observationIds": [
         "o-2026-11-18-04-1650",
@@ -5120,11 +5169,13 @@
         "o-2026-11-18-04-1890",
         "o-2026-11-18-04-1980",
         "o-2026-11-18-04-models",
-        "o-2026-11-18-05-1180"
+        "o-2026-11-18-05-1180",
+        "o-2026-11-27-numbers-01a21ca0-price-1670"
       ],
-      "lastPractised": "2026-11-18",
+      "lastPractised": "2026-11-27",
       "nextReview": "Recall after a gap; immediate use is not durable mastery.",
-      "lastSeen": "2026-11-18"
+      "lastSeen": "2026-11-27",
+      "note": "On 27 November mil seiscientos retained in 1670; setanta needed setenta. Corrected seiscientos followed immediate feedback."
     },
     {
       "id": "g-cien-ciento",
@@ -5133,7 +5184,8 @@
       "explanation": "Cien setenta and cien ochenta corrected to ciento setenta and ciento ochenta. Focused retry then 190, exact 100 contrast and 1180 transfer correct. Models: mil cien (1100), mil ciento noventa (1190).",
       "status": "used_successfully",
       "sessionIds": [
-        "2026-11-18-05"
+        "2026-11-18-05",
+        "2026-11-27-numbers-01a21ca0"
       ],
       "observationIds": [
         "o-2026-11-18-05-170",
@@ -5141,11 +5193,13 @@
         "o-2026-11-18-05-180-retry",
         "o-2026-11-18-05-190",
         "o-2026-11-18-05-100",
-        "o-2026-11-18-05-1180"
+        "o-2026-11-18-05-1180",
+        "o-2026-11-27-numbers-01a21ca0-price-180"
       ],
-      "lastPractised": "2026-11-18",
+      "lastPractised": "2026-11-27",
       "nextReview": "Recall 100 versus 180 and 1100 versus 1180 after a gap; early repeated error remains review evidence.",
-      "lastSeen": "2026-11-18"
+      "lastSeen": "2026-11-27",
+      "note": "On 27 November correctly recalled ciento in a complete 180-euro sentence without a fresh model after a gap."
     },
     {
       "id": "g-discount-percentage",
@@ -5156,7 +5210,8 @@
       "sessionIds": [
         "2026-11-18-06",
         "2026-11-19-01",
-        "2026-11-23-01"
+        "2026-11-23-01",
+        "2026-11-27-numbers-01a21ca0"
       ],
       "observationIds": [
         "o-2026-11-18-06-discount-first",
@@ -5164,11 +5219,17 @@
         "o-2026-11-18-06-30-full",
         "o-2026-11-18-06-mini-offer",
         "o-2026-11-19-01-discount-50",
-        "o-2026-11-23-01-discount-30"
+        "o-2026-11-23-01-discount-30",
+        "o-2026-11-27-numbers-01a21ca0-discount-30-first",
+        "o-2026-11-27-numbers-01a21ca0-discount-20-first",
+        "o-2026-11-27-numbers-01a21ca0-discount-20-recall",
+        "o-2026-11-27-numbers-01a21ca0-discount-50",
+        "o-2026-11-27-numbers-01a21ca0-discount-30-final"
       ],
-      "lastPractised": "2026-11-23",
+      "lastPractised": "2026-11-27",
       "nextReview": "Recall del in a complete percentage sentence after intervening material.",
-      "lastSeen": "2026-11-23"
+      "lastSeen": "2026-11-27",
+      "note": "On 27 November initial de needed del, then del retained in all four later percentage attempts, including after price practice. Full 50% sentence correct; other attempts retained separate vocabulary errors."
     }
   ],
   "practiceUnits": [
@@ -6258,11 +6319,11 @@
       "seconds": 60,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 8,
-      "lastAttempt": "2026-11-18",
-      "lastAttemptSessionId": "2026-11-18-04",
-      "lastOutcome": "used_successfully",
-      "lastAttemptVariant": "958 needed cinuenta → cincuenta; 850 correct on next prompt. Seiscientos also corrected separately in 1650, then 600 and 1670 correct.",
+      "attemptCount": 9,
+      "lastAttempt": "2026-11-27",
+      "lastAttemptSessionId": "2026-11-27-numbers-01a21ca0",
+      "lastOutcome": "used_with_correction",
+      "lastAttemptVariant": "650: seisciento → seiscientos; cincuenta and price structure correct.",
       "nextReview": "after_a_gap"
     },
     {
@@ -6286,11 +6347,11 @@
       "seconds": 60,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 4,
-      "lastAttempt": "2026-11-18",
-      "lastAttemptSessionId": "2026-11-18-04",
-      "lastOutcome": "used_successfully",
-      "lastAttemptVariant": "1650 needed seiscientos; focused 600 retry and 1670 full transfer correct, followed by correct 1890 and 1980.",
+      "attemptCount": 5,
+      "lastAttempt": "2026-11-27",
+      "lastAttemptSessionId": "2026-11-27-numbers-01a21ca0",
+      "lastOutcome": "used_with_correction",
+      "lastAttemptVariant": "1670: mil seiscientos correct after seiscientos feedback; setanta → setenta.",
       "nextReview": "after_a_gap"
     },
     {
@@ -6313,11 +6374,11 @@
       "seconds": 60,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 6,
-      "lastAttempt": "2026-11-18",
-      "lastAttemptSessionId": "2026-11-18-05",
+      "attemptCount": 7,
+      "lastAttempt": "2026-11-27",
+      "lastAttemptSessionId": "2026-11-27-numbers-01a21ca0",
       "lastOutcome": "used_successfully",
-      "lastAttemptVariant": "Cien in 170 and 180 corrected; cued focused retry, full 190, exact 100 contrast and 1180 transfer correct.",
+      "lastAttemptVariant": "Complete 180-euro sentence correct after a gap without fresh model: ciento ochenta.",
       "nextReview": "after_a_gap"
     },
     {
@@ -6337,11 +6398,11 @@
       "seconds": 60,
       "optional": true,
       "selection": "enabled",
-      "attemptCount": 6,
-      "lastAttempt": "2026-11-23",
-      "lastAttemptSessionId": "2026-11-23-01",
+      "attemptCount": 11,
+      "lastAttempt": "2026-11-27",
+      "lastAttemptSessionId": "2026-11-27-numbers-01a21ca0",
       "lastOutcome": "used_with_correction",
-      "lastAttemptVariant": "On 23 November, recalled descuento, treinta and por ciento correctly in a full 30% sentence. De again needed del, despite a reminder in the prompt. Corrected model supplied; no corrected retry observed.",
+      "lastAttemptVariant": "Initial 30% answered as 50% with descuente/de errors; later del retained and full 50% correct. Veinta → veinte retained after interruption; final treinte → treinta; descuento had one recurrence before later correct uses.",
       "nextReview": "after_a_gap"
     }
   ]
